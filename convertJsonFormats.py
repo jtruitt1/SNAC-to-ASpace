@@ -3,29 +3,56 @@ Read in a series of JSON files representing SNAC constellations;
 convert into JSONs acceptable to the ArchivesSpace agent module.
 """
 import json, requests
-from asUtils import *
 from glob import glob
+from random import choices
 
 def loadSnacData():
 	"""
-	insert docstring
+	Read SNAC JSON data from files in the snac_jsons folder.
+
+	Returns: constellations, a list of SNAC JSONs in dict form
 	"""
-	pass
+	# Get list of filenames to read
+	filenames = glob("snac_jsons/*.json")
+
+	# For testing purposes
+	filenames = choices(filenames, k=5)
+
+	# Initialize array of constellations to eventually return
+	constellations = []
+
+	# Loop over filenames, reading the files & adding the data to constellations
+	print("Reading {} JSON files...")
+	for filename in filenames:
+		print("Writing {}".format(filename + "..."), end="")
+		with open(filename) as f:
+			constellations.append(json.load(f))
+		print("\tdone")
+	print("JSON files read successfully.\n")
+	return constellations
 
 def convertToAgents(constellations):
 	"""
-	insert docstring
+	Convert a list of SNAC constellations into ASpace Agents
+
+	Param:	@constellations, a list of SNAC JSONs in dict form
+	Returns: agents, a list of ASpace JSONs in dict form
 	"""
 	agents = []
 	for constellation in constellations:
 		agent = convertToAgent(constellation)
 		agents.append(agent)
 
+	return agents
+
 def convertToAgent(constellation):
 	"""
 	insert docstring
 	"""
-	pass
+	print("In convertToAgent()")
+
+	
+
 
 def writeJsons(agents):
 	"""
@@ -53,6 +80,10 @@ def writeJsons(agents):
 		print("\tDone.")
 
 def main():
+	print("\n")
 	constellations = loadSnacData()
 	agents = convertToAgents(constellations)
-	writeJsons(agents)
+	# writeJsons(agents)
+	print("\n")
+
+main()
