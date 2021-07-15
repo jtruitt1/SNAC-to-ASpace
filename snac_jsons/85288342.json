@@ -1,0 +1,1112 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6fv9b6q",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-21T13:35:28",
+            "standardDateTime": "2021-01-21T13:35:28",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-27T10:12:48",
+            "standardDateTime": "2021-01-27T10:12:48",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288370",
+                "version": "11485231"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 10. William Rodgers son of William Rodgers Deceased of Evesham and Sarah Warrington daughter of Henry Warrington of Chester were married the seventh day of the third month for the year of our Lord one thousand seven hundred fifty four.",
+            "citation": "Evesham Monthly Meeting First Book of Marriages, via Ancestry.com search, January 20, 2021",
+            "id": "85288369",
+            "version": "11485232"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288379",
+                "version": "11485236"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 47. William Rogers of the Township of Evesham and Grace Ayres widow and relict of Nerr Eayres deceased of the town aforesaid were married the 14th day of the 5th month 1767.",
+            "citation": "Evesham Monthly Meeting First Book of Marriages, via Ancestry.com search, January 20, 2021",
+            "id": "85288378",
+            "version": "11485236"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288356",
+                "version": "11485227"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 25. William Rogers, Son of William Rogers and Ann his Wife, Born the 21st of the 7th Month 1731, and Grace his Wife, Daughter of Matthew and Martha Allen, born the 6th of the 10th month 1741. Grace Rogers Departed this Life the 24th of the 9th Month 1807 in the 66 year of her Age.",
+            "citation": "First Record Book of Births and Deaths of Members of Evesham Monthly Meeting, via Ancestry.com search, January 20, 2021",
+            "id": "85288352",
+            "version": "11485227"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288396",
+                "version": "11485242"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 20. Nerr Ayre son of Richard Ayre of the township of Evesham and Grace Allin daughter of Matthew Allin of the same place were married the seventeenth day of the 3d month 1763.",
+            "citation": "Evesham Monthly Meeting First Book of Marriages, via Ancestry.com search, January 20, 2021",
+            "id": "85288395",
+            "version": "11485242"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288350",
+                "version": "11485223"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 2. William Rogers, born 2nd of 7th month 1731; son of William Rogers; resident of Evesham Township; married to Grace Rogers, daughter of Matthew Allen; father of William Rogers (1768-1824), Joseph Rogers (1770-), Grace Rogers (1771-), Hannah Rogers (1773-), Ann Rogers (1776-), and Allen Rogers (1779-1800); died 5th of 12th month 1812; buried in Friends ground in Evesham.",
+            "citation": "Second Record Book of Births and Deaths of Members of Evesham Monthly Meeting, via Ancestry.com search, January 20, 2021",
+            "id": "85288343",
+            "version": "11485223"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85288412",
+            "version": "11485250"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Rogers, William, 1731-1812",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85288348",
+                    "version": "11485220"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Rogers",
+                    "order": "0",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85288345",
+                    "version": "11485220"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "William",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85288346",
+                    "version": "11485220"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1731-1812",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85288347",
+                    "version": "11485220"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288349",
+                "version": "11485220"
+            },
+            "id": "85288344",
+            "version": "11485220"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Rodgers, William, 1731-1812",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85288401",
+                    "version": "11485244"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Rodgers",
+                    "order": "0",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85288398",
+                    "version": "11485244"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "William",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85288399",
+                    "version": "11485244"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1731-1812",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85288400",
+                    "version": "11485244"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288402",
+                "version": "11485244"
+            },
+            "id": "85288397",
+            "version": "11485244"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85288413",
+            "version": "11485251"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288912",
+                "version": "11485419"
+            },
+            "text": "William Rogers was a New Jersey Quaker born to William and Ann Rogers in 1831. In 1754 he married Sarah Warrington, daughter of Henry Warrington. After her death Rogers remarried in 1767, this time to the recently widowed Grace Eayre (née Allen). He died in early December 1812 and was buried at Evesham, New Jersey.",
+            "id": "85288911",
+            "version": "11485419"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "2579218",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w6tq8ftp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Hannah Warrington.",
+            "note": "WIlliam Rogers's first wife was Sarah Warrington, sister of Hannah Warrington Buzby.",
+            "id": "85297433",
+            "version": "11487644"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "65278400",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w6qj854r",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Joseph",
+            "note": "WIlliam Rogers's first wife was Sarah Warrington, sister of Joseph Buzby's wife Hannah.",
+            "id": "85297434",
+            "version": "11487644"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "23038346",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b918fj",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+            "id": "85288903",
+            "version": "11485415"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "56886470",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w65b11gw",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "note": "WIlliam Rogers's first wife was Sarah Warrington, sister of John Hunt's wife Esther Warrington.",
+            "id": "85288416",
+            "version": "11485254"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "935091",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w6088mm4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28238",
+                "term": "child-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Elizabeth Bishop",
+            "note": "WIlliam Rogers's first wife was Sarah Warrington, daughter of Elizabeth Bishop Warrington.",
+            "id": "85297430",
+            "version": "11487642"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "22509214",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w6h44564",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28238",
+                "term": "child-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Henry",
+            "note": "WIlliam Rogers's first wife was Sarah Warrington, daughter of Henry Warrington.",
+            "id": "85297431",
+            "version": "11487642"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "14777823",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w6bv9xp3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Joseph",
+            "note": "William Rogers's first wife was Sarah Warrington, sister of Joseph Warrington.",
+            "id": "85288419",
+            "version": "11485257"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "5796280",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w64n1mqv",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Rebecca Walton.",
+            "note": "WIlliam Rogers's first wife was Sarah Warrington, sister of Rebecca Walton Warrington's husband Joseph.",
+            "id": "85297432",
+            "version": "11487643"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "42201796",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Wills, Aaron",
+            "note": "WIlliam Rogers's first wife was Sarah Warrington, sister of Aaron Wills's wife Rachel Warrington.",
+            "id": "85288418",
+            "version": "11487645"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85288342",
+            "targetConstellation": "42201796",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Wills, Aaron, 1734-1805",
+            "note": "Grace Rogers, one of Rogers's daughters by his second wife, married Samuel Wills, one of Aaron Wills's sons.",
+            "id": "85297435",
+            "version": "11487645"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386449"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85288415",
+            "version": "11485253"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1732",
+                "uri": "http://www.geonames.org/4500994",
+                "name": "Burlington County",
+                "latitude": "39.8776900",
+                "longitude": "-74.6682000",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85288408",
+            "version": "11485247"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85288414",
+            "version": "11485252"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85288409",
+            "version": "11485248"
+        }
+    ],
+    "id": "85288342",
+    "version": "11487646",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1731-09-21",
+            "fromDateOriginal": "September 21, 1731",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1812-12-05",
+            "toDateOriginal": "December 5, 1812",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "note": "Note that Rogers's birth date was likely recorded using the Julian Calendar, in which September was the 7th month.",
+            "id": "85288405",
+            "version": "11485246",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 25. William Rogers, Son of William Rogers and Ann his Wife, Born the 21st of the 7th Month 1731, and Grace his Wife, Daughter of Matthew and Martha Allen, born the 6th of the 10th month 1741. Grace Rogers Departed this Life the 24th of the 9th Month 1807 in the 66 year of her Age.",
+                        "citation": "First Record Book of Births and Deaths of Members of Evesham Monthly Meeting, via Ancestry.com search, January 20, 2021",
+                        "id": "85288352",
+                        "version": "11485227"
+                    },
+                    "id": "85288406",
+                    "version": "11485246"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 2. William Rogers, born 2nd of 7th month 1731; son of William Rogers; resident of Evesham Township; married to Grace Rogers, daughter of Matthew Allen; father of William Rogers (1768-1824), Joseph Rogers (1770-), Grace Rogers (1771-), Hannah Rogers (1773-), Ann Rogers (1776-), and Allen Rogers (1779-1800); died 5th of 12th month 1812; buried in Friends ground in Evesham.",
+                        "citation": "Second Record Book of Births and Deaths of Members of Evesham Monthly Meeting, via Ancestry.com search, January 20, 2021",
+                        "id": "85288343",
+                        "version": "11485223"
+                    },
+                    "id": "85288407",
+                    "version": "11485246"
+                }
+            ]
+        }
+    ]
+}

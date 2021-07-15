@@ -1,0 +1,1401 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6b918fj",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-17",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T15:34:11",
+            "standardDateTime": "2016-08-11T15:34:11",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T15:34:11",
+            "standardDateTime": "2016-08-11T15:34:11",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-21T13:22:16",
+            "standardDateTime": "2021-01-21T13:22:16",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://www.worldcat.org/oclc/29568992",
+            "id": "23038349",
+            "version": "3368069"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://www.worldcat.org/oclc/70972762",
+            "id": "23038350",
+            "version": "3368069"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://www.worldcat.org/oclc/29568947",
+            "id": "23038348",
+            "version": "3368069"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://viaf.org/viaf/145708711",
+            "id": "23038351",
+            "version": "3368069"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://www.worldcat.org/oclc/29569000",
+            "id": "23038347",
+            "version": "3368069"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF</citation></conventionDeclaration>",
+            "id": "23038352",
+            "version": "3368069"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85288892",
+                    "version": "11485407"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "23038354",
+                    "version": "11485407"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288893",
+                "version": "11485407"
+            },
+            "id": "23038353",
+            "version": "11485407",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78689181",
+                    "version": "3368069"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Mount Laurel Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85288894",
+                    "version": "11485407"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Mount Laurel Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "23038358",
+                    "version": "11485407"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85288895",
+                "version": "11485407"
+            },
+            "id": "23038357",
+            "version": "11485407",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78689182",
+                    "version": "3368069"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "23038346",
+            "targetConstellation": "17227069",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6b918fj",
+            "targetArkID": "http://n2t.net/ark:/99166/w6g50qjr",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.)",
+            "id": "23038368",
+            "version": "3368069"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+            "uri": "https://viaf.org/viaf/145708711",
+            "id": "23038365",
+            "version": "3368069"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.worldcat.org/identities/lccn-no93038780",
+            "id": "23038366",
+            "version": "3368069"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/no93038780",
+            "id": "23038367",
+            "version": "3368069"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/29568947",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:29568947</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-PSH</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.)</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Records, 1753-1884.</title>\n                  </titleInfo>\n                  <abstract>Records of the Hicksite monthly meeting and of its predecessor, the pre-Separation meeting. </abstract>\n                  <name>\n                     <namePart>Swarthmore College</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Records, 1753-1884.",
+                "abstract": "Records of the Hicksite monthly meeting and of its predecessor, the pre-Separation meeting. ",
+                "extent": "7 v. (3 linear ft.)",
+                "displayEntry": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.). Records, 1753-1884.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.)",
+                        "id": "9364028",
+                        "version": "7272476"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+                        "id": "9364029",
+                        "version": "7272476"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7272476",
+                "version": "7272476"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.). Records, 1753-1884.",
+            "id": "23038370",
+            "version": "3368069"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/29568992",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:29568992</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-PSH</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.)</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Membership, 1753-1884.</title>\n                  </titleInfo>\n                  <abstract>Register contains information on births, deaths, marriages, removals, etc. </abstract>\n                  <name>\n                     <namePart>Swarthmore College</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Membership, 1753-1884.",
+                "abstract": "Register contains information on births, deaths, marriages, removals, etc. ",
+                "extent": "1 v. (19, 19a p.) ; 45 cm.",
+                "displayEntry": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.). Membership, 1753-1884.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.)",
+                        "id": "9364035",
+                        "version": "7272482"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+                        "id": "9364036",
+                        "version": "7272482"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7272482",
+                "version": "7272482"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.). Membership, 1753-1884.",
+            "id": "23038371",
+            "version": "3368069"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/29569000",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:29569000</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-PSH</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.)</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Vital records, 1753-1884.</title>\n                  </titleInfo>\n                  <abstract>Membership register, 1753-1884; marriage certificates, 1827-1878. </abstract>\n                  <name>\n                     <namePart>Swarthmore College</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Vital records, 1753-1884.",
+                "abstract": "Membership register, 1753-1884; marriage certificates, 1827-1878. ",
+                "extent": "2 v. ; 45 cm. or smaller.",
+                "displayEntry": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.). Vital records, 1753-1884.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.)",
+                        "id": "9362427",
+                        "version": "7272483"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+                        "id": "9362428",
+                        "version": "7272483"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7272483",
+                "version": "7272483"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Evesham Monthly Meeting of Friends (Hicksite : 1827-1884 : Mount Laurel, N.J.). Vital records, 1753-1884.",
+            "id": "23038369",
+            "version": "3368069"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/70972762",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:70972762</recordOrigin>\n                     <recordContentSource>ISIL:NjMorHI</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Warrington family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Dudley family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Warrington, Henry.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Dudley, Rebekah.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Dudley, Thomas.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Dudley, Martha Evans.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Warrington-Dudley family papers, 1762-1790.</title>\n                  </titleInfo>\n                  <abstract>Marriage certificate of Henry Warrington, son of Thomas Warrington, of Chester, and Rebekah Dudley, daughter of Thomas Dudley, of Evesham, (1790 June 17) at Evesham Monthly Meeting, witnesses listed; together with affidavit certifying the marriage of Thomas Dudley and Martha Evans in Philadelphia, by Wm. Sturgeon, Church of England (1762 Nov. 27). </abstract>\n                  <name>\n                     <namePart>Unknown</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Warrington-Dudley family papers, 1762-1790.",
+                "abstract": "Marriage certificate of Henry Warrington, son of Thomas Warrington, of Chester, and Rebekah Dudley, daughter of Thomas Dudley, of Evesham, (1790 June 17) at Evesham Monthly Meeting, witnesses listed; together with affidavit certifying the marriage of Thomas Dudley and Martha Evans in Philadelphia, by Wm. Sturgeon, Church of England (1762 Nov. 27). ",
+                "extent": "2 items.",
+                "displayEntry": "Warrington family. Warrington-Dudley family papers, 1762-1790.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Warrington family.",
+                        "id": "10790578",
+                        "version": "8061842"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Dudley family.",
+                        "id": "10790579",
+                        "version": "8061842"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Warrington, Henry.",
+                        "id": "10790580",
+                        "version": "8061842"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Dudley, Rebekah.",
+                        "id": "10790581",
+                        "version": "8061842"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Dudley, Thomas.",
+                        "id": "10790582",
+                        "version": "8061842"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Dudley, Martha Evans.",
+                        "id": "10790583",
+                        "version": "8061842"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6kj19tg",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Historical Society of Moorestown",
+                            "preferenceScore": "99",
+                            "id": "76769922",
+                            "version": "11227745"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Historical Society of Moorestown",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "12 High St., P.O. Box 477  Moorestown, New Jersey 08057  United States",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769926",
+                                    "version": "11227745"
+                                }
+                            ],
+                            "id": "76769925",
+                            "version": "11227745"
+                        }
+                    ],
+                    "id": "76769921",
+                    "version": "11227748"
+                },
+                "id": "8061842",
+                "version": "8061842"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Warrington family. Warrington-Dudley family papers, 1762-1790.",
+            "id": "23038372",
+            "version": "3368069"
+        }
+    ],
+    "id": "23038346",
+    "version": "11485409"
+}

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+	<control>
+		<recordId>http://n2t.net/ark:/99166/w6wx87x7</recordId>
+		<maintenanceStatus>revised</maintenanceStatus>
+		<maintenanceAgency>
+			<agencyName>SNAC: Social Networks and Archival Context</agencyName>
+		</maintenanceAgency>
+		<languageDeclaration>
+			<language languageCode="eng">English</language>
+			<script scriptCode="Latn">
+				Latin
+			</script>
+		</languageDeclaration>
+		<maintenanceHistory>
+			<maintenanceEvent>
+				<eventType>revised</eventType>
+				<eventDateTime standardDateTime="2021-01-21T16:59:36">2021-01-21T16:59:36</eventDateTime>
+				<agentType>human</agentType>
+				<agent>James Truitt (jtruitt1@swarthmore.edu)</agent>
+				<eventDescription>User published constellation</eventDescription>
+			</maintenanceEvent>
+			<maintenanceEvent>
+				<eventType>revised</eventType>
+				<eventDateTime standardDateTime="2021-01-25T08:45:01">2021-01-25T08:45:01</eventDateTime>
+				<agentType>human</agentType>
+				<agent>James Truitt (jtruitt1@swarthmore.edu)</agent>
+				<eventDescription>Republish: User canceled edit without making changes</eventDescription>
+			</maintenanceEvent>
+			<maintenanceEvent>
+				<eventType>revised</eventType>
+				<eventDateTime standardDateTime="2021-01-26T17:18:55">2021-01-26T17:18:55</eventDateTime>
+				<agentType>human</agentType>
+				<agent>James Truitt (jtruitt1@swarthmore.edu)</agent>
+				<eventDescription>User published constellation</eventDescription>
+			</maintenanceEvent>
+			<maintenanceEvent>
+				<eventType>revised</eventType>
+				<eventDateTime standardDateTime="2021-03-16T14:17:09">2021-03-16T14:17:09</eventDateTime>
+				<agentType>human</agentType>
+				<agent>James Truitt (jtruitt1@swarthmore.edu)</agent>
+				<eventDescription>User published constellation</eventDescription>
+			</maintenanceEvent>
+		</maintenanceHistory>
+		<sources>
+			<source>
+				<sourceEntry>First Record Book of Births and Deaths of Members of Evesham Monthly Meeting, via Ancestry.com search, January 20, 2021</sourceEntry>
+				<descriptiveNote>
+					<p>p. 10. Esther Warrington was Born the 20th of the 10th Month 1743; daughter of Henry Warrington, who came from Old England about the 12th year of his age in the Year 1700; by his Second Wife Elizabeth, daughter of Thomas and Elizabeth Bishop of
+						North-Hampton.</p>
+				</descriptiveNote>
+			</source>
+			<source>
+				<sourceEntry>Hunt, John, “Our Beloved Friend” : The Journals of John Hunt, 1770-1824, 2018</sourceEntry>
+				<descriptiveNote>
+					<p>p. vi. The oldest son of Robert and Abigail Hunt of Haddonfield Monthly Meeting, John was born in August of 1740.... He and Esther Warrington, daughter of Henry and Elizabeth (Bishop) Warrington, were married on March 17, 1763, under the care of
+						Evesham Monthly Meeting.</p>
+				</descriptiveNote>
+			</source>
+			<source>
+				<sourceEntry>Record of births and burials for Chester Monthly Meeting, begun 7th month 1804, via Ancestry.com search, January 21, 2021</sourceEntry>
+				<descriptiveNote>
+					<p>p. 22. John Hunt born 5th of 6th month 1740 and Esther his wife born 20th of 10th month 1743. Esther Hunt deceased the 9 month 15th 1844, interred the 17th at Moorestown.</p>
+				</descriptiveNote>
+			</source>
+			<source>
+				<sourceEntry>Evesham Monthly Meeting First Book of Marriages, via Ancestry.com search, January 20, 2021</sourceEntry>
+				<descriptiveNote>
+					<p>p. 22. John Hunt, son of Robert Hunt, and Esther Warrington, daughter of Henry Warrington, were married on the Seventeenth Day of ye 3d month 1763</p>
+				</descriptiveNote>
+			</source>
+		</sources>
+	</control>
+	<cpfDescription>
+		<identity>
+			<entityType>person</entityType>
+			<nameEntry>
+				<part>Hunt, Esther Warrington, 1743-1833</part>
+			</nameEntry>
+			<entityId>http://n2t.net/ark:/99166/http://n2t.net/ark:/99166/w6wx87x7</entityId>
+		</identity>
+		<description>
+			<existDates>
+				<dateRange>
+					<fromDate standardDate="1743-12-31" localType="Birth">December 20, 1743 (OS)</fromDate>
+					<toDate standardDate="1833-09-15" localType="Birth">September 15, 1833</toDate>
+				</dateRange>
+			</existDates>
+			<languageUsed>
+				<language languageCode="eng">English</language>
+				<script scriptCode="Latn">
+					Latin
+				</script>
+			</languageUsed>
+			<localDescriptions>
+				<localDescription localType="gender">
+					<term>Female</term>
+				</localDescription>
+				<localDescription localType="associatedSubject">
+					<term>Society of Friends</term>
+				</localDescription>
+				<localDescription localType="associatedSubject">
+					<term>Quakers</term>
+				</localDescription>
+			</localDescriptions>
+			<place>
+				<placeEntry latitude="39.8776900" longitude="-74.6682000" countryCode="US">Burlington County</placeEntry>
+			</place>
+			<occupation>
+				<term>Quakers</term>
+			</occupation>
+			<biogHist>
+				<p>Esther Warrington Hunt was a Quaker woman who lived in New Jersey. She was born to Henry Warrington and his second wife Elizabeth Bishop Warrington on December 20, 1743 (o.s.). On March 17, 1763, she married John Hunt.</p>
+			</biogHist>
+		</description>
+	</cpfDescription>
+</eac-cpf>

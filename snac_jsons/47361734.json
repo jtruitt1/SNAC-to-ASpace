@@ -1,0 +1,2350 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6gq882n",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-22",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-14T19:02:07",
+            "standardDateTime": "2016-08-14T19:02:07",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-14T19:02:07",
+            "standardDateTime": "2016-08-14T19:02:07",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-29T15:38:57",
+            "standardDateTime": "2021-01-29T15:38:57",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-17T09:36:44",
+            "standardDateTime": "2021-03-17T09:36:44",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85305664",
+                "version": "11488635"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "JORDAN, Richard, Quaker preacher, b. in Norfolk county, Va., 19 Dec., 1756; d. in Newton, N. J., 14 Oct., 1826. He became a minister in the Society of Friends, and began to preach at the age of twenty-five, visiting the entire eastern portion of the United States. In 1803 he went to Europe, where he remained for three years. He visited in his ministerial capacity every yearly meeting of the society in existence, and labored in behalf of the negroes. He wrote an autobiography, \"Journal of Richard Jordan\" (Philadelphia, 1879).",
+            "citation": "Appleton's Cyclopedia of American Biography, 1600-1899, Vol. 3, via Ancestry.com search, January 28, 2021",
+            "id": "85305662",
+            "version": "11488635"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85305685",
+                "version": "11488646"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "1800. Richard Jordan (N.C.), sailed from New York 6th month 30th. Returning landed at Philadelphia 10th month 28th 1802. Died at Newton N.J. 1826 aged 70.",
+            "citation": "Philadelphia Yearly Meeting records, list of foreign ministers received and ministers gone abroad, found via Ancestry.com search, January 28, 2021",
+            "id": "85305684",
+            "version": "11488649"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85305667",
+                "version": "11488637"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "Richard Jordan, a minister of Haddonfield monthly meeting, departed this life the 14th of 11th month last in the 70th year of his age.",
+            "citation": "Burlington Quarterly Meeting Reports to Philadelphia Yearly Meeting, 1827, via Ancestry.com search, January 28, 2021",
+            "id": "85305665",
+            "version": "11488637"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85305660",
+                "version": "11488631"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "b. Dec. 19, 1756 in Elizabeth, Norfolk County, Va., son of Joseph and Patience Jordan. His mother died when he was quite young, and he was but a few times at meeting until twelve years of age.\r\n\r\n1768 family removed to Rich Square, N.C.\r\n\r\nm. Pharaby Knox (d.1825) 2 children (died in infancy). Settled on a farm near Rich Square.\r\n\r\nca 1781 spoke in the ministry and travelled on foot to some places in N.C. He refused to accept slaves for his farm offered by his father.\r\n\r\n1797 visited northern and eastern states. Often called upon government officials to procure justice for negroes. Travelled with Josiah White and Samuel Smith.\r\n\r\n1800-1802 Visit to England, Ireland, Scotland, Wales, Germany, Holland and France. In Ireland encountered rationalism. English Friends procured the manufacture of china ware with his portrait. This is now a collector's item. Gave up the habit of smoking tobacco.\r\n\r\n1804 removed to Hartford, Conn. Bore his testimony against a disorganizing spirit in New England.\r\n\r\n1809 removed again to Newton, in Camden County, N.J.\r\n\r\n1810 visited New York, Rhode Island, Baltimore and North Carolina. He kept a Journal. With little school learning and with faulty grammar, he was yet a powerful minister. He was much grieved by the dissemination of rationalistic views, which following his death, helped to cause a separation in Phila. Yearly Meeting.\r\n\r\nd. Oct., 13 or 14, 1826 at Newton, N.J. after an illness of two months in his 70th year.",
+            "citation": "Dictionary of Quaker Biography, Haverford College",
+            "id": "85305659",
+            "version": "11488631"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85305683",
+                "version": "11488645"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 170. Richard Jordan was born the 12th month 19th 1756; departed this life on the 16th day of 10th Month 1826 in the 71st year of his age; Pheraby his wife was born the 8th month 3rd 1752; Pharaby Jordan died the 2nd day of 3rd Month 1825.",
+            "citation": "Haddonfield Monthly Meeting record of births, via Ancestry.com search, January 28, 2021",
+            "id": "85305681",
+            "version": "11488645"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF</citation></conventionDeclaration>",
+            "id": "47361743",
+            "version": "6915902"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85305984",
+            "version": "11488848"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Jordan, Richard, 1756-1826",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85305657",
+                    "version": "11488630"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Jordan",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85305654",
+                    "version": "11488630"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Richard",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85305655",
+                    "version": "11488630"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1756-1826",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85305656",
+                    "version": "11488630"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85305658",
+                "version": "11488630"
+            },
+            "id": "47361744",
+            "version": "11488630",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "80668917",
+                    "version": "6915902"
+                }
+            ]
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85305986",
+            "version": "11488849"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85305985",
+            "version": "11488849"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85306023",
+                "version": "11503590"
+            },
+            "text": "Richard Jordan was a well-traveled Quaker minister who lived in Virginia, North Carolina, and New Jersey, and who traveled in Europe from 1800 to 1802. Jordan was born in Norfolk County, Virginia, to Joseph and Patience Jordan, on 19 December 1756. In 1786 the family moved to Rich Square, North Carolina. Jordan eventually married Pharaby Knox, and the couple settled on a farm near his parents. In 1781 he began to speak in the ministry and made visits to other Quakers in North Carolina. In 1797 he visited Northern states in his capacity as a minister, often calling upon goverment officials to procure justice for African Americans. In 1800 his calling as a minister took him across the Atlantic. For two years he traveled through England, Ireland, Scotland, Wales, Germany, Holland, and France, returning home in 1802. In 1804 Jordan and his wife moved to Hartford, Connecticut, where he bore testimony against a disorganizing spirit among New England Quakers, but after 5 years the couple moved again, this time to Newton, New Jersey. Jordan died there in October 1826 in his 70th year. He visited in his ministerial capacity every yearly meeting of the Society of Friends then in existence",
+            "id": "85305787",
+            "version": "11503590",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "JORDAN, Richard, Quaker preacher, b. in Norfolk county, Va., 19 Dec., 1756; d. in Newton, N. J., 14 Oct., 1826. He became a minister in the Society of Friends, and began to preach at the age of twenty-five, visiting the entire eastern portion of the United States. In 1803 he went to Europe, where he remained for three years. He visited in his ministerial capacity every yearly meeting of the society in existence, and labored in behalf of the negroes. He wrote an autobiography, \"Journal of Richard Jordan\" (Philadelphia, 1879).",
+                        "citation": "Appleton's Cyclopedia of American Biography, 1600-1899, Vol. 3, via Ancestry.com search, January 28, 2021",
+                        "id": "85305662",
+                        "version": "11488635"
+                    },
+                    "id": "85306026",
+                    "version": "11488868"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "b. Dec. 19, 1756 in Elizabeth, Norfolk County, Va., son of Joseph and Patience Jordan. His mother died when he was quite young, and he was but a few times at meeting until twelve years of age.\r\n\r\n1768 family removed to Rich Square, N.C.\r\n\r\nm. Pharaby Knox (d.1825) 2 children (died in infancy). Settled on a farm near Rich Square.\r\n\r\nca 1781 spoke in the ministry and travelled on foot to some places in N.C. He refused to accept slaves for his farm offered by his father.\r\n\r\n1797 visited northern and eastern states. Often called upon government officials to procure justice for negroes. Travelled with Josiah White and Samuel Smith.\r\n\r\n1800-1802 Visit to England, Ireland, Scotland, Wales, Germany, Holland and France. In Ireland encountered rationalism. English Friends procured the manufacture of china ware with his portrait. This is now a collector's item. Gave up the habit of smoking tobacco.\r\n\r\n1804 removed to Hartford, Conn. Bore his testimony against a disorganizing spirit in New England.\r\n\r\n1809 removed again to Newton, in Camden County, N.J.\r\n\r\n1810 visited New York, Rhode Island, Baltimore and North Carolina. He kept a Journal. With little school learning and with faulty grammar, he was yet a powerful minister. He was much grieved by the dissemination of rationalistic views, which following his death, helped to cause a separation in Phila. Yearly Meeting.\r\n\r\nd. Oct., 13 or 14, 1826 at Newton, N.J. after an illness of two months in his 70th year.",
+                        "citation": "Dictionary of Quaker Biography, Haverford College",
+                        "id": "85305659",
+                        "version": "11488631"
+                    },
+                    "id": "85306027",
+                    "version": "11488868"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "47361734",
+            "targetConstellation": "74637691",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6gq882n",
+            "targetArkID": "http://n2t.net/ark:/99166/w69w2tvg",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "Grubb, Anne, fl. 1801-3.",
+            "id": "47361758",
+            "version": "11488856"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "47361734",
+            "targetConstellation": "46945935",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6gq882n",
+            "targetArkID": "http://n2t.net/ark:/99166/w68p79sw",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "Grubb, Margaret, 1751-1829.",
+            "id": "47361759",
+            "version": "11488858"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "47361734",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6gq882n",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85306011",
+            "version": "11488858"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "47361734",
+            "targetConstellation": "43501674",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6gq882n",
+            "targetArkID": "http://n2t.net/ark:/99166/w6jq3dx7",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28284",
+                "term": "spouseOf",
+                "type": "relation_type"
+            },
+            "content": "Jordan, Pharaby, d. 1825.",
+            "id": "47361760",
+            "version": "11488856"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Jordan, Richard, 1756-1826",
+            "uri": "https://viaf.org/viaf/44145862",
+            "id": "47361755",
+            "version": "6915902"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.worldcat.org/identities/lccn-nr90008380",
+            "id": "47361756",
+            "version": "6915902"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/nr90008380",
+            "id": "47361757",
+            "version": "6915902"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.wikidata.org/entity/Q60313170",
+            "id": "85305784",
+            "version": "11488742"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.worldcat.org/identities/lccn-nr90008380",
+            "id": "85305786",
+            "version": "11488745"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/hcmc-1001",
+                "title": "Haddon-Estaugh-Hopkins family papers, 1676-1841 (bulk 1676-1800).",
+                "abstract": "Chiefly land related papers (deeds, maps, surveys, etc.) and correspondence, diaries, wills, testimonies, travel and marriage certificates, genealogy and other misc. papers of Haddon, Estaugh, Hopkins, Swett and related Quaker families of New Jersey.  Includes deeds, maps, surveys and other papers (1676-1838) related to land in New Jersey purchased by John Haddon and other Quakers; business and legal papers (1701-1757) of John Estaugh includes his correspondence with the Pennsylvania Land Company of London as well as letters from Caleb Pusey, James Logan and others; also includes powers of attorney, receipts, bills; misc. land related papers (1684-1744) of William Shandlaw, John Wightman, Richard Buckele and others; letters and business papers (1722-1738) of William Rawle; business and legal papers (1701-1789) concerning settlement of Haddon, Estaugh and Hopkins family matters; letters (1713-1719) of John and Elizabeth Haddon to John and Elizabeth Estaugh on family and business matters; letters (1724-1744) of Sarah Hopkins to Elizabeth Estaugh. Business correspondence and papers (1749-1760) of Elizabeth Estaugh includes correspondence with Thomas Hyam concerning dispute over John Estaugh's management of property. Letters, diaries, testimonies, travel and marriage certificates, and misc. papers (1734-1841) of Swett and related Quaker families and Friends; includes letters (1734-1817) chiefly addressed to Mary Swett, correspondents include Martha Allinson, Ann Christy, George Dillwyn, Susanna Emlen, Rebecca Jones, Richard Jordan, Martha Winter Routh, George Stacey, Benjamin Swett, Joseph Cooper Swett and others; diaries of Sarah Cresson, Benjamin Swett, Mary Swett.",
+                "extent": "ca. 400 items (9 boxes)",
+                "date": "1676-1841",
+                "displayEntry": "Haddon-Estaugh-Hopkins family papers, 1676-1841 (bulk 1676-1800).",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Allinson, Martha, 1747-1823.",
+                        "id": "9144689",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Buckele, Richard.",
+                        "id": "9144690",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Christy, Ann, 1744-1809.",
+                        "id": "9144691",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cresson, Sarah, 1771-1829.",
+                        "id": "9144692",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Dillwyn, George, 1738-1820.",
+                        "id": "9144693",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Emlen, Susanna.",
+                        "id": "9144694",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Estaugh, Elizabeth Haddon, 1682-1762.",
+                        "id": "9144695",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Estaugh, John, 1676-1742.",
+                        "id": "9144696",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Haddon, John, 1653-1724.",
+                        "id": "9144697",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hopkins, Ebenezer, 1718-1757.",
+                        "id": "9144698",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hopkins, Sarah, 1687-1758.",
+                        "id": "9144699",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hyam, Thomas.",
+                        "id": "9144700",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jones, Rebecca, 1739-1817.",
+                        "id": "9144701",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jordan, Richard, 1756-1826.",
+                        "id": "9144702",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Logan, James, 1674-1751.",
+                        "id": "9144703",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Pusey, Caleb, 1650?-1727.",
+                        "id": "9144704",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Rawle, William.",
+                        "id": "9144705",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Routh, Martha Winter, 1743-1817.",
+                        "id": "9144706",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Shandlaw, William.",
+                        "id": "9144707",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stacey, George, 1749-1816.",
+                        "id": "9144708",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Swett, Benjamin, ca. 1738-1819.",
+                        "id": "9144709",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Swett, Joseph Cooper.",
+                        "id": "9144710",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Swett, Mary.",
+                        "id": "9144711",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wightman, John.",
+                        "id": "9144712",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Pensilvania Land Company in London.",
+                        "id": "9144713",
+                        "version": "7162465"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11646709",
+                        "version": "8387414"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7162465",
+                "version": "7162465"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Allinson, Martha, 1747-1823. Haddon-Estaugh-Hopkins family papers, 1676-1841 (bulk 1676-1800).",
+            "id": "47361766",
+            "version": "6915902"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386944"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85306010",
+            "version": "11488855"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/4946872",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:4946872</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-HVC</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Grubb, Anne, fl. 1801-3.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Jordan, Richard, 1756-1826.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Letter. 3 mo 19th 1803, Clogheen [Ireland] to Richard Jordan.</title>\n                  </titleInfo>\n                  <abstract>Glad he has arrived home safely. </abstract>\n                  <name>\n                     <namePart>Haverford College Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Letter. 3 mo 19th 1803, Clogheen [Ireland] to Richard Jordan.",
+                "abstract": "Glad he has arrived home safely. ",
+                "extent": "[4] p. ; 22 x 19 cm.",
+                "displayEntry": "Grubb, Anne, fl. 1801-3. Letter. 3 mo 19th 1803, Clogheen [Ireland] to Richard Jordan.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Grubb, Anne, fl. 1801-3.",
+                        "id": "9888169",
+                        "version": "7608426"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jordan, Richard, 1756-1826.",
+                        "id": "9888170",
+                        "version": "7608426"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7608426",
+                "version": "7608426"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Grubb, Anne, fl. 1801-3. Letter. 3 mo 19th 1803, Clogheen [Ireland] to Richard Jordan.",
+            "id": "47361765",
+            "version": "6915902"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/hcmc-1169",
+                "title": "Stokes-Evans-Cope family papers, 1713-1981.",
+                "abstract": "Correspondence, diaries, legal and business papers, deeds, marriage certificates, scrapbook, photographs, account books, artifacts, printed volumes, computer disks and misc. papers chiefly of the related Quaker families of Stokes, Evans, Cope, Wistar and Smith of Pennsylvania and New Jersey. Includes letters (1830-1868) of Thomas Evans to Bartholomew Wistar discussing Quaker affairs (Philadelphia Yearly Meeting [PYM] Indian Committee), letters to wife Catharine Evans and children, also letters and papers related to PYM Meeting for Sufferings' work to free Friends pressed into military service during Civil War; letter of Charlotte N. Freedland (1797-1850) reporting on PYM of 1827; correspondence (1864-1904) of Francis Stokes and Katharine W. Stokes discusses family and personal matters; letters, etc. of John Stokes (1800-1868) include papers related to financial difficulties and estate of brother-in-law Joseph Smith; letter (1828) of Bartholomew Wistar (1790-1841) gives eyewitness account of events at New York Yearly Meeting. Additional persons represented are Thomas Pim Cope, Eleanor T. Evans, Hannah Bacon Evans, Catharine Evans, Letitia Evans, Esther Newlin Stokes, Francis Joseph Stokes, Joseph Stokes, Joseph Waln Stokes and others. Diaries include those of Hannah Bacon Evans (8 v., 1858-1868), William B. Hockett (1862-1863, handwritten transcript of detention in Confederate Army) and Richard Jordan (ca. 1807, travel as minister in Europe). Also photograph album of Stokes family, family Bible of John Stokes, scrapbook and various artifacts connected to Evans and Stokes families.",
+                "extent": "ca. 550 items (8 boxes and 2 packages)",
+                "displayEntry": "Cope, Thomas Pim, 1823-1900. Stokes-Evans-Cope family papers, 1713-1981.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cope, Thomas Pim, 1823-1900.",
+                        "id": "9351075",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evans, Catharine, 1802-1871.",
+                        "id": "9351076",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evans, Eleanor T. (Eleanor Tyson), 1840-1919.",
+                        "id": "9351077",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evans, Hannah Bacon, 1839-1939.",
+                        "id": "9351078",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evans, Thomas, 1798-1868.",
+                        "id": "9351079",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Freedland, Charlotte N. (Charlotte Newbold), 1797-1850.",
+                        "id": "9351080",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hockett, William B., 1828-1905.",
+                        "id": "9351081",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jordan, Richard, 1756-1826.",
+                        "id": "9351082",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stokes, Esther Newlin, 1870-1913.",
+                        "id": "9351083",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stokes, Francis, 1833-1917.",
+                        "id": "9351084",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stokes, Francis Joseph, 1873-1955.",
+                        "id": "9351085",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stokes, John, 1800-1868.",
+                        "id": "9351086",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stokes, Joseph, 1778-1804.",
+                        "id": "9351087",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stokes, Joseph W. (Joseph Waln), 1835-1863.",
+                        "id": "9351088",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stokes, Katharine W. (Katharine Wistar), 1841-1904.",
+                        "id": "9351089",
+                        "version": "7265048"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wistar, Bartholomew, 1790-1841.",
+                        "id": "9351090",
+                        "version": "7265048"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7265048",
+                "version": "7265048"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Cope, Thomas Pim, 1823-1900. Stokes-Evans-Cope family papers, 1713-1981.",
+            "id": "47361762",
+            "version": "6915902"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/4973072",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:4973072</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-HVC</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Grubb, Margaret, 1751-1829.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Jordan, Richard, 1756-1826.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Letter. 22 of 3 mo 1801, Clogheen [Ireland] to Richard Jordan.</title>\n                  </titleInfo>\n                  <abstract>Prayerful letter, noting divisions that are troubling the church. </abstract>\n                  <name>\n                     <namePart>Haverford College Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Letter. 22 of 3 mo 1801, Clogheen [Ireland] to Richard Jordan.",
+                "abstract": "Prayerful letter, noting divisions that are troubling the church. ",
+                "extent": "[3] p. ; 24 x 19 cm.",
+                "displayEntry": "Grubb, Margaret, 1751-1829. Letter. 22 of 3 mo 1801, Clogheen [Ireland] to Richard Jordan.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Grubb, Margaret, 1751-1829.",
+                        "id": "9896659",
+                        "version": "7613042"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jordan, Richard, 1756-1826.",
+                        "id": "9896660",
+                        "version": "7613042"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7613042",
+                "version": "7613042"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Grubb, Margaret, 1751-1829. Letter. 22 of 3 mo 1801, Clogheen [Ireland] to Richard Jordan.",
+            "id": "47361763",
+            "version": "6915902"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/4946829",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:4946829</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-HVC</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Jordan, Richard, 1756-1826.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Jordan, Pharaby, d. 1825.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Letter. 3d mo 20th 1802, Falmouth, [Eng.], to Pharaby Jordan.</title>\n                  </titleInfo>\n                  <abstract>Is attending several silent meetings which he finds difficult. </abstract>\n                  <name>\n                     <namePart>Haverford College Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Letter. 3d mo 20th 1802, Falmouth, [Eng.], to Pharaby Jordan.",
+                "abstract": "Is attending several silent meetings which he finds difficult. ",
+                "extent": "[3] p. ; 25 x 21 cm.",
+                "displayEntry": "Jordan, Richard, 1756-1826. Letter. 3d mo 20th 1802, Falmouth, [Eng.], to Pharaby Jordan.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jordan, Richard, 1756-1826.",
+                        "id": "9888164",
+                        "version": "7608423"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jordan, Pharaby, d. 1825.",
+                        "id": "9888165",
+                        "version": "7608423"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7608423",
+                "version": "7608423"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Jordan, Richard, 1756-1826. Letter. 3d mo 20th 1802, Falmouth, [Eng.], to Pharaby Jordan.",
+            "id": "47361764",
+            "version": "6915902"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/4946848",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:4946848</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-HVC</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Grubb, Anne, fl. 1801-3.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Jordan, Richard, 1756-1826.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Letter. 3 mo 26th 1801, Clonmel, [Ireland], to Richard Jordan.</title>\n                  </titleInfo>\n                  <name>\n                     <namePart>Haverford College Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Letter. 3 mo 26th 1801, Clonmel, [Ireland], to Richard Jordan.",
+                "extent": "[2] p. ; 23 x 19 cm.",
+                "displayEntry": "Grubb, Anne, fl. 1801-3. Letter. 3 mo 26th 1801, Clonmel, [Ireland], to Richard Jordan.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Grubb, Anne, fl. 1801-3.",
+                        "id": "9888167",
+                        "version": "7608425"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jordan, Richard, 1756-1826.",
+                        "id": "9888168",
+                        "version": "7608425"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7608425",
+                "version": "7608425"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Grubb, Anne, fl. 1801-3. Letter. 3 mo 26th 1801, Clonmel, [Ireland], to Richard Jordan.",
+            "id": "47361761",
+            "version": "6915902"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "5624",
+                "uri": "http://www.geonames.org/4835797",
+                "name": "Hartford",
+                "latitude": "41.7637100",
+                "longitude": "-72.6850900",
+                "administrationCode": "CT",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85305910",
+            "version": "11488819"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "9341",
+                "uri": "http://www.geonames.org/4482584",
+                "name": "Northampton County",
+                "latitude": "36.4176600",
+                "longitude": "-77.3967400",
+                "administrationCode": "NC",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85305907",
+            "version": "11488818"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400239",
+                "term": "Death",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "9171",
+                "uri": "http://www.geonames.org/5101760",
+                "name": "New Jersey",
+                "latitude": "40.1670600",
+                "longitude": "-74.4998700",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85305908",
+            "version": "11488819"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400238",
+                "term": "Birth",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "13883",
+                "uri": "http://www.geonames.org/6254928",
+                "name": "Virginia",
+                "latitude": "37.5481200",
+                "longitude": "-77.4467500",
+                "administrationCode": "VA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85305790",
+            "version": "11488750"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "9171",
+                "uri": "http://www.geonames.org/5101760",
+                "name": "New Jersey",
+                "latitude": "40.1670600",
+                "longitude": "-74.4998700",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85305909",
+            "version": "11488819"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85305988",
+            "version": "11488850"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85305989",
+            "version": "11488850"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "99463",
+                "term": "Clergy--Travel",
+                "type": "subject"
+            },
+            "id": "85305991",
+            "version": "11488851"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334800",
+                "term": "Society of Friends--Lay ministry",
+                "type": "subject"
+            },
+            "id": "85305987",
+            "version": "11488850"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85305990",
+            "version": "11488850"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85305983",
+            "version": "11488847"
+        }
+    ],
+    "id": "47361734",
+    "version": "11503591",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1756-12-19",
+            "fromDateOriginal": "December 19, 1756",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1826-10-14",
+            "toDateOriginal": "October 14, 1826",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "47361735",
+            "version": "11488748",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "JORDAN, Richard, Quaker preacher, b. in Norfolk county, Va., 19 Dec., 1756; d. in Newton, N. J., 14 Oct., 1826. He became a minister in the Society of Friends, and began to preach at the age of twenty-five, visiting the entire eastern portion of the United States. In 1803 he went to Europe, where he remained for three years. He visited in his ministerial capacity every yearly meeting of the society in existence, and labored in behalf of the negroes. He wrote an autobiography, \"Journal of Richard Jordan\" (Philadelphia, 1879).",
+                        "citation": "Appleton's Cyclopedia of American Biography, 1600-1899, Vol. 3, via Ancestry.com search, January 28, 2021",
+                        "id": "85305662",
+                        "version": "11488635"
+                    },
+                    "id": "85305788",
+                    "version": "11488748"
+                }
+            ]
+        }
+    ]
+}

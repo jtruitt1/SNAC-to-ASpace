@@ -1,0 +1,3700 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6n69bqr",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-04-15T08:56:02",
+            "standardDateTime": "2021-04-15T08:56:02",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "{\n    \"action\": \"merge\",\n    \"icids\": [\n        \"66377251\",\n        \"56244453\"\n    ],\n    \"arks\": [\n        \"http:\\/\\/n2t.net\\/ark:\\/99166\\/w6vx4402\",\n        \"http:\\/\\/n2t.net\\/ark:\\/99166\\/w60w2cp2\"\n    ]\n}"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-04-15T08:56:03",
+            "standardDateTime": "2021-04-15T08:56:03",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-04-16T14:19:27",
+            "standardDateTime": "2021-04-16T14:19:27",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85391110",
+                "version": "11513861"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 129. Marriage of Isaac Zane (a carpenter of Philadelphia, son of Nathaniel Zane) and Sarah Elfreth (daughter of Philadelphia shipwright Henry Elfreth) on 1733/4-01-15 (old style).",
+            "citation": "Philadelphia Yearly Meeting record of marriages 1672-1759, via Ancestry.com search, April 16, 2021",
+            "id": "85391097",
+            "version": "11513864"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85391157",
+                "version": "11513880"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "Vol 2, p. 440. Zane, Isaac and Sarah; children include Hannah, born 1734-10-23 (old style), and Isaac, born 1743-04-24 (old style).",
+            "citation": "Encyclopedia of American Quaker Genealogy",
+            "id": "85391125",
+            "version": "11513880"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85391156",
+                "version": "11513879"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 292-293. Isaac Zane Sr.; born 1710/11; died 1794; married Sarah Elfreth in 1734; had 8 children, including Isaac Zane, Jr., born 1743; contributor to Pennsylvania Hospital; headed a 1788 petition against theater in Philadelphia.",
+            "citation": "Moss, Roger W., Jr., \"Isaac Zane, Jr., a 'Quaker for the times,'\" in The Virginia Magazine of History and Biography, Vol. 77, No. 3 (Jul., 1969), pp. 291-306",
+            "id": "85391155",
+            "version": "11513879"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85391096",
+                "version": "11513856"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 333-337. Born March 1710 in Gloucester county, NJ; moved to Philadelphia in the 14th year of his age; was an Elder in the Society of Friends over forty years, and for some part of that time was also an overseer; active in Quaker work with Native Americans; advocated against slavery; died 1794-03-06, \"aged 84 years wanting 8 days.\"",
+            "citation": "Philadelphia Yearly Meeting book of testimonies (C5.22), via Ancestry.com search, April 9, 2021",
+            "id": "85391094",
+            "version": "11513857"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85391161",
+            "version": "11513882"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Zane, Isaac, 1710-1794",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85389912",
+                    "version": "11513367"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Zane",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85389909",
+                    "version": "11513367"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Isaac",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85389910",
+                    "version": "11513367"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1710-1794",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85389911",
+                    "version": "11513367"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85389913",
+                "version": "11513367"
+            },
+            "id": "85389880",
+            "version": "11513367",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\r\n    {\r\n        \"contributor\": \"WorldCat\",\r\n        \"form\": \"authorizedForm\"\r\n    },\r\n    {\r\n        \"contributor\": \"LC\",\r\n        \"form\": \"authorizedForm\"\r\n    }\r\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "85389881",
+                    "version": "11513359"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Zanes, Isaac, 1710-1794",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85389917",
+                    "version": "11513367"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Zanes",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85389914",
+                    "version": "11513367"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Isaac",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85389915",
+                    "version": "11513367"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1710-1794",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85389916",
+                    "version": "11513367"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85389918",
+                "version": "11513367"
+            },
+            "id": "85389883",
+            "version": "11513367",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\r\n    {\r\n        \"contributor\": \"WorldCat\",\r\n        \"form\": \"authorizedForm\"\r\n    }\r\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "85389884",
+                    "version": "11513359"
+                }
+            ]
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85391164",
+            "version": "11513883"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "11522",
+                "term": "Carpenters--18th century.--Pennsylvania--Philadelphia",
+                "type": "occupation"
+            },
+            "id": "85391162",
+            "version": "11513883"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "14077",
+                "term": "Elders",
+                "type": "occupation"
+            },
+            "id": "85391165",
+            "version": "11513884"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "11515",
+                "term": "Carpenters",
+                "type": "occupation"
+            },
+            "id": "85391163",
+            "version": "11513883"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85391432",
+                "version": "11514033"
+            },
+            "text": "<p>Isaac Zane was a Philadelphia Quaker carpenter. Born in 1710 to Nathaniel Zane in Gloucester County, New Jersey, he moved to Philadelphia around the age of 14 and lived there the rest of his life. He married Sarah Elfreth, daughter of shipwright Henry Elfreth, in 1733/34. The couple had eight children, including Isaac Zane (1743-1795) and Hannah Zane Pemberton (1734-). Zane was active in the Society of Friends, serving as an elder for roughly 40 years. He joined many other Quakers in opposing slavery, and was particularly involved in Friends' work with Native Americans. Zane died on March 6, 1794.</p>\r\n<p>Care should be taken to distinguish Zane from his son Isaac (1743-1795), who spent much of his life in Virginia and owned the Marlboro Iron Works, and from a third Isaac Zane (1753-1816), an Anglo-American who was adopted and raised by a Wyandot leader.</p>",
+            "id": "85389878",
+            "version": "11514033",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 333-337. Born March 1710 in Gloucester county, NJ; moved to Philadelphia in the 14th year of his age; was an Elder in the Society of Friends over forty years, and for some part of that time was also an overseer; active in Quaker work with Native Americans; advocated against slavery; died 1794-03-06, \"aged 84 years wanting 8 days.\"",
+                        "citation": "Philadelphia Yearly Meeting book of testimonies (C5.22), via Ancestry.com search, April 9, 2021",
+                        "id": "85391094",
+                        "version": "11513857"
+                    },
+                    "id": "85391429",
+                    "version": "11514029"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "Vol 2, p. 440. Zane, Isaac and Sarah; children include Hannah, born 1734-10-23 (old style), and Isaac, born 1743-04-24 (old style).",
+                        "citation": "Encyclopedia of American Quaker Genealogy",
+                        "id": "85391125",
+                        "version": "11513880"
+                    },
+                    "id": "85391430",
+                    "version": "11514029"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 129. Marriage of Isaac Zane (a carpenter of Philadelphia, son of Nathaniel Zane) and Sarah Elfreth (daughter of Philadelphia shipwright Henry Elfreth) on 1733/4-01-15 (old style).",
+                        "citation": "Philadelphia Yearly Meeting record of marriages 1672-1759, via Ancestry.com search, April 16, 2021",
+                        "id": "85391097",
+                        "version": "11513864"
+                    },
+                    "id": "85391431",
+                    "version": "11514029"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "7751978",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w6k685f3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Allason, William, 1731-1800.",
+            "id": "85389889",
+            "version": "11513359"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "85366734",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w63z8z1g",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Andrews, Isaac, approximately 1715-1775",
+            "note": "Isaac Zane and Isaac Andrews were married to cousins Sarah Elfreth (daughter of shipwright Henry Elfreth) and Elizabeth Elfreth (daughter of smith Jeremiah Elfreth), respectively.",
+            "id": "85390094",
+            "version": "11513448",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 129. Marriage of Isaac Zane (a carpenter of Philadelphia, son of Nathaniel Zane) and Sarah Elfreth (daughter of Philadelphia shipwright Henry Elfreth) on 1733/4-01-15 (old style).",
+                        "citation": "Philadelphia Yearly Meeting record of marriages 1672-1759, via Ancestry.com search, April 16, 2021",
+                        "id": "85391097",
+                        "version": "11513864"
+                    },
+                    "id": "85391201",
+                    "version": "11513902"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "68324529",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w6s1844s",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Benezet, Anthony, 1713-1784.",
+            "id": "85389891",
+            "version": "11513359"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "83705413",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w69d7mhk",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "Cornplanter, Seneca chief, 1732?-1836",
+            "id": "85391203",
+            "version": "11513904"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "19400093",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w6rr1z7b",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Drinker, Henry, 1734-1809",
+            "id": "85391230",
+            "version": "11513926"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "70437450",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w69s5c91",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Gratz, Simon.",
+            "id": "85389890",
+            "version": "11513359"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85390095",
+            "version": "11513449"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "30568243",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w69k9tq7",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Monthly Meeting of Friends of Philadelphia",
+            "note": "Isaac Zane was an elder of Philadelphia Monthly Meeting for over 40 years.",
+            "id": "85391199",
+            "version": "11513902",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 333-337. Born March 1710 in Gloucester county, NJ; moved to Philadelphia in the 14th year of his age; was an Elder in the Society of Friends over forty years, and for some part of that time was also an overseer; active in Quaker work with Native Americans; advocated against slavery; died 1794-03-06, \"aged 84 years wanting 8 days.\"",
+                        "citation": "Philadelphia Yearly Meeting book of testimonies (C5.22), via Ancestry.com search, April 9, 2021",
+                        "id": "85391094",
+                        "version": "11513857"
+                    },
+                    "id": "85391200",
+                    "version": "11513902"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "8376174",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w64t6z6w",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Parrish, John, 1729-1807",
+            "id": "85391228",
+            "version": "11513925"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "16476689",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w66124pd",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28275",
+                "term": "parent-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Pemberton, John, 1727-1795",
+            "note": "Isaac Zane was the father of Hannah Zane (1734-), wife of John Pemberton.",
+            "id": "85390076",
+            "version": "11513441"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "9183408",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w68q08bb",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Philadelphia Yearly Meeting of the Religious Society of Friends. Meeting for Sufferings",
+            "id": "85391202",
+            "version": "11513903"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "63882491",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w6028wf4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Waln, Nicholas, 1742-1813",
+            "id": "85391229",
+            "version": "11513925"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "26627990",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w6pr8kmr",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Zane, Ebenezer, 1747-1812",
+            "id": "85390074",
+            "version": "11513895",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 292-293. Isaac Zane Sr.; born 1710/11; died 1794; married Sarah Elfreth in 1734; had 8 children, including Isaac Zane, Jr., born 1743; contributor to Pennsylvania Hospital; headed a 1788 petition against theater in Philadelphia.",
+                        "citation": "Moss, Roger W., Jr., \"Isaac Zane, Jr., a 'Quaker for the times,'\" in The Virginia Magazine of History and Biography, Vol. 77, No. 3 (Jul., 1969), pp. 291-306",
+                        "id": "85391155",
+                        "version": "11513879"
+                    },
+                    "id": "85391187",
+                    "version": "11513895"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85389877",
+            "targetConstellation": "14390190",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetArkID": "http://n2t.net/ark:/99166/w6h426x6",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28276",
+                "term": "parentOf",
+                "type": "relation_type"
+            },
+            "content": "Zane, Isaac, 1743-1795",
+            "id": "85390075",
+            "version": "11513440"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://viaf.org/viaf/48984702",
+            "id": "85389886",
+            "version": "11513359"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.worldcat.org/identities/lccn-no2006074263",
+            "id": "85389887",
+            "version": "11513359"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/no2006074263",
+            "id": "85389888",
+            "version": "11513359"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/MSS039pem",
+                "title": "Pemberton Manuscripts, 1756-1812",
+                "abstract": "The collection contains primarily family correspondence of the three Pemberton brothers -- Israel, James, and John, prominent members of the Society of Friends in Philadelphia who were exiled to Virginia during the Revolutionary War for their pacifism. It also includes a small number of correspondence from Edward Stabler and Alexander White, an account on the life of James Pemberton, and the will of his wife, Phebe Lewis Pemberton. Topics include the Pembertons' exile to Winchester, Va., with other Quakers during the Revolution as conscientious objectors, Quaker ministers, the disposition of the estate of Anthony Benezet, and Quaker concerns especially pacifism.",
+                "date": "1756-1812",
+                "displayEntry": "Pemberton Manuscripts, 1756-1812",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11651209",
+                        "version": "8395173"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "11651208",
+                "version": "8395173"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85391428",
+            "version": "11514027"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/122539257",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:122539257</recordOrigin>\n                     <recordContentSource>ISIL:vi</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Allason, William, 1731-1800.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Records, 1722-1847.</title>\n                  </titleInfo>\n                  <abstract>Correspondence letterbooks, daybooks, ledgers and miscellaneous items relating to the operation of a mercantile business in Falmouth (King George County) and Winchester, Virginia by William and David Allason. The correspondence reflects the various aspects of extensive mercantile endeavor, as well as personal relationships between family members and friends. Allason corresponded with Lord Dunmore before and after Dunmore fled Virginia, and he maintained a close association with Lord Fairfax, acting as his factor, buying and selling his slaves and engaging people to collect quitrents for the Fairfax proprietary. Other correspondents include Alexander Baine, Robert Beverley, Nathaniel and Robert Burwell, Charles and Landon Carter, John Harvey, Abraham Hite, Neil Jamieson, Charles Marshall, James Mercer, General Daniel Morgan, Hugh Nelson, Mann Page, Robert Rose, David Ross, Andrew Sprowle, Col. John Taylor, Benamin Waller, John and Warriner Washington, Ralph Wormeley, George Wythe and Isaac Zane. Records identifed as Allason's during his service as agent for Baird and Walker include: daybook for a concern belonging to Baird and Walker, 1759-1769; ledger of sundry goods, 1757-1762; ledger for cargo, 1759; and ledger, 1751-1752. Other volumes include: daybooks, 1761-1800; ledgers, 1760-1801; cash sales, 1764-1782; invoice and inventory books, 1760-1796' balances due, 1766-1792; memorandum books, 1757-1800; and tobacco books 1757-1763, 1786-1804. Account books of the Shenandoah store operated by David Allason include: day book, 1761-1763; and ledgers, 1761-1763. Records of his operation of the Falmouth Store include: daybooks,1775-1777, 1786-1804; and ledgers, 1783-1801. Other volumes include: daybook and journal of private transaction, 1757-1769; daybook of Pine Forest Sawmill, 1787-1793; record of planks saved, 1787-1789; transaction at River Run mill, 1786-1787; and transaction for William Kirk's estate, 1781-1786. </abstract>\n                  <name>\n                     <namePart>Unknown</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Records, 1722-1847.",
+                "abstract": "Correspondence letterbooks, daybooks, ledgers and miscellaneous items relating to the operation of a mercantile business in Falmouth (King George County) and Winchester, Virginia by William and David Allason. The correspondence reflects the various aspects of extensive mercantile endeavor, as well as personal relationships between family members and friends. Allason corresponded with Lord Dunmore before and after Dunmore fled Virginia, and he maintained a close association with Lord Fairfax, acting as his factor, buying and selling his slaves and engaging people to collect quitrents for the Fairfax proprietary. Other correspondents include Alexander Baine, Robert Beverley, Nathaniel and Robert Burwell, Charles and Landon Carter, John Harvey, Abraham Hite, Neil Jamieson, Charles Marshall, James Mercer, General Daniel Morgan, Hugh Nelson, Mann Page, Robert Rose, David Ross, Andrew Sprowle, Col. John Taylor, Benamin Waller, John and Warriner Washington, Ralph Wormeley, George Wythe and Isaac Zane. Records identifed as Allason's during his service as agent for Baird and Walker include: daybook for a concern belonging to Baird and Walker, 1759-1769; ledger of sundry goods, 1757-1762; ledger for cargo, 1759; and ledger, 1751-1752. Other volumes include: daybooks, 1761-1800; ledgers, 1760-1801; cash sales, 1764-1782; invoice and inventory books, 1760-1796' balances due, 1766-1792; memorandum books, 1757-1800; and tobacco books 1757-1763, 1786-1804. Account books of the Shenandoah store operated by David Allason include: day book, 1761-1763; and ledgers, 1761-1763. Records of his operation of the Falmouth Store include: daybooks,1775-1777, 1786-1804; and ledgers, 1783-1801. Other volumes include: daybook and journal of private transaction, 1757-1769; daybook of Pine Forest Sawmill, 1787-1793; record of planks saved, 1787-1789; transaction at River Run mill, 1786-1787; and transaction for William Kirk's estate, 1781-1786. ",
+                "extent": "15.375 cu. ft.",
+                "displayEntry": "Allason, William, 1731-1800. Records, 1722-1847.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Allason, William, 1731-1800.",
+                        "id": "8510793",
+                        "version": "6755325"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6s003jc",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Library of Virginia",
+                            "preferenceScore": "99",
+                            "id": "85520694",
+                            "version": "11542216"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "11058",
+                                "uri": "http://www.geonames.org/4781708",
+                                "name": "Richmond",
+                                "latitude": "37.5537600",
+                                "longitude": "-77.4602600",
+                                "administrationCode": "VA",
+                                "countryCode": "US"
+                            },
+                            "confirmed": true,
+                            "id": "85520714",
+                            "version": "11542216"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Library of Virginia",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "800 E Broad St",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520709",
+                                    "version": "11542216"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Richmond",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520710",
+                                    "version": "11542216"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-VA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520711",
+                                    "version": "11542216"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "23219-1905",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520712",
+                                    "version": "11542216"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520713",
+                                    "version": "11542216"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "16989",
+                                "name": "Library of Virginia",
+                                "latitude": "37.5413666",
+                                "longitude": "-77.4346085"
+                            },
+                            "confirmed": true,
+                            "id": "85520708",
+                            "version": "11542216"
+                        }
+                    ],
+                    "id": "85520692",
+                    "version": "11542218"
+                },
+                "id": "6755325",
+                "version": "6755325"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85389895",
+            "version": "11513359"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/151372896",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:151372896</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-QQR</recordContentSource>\n                  </recordInfo>\n                  <titleInfo>\n                     <title>Coates and Reynell family papers, 1677-1930 bulk 1730-1850.</title>\n                  </titleInfo>\n                  <abstract>The Coates and Reynell Family papers document the professional and personal lives of elite Quakers in Philadelphia in the eighteenth and early nineteenth centuries through correspondence, scrapbooks, receipt books, ledgers, accounts, wills, deeds, and medical manuscripts. The collection is particularly strong in records of international and domestic trade, medical and scientific knowledge, and women's philanthropic activities. Letters and financial and legal documents recording the professional and personal activities of merchants John Reynell (1708-1784) and Samuel Coates (1748-1830) make up the bulk of the papers. The next most significant portion of the collection consists of scientific or medical essays, correspondence, and notes pertaining to Dr. Benjamin H. Coates. The papers of Mary and Beulah Coates consist of minutes for the meetings of their charitable societies and notes documenting Mary's genealogical research on the family. The collection also includes correspondence and financial records pertaining to the Zane, Shewbart, and Morris families, whose estates were settled by members of the Coates clan. </abstract>\n                  <name>\n                     <namePart>Historical Society of Pennsylvania</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Coates and Reynell family papers, 1677-1930 bulk 1730-1850.",
+                "abstract": "The Coates and Reynell Family papers document the professional and personal lives of elite Quakers in Philadelphia in the eighteenth and early nineteenth centuries through correspondence, scrapbooks, receipt books, ledgers, accounts, wills, deeds, and medical manuscripts. The collection is particularly strong in records of international and domestic trade, medical and scientific knowledge, and women's philanthropic activities. Letters and financial and legal documents recording the professional and personal activities of merchants John Reynell (1708-1784) and Samuel Coates (1748-1830) make up the bulk of the papers. The next most significant portion of the collection consists of scientific or medical essays, correspondence, and notes pertaining to Dr. Benjamin H. Coates. The papers of Mary and Beulah Coates consist of minutes for the meetings of their charitable societies and notes documenting Mary's genealogical research on the family. The collection also includes correspondence and financial records pertaining to the Zane, Shewbart, and Morris families, whose estates were settled by members of the Coates clan. ",
+                "extent": "66 boxes, 147 v. (40 linear ft.)",
+                "displayEntry": "Coates and Reynell family papers, 1677-1930 bulk 1730-1850.",
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w68h98vd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Historical Society of Pennsylvania",
+                            "preferenceScore": "99",
+                            "id": "83957705",
+                            "version": "11303673"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Philadelphia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957777",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957798",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "North Carolina",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957761",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Lancaster County",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957800",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957757",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957745",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957775",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957755",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957788",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957749",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957773",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957767",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Philadelphia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957790",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "British Columbia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957771",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957747",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Fairmount Park (Philadelphia, Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957802",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Easton (Northampton County)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957765",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957751",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957796",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957786",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957743",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Philadelphia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957763",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Historical Society of Pennsylvania",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Library",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957780",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "1300 Locust St",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957781",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Philadelphia",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957782",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957783",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19107",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957784",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "5",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957785",
+                                    "version": "11303666"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15385",
+                                "name": "Historical Society of Pennsylvania",
+                                "latitude": "39.9511500",
+                                "longitude": "-75.1592290"
+                            },
+                            "confirmed": true,
+                            "id": "83957779",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957794",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Philadelphia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957769",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957759",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957753",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957792",
+                            "version": "11303666"
+                        }
+                    ],
+                    "id": "83957693",
+                    "version": "11303676"
+                },
+                "id": "6858369",
+                "version": "6858369"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85389893",
+            "version": "11513359"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/hcmc-851",
+                "title": "American Friends' Letters, 1682-1986",
+                "abstract": "Chiefly letters; also documents, clippings, published articles, portraits, silhouettes, photographs and misc. mss. related to Friends in the United States. Letters shed light on many aspects of Quaker history and thought; topics discussed include news of family and Friends, slavery and freedmen, Native Americans, Society of Friends affairs and controversies (Elias Hicks and the Separation of 1827-1828, Wilbur-Gurney controversy, Richmond Declaration of Faith, etc.), woman's suffrage, Japan, missionary work, ministers, spiritual matters, business, education, Friends and the military, etc. Correspondents include Moses Brown, Elijah Coffin, Elihu Grant, Mary Coates Groth, J. Rendel Harris, Elias Hicks, John Hunt, Jesse Kersey, Esther B. Jones, Benjamin W. Ladd, Joseph Mendenhall, Lucretia Mott, William H. Nicholson, Robert Pleasants, James E. Rhoads, Elbert Russell, William Savery, Joseph Turner, John Greenleaf Whittier and others. Also includes papers of Masters and Sharpless families.",
+                "extent": "ca. 406 folders (19 boxes)",
+                "date": "1682-1986",
+                "displayEntry": "American Friends' Letters, 1682-1986",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Brown, Moses, 1738-1836.",
+                        "id": "9358005",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Coffin, Elijah, 1798-1862.",
+                        "id": "9358006",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Grant, Elihu, 1873-1942.",
+                        "id": "9358007",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Groth, Mary Coates.",
+                        "id": "9358008",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Harris, J. Rendel (James Rendel), 1852-1941.",
+                        "id": "9358009",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hicks, Elias, 1748-1830.",
+                        "id": "9358010",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1712-1778.",
+                        "id": "9358011",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jones, Esther B. (Esther Balderston), ca. 1890-1967.",
+                        "id": "9358012",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Kersey, Jesse, 1768-1845.",
+                        "id": "9358013",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Ladd, Benjamin W. (Benjamin Whitehead), 1783?-1851.",
+                        "id": "9358014",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Mendenhall, Joseph, b. 1829.",
+                        "id": "9358015",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Mott, Lucretia, 1793-1880.",
+                        "id": "9358016",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Nicholson, William H. (William Hopkins), 1827-1908.",
+                        "id": "9358017",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Pleasants, Robert, 1723-1801.",
+                        "id": "9358018",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Rhoads, James E. (James Evans), 1828-1895.",
+                        "id": "9358019",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Russell, Elbert, 1871-1951.",
+                        "id": "9358020",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Savery, William, 1750-1804.",
+                        "id": "9358021",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Turner, Joseph, 1765-1841.",
+                        "id": "9358022",
+                        "version": "7269113"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Whittier, John Greenleaf, 1807-1892.",
+                        "id": "9358023",
+                        "version": "7269113"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11651006",
+                        "version": "8395027"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7269113",
+                "version": "8395027"
+            },
+            "role": {
+                "id": "695",
+                "term": "contributorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#contributorOf",
+                "type": "document_role"
+            },
+            "id": "85391426",
+            "version": "11514023"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/122540395",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:122540395</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-QQR</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Gratz, Simon.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Commercial records, 1699-1835.</title>\n                  </titleInfo>\n                  <abstract>John Astley, 1799-1819; Thomas Astley, Philadelphia merchant, 1813-1835, correspondence on trade and land transactions; Andrew Clow and David Cay, Philadelphia merchants, papers, 1730-1816, relate to trade with England, West Indies, Newburyport, Mass., Wilmington, Del., and other places; Samuel Coates receipt books, 1740-1756, 1781-1818, and memorandum book, 1813-1818; William Manington accounts, 1699-1703; Cramond, Phillips and Company, Philadelphia merchants, correspondence, 1789-1801; Hamilton-Hood papers, 1813-1835, relate to commerce, finance, accounts, receipts, etc.; Thomas Barn day and receipt books, 1827-1835; William Clarkson and George Morrison ledger, 1767-1779; Isaac Zane ledger, 1748-1759; bonds, 1749-1775, miscellaneous agreements and obligations signed by men of the colonial period. </abstract>\n                  <name>\n                     <namePart>Historical Society of Pennsylvania</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Commercial records, 1699-1835.",
+                "abstract": "John Astley, 1799-1819; Thomas Astley, Philadelphia merchant, 1813-1835, correspondence on trade and land transactions; Andrew Clow and David Cay, Philadelphia merchants, papers, 1730-1816, relate to trade with England, West Indies, Newburyport, Mass., Wilmington, Del., and other places; Samuel Coates receipt books, 1740-1756, 1781-1818, and memorandum book, 1813-1818; William Manington accounts, 1699-1703; Cramond, Phillips and Company, Philadelphia merchants, correspondence, 1789-1801; Hamilton-Hood papers, 1813-1835, relate to commerce, finance, accounts, receipts, etc.; Thomas Barn day and receipt books, 1827-1835; William Clarkson and George Morrison ledger, 1767-1779; Isaac Zane ledger, 1748-1759; bonds, 1749-1775, miscellaneous agreements and obligations signed by men of the colonial period. ",
+                "displayEntry": "Gratz, Simon. Commercial records, 1699-1835.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Gratz, Simon.",
+                        "id": "8511655",
+                        "version": "6755907"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w68h98vd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Historical Society of Pennsylvania",
+                            "preferenceScore": "99",
+                            "id": "83957705",
+                            "version": "11303673"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Philadelphia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957777",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957798",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "North Carolina",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957761",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Lancaster County",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957800",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957757",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957745",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957775",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957755",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957788",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957749",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957773",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957767",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Philadelphia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957790",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "British Columbia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957771",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957747",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Fairmount Park (Philadelphia, Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957802",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Easton (Northampton County)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957765",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957751",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957796",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957786",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957743",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Philadelphia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957763",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Historical Society of Pennsylvania",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Library",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957780",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "1300 Locust St",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957781",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Philadelphia",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957782",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957783",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19107",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957784",
+                                    "version": "11303666"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "5",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "83957785",
+                                    "version": "11303666"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15385",
+                                "name": "Historical Society of Pennsylvania",
+                                "latitude": "39.9511500",
+                                "longitude": "-75.1592290"
+                            },
+                            "confirmed": true,
+                            "id": "83957779",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957794",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Philadelphia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957769",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957759",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957753",
+                            "version": "11303666"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "83957792",
+                            "version": "11303666"
+                        }
+                    ],
+                    "id": "83957693",
+                    "version": "11303676"
+                },
+                "id": "6755907",
+                "version": "6755907"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85389894",
+            "version": "11513359"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/659754046",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:659754046</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-HVC</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Benezet, Anthony, 1713-1784.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Zanes, Isaac.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Receipt for teaching, 1750 June 10, [Philadelphia], of Isaac Zanes / Anthony Benezet.</title>\n                  </titleInfo>\n                  <abstract>Receipt from Anthony Benezet to Isaac Zanes for teaching Zanes' children. </abstract>\n                  <name>\n                     <namePart>Haverford College Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Receipt for teaching, 1750 June 10, [Philadelphia], of Isaac Zanes / Anthony Benezet.",
+                "abstract": "Receipt from Anthony Benezet to Isaac Zanes for teaching Zanes' children. ",
+                "extent": "1 item (1 page) ; 10 x 26 cm.",
+                "displayEntry": "Benezet, Anthony, 1713-1784. Receipt for teaching, 1750 June 10, [Philadelphia], of Isaac Zanes / Anthony Benezet.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Benezet, Anthony, 1713-1784.",
+                        "id": "10596947",
+                        "version": "7950957"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Zanes, Isaac.",
+                        "id": "10596948",
+                        "version": "7950957"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7950957",
+                "version": "7950957"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "id": "85389892",
+            "version": "11513359"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.824-ead.xml",
+                "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <unittitle>Philadelphia Yearly Meeting of the Religious Society of Friends. Indian Committee. Records, 1791-1892</unittitle>\n                  <unitid>Mss.Film.824</unitid>\n                  <repository>\n                     <corpname>American Philosophical Society</corpname>\n                  </repository>\n                  <langmaterial>\n                     <language/>\n                  </langmaterial>\n                  <container>1-12</container>\n                  <physdesc>\n                     <extent>12.0 Microfilm reel(s)</extent>\n                  </physdesc>\n                  <unitdate>1791-1892</unitdate>\n                  <abstract>Twelve reels of letters, diaries, minutes, reports, speeches, accounts, and other archival material of missionaries and individual Quakers, 1791-1908. Includes: Minutes of the Committee for Promoting the Improvement and Gradual Civilization of the Indian Natives (1795-1895), Minutes of the Friendly Association for Regaining and Preserving Peace with the Indians by Pacific Measures (1756-1891); miscellaneous papers of teachers, pupils, visitors to Tunessassa Indian School, Quaker Bridge, New York, mostly twentieth century.</abstract>\n                  <physdesc>12 microfilm reels.</physdesc>\n                  <origination>\n                     <corpname>Philadelphia Yearly Meeting of the Religious Society of Friends.Indian Committee.</corpname>\n                  </origination>\n               </did>\n            </objectXMLWrap>",
+                "title": "Philadelphia Yearly Meeting of the Religious Society of Friends. Indian Committee. Records, 1791-1892 1791-1892",
+                "abstract": "Twelve reels of letters, diaries, minutes, reports, speeches, accounts, and other archival material of missionaries and individual Quakers, 1791-1908. Includes: Minutes of the Committee for Promoting the Improvement and Gradual Civilization of the Indian Natives (1795-1895), Minutes of the Friendly Association for Regaining and Preserving Peace with the Indians by Pacific Measures (1756-1891); miscellaneous papers of teachers, pupils, visitors to Tunessassa Indian School, Quaker Bridge, New York, mostly twentieth century.",
+                "extent": "12.0 Microfilm reel(s)",
+                "displayEntry": "Philadelphia Yearly Meeting of the Religious Society of Friends. Indian Committee. Records, 1791-1892, 1791-1892",
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6gn8xhn",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "American Philosophical Society",
+                            "preferenceScore": "99",
+                            "id": "84198487",
+                            "version": "11323308"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "84198505",
+                            "version": "11323301"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "84198499",
+                            "version": "11323301"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania--Philadelphia",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "84198501",
+                            "version": "11323301"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "84198497",
+                            "version": "11323301"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "84198507",
+                            "version": "11323301"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "84198503",
+                            "version": "11323301"
+                        }
+                    ],
+                    "id": "84198437",
+                    "version": "11323310"
+                },
+                "id": "6632166",
+                "version": "6632166"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85391425",
+            "version": "11514022"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/miscmss",
+                "title": "Friends Historical Library Miscellaneous Manuscripts Collection, 1547-1994",
+                "abstract": "The Friends Historical Library Miscellaneous Manuscripts is an artificial collection, established in the middle of the 20th century to store single and very small groups of manuscripts and documents, both originals and copies. The collection includes holdings relevant to antislavery, temperance, women's rights, penal reform, and other social concerns of Quakers in the United States and in England.",
+                "extent": "40 Linear Feet",
+                "date": "1547-1994",
+                "displayEntry": "Friends Historical Library Miscellaneous Manuscripts Collection, 1547-1994",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11651195",
+                        "version": "8395166"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "11651194",
+                "version": "8395166"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "note": "Isaac Zane was one of several signers of a 1791 letter to Corn Planter, a Seneca Chief, and of a 1793 letter from the Philadelphia Yearly Meeting's Meeting for Sufferings to \"Western\" Native Americans.",
+            "id": "85391222",
+            "version": "11513917"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386944"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85391427",
+            "version": "11514026"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400238",
+                "term": "Birth",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "5089",
+                "uri": "http://www.geonames.org/4501944",
+                "name": "Gloucester County",
+                "latitude": "39.7173100",
+                "longitude": "-75.1416700",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85389919",
+            "version": "11513368"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "10200",
+                "uri": "http://www.geonames.org/4560349",
+                "name": "Philadelphia",
+                "latitude": "39.9523400",
+                "longitude": "-75.1637900",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85389920",
+            "version": "11513369"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85391167",
+            "version": "11513885"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85391168",
+            "version": "11513885"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "95468",
+                "term": "Church work with Indians--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85391169",
+            "version": "11513886"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "330986",
+                "term": "Slavery and the church--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85391166",
+            "version": "11513885"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85391160",
+            "version": "11513882"
+        }
+    ],
+    "id": "85389877",
+    "version": "11514035",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1710-03",
+            "fromDateOriginal": "March 1710",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1794-03-06",
+            "toDateOriginal": "March 6, 1794",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "85389879",
+            "version": "11513377"
+        }
+    ]
+}

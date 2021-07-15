@@ -1,0 +1,2251 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6g77m31",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-19",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T22:38:08",
+            "standardDateTime": "2016-08-11T22:38:08",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T22:38:08",
+            "standardDateTime": "2016-08-11T22:38:08",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-04-23T14:50:49",
+            "standardDateTime": "2021-04-23T14:50:49",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85396387",
+                "version": "11515822"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 378. 1823, Hannah Yarnall, a minister, member of Byberry Monthly Meeting, deceased 2nd of the 7th month last, in the 58th year of her age.",
+            "citation": "Philadelphia Yearly Meeting minutes, 1799-1827 (A1.5), via Ancestry.com search, April 23, 2021",
+            "id": "85396386",
+            "version": "11515822"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394502",
+                "version": "11515233"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "vol. 1, p. 191. Hannah Haines; b. 2 mo. 26, 1765; d. 7 mo. 2, 1822; daughter of Edmond Haines (son of Abram Haines) and Elizabeth Warrington (dau. of Henry and Elizabeth (Bishop) Warrington); married 1st Joseph Thornton (1761-1790); mother of James Thornton (1795-); married 2nd Peter Yarnall (1754-1798); was a minister in the Society of Friends; traveled to Canada in 1803.",
+            "citation": "Haines, John Wesley, Richard Haines and his descendants, 1966",
+            "uri": "https://hdl.handle.net/2027/wu.89062876875?urlappend=%3Bseq=207",
+            "id": "85394499",
+            "version": "11515823"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF</citation></conventionDeclaration>",
+            "id": "25702885",
+            "version": "3755312"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85396471",
+            "version": "11515826"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Yarnall, Hannah Haines Thornton, 1765-1822",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85394353",
+                    "version": "11515211"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Yarnall",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85394350",
+                    "version": "11515211"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah Haines Thornton",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85394351",
+                    "version": "11515211"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1765-1822",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85394352",
+                    "version": "11515211"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394354",
+                "version": "11515211"
+            },
+            "id": "85394349",
+            "version": "11515211"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Yarnall, Hannah, 1765-1822",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85394329",
+                    "version": "11515211"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Yarnall",
+                    "order": "0",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85394326",
+                    "version": "11515211"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85394327",
+                    "version": "11515211"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1765-1822",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85394328",
+                    "version": "11515211"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394330",
+                "version": "11515211"
+            },
+            "id": "25702886",
+            "version": "11515211",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78904313",
+                    "version": "3755312"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Haines, Hannah, 1765-1822",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85394355",
+                    "version": "11515211"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Haines",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85394339",
+                    "version": "11515211"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85394345",
+                    "version": "11515211"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1765-1822",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85394346",
+                    "version": "11515211"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394343",
+                "version": "11515210"
+            },
+            "id": "25702890",
+            "version": "11515210",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78904314",
+                    "version": "3755312"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Thornton, Hannah, 1765-1822",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85394347",
+                    "version": "11515210"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Thornton",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85394344",
+                    "version": "11515210"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85394345",
+                    "version": "11515210"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1765-1822",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85394346",
+                    "version": "11515210"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394348",
+                "version": "11515210"
+            },
+            "id": "25702893",
+            "version": "11515210",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78904315",
+                    "version": "3755312"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Thornton, Hannah Haines, 1765-1822",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85394337",
+                    "version": "11515210"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Thornton",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85394334",
+                    "version": "11515210"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah Haines",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85394335",
+                    "version": "11515210"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1765-1822",
+                    "order": "3",
+                    "id": "85394336",
+                    "version": "11515210"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394338",
+                "version": "11515210"
+            },
+            "id": "85394333",
+            "version": "11515210"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85396473",
+            "version": "11515827"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85396474",
+            "version": "11515827"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "26986",
+                "term": "Women clergy",
+                "type": "occupation"
+            },
+            "id": "85396472",
+            "version": "11515827"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394332",
+                "version": "11515245"
+            },
+            "text": "<p xmlns=\"urn:isbn:1-931666-33-4\">Hannah Haines Thornton (1765-1822), daughter of Edmund and Elizabeth Haines, was the widow of Joseph Thornton, a Quaker minister of Byberry Monthly Meeting. Joseph was the son of James Thornton (1751-1794), also a minister, and Mary Knight. The family resided on a large property in Byberry, purchased in 1752. Hannah Haines and Joseph Thornton were married in 1783 at Evesham Monthly Meeting, New Jersey, and they had three sons. Joseph Thornton and two sons died by 1790. Hannah was an Elder and then acknowledged as a minister by Byberry Monthly Meeting. In 1797, she married fellow widower Peter Yarnall and assumed responsibility for the children of his first marriage. Peter Yarnall and Hannah Thornton Yarnall had one child, Hannah (1797-1876), and the family lived on the homestead of James Thornton in Byberry. Peter Yarnall died 1798, 2 month, 20. Hannah Haines Yarnall travelled widely in the ministry and died month 2, 1822.</p>\r\n<citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of the Richardson-Yarnall family papers, 1722-1962. (Friends Historical Library of Swarthmore College). http://archives.tricolib.brynmawr.edu/resources/5187rich</citation>",
+            "id": "85394331",
+            "version": "11515245"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "2579218",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6tq8ftp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Hannah Warrington.",
+            "note": "Hannah Haines Yarnall was the daughter of Elizabeth Warrington Haines, sister of Hannah Warrington Buzby.",
+            "id": "85396496",
+            "version": "11515840"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "65278400",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6qj854r",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Joseph",
+            "note": "Hannah Haines Yarnall was the daughter of Elizabeth Warrington Haines, sister of Joseph Buzby's wife Hannah Warrington.",
+            "id": "85396495",
+            "version": "11515840"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "39659699",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b890qh",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Byberry Monthly Meeting of the Religious Society of Friends",
+            "note": "Hannah Haines Thornton Yarnall was a minister of Byberry Monthly Meeting.",
+            "id": "85396498",
+            "version": "11515842"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "85359969",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28276",
+                "term": "parentOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, Enoch, 1743-1818",
+            "note": "Hannah Haines Yarnall was the step-daughter of Enoch Evans, who married Hannah's mother Elizabeth Warrington after the death of Hannah's father Edmund Haines in 1766.",
+            "id": "85396493",
+            "version": "11515836"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "85289148",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wx87x7",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Esther Warrington, 1743-1833",
+            "note": "Hannah Haines Yarnall was the daughter of Elizabeth Warrington Haines, sister of Esther Warrington Hunt.",
+            "id": "85396492",
+            "version": "11515834"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "note": "Hannah Haines Yarnall was the daughter of Elizabeth Warrington Haines, sister of John Hunt's wife Esther Warrington.",
+            "id": "85396489",
+            "version": "11515835"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "31401628",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6k08k1m",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Rachel H., 1791-1881.",
+            "id": "25702901",
+            "version": "3755312"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "85288342",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Rogers, William, 1731-1812",
+            "note": "Hannah Haines Yarnall was the daughter of Elizabeth Warrington Haines, sister of William Rogers's first wife Sarah Warrington.",
+            "id": "85396497",
+            "version": "11515841"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "10043205",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6cr7rz4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28238",
+                "term": "child-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Thornton, James, 1727-1794",
+            "note": "Hannah Haines's first husband was Joseph Thornton, son of James Thornton, Sr.",
+            "id": "85396487",
+            "version": "11515832"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "85378859",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6vj6d7g",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Thornton James 1761-1794",
+            "note": "Hannah Haines's first husband was Joseph Thornton, brother of James Thornton, Jr.",
+            "id": "85396490",
+            "version": "11515832"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "42201796",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Wills, Aaron, 1734-1805",
+            "note": "Hannah Haines Yarnall was the daughter of Elizabeth Warrington Haines, sister of Aaron Wills's wife Rachel Warrington.",
+            "id": "85396494",
+            "version": "11515838"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "53875699",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w65t5f9z",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28238",
+                "term": "child-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Yarnall, Mordecai, 1705-1772.",
+            "note": "Hannah Haines Thornton Yarnall married Peter Yarnall, son of Mordecai Yarnall.",
+            "id": "85396491",
+            "version": "11515833"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "25702881",
+            "targetConstellation": "85394506",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28284",
+                "term": "spouseOf",
+                "type": "relation_type"
+            },
+            "content": "Yarnall, Peter, 1754-1798",
+            "id": "85396488",
+            "version": "11515831"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Yarnall, Hannah, 1765-1822",
+            "uri": "https://viaf.org/viaf/51267862",
+            "id": "25702898",
+            "version": "3755312"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.worldcat.org/identities/lccn-no94036556",
+            "id": "25702899",
+            "version": "3755312"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/no94036556",
+            "id": "25702900",
+            "version": "3755312"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5187rich",
+                "title": "Richardson-Yarnall family papers,1722-1962",
+                "abstract": "The collection contains personal papers, primarily correspondence, of members of the Richardson and Yarnall families, Pennsylvania Quakers who emigrated to America in the 1680s. The families were united by the marriage in 1816 of Nathaniel Richardson and Hannah Yarnall of Byberry. Of special significance are the diaries of Quaker ministers Peter Yarnall (1754-1798) and his second wife, Hannah Haines Thornton Yarnall (1765-1822) and their correspondence with family and fellow ministers. The papers reflect the daily life and concerns of members of two prominent families in southeastern Pennsylvania from the 18th through much of the 20th centuries.",
+                "extent": "6 Linear Feet (13 boxes)",
+                "date": "1722-1962",
+                "displayEntry": "Richardson-Yarnall family papers, 1722-1962",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11651251",
+                        "version": "8395200"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "11651250",
+                "version": "8395200"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "id": "85396484",
+            "version": "11515829"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386944"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85396483",
+            "version": "11515829"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/repositories/7/resources/5932",
+                "title": "Roberts-Hunt family papers, 1677-1829.",
+                "abstract": "This collection includes papers relating to Rachel H. Roberts and her family. Included is correspondence between Esther Hunt Collins and her first husband, Joshua Hunt, his brother John, her children Elisha, Caleb and Rachel, her second husband, John Collins, and Hannah Yarnall. Also included is correspondence between Rachel H. Roberts and her husband, David. The collection includes genealogical information on the Roberts, Hooton, and other related families, along with wills and account books of Joseph and Susanna Roberts. Letters relate family news, impressions of Redstone Monthly Meeting of Friends, and discussions of Quaker discipline.",
+                "extent": "17 folders.",
+                "displayEntry": "Roberts, Rachel H., 1791-1881. Roberts-Hunt family papers, 1677-1829.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Rachel H., 1791-1881.",
+                        "id": "9433985",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Collins, Esther, 1751-1820.",
+                        "id": "9433986",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Joseph, 1742-1826.",
+                        "id": "9433987",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Susanna, 1751-1829.",
+                        "id": "9433988",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, Joshua, 1754-1792.",
+                        "id": "9433989",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, b. 1740.",
+                        "id": "9433990",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, David, 1792-1880.",
+                        "id": "9433991",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Yarnall, Hannah, 1765-1822.",
+                        "id": "9433992",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, Caleb, 1786-1834.",
+                        "id": "9433993",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, Elisha, 1779-1873.",
+                        "id": "9433994",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, d. 1824.",
+                        "id": "9433995",
+                        "version": "7319285"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11645368",
+                        "version": "8386425"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7319285",
+                "version": "7319285"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Roberts, Rachel H., 1791-1881. Roberts-Hunt family papers, 1677-1829.",
+            "id": "25702902",
+            "version": "3755312"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1732",
+                "uri": "http://www.geonames.org/4500994",
+                "name": "Burlington County",
+                "latitude": "39.8776900",
+                "longitude": "-74.6682000",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85396469",
+            "version": "11515825"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1774",
+                "uri": "http://www.geonames.org/5182616",
+                "name": "Byberry",
+                "latitude": "40.1548300",
+                "longitude": "-75.0662800",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85396468",
+            "version": "11515825"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85396477",
+            "version": "11515828"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "385162",
+                "term": "Women clergy",
+                "type": "subject"
+            },
+            "id": "85396481",
+            "version": "11515828"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299320",
+                "term": "Quaker women",
+                "type": "subject"
+            },
+            "id": "85396480",
+            "version": "11515828"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85396475",
+            "version": "11515828"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85396478",
+            "version": "11515828"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "240632",
+                "term": "Ministers (Clergy)",
+                "type": "subject"
+            },
+            "id": "85396476",
+            "version": "11515828"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85396479",
+            "version": "11515828"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "99170",
+                "term": "Clergy",
+                "type": "subject"
+            },
+            "id": "85396482",
+            "version": "11515828"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "99463",
+                "term": "Clergy--Travel",
+                "type": "subject"
+            },
+            "id": "85396486",
+            "version": "11515830"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "391417",
+                "term": "Women--Travel--History--19th century",
+                "type": "subject"
+            },
+            "id": "85396485",
+            "version": "11515830"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7654",
+                "term": "Female",
+                "type": "gender"
+            },
+            "id": "85396470",
+            "version": "11515826"
+        }
+    ],
+    "id": "25702881",
+    "version": "11515843",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1765-02-26",
+            "fromDateOriginal": "2 mo. 26, 1765",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1822-07-02",
+            "toDateOriginal": "7 mo. 2, 1822",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "25702882",
+            "version": "11515824",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "vol. 1, p. 191. Hannah Haines; b. 2 mo. 26, 1765; d. 7 mo. 2, 1822; daughter of Edmond Haines (son of Abram Haines) and Elizabeth Warrington (dau. of Henry and Elizabeth (Bishop) Warrington); married 1st Joseph Thornton (1761-1790); mother of James Thornton (1795-); married 2nd Peter Yarnall (1754-1798); was a minister in the Society of Friends; traveled to Canada in 1803.",
+                        "citation": "Haines, John Wesley, Richard Haines and his descendants, 1966",
+                        "uri": "https://hdl.handle.net/2027/wu.89062876875?urlappend=%3Bseq=207",
+                        "id": "85394499",
+                        "version": "11515823"
+                    },
+                    "id": "85396467",
+                    "version": "11515824"
+                }
+            ]
+        }
+    ]
+}

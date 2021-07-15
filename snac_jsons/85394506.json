@@ -1,0 +1,2583 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6kx66c3",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-04-23T12:15:20",
+            "standardDateTime": "2021-04-23T12:15:20",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85395822",
+                "version": "11515638"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 106. Peter Yarnall and Zebulon Pike were in the same military company during the Revolutionary war.",
+            "citation": "Gerard Hopkins, A Mission to the Indians from the Indian Committee of Baltimore Yearly Meeting to Fort Wayne, in 1804",
+            "uri": "https://pennstreaty.haverford.edu/page/SW_GH1804_105",
+            "id": "85395821",
+            "version": "11515638"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394535",
+                "version": "11515252"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "vol 1, pp. 191-192. Peter Yarnall, M.D., b. Philadelphia, Pa., 2 mo. 17, 1754; d. Byberry, Pa., Feb. 25, 1798; the son of Mordecai and Mary (Roberts) Yarnall.... Peter Yarnall was apprenticed by his father to learn the trade of tanner and currier. His employer giving up his business, he was apprenticed in 1770 to another master in Chester Co., Pa. He was granted a certificate, Philadelphia MM, Pa., 10 mo. 26, 1770, to Uwchlan MM, Pa. He ran away from his second employer, went to New York, and enlisted in the British Army. Because of this act he was disowned 9 mo. 10, 1772, by Uwchlan MM, When release from the Army was procured by the efforts of his father, he went to Trenton, Mercer Co., N.J., where he lived until his majority. Then he went to Germantown, Philadelphia, Pa., where he worked as a tanner and started to study medicine at the Pennsylvania Hospital. He was commissioned a Surgeon’s Mate of the 3d Pennsylvania Battalion, Feb. 7, 1776. In August, 1776, he transferred to the U. S. Navy. He returned to the Army May 22, 1777, as Surgeon’s Mate of the 4th Continental Dragoons and resigned four months later, Sept. 15, 1777. He resumed his professional studies and in 1779 was graduated from what is now the Medical Department of the University of Pennsylvania. He was restored as a member of Uwchlan MM 12 mo. 7, 1780. He lived for some years at Concord, Delaware Co., Pa. He went to York, Pa., in 1785; to Hatboro, Montgomery Co., Pa., in 1791, and to Byberry, Pa., in 1797. His will was dated 2 mo. 17, 1798; a codicil was dated 2 mo. 19, 1798, and his will was probated Mar. 5, 1798.",
+            "citation": "Haines, John Wesley, Richard Haines and his descendants, 1966",
+            "uri": "https://hdl.handle.net/2027/wu.89062876875?urlappend=%3Bseq=207",
+            "id": "85394534",
+            "version": "11515286"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394556",
+                "version": "11515283"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 419-424. Died 1798-02-20 at his house in Byberry in the 45th year of his age, after a short illness; son of Mordecai Yarnall; spent some time in the army around the time of the Revolution, but gave up these habits and was called to the ministry; moved into the boundaries of Horsham Monthly Meeting shortly thereafter.",
+            "citation": "Philadelphia Yearly Meeting book of testimonies (C5.22), via Ancestry.com search, April 22, 2021",
+            "id": "85394549",
+            "version": "11515283"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394779",
+                "version": "11515369"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 179, image 319. I, Peter Yarnall, of the township of Concord in the county of Chester in Pennsylvania, practitioner of physic, do hereby set free from bondage my mulatto boy named Job, aged about thirteen years, when shall arrive at the age of twenty one years... in witness whereof I have hereunto set my hand... this fifteenth day of the eleventh month anno domini one thousand seven hundred and eighty four.",
+            "citation": "Philadelphia Quarterly Meeting, “Manumissions, 1772-1790,” Philadelphia Congregations Early Records, accessed April 22, 2021",
+            "uri": "https://philadelphiacongregations.org/records/items/show/656#?c=&m=&s=&cv=318&xywh=-201%2C-1050%2C4011%2C7046",
+            "id": "85394778",
+            "version": "11515369"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85394571",
+            "version": "11515296"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Yarnall, Peter, 1754-1798",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85394511",
+                    "version": "11515237"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Yarnall",
+                    "order": "0",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85394508",
+                    "version": "11515237"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Peter",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85394509",
+                    "version": "11515237"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1754-1798",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85394510",
+                    "version": "11515237"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85394512",
+                "version": "11515237"
+            },
+            "id": "85394507",
+            "version": "11515237"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85394577",
+            "version": "11515296"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85394576",
+            "version": "11515296"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "13745",
+                "term": "Doctors",
+                "type": "occupation"
+            },
+            "id": "85394575",
+            "version": "11515296"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "24869",
+                "term": "Soldiers",
+                "type": "occupation"
+            },
+            "id": "85394573",
+            "version": "11515296"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "24734",
+                "term": "Slaveholders",
+                "type": "occupation"
+            },
+            "id": "85395604",
+            "version": "11515386",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 179, image 319. I, Peter Yarnall, of the township of Concord in the county of Chester in Pennsylvania, practitioner of physic, do hereby set free from bondage my mulatto boy named Job, aged about thirteen years, when shall arrive at the age of twenty one years... in witness whereof I have hereunto set my hand... this fifteenth day of the eleventh month anno domini one thousand seven hundred and eighty four.",
+                        "citation": "Philadelphia Quarterly Meeting, “Manumissions, 1772-1790,” Philadelphia Congregations Early Records, accessed April 22, 2021",
+                        "uri": "https://philadelphiacongregations.org/records/items/show/656#?c=&m=&s=&cv=318&xywh=-201%2C-1050%2C4011%2C7046",
+                        "id": "85394778",
+                        "version": "11515369"
+                    },
+                    "id": "85396372",
+                    "version": "11515764"
+                }
+            ]
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "9543",
+                "term": "Army surgeons",
+                "type": "occupation"
+            },
+            "id": "85394574",
+            "version": "11515296"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "25739",
+                "term": "Tanners",
+                "type": "occupation"
+            },
+            "id": "85394572",
+            "version": "11515296"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "text": "<p xmlns=\"urn:isbn:1-931666-33-4\">Peter Yarnall, a birthright member of Philadelphia Monthly Meeting, was born 1754, 2mo, 17 to Mordecai Yarnall and Mary Roberts Yarnall. Apprenticed to learn tanning, he transferred his membership to Uwchlan Monthly Meeting in 1771. The following year, he was dismissed by his master, enlisted in the military, and disowned by the Meeting. John Pemberton secured his release. Eventually Yarnall took up medicine under the guidance of Dr. Thomas Bond. In 1776 he joined the army as a surgeon's mate, working in various hospitals until he resigned for health issues. In 1779 he received a degree from the College of Physicians in Philadelphia and served at Pennsylvania Hospital. In 1780, he adopted the plain style of Friends and attended meeting, making acknowledgement to Uwchlan Monthly Meeting and Philadelphia Monthly Meeting of the South District for his military service. Returned to membership in the Society of Friends, he moved to Concord, Pennsylvania, and was acknowledged as a minister by Uwchlan Monthly Meeting in 1780. He transferred his membership to Philadelphia Monthly Meeting and then Concord Monthly Meeting. Enthusiastic in his manner, he was advised by prominent Quaker minister George Churchman to moderate his speech. In 1782, he was acknowledged as a minister by Concord Monthly Meeting.</p>\r\n<citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of the Richardson-Yarnall family papers, 1722-1962. (Friends Historical Library of Swarthmore College). http://archives.tricolib.brynmawr.edu/resources/5187rich</citation>",
+            "id": "85394533",
+            "version": "11515249"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "60235536",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n01qrn",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Bond, Thomas, 1712-1784",
+            "note": "Peter Yarnall studied medicine under the guidance of Dr. Thomas Bond.",
+            "id": "85396374",
+            "version": "11515765"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "73184126",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6jd66gz",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Churchman, George, 1730-1814",
+            "id": "85395633",
+            "version": "11515409"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "51503587",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w60616kc",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Concord Monthly Meeting (Society of Friends)",
+            "note": "Peter Yarnall was acknowledged as a minister by Concord Monthly Meeting in 1782.",
+            "id": "85395636",
+            "version": "11515411"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "26991682",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b01gx6",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cox, John, approximately 1754-1847",
+            "note": "Peter Yarnall and John Cox both participated in a Philadelphia Yearly Meeting committee formed in 1792 to unite with the Meeting for Sufferings in response to the Northwest Indian War",
+            "id": "85395812",
+            "version": "11515628"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "50872066",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6bk25xq",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cresson, Caleb, 1742-1816",
+            "note": "Peter Yarnall and Caleb Cresson both participated in a Philadelphia Yearly Meeting committee formed in 1792 to unite with the Meeting for Sufferings in response to the Northwest Indian War",
+            "id": "85395815",
+            "version": "11515628"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "44495596",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w60006f4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Dillwyn, George, 1738-1820",
+            "note": "Peter Yarnall and George Dillwyn both participated in a Philadelphia Yearly Meeting committee formed in 1792 to unite with the Meeting for Sufferings in response to the Northwest Indian War",
+            "id": "85395813",
+            "version": "11515628"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "19400093",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6rr1z7b",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Drinker, Henry, 1734-1809",
+            "id": "85395827",
+            "version": "11515644"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "3794602",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w64j24tr",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Emlen, James, 1760-1798.",
+            "note": "Peter Yarnall traveled in company with James Emlen to the southern states in 1796 and 1797.",
+            "id": "85395793",
+            "version": "11515618"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "85359969",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, Enoch, 1743-1818",
+            "note": "Peter Yarnall and Enoch Evans both participated in a Philadelphia Yearly Meeting committee formed in 1792 to unite with the Meeting for Sufferings in response to the Northwest Indian War",
+            "id": "85395816",
+            "version": "11515628"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "72128533",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b89cck",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Horsham Monthly Meeting of Friends",
+            "note": "Peter Yarnall was a minister of Horsham Monthly Meeting.",
+            "id": "85395612",
+            "version": "11515400"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "note": "Peter Yarnall married Hannah Haines Thornton, the niece of John Hunt's wife Esther Warrington Hunt. Hunt often referred to Yarnall as his cousin.",
+            "id": "85395610",
+            "version": "11515630"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "33467654",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w63n434v",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Lindley, Jacob, 1744-1814",
+            "id": "85395826",
+            "version": "11515644"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "23145759",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6cz4d1t",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Mifflin, Warner, 1745-1798.",
+            "note": "Peter Yarnall and Warner Mifflin both participated in a Philadelphia Yearly Meeting committee formed in 1792 to unite with the Meeting for Sufferings in response to the Northwest Indian War",
+            "id": "85395810",
+            "version": "11515628"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "6509056",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6cc1313",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Pemberton, James, 1723-1809",
+            "id": "85395828",
+            "version": "11515645"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "65867959",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6g19qrg",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28250",
+                "term": "employeeOf",
+                "type": "relation_type"
+            },
+            "content": "Pennsylvania Hospital (Philadelphia, Pa.)",
+            "note": "Peter Yarnall served at Pennsylvania Hospital 1779-1780.",
+            "id": "85396375",
+            "version": "11515766"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "41520092",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6df7stz",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Pike, Zebulon, 1751-1834",
+            "note": "Peter Yarnall and Zebulon Pike served in the same military company during the Revolutionary war.",
+            "id": "85395819",
+            "version": "11515639",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 106. Peter Yarnall and Zebulon Pike were in the same military company during the Revolutionary war.",
+                        "citation": "Gerard Hopkins, A Mission to the Indians from the Indian Committee of Baltimore Yearly Meeting to Fort Wayne, in 1804",
+                        "uri": "https://pennstreaty.haverford.edu/page/SW_GH1804_105",
+                        "id": "85395821",
+                        "version": "11515638"
+                    },
+                    "id": "85395823",
+                    "version": "11515639"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "85311292",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6x16z80",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Reeve, John, approximately 1729-1816",
+            "note": "Peter Yarnall and John Reeve both participated in a Philadelphia Yearly Meeting committee formed in 1792 to unite with the Meeting for Sufferings in response to the Northwest Indian War",
+            "id": "85395811",
+            "version": "11515628"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "9302981",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w68m543d",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Simpson, John, 1740-1813",
+            "note": "Peter Yarnall and James Simpson both participated in a Philadelphia Yearly Meeting committee formed in 1792 to unite with the Meeting for Sufferings in response to the Northwest Indian War",
+            "id": "85395814",
+            "version": "11515628"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "17012007",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6zk9cxf",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Swett, Benjamin, approximately 1738-1819",
+            "note": "Peter Yarnall and Benjamin Swett both participated in a Philadelphia Yearly Meeting committee formed in 1792 to unite with the Meeting for Sufferings in response to the Northwest Indian War",
+            "id": "85395809",
+            "version": "11515628"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "64362779",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w62g5whn",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "United States. Continental Army. Light Dragoons",
+            "note": "Peter Yarnall returned to the Army May 22, 1777, as Surgeon’s Mate of the 4th Continental Dragoons, and resigned four months later, Sept. 15, 1777. ",
+            "id": "85396366",
+            "version": "11515759"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "20015040",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6bw36gs",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "United States. Continental Army. Pennsylvania Battalion, 4th (1776)",
+            "note": "Peter Yarnall was commissioned a Surgeon’s Mate of the 3d Pennsylvania Battalion, Feb. 7, 1776.",
+            "id": "85396365",
+            "version": "11515758"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "54268689",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6xd7b6t",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Uwchlan Monthly Meeting (Society of Friends)",
+            "id": "85395613",
+            "version": "11515401"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "25702881",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28284",
+                "term": "spouseOf",
+                "type": "relation_type"
+            },
+            "content": "Yarnall, Hannah, 1765-1822",
+            "note": "Peter Yarnall married Hannah Haines Thornton in 1797.",
+            "id": "85395609",
+            "version": "11515398"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "53875699",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w65t5f9z",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28239",
+                "term": "childOf",
+                "type": "relation_type"
+            },
+            "content": "Yarnall, Mordecai, 1705-1772.",
+            "id": "85396373",
+            "version": "11515764"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85394506",
+            "targetConstellation": "43060627",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetArkID": "http://n2t.net/ark:/99166/w6bp3qhc",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28276",
+                "term": "parentOf",
+                "type": "relation_type"
+            },
+            "content": "Yarnall, Rebecca, 1786-1859.",
+            "id": "85396385",
+            "version": "11515770"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5187rich",
+                "title": "Richardson-Yarnall family papers,1722-1962",
+                "abstract": "The collection contains personal papers, primarily correspondence, of members of the Richardson and Yarnall families, Pennsylvania Quakers who emigrated to America in the 1680s. The families were united by the marriage in 1816 of Nathaniel Richardson and Hannah Yarnall of Byberry. Of special significance are the diaries of Quaker ministers Peter Yarnall (1754-1798) and his second wife, Hannah Haines Thornton Yarnall (1765-1822) and their correspondence with family and fellow ministers. The papers reflect the daily life and concerns of members of two prominent families in southeastern Pennsylvania from the 18th through much of the 20th centuries.",
+                "extent": "6 Linear Feet (13 boxes)",
+                "date": "1722-1962",
+                "displayEntry": "Richardson-Yarnall family papers, 1722-1962",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11651251",
+                        "version": "8395200"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "11651250",
+                "version": "8395200"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "id": "85394513",
+            "version": "11515237"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/sfhl-pa-185",
+                "title": "Richardson-Yarnall family pictures, 1806-1958",
+                "abstract": "The collection contains photographs and other images of members of the Richardson and Yarnall families, Pennsylvania Quakers who lived in Philadelpia and Byberry, Pennsylvania. The families were united by the marriage in 1816 of Nathaniel Richardson and Hannah Yarnall of Byberry. Of special interest are the silhouettes of members of the Richardson and Yarnall families created in the Peale Museum, Philadelphia.",
+                "extent": ".5 Linear Feet (1 box)",
+                "date": "1806-1958",
+                "displayEntry": "Richardson-Yarnall family pictures, 1806-1958",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11651588",
+                        "version": "8395446"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "11651587",
+                "version": "8395446"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85395606",
+            "version": "11515388"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386944"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85395607",
+            "version": "11515389"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/miscmss",
+                "title": "Friends Historical Library Miscellaneous Manuscripts Collection, 1547-1994",
+                "abstract": "The Friends Historical Library Miscellaneous Manuscripts is an artificial collection, established in the middle of the 20th century to store single and very small groups of manuscripts and documents, both originals and copies. The collection includes holdings relevant to antislavery, temperance, women's rights, penal reform, and other social concerns of Quakers in the United States and in England.",
+                "extent": "40 Linear Feet",
+                "date": "1547-1994",
+                "displayEntry": "Friends Historical Library Miscellaneous Manuscripts Collection, 1547-1994",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11651195",
+                        "version": "8395166"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "11651194",
+                "version": "8395166"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "note": "Peter Yarnall was one of a number of signatories of a 1794 \"Address to the Six Nations\"",
+            "id": "85395824",
+            "version": "11515640"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/hcmc-975-03-024",
+                "title": "Tamar Roberts Matlack commonplace book, 1807-1823",
+                "abstract": "The commonplace book of Tamar Roberts Matlack includes testimonies concerning the following Quakers: Elisha Kirk, Ruth Walmsley, Mary Knight, Martha Parry, and Peter Yarnall. The commonplace book also includes poetry and excerpts concerning Elias Hicks.",
+                "extent": "0.1 Linear Feet (1 volume)",
+                "date": "1807-1823",
+                "displayEntry": "Tamar Roberts Matlack commonplace book, 1807-1823",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11651586",
+                        "version": "8395445"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6d619q4",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Quaker & Special Collections",
+                            "preferenceScore": "99",
+                            "id": "76793560",
+                            "version": "11237605"
+                        }
+                    ],
+                    "id": "76793559",
+                    "version": "11237608"
+                },
+                "id": "11651585",
+                "version": "8395445"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85395605",
+            "version": "11515387"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "3368",
+                "uri": "http://www.geonames.org/5186677",
+                "name": "Delaware County",
+                "latitude": "39.9168100",
+                "longitude": "-75.3989000",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85394562",
+            "version": "11515293"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400238",
+                "term": "Birth",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "10200",
+                "uri": "http://www.geonames.org/4560349",
+                "name": "Philadelphia",
+                "latitude": "39.9523400",
+                "longitude": "-75.1637900",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85394565",
+            "version": "11515292"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1774",
+                "uri": "http://www.geonames.org/5182616",
+                "name": "Byberry",
+                "latitude": "40.1548300",
+                "longitude": "-75.0662800",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85394567",
+            "version": "11515294"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "2436",
+                "uri": "http://www.geonames.org/5184079",
+                "name": "Chester County",
+                "latitude": "39.9731400",
+                "longitude": "-75.7484500",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85394564",
+            "version": "11515292"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "13371",
+                "uri": "http://www.geonames.org/5105496",
+                "name": "Trenton",
+                "latitude": "40.2170500",
+                "longitude": "-74.7429400",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85394563",
+            "version": "11515292"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400239",
+                "term": "Death",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1774",
+                "uri": "http://www.geonames.org/5182616",
+                "name": "Byberry",
+                "latitude": "40.1548300",
+                "longitude": "-75.0662800",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85394566",
+            "version": "11515294"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85394578",
+            "version": "11515297"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85394579",
+            "version": "11515297"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85394580",
+            "version": "11515297"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "240632",
+                "term": "Ministers (Clergy)",
+                "type": "subject"
+            },
+            "id": "85394585",
+            "version": "11515300"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299115",
+                "term": "Quaker physicians",
+                "type": "subject"
+            },
+            "id": "85394598",
+            "version": "11515304"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85394581",
+            "version": "11515297"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85394570",
+            "version": "11515296"
+        }
+    ],
+    "id": "85394506",
+    "version": "11515772",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1754-02-17",
+            "fromDateOriginal": "2nd month 17, 1754",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1798-02-25",
+            "toDateOriginal": "February 25, 1798",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "85394557",
+            "version": "11515289",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "vol 1, pp. 191-192. Peter Yarnall, M.D., b. Philadelphia, Pa., 2 mo. 17, 1754; d. Byberry, Pa., Feb. 25, 1798; the son of Mordecai and Mary (Roberts) Yarnall.... Peter Yarnall was apprenticed by his father to learn the trade of tanner and currier. His employer giving up his business, he was apprenticed in 1770 to another master in Chester Co., Pa. He was granted a certificate, Philadelphia MM, Pa., 10 mo. 26, 1770, to Uwchlan MM, Pa. He ran away from his second employer, went to New York, and enlisted in the British Army. Because of this act he was disowned 9 mo. 10, 1772, by Uwchlan MM, When release from the Army was procured by the efforts of his father, he went to Trenton, Mercer Co., N.J., where he lived until his majority. Then he went to Germantown, Philadelphia, Pa., where he worked as a tanner and started to study medicine at the Pennsylvania Hospital. He was commissioned a Surgeon’s Mate of the 3d Pennsylvania Battalion, Feb. 7, 1776. In August, 1776, he transferred to the U. S. Navy. He returned to the Army May 22, 1777, as Surgeon’s Mate of the 4th Continental Dragoons and resigned four months later, Sept. 15, 1777. He resumed his professional studies and in 1779 was graduated from what is now the Medical Department of the University of Pennsylvania. He was restored as a member of Uwchlan MM 12 mo. 7, 1780. He lived for some years at Concord, Delaware Co., Pa. He went to York, Pa., in 1785; to Hatboro, Montgomery Co., Pa., in 1791, and to Byberry, Pa., in 1797. His will was dated 2 mo. 17, 1798; a codicil was dated 2 mo. 19, 1798, and his will was probated Mar. 5, 1798.",
+                        "citation": "Haines, John Wesley, Richard Haines and his descendants, 1966",
+                        "uri": "https://hdl.handle.net/2027/wu.89062876875?urlappend=%3Bseq=207",
+                        "id": "85394534",
+                        "version": "11515286"
+                    },
+                    "id": "85394559",
+                    "version": "11515288"
+                }
+            ]
+        }
+    ]
+}

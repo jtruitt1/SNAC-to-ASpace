@@ -1,0 +1,1854 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6zk9cxf",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-18",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T00:21:00",
+            "standardDateTime": "2016-08-11T00:21:00",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T00:21:00",
+            "standardDateTime": "2016-08-11T00:21:00",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-17T10:55:34",
+            "standardDateTime": "2021-03-17T10:55:34",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-17T15:26:58",
+            "standardDateTime": "2021-03-17T15:26:58",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-17T15:31:16",
+            "standardDateTime": "2021-03-17T15:31:16",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "Republish: User canceled edit without making changes"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85360380",
+                "version": "11503583"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 54. Benjamin Swett junr., of the city of Philadelphia in Pennsylvania, merchant, son of John Swett late of Wilmington in New Castle County in Delaware, deceased; and Mary Howell, of the said city, daughter of Jacob Howell Junr. of the Borrough of Chester in the Province aforesaid, were married the 27th day of the 5th month in the year 1762.",
+            "citation": "Monthly Meeting of Friends of Philadelphia, Marriages 1759-1814, via Ancestry.com search, March 17, 2021",
+            "id": "85360378",
+            "version": "11503583"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85360377",
+                "version": "11503581"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "SWETT, Benjamin (or Sweat), c.1738-1819. b. c. 1738, son of John Swett (or Sweat). Lived most of his life near Burlington, N.J. m., 1762, Mary Howell of Phila. Both she and her husband became ministers among Friends. 1771 he visited on Long Island, N.Y. In 1775 they brough their certificates to the monthly meeting at Haddonfield. 1778 accompanied John Hunt in a visit to the Indians livong near Edgepelick, N.J. 1797-1801 his wife accompanied Charity Cook on a visit to Friends and others in Europe. d. March 27, 1819 near Haddonfield, his 81st year.",
+            "citation": "Dictionary of Quaker Biography, Haverford College",
+            "id": "85360376",
+            "version": "11503581"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85360395",
+                "version": "11503594"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 336. Benjamin Swett, a minister member of Haddonfield Monthly Meeting, deceased 27th of the 3rd month 1819, in the 80th year of his Age.",
+            "citation": "Philadelphia Yearly Meeting minutes, 1799-1827, via Ancestry.com search, March 17, 2021",
+            "id": "85360394",
+            "version": "11503594"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://www.worldcat.org/oclc/26444267",
+            "id": "17012009",
+            "version": "2483861"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85360450",
+            "version": "11503615"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Swett, Benjamin, approximately 1738-1819",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85310679",
+                    "version": "11490512"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Swett",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85310676",
+                    "version": "11490512"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Benjamin",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85310677",
+                    "version": "11490512"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "approximately 1738-1819",
+                    "order": "4",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85310678",
+                    "version": "11490512"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85310680",
+                "version": "11490512"
+            },
+            "id": "17012010",
+            "version": "11490512",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78194978",
+                    "version": "2483861"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Sweat, Benjamin, approximately 1738-1819",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85360406",
+                    "version": "11503597"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Sweat",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85360403",
+                    "version": "11503597"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Benjamin",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85360404",
+                    "version": "11503597"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "approximately 1738-1819",
+                    "order": "4",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85360405",
+                    "version": "11503597"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85360407",
+                "version": "11503597"
+            },
+            "id": "85360402",
+            "version": "11503597"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85360445",
+            "version": "11503611"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "19339",
+                "term": "Merchants",
+                "type": "occupation"
+            },
+            "id": "85360444",
+            "version": "11503611"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85360443",
+            "version": "11503611"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85360452",
+                "version": "11503664"
+            },
+            "text": "Benjamin Swett (1738-1819) was a Quaker minister. He was born to John Swett around 1738, likely in Delaware. In 1759, Philadelphia Yearly Meeting granted him a certificate to visit. Swett married Mary Howell of Philadelphia in 1762, and both he and his wife later became ministers. The couple moved to Burlington, New Jersey, and later to Haddonfield, New Jersey. In 1771, Swett visited Long Island, New York, on a religious visit. In 1778, Swett accompanied John Hunt in a visit to Native Americans living near Edgepelick, New Jersey. From 1797 to 1801, the Swetts accompanied Charity Cook on a visit to Friends in Europe. Swett also served on Philadelphia Yearly Meeting's Indian Committee. Benjamin Swett died March 27, 1819, near Haddonfield, New Jersey, and left money to the Society of Friends for the care of people with mental illness.\r\n",
+            "id": "85360451",
+            "version": "11503664"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "17012007",
+            "targetConstellation": "13797784",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6zk9cxf",
+            "targetArkID": "http://n2t.net/ark:/99166/w6f1984q",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cook, Charity, 1745-1822",
+            "id": "85360504",
+            "version": "11503642"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "17012007",
+            "targetConstellation": "44495596",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6zk9cxf",
+            "targetArkID": "http://n2t.net/ark:/99166/w60006f4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "Dillwyn, George, 1738-1820",
+            "id": "85360526",
+            "version": "11503651"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "17012007",
+            "targetConstellation": "68042571",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6zk9cxf",
+            "targetArkID": "http://n2t.net/ark:/99166/w6ds13bk",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Haddonfield Monthly Meeting of the Religious Society of Friends",
+            "note": "Benjamin Swett was a minister of Haddonfield Monthly Meeting",
+            "id": "85360507",
+            "version": "11503644",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 336. Benjamin Swett, a minister member of Haddonfield Monthly Meeting, deceased 27th of the 3rd month 1819, in the 80th year of his Age.",
+                        "citation": "Philadelphia Yearly Meeting minutes, 1799-1827, via Ancestry.com search, March 17, 2021",
+                        "id": "85360394",
+                        "version": "11503594"
+                    },
+                    "id": "85360508",
+                    "version": "11503644"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "SWETT, Benjamin (or Sweat), c.1738-1819. b. c. 1738, son of John Swett (or Sweat). Lived most of his life near Burlington, N.J. m., 1762, Mary Howell of Phila. Both she and her husband became ministers among Friends. 1771 he visited on Long Island, N.Y. In 1775 they brough their certificates to the monthly meeting at Haddonfield. 1778 accompanied John Hunt in a visit to the Indians livong near Edgepelick, N.J. 1797-1801 his wife accompanied Charity Cook on a visit to Friends and others in Europe. d. March 27, 1819 near Haddonfield, his 81st year.",
+                        "citation": "Dictionary of Quaker Biography, Haverford College",
+                        "id": "85360376",
+                        "version": "11503581"
+                    },
+                    "id": "85360509",
+                    "version": "11503644"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "17012007",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6zk9cxf",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85360505",
+            "version": "11503642",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "SWETT, Benjamin (or Sweat), c.1738-1819. b. c. 1738, son of John Swett (or Sweat). Lived most of his life near Burlington, N.J. m., 1762, Mary Howell of Phila. Both she and her husband became ministers among Friends. 1771 he visited on Long Island, N.Y. In 1775 they brough their certificates to the monthly meeting at Haddonfield. 1778 accompanied John Hunt in a visit to the Indians livong near Edgepelick, N.J. 1797-1801 his wife accompanied Charity Cook on a visit to Friends and others in Europe. d. March 27, 1819 near Haddonfield, his 81st year.",
+                        "citation": "Dictionary of Quaker Biography, Haverford College",
+                        "id": "85360376",
+                        "version": "11503581"
+                    },
+                    "id": "85360510",
+                    "version": "11503644"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "17012007",
+            "targetConstellation": "56185517",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6zk9cxf",
+            "targetArkID": "http://n2t.net/ark:/99166/w6sv1xbm",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Philadelphia Yearly Meeting of the Religious Society of Friends. Indian Committee",
+            "id": "85360527",
+            "version": "11503654"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "17012007",
+            "targetConstellation": "69112313",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6zk9cxf",
+            "targetArkID": "http://n2t.net/ark:/99166/w68d3sbk",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28284",
+                "term": "spouseOf",
+                "type": "relation_type"
+            },
+            "content": "Swett, Mary Howell, approximately 1739-1821",
+            "note": "Benjamin Swett married Mary Howell in 1762.",
+            "id": "85361069",
+            "version": "11503953"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/hcmc-975-02-021",
+                "title": "Benjamin Swett letterbook",
+                "abstract": "The first half of the volume contains business correspondence concerning merchant's orders and the status of shipments. The second half of the volume contains personal correspondence, chiefly letters from Benjamin Swett to Mary Howell Swett, his wife. Letters are addressed to William Johnson, Isaac Milnor, Harper & Hartshorne, John Wickman & Sons, Barclay & Sons, Richard Mayhew, Joseph Brown, Jonathon Cowpland, David Symour, Arnoll & Mayhew, Thomas Letchworth, George Dillwyn, Sally Hopkins, and John Smith.",
+                "extent": "0.12 Linear Feet (1 volume)",
+                "date": "1765-1806",
+                "displayEntry": "Benjamin Swett letterbook",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11646713",
+                        "version": "8387416"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6d619q4",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Quaker & Special Collections",
+                            "preferenceScore": "99",
+                            "id": "76793560",
+                            "version": "11237605"
+                        }
+                    ],
+                    "id": "76793559",
+                    "version": "11237608"
+                },
+                "id": "11646712",
+                "version": "8387416"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "id": "85310681",
+            "version": "11490513"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/hcmc-1001",
+                "title": "Haddon-Estaugh-Hopkins family papers, 1676-1841 (bulk 1676-1800).",
+                "abstract": "Chiefly land related papers (deeds, maps, surveys, etc.) and correspondence, diaries, wills, testimonies, travel and marriage certificates, genealogy and other misc. papers of Haddon, Estaugh, Hopkins, Swett and related Quaker families of New Jersey.  Includes deeds, maps, surveys and other papers (1676-1838) related to land in New Jersey purchased by John Haddon and other Quakers; business and legal papers (1701-1757) of John Estaugh includes his correspondence with the Pennsylvania Land Company of London as well as letters from Caleb Pusey, James Logan and others; also includes powers of attorney, receipts, bills; misc. land related papers (1684-1744) of William Shandlaw, John Wightman, Richard Buckele and others; letters and business papers (1722-1738) of William Rawle; business and legal papers (1701-1789) concerning settlement of Haddon, Estaugh and Hopkins family matters; letters (1713-1719) of John and Elizabeth Haddon to John and Elizabeth Estaugh on family and business matters; letters (1724-1744) of Sarah Hopkins to Elizabeth Estaugh. Business correspondence and papers (1749-1760) of Elizabeth Estaugh includes correspondence with Thomas Hyam concerning dispute over John Estaugh's management of property. Letters, diaries, testimonies, travel and marriage certificates, and misc. papers (1734-1841) of Swett and related Quaker families and Friends; includes letters (1734-1817) chiefly addressed to Mary Swett, correspondents include Martha Allinson, Ann Christy, George Dillwyn, Susanna Emlen, Rebecca Jones, Richard Jordan, Martha Winter Routh, George Stacey, Benjamin Swett, Joseph Cooper Swett and others; diaries of Sarah Cresson, Benjamin Swett, Mary Swett.",
+                "extent": "ca. 400 items (9 boxes)",
+                "date": "1676-1841",
+                "displayEntry": "Haddon-Estaugh-Hopkins family papers, 1676-1841 (bulk 1676-1800).",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Allinson, Martha, 1747-1823.",
+                        "id": "9144689",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Buckele, Richard.",
+                        "id": "9144690",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Christy, Ann, 1744-1809.",
+                        "id": "9144691",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cresson, Sarah, 1771-1829.",
+                        "id": "9144692",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Dillwyn, George, 1738-1820.",
+                        "id": "9144693",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Emlen, Susanna.",
+                        "id": "9144694",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Estaugh, Elizabeth Haddon, 1682-1762.",
+                        "id": "9144695",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Estaugh, John, 1676-1742.",
+                        "id": "9144696",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Haddon, John, 1653-1724.",
+                        "id": "9144697",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hopkins, Ebenezer, 1718-1757.",
+                        "id": "9144698",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hopkins, Sarah, 1687-1758.",
+                        "id": "9144699",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hyam, Thomas.",
+                        "id": "9144700",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jones, Rebecca, 1739-1817.",
+                        "id": "9144701",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jordan, Richard, 1756-1826.",
+                        "id": "9144702",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Logan, James, 1674-1751.",
+                        "id": "9144703",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Pusey, Caleb, 1650?-1727.",
+                        "id": "9144704",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Rawle, William.",
+                        "id": "9144705",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Routh, Martha Winter, 1743-1817.",
+                        "id": "9144706",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Shandlaw, William.",
+                        "id": "9144707",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stacey, George, 1749-1816.",
+                        "id": "9144708",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Swett, Benjamin, ca. 1738-1819.",
+                        "id": "9144709",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Swett, Joseph Cooper.",
+                        "id": "9144710",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Swett, Mary.",
+                        "id": "9144711",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wightman, John.",
+                        "id": "9144712",
+                        "version": "7162465"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Pensilvania Land Company in London.",
+                        "id": "9144713",
+                        "version": "7162465"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11646709",
+                        "version": "8387414"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7162465",
+                "version": "7162465"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Allinson, Martha, 1747-1823. Haddon-Estaugh-Hopkins family papers, 1676-1841 (bulk 1676-1800).",
+            "id": "17012015",
+            "version": "2483861"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/hcmc-1001-b",
+                "title": "Mary Howell Swett papers, 1797-1820",
+                "abstract": "This collection is comprised of the papers of Mary Howell Swett, which include lists of places she visited and one volume of financial information.",
+                "extent": "0.27 Linear Feet",
+                "date": "1797-1820",
+                "displayEntry": "Mary Howell Swett papers, 1797-1820",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11646719",
+                        "version": "8387420"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6d619q4",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Quaker & Special Collections",
+                            "preferenceScore": "99",
+                            "id": "76793560",
+                            "version": "11237605"
+                        }
+                    ],
+                    "id": "76793559",
+                    "version": "11237608"
+                },
+                "id": "11646718",
+                "version": "8387420"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85360539",
+            "version": "11503663"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/hcmc-975-01-079",
+                "title": "Mary Howell Swett diary, 1797-1799",
+                "abstract": "This collection is comprised of the single handwritten journal of Mary Swett's religious visit to England in 1797. Entries describe her travel, attendance at meetings, and Quaker hosts in England.",
+                "extent": "0.08 Linear Feet (1 volume)",
+                "date": "1797-1799",
+                "displayEntry": "Mary Howell Swett diary, 1797-1799",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11646717",
+                        "version": "8387419"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6d619q4",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Quaker & Special Collections",
+                            "preferenceScore": "99",
+                            "id": "76793560",
+                            "version": "11237605"
+                        }
+                    ],
+                    "id": "76793559",
+                    "version": "11237608"
+                },
+                "id": "11646716",
+                "version": "8387419"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85360538",
+            "version": "11503663"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386944"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85360498",
+            "version": "11503639"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/hcmc-975-10-007",
+                "title": "Swett family Bible.",
+                "abstract": "This collection is comprised of a printed Bible, which includes a brief concordance and index in the back. Between the Aprocrypha and New Testament is a handwritten genealogy of the Swett family. It also includes a note that the Bible was gifted from William Hudson to hid graddaughter Mary Howell in 173_.",
+                "extent": "0.2 linear feet",
+                "date": "1732",
+                "displayEntry": "Swett family Bible. 1732",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11646711",
+                        "version": "8387415"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "11646710",
+                "version": "8387415"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85310682",
+            "version": "11490513"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "5460",
+                "uri": "http://www.geonames.org/4502103",
+                "name": "Haddonfield",
+                "latitude": "39.8915000",
+                "longitude": "-75.0376700",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85360431",
+            "version": "11503607"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "10200",
+                "uri": "http://www.geonames.org/4560349",
+                "name": "Philadelphia",
+                "latitude": "39.9523400",
+                "longitude": "-75.1637900",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85360430",
+            "version": "11503607"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334796",
+                "term": "Society of Friends--Indians",
+                "type": "subject"
+            },
+            "id": "85360537",
+            "version": "11503662"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85360448",
+            "version": "11503614"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "95456",
+                "term": "Church work with Indians",
+                "type": "subject"
+            },
+            "id": "85360536",
+            "version": "11503662"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85360446",
+            "version": "11503614"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85360447",
+            "version": "11503614"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85360449",
+            "version": "11503614"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85360442",
+            "version": "11503611"
+        }
+    ],
+    "id": "17012007",
+    "version": "11503959",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1738",
+            "fromDateOriginal": "approximately 1738",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "fromRange": {
+                "notBefore": "1737",
+                "notAfter": "1739"
+            },
+            "toDate": "1819-03-27",
+            "toDateOriginal": "March 27, 1819",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "17012008",
+            "version": "11503665",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 336. Benjamin Swett, a minister member of Haddonfield Monthly Meeting, deceased 27th of the 3rd month 1819, in the 80th year of his Age.",
+                        "citation": "Philadelphia Yearly Meeting minutes, 1799-1827, via Ancestry.com search, March 17, 2021",
+                        "id": "85360394",
+                        "version": "11503594"
+                    },
+                    "id": "85360429",
+                    "version": "11503606"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1479 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6r525r2",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-17",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-14T00:52:53",
+            "standardDateTime": "2016-08-14T00:52:53",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-14T00:52:53",
+            "standardDateTime": "2016-08-14T00:52:53",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-26T09:49:10",
+            "standardDateTime": "2021-01-26T09:49:10",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "Republish: User canceled edit without making changes"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-27T10:03:08",
+            "standardDateTime": "2021-01-27T10:03:08",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-02-02T13:35:01",
+            "standardDateTime": "2021-02-02T13:35:01",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "Republish: User canceled edit without making changes"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-02-02T13:36:57",
+            "standardDateTime": "2021-02-02T13:36:57",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85297354",
+                "version": "11487586"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 68. Aaron Wills, son of Daniel Wills, born 4th Month 23rd 1734, deceased 4th Month 29th 1805.",
+            "citation": "A List of Members of the Monthly Meeting of Friends held in Burlington, 1805, via Ancestry.com search, 27 January 2021",
+            "id": "85297352",
+            "version": "11487586"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://www.worldcat.org/oclc/70971327",
+            "id": "42201798",
+            "version": "6161753"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85297363",
+                "version": "11487591"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 392-393. At a montly meeting held at Haddonfield the 13th of the 11 month 1758 ... Aaron Wills son of Daniel Wills and Rachel Warrington daughter of Henry Warrington declared their intentions of marriage with each other, the young man belonging to Burlington monthly meeting.",
+            "citation": "Book of minutes belonging to Haddonfield Monthly Meeting, volume 2, via Ancestry.com search, 27 January 2021",
+            "id": "85297362",
+            "version": "11487593"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://viaf.org/viaf/60923176",
+            "id": "42201799",
+            "version": "6161753"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85297351",
+                "version": "11487584"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 47. Joseph Wills was the son of Aaron Wills and Rachel Warrington, the dau. of Henry Warrington and Elizabeth Bishop, his 2nd wife. Aaron was the son of Daniel Wills and Elizabeth Woolston, the dau. of John Woolston ... and Hannah Cooper, his 2nd wife.... Daniel Wills was the son of John Wills and Hope Delefaste.",
+            "citation": "Genealogy of the Stokes family, descended from Thomas and Mary Stokes who settled in Burlington county, N. J., 1903",
+            "uri": "https://hdl.handle.net/2027/wu.89066283334?urlappend=%3Bseq=59",
+            "id": "85297350",
+            "version": "11487584"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85297359",
+                "version": "11487589"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "Image 15. A list of the names of the ministers and elders belonging to the monthly meeting of Burlington: Aaron Wills (deceased 4th month 1805).",
+            "citation": "Burlington Monthly Meeting minutes, 1764-1806, via Ancestry.com search, 27 January 2021",
+            "id": "85297355",
+            "version": "11487589"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85297380",
+                "version": "11487598"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 22. Ancocas particular meeting. Aaron Wills and Rachel his wife; Joseph and Samuel their children.",
+            "citation": "A List of the members of the Monthly Meeting of Burlington, 2 December 1776, via Ancestry.com search, 27 January 2021",
+            "id": "85297379",
+            "version": "11487598"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF</citation></conventionDeclaration>",
+            "id": "42201800",
+            "version": "6161753"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85297397",
+            "version": "11487609"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Wills, Aaron, 1734-1805",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85297348",
+                    "version": "11487582"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Wills",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85297345",
+                    "version": "11487582"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Aaron",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85297346",
+                    "version": "11487582"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1734-1805",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85297347",
+                    "version": "11487582"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85297349",
+                "version": "11487582"
+            },
+            "id": "42201801",
+            "version": "11487582",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "80248648",
+                    "version": "6161753"
+                }
+            ]
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85297398",
+            "version": "11487610"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "14077",
+                "term": "Elders",
+                "type": "occupation"
+            },
+            "id": "85307955",
+            "version": "11489623"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85297429",
+                "version": "11487639"
+            },
+            "text": "Aaron Wills was a Quaker from Burlington County, New Jersey. He was born to Daniel Wills and Elizabeth Woolston on 23 June 1734 (old style). In 1758 he married Rachel Warrington, daughter of Henry Warrington and Elizabeth Bishop. Wills died on 29 April 1805.",
+            "id": "85297426",
+            "version": "11487639"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "59583036",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6mh3fp2",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Burlington Monthly Meeting (Society of Friends : 1678-1827)",
+            "note": "Aaron Wills was noted on a list of elders and ministers of Burlington Monthly Meeting.",
+            "id": "85297424",
+            "version": "11487635",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "Image 15. A list of the names of the ministers and elders belonging to the monthly meeting of Burlington: Aaron Wills (deceased 4th month 1805).",
+                        "citation": "Burlington Monthly Meeting minutes, 1764-1806, via Ancestry.com search, 27 January 2021",
+                        "id": "85297355",
+                        "version": "11487589"
+                    },
+                    "id": "85297425",
+                    "version": "11487635"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "2579218",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6tq8ftp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Hannah Warrington.",
+            "note": "Aaron Wills married Rachel Warrington, sister of Hannah Warrington Buzby.",
+            "id": "85297407",
+            "version": "11487619"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "65278400",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6qj854r",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Joseph",
+            "note": "Aaron Wills married Rachel Warrington, sister of Joseph Buzby's wife Hannah.",
+            "id": "85297406",
+            "version": "11487618"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "85289148",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wx87x7",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Esther, 1743-1833",
+            "note": "Aaron Wills married Rachel Warrington, sister of Esther Hunt.",
+            "id": "85297403",
+            "version": "11487616"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "note": "Aaron Wills married Rachel Warrington, sister of John Hunt's wife Esther.",
+            "id": "85297405",
+            "version": "11487617"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85297428",
+            "version": "11487638"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "85290220",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6jb6xn6",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Lippincott, Joshua, 1732-1813",
+            "note": "Aaron Wills was a first cousin of Joshua Lippincott. Wills's father Daniel was the brother of Lippincott's mother Elizabeth Wills.",
+            "id": "85297427",
+            "version": "11487637"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "53306558",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6904hjh",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Peacock, Adonijah",
+            "note": "Aaron Wills sold land in Moorestown, New Jersey, to Adonijah Peacock in 1773.",
+            "id": "85297402",
+            "version": "11487615"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "85288342",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Rogers, William, 1731-1812",
+            "note": "Aaron Wills's son Samuel married Grace Rogers, the daughter of William Rogers and his second wife.",
+            "id": "85297420",
+            "version": "11487628"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "85288342",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Rogers, William, 1731-1812",
+            "note": "Aaron Wills married Rachel Warrington, sister of WIlliam Rogers's first wife Sarah.",
+            "id": "85297404",
+            "version": "11487627"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "935091",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6088mm4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28238",
+                "term": "child-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Elizabeth Bishop",
+            "note": "Aaron Wills married Rachel Warrington, daughter of Elizabeth Bishop Warrington.",
+            "id": "85297422",
+            "version": "11487634"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "22509214",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6h44564",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28238",
+                "term": "child-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Henry",
+            "note": "Aaron Wills married Rachel Warrington, daughter of Henry Warrington.",
+            "id": "85297423",
+            "version": "11487634"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "14777823",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w6bv9xp3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Joseph, 1730-1803",
+            "note": "Aaron Wills married Rachel Warrington, sister of Joseph Warrington.",
+            "id": "85297419",
+            "version": "11487624"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "42201796",
+            "targetConstellation": "5796280",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetArkID": "http://n2t.net/ark:/99166/w64n1mqv",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Rebecca Walton.",
+            "note": "Aaron Wills married Rachel Warrington, sister of Rebecca Walton Warrington's husband Joseph.",
+            "id": "85297418",
+            "version": "11487624"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Wills, Aaron",
+            "uri": "https://viaf.org/viaf/60923176",
+            "id": "42201807",
+            "version": "6161753"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.worldcat.org/identities/lccn-n2003090497",
+            "id": "42201808",
+            "version": "6161753"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/n2003090497",
+            "id": "42201809",
+            "version": "6161753"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386449"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85297401",
+            "version": "11487612"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/70971327",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:70971327</recordOrigin>\n                     <recordContentSource>ISIL:NjMorHI</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Budd, John, landowner.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Shinn, Levi.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Prickett, John, landowner.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Wills, Jonathan.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Heulings, William.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Stokes, Joseph, landowner.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Wills, Aaron.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Peacock, Adonijah.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Evans, Elizabeth, of Moorestown, N.J.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Haines, Solomon.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Hooton, Thomas.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Wilson, Thomas, landowner.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Rogers, Ann Wilson.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Stokces, Joshua.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Burr, George.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Bates, John, Jr.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Shreve, Caleb, 1766-1836.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Shreve, Benjamin.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Cline, Ephraim.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Hillman collection, 1743-1859.</title>\n                  </titleInfo>\n                  <abstract>Deeds from Levi Shinn to John Prickett (1745) for land in Evesham Township, Burlington County, N.J., from William Heulings (1764) to Joseph Stokes, Moorestown, from Aaron Wills (1773) to Adonijah Peacock for land in Moorestown, and from Solomon Haines (1800) to Thomas Hooton; quitclaim (1743) by John Budd to Levi Shinn and John Prickett; obligation of debt (1759) of Jonathan Wills to Elizabeth Sharp; map (1792) of Lumberton lots on the west side of the road; small ms. book (1796) belonging to Elizabeth Evans; certificates (1814) between Joshua Stokes and George Burr and between Joshua Stokes (1814) and George Burr; mortgage deed (1827) from John Bates, Jr., to Caleb Shreve and Benjamin Shreve; and documents (3 items, 1846-1859) concerning the appointment of road surveyors and a meeting to discuss the laying out of a public road in Evesham Township. </abstract>\n                  <name>\n                     <namePart>Unknown</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Hillman collection, 1743-1859.",
+                "abstract": "Deeds from Levi Shinn to John Prickett (1745) for land in Evesham Township, Burlington County, N.J., from William Heulings (1764) to Joseph Stokes, Moorestown, from Aaron Wills (1773) to Adonijah Peacock for land in Moorestown, and from Solomon Haines (1800) to Thomas Hooton; quitclaim (1743) by John Budd to Levi Shinn and John Prickett; obligation of debt (1759) of Jonathan Wills to Elizabeth Sharp; map (1792) of Lumberton lots on the west side of the road; small ms. book (1796) belonging to Elizabeth Evans; certificates (1814) between Joshua Stokes and George Burr and between Joshua Stokes (1814) and George Burr; mortgage deed (1827) from John Bates, Jr., to Caleb Shreve and Benjamin Shreve; and documents (3 items, 1846-1859) concerning the appointment of road surveyors and a meeting to discuss the laying out of a public road in Evesham Township. ",
+                "extent": "18 items.",
+                "displayEntry": "Budd, John, landowner. Hillman collection, 1743-1859.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Budd, John, landowner.",
+                        "id": "10788628",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Shinn, Levi.",
+                        "id": "10788629",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Prickett, John, landowner.",
+                        "id": "10788630",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wills, Jonathan.",
+                        "id": "10788631",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Heulings, William.",
+                        "id": "10788632",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stokes, Joseph, landowner.",
+                        "id": "10788633",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wills, Aaron.",
+                        "id": "10788634",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Peacock, Adonijah.",
+                        "id": "10788635",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Evans, Elizabeth, of Moorestown, N.J.",
+                        "id": "10788636",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Haines, Solomon.",
+                        "id": "10788637",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hooton, Thomas.",
+                        "id": "10788638",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wilson, Thomas, landowner.",
+                        "id": "10788639",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Rogers, Ann Wilson.",
+                        "id": "10788640",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stokces, Joshua.",
+                        "id": "10788641",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Burr, George.",
+                        "id": "10788642",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Bates, John, Jr.",
+                        "id": "10788643",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Shreve, Caleb, 1766-1836.",
+                        "id": "10788644",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Shreve, Benjamin.",
+                        "id": "10788645",
+                        "version": "8060696"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cline, Ephraim.",
+                        "id": "10788646",
+                        "version": "8060696"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6kj19tg",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Historical Society of Moorestown",
+                            "preferenceScore": "99",
+                            "id": "76769922",
+                            "version": "11227745"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Historical Society of Moorestown",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "12 High St., P.O. Box 477  Moorestown, New Jersey 08057  United States",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769926",
+                                    "version": "11227745"
+                                }
+                            ],
+                            "id": "76769925",
+                            "version": "11227745"
+                        }
+                    ],
+                    "id": "76769921",
+                    "version": "11227748"
+                },
+                "id": "8060696",
+                "version": "8060696"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Budd, John, landowner. Hillman collection, 1743-1859.",
+            "id": "42201810",
+            "version": "6161753"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1732",
+                "uri": "http://www.geonames.org/4500994",
+                "name": "Burlington County",
+                "latitude": "39.8776900",
+                "longitude": "-74.6682000",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85297395",
+            "version": "11487608"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85297399",
+            "version": "11487611"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85297400",
+            "version": "11487611"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85297396",
+            "version": "11487609"
+        }
+    ],
+    "id": "42201796",
+    "version": "11489624",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1734-07-04",
+            "fromDateOriginal": "23 June 1734 (old style)",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1805-04-29",
+            "toDateOriginal": "29 April 1805",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "42201797",
+            "version": "11487607"
+        }
+    ]
+}

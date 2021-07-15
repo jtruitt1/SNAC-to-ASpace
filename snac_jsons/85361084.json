@@ -1,0 +1,1180 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w65v49t0",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-22T10:38:36",
+            "standardDateTime": "2021-03-22T10:38:36",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-22T11:03:48",
+            "standardDateTime": "2021-03-22T11:03:48",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85361107",
+                "version": "11503980"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 538-539. Hannah Foster (1710-1777). Born at Evesham, N. J. 10mo. (December) 17, 1710. Daughter of Enoch and Sarah [Roberts] Core. Her father died when she was very young, and her mother brought up her and her three other children in the fear of God. She married in 1729 William Foster, and later visited most of the American meetings of Friends, except the Carolinas. In 1770 she accompanied Rebecca Jones to New York Yearly Meeting, on Long Island. She died at Evesham, 1mo. 14, 1777 at the age of sixty six having been a minister for forty years. Hannah Foster's husband, William Foster, was a prominent Friend in his neighborhood, and was one of the Commissioners appointed by the Legislature in 1758 to purchase land for the Indian Reservation, and who bought the tract in Burlington County, later called \"Brotherton.\" William and Hannah Foster had twelve children.",
+            "citation": "Gummere, Amelia Mott, The Journal and Essays of John Woolman, 1922",
+            "uri": "https://books.google.com/books?id=6UQLAAAAIAAJ&pg=PA538#v=onepage&q&f=false",
+            "id": "85361106",
+            "version": "11503980"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85361104",
+                "version": "11503976"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 5. William Foster, son of Josiah and Amy Foster, born the 13th of 12th Month 1706/7, and Hannah Foster his wife, born the 17th of 10th Month 1710. William Foster departed this life the 1st day of 11th Month 1778.",
+            "citation": "First Record Book of Births and Deaths of Members of Evesham Monthly Meeting, via Ancestry.com search, March 17, 2021",
+            "id": "85361103",
+            "version": "11503977"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85361110",
+                "version": "11503982"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 78. Testimony of the Monthly Meeting held at Evesham in New Jersey… concerning our well-esteemed Friend Hannah Foster a minister deceased. She was the daughter of Enoch and Sarah Core of Evesham and was born on the 17thday of the tenth month 1710;her father died while she was very young, and left her and other children under the care of their mother whose religious concern for them was great.... In the year 1729 she was married to our friend William Foster, and entered into the care of a family.... Sometime after her marriage, ... she had a gift in the ministry committed to her, ... and through Divine aid became a lively minister. She visited most of the meetings on the continent of America except some parts of Virginia, and Carolina.... departed this life on the 14th day of the first month 1777.",
+            "citation": "A Book for Entering the Several Testimonies of Friends, Philadelphia Yearly Meeting, via Ancestry.com search, March 17, 2021",
+            "id": "85361108",
+            "version": "11503982"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Foster, Hannah Core, 1710-1777",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85361095",
+                    "version": "11503971"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Foster",
+                    "order": "0",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85361092",
+                    "version": "11503971"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah Core",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85361093",
+                    "version": "11503971"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1710-1777",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85361094",
+                    "version": "11503971"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85361096",
+                "version": "11503971"
+            },
+            "id": "85361091",
+            "version": "11503971"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Foster, Hannah, 1710-1777",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85361089",
+                    "version": "11503973"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Foster",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85361086",
+                    "version": "11503973"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85361087",
+                    "version": "11503973"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1710-1777",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85361088",
+                    "version": "11503973"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85361090",
+                "version": "11503971"
+            },
+            "id": "85361085",
+            "version": "11503971"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Core, Hannah, 1710-1777",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85361101",
+                    "version": "11503973"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Core",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85361098",
+                    "version": "11503973"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85361099",
+                    "version": "11503973"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1710-1777",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85361100",
+                    "version": "11503973"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85361102",
+                "version": "11503973"
+            },
+            "id": "85361097",
+            "version": "11503973"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85366010",
+            "version": "11505262",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 78. Testimony of the Monthly Meeting held at Evesham in New Jersey… concerning our well-esteemed Friend Hannah Foster a minister deceased. She was the daughter of Enoch and Sarah Core of Evesham and was born on the 17thday of the tenth month 1710;her father died while she was very young, and left her and other children under the care of their mother whose religious concern for them was great.... In the year 1729 she was married to our friend William Foster, and entered into the care of a family.... Sometime after her marriage, ... she had a gift in the ministry committed to her, ... and through Divine aid became a lively minister. She visited most of the meetings on the continent of America except some parts of Virginia, and Carolina.... departed this life on the 14th day of the first month 1777.",
+                        "citation": "A Book for Entering the Several Testimonies of Friends, Philadelphia Yearly Meeting, via Ancestry.com search, March 17, 2021",
+                        "id": "85361108",
+                        "version": "11503982"
+                    },
+                    "id": "85366011",
+                    "version": "11505262"
+                }
+            ]
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "26986",
+                "term": "Women clergy",
+                "type": "occupation"
+            },
+            "id": "85366008",
+            "version": "11505262",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 78. Testimony of the Monthly Meeting held at Evesham in New Jersey… concerning our well-esteemed Friend Hannah Foster a minister deceased. She was the daughter of Enoch and Sarah Core of Evesham and was born on the 17thday of the tenth month 1710;her father died while she was very young, and left her and other children under the care of their mother whose religious concern for them was great.... In the year 1729 she was married to our friend William Foster, and entered into the care of a family.... Sometime after her marriage, ... she had a gift in the ministry committed to her, ... and through Divine aid became a lively minister. She visited most of the meetings on the continent of America except some parts of Virginia, and Carolina.... departed this life on the 14th day of the first month 1777.",
+                        "citation": "A Book for Entering the Several Testimonies of Friends, Philadelphia Yearly Meeting, via Ancestry.com search, March 17, 2021",
+                        "id": "85361108",
+                        "version": "11503982"
+                    },
+                    "id": "85366009",
+                    "version": "11505262"
+                }
+            ]
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85366007",
+            "version": "11505262"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "text": "<biogHist><p>Hannah Core Foster was a Quaker minister from Evesham, New Jersey. She was born to Enoch and Sarah (Roberts) Core on December 28, 1710 (the 17th of 10th month, old style). Her father died when she was very young, and her mother brought up Hannah and her three siblings. She married William Foster in 1729, and the couple had 12 children. In her work as a minister Foster visited most of the American meetings of Friends, and in 1770 she accompanied Rebecca Jones to New York Yearly Meeting on Long Island. She died at the beginning of 1777 at the age of sixty six, having been a minister for forty years.</p>\r\n<citation xmlns=\"urn:isbn:1-976230-51-9\">Adapted from the profile of Foster in The Journal and Essays of John Woolman, edited by Amelia Mott Gummere</citation>\r\n           </biogHist>",
+            "id": "85366000",
+            "version": "11505338",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 538-539. Hannah Foster (1710-1777). Born at Evesham, N. J. 10mo. (December) 17, 1710. Daughter of Enoch and Sarah [Roberts] Core. Her father died when she was very young, and her mother brought up her and her three other children in the fear of God. She married in 1729 William Foster, and later visited most of the American meetings of Friends, except the Carolinas. In 1770 she accompanied Rebecca Jones to New York Yearly Meeting, on Long Island. She died at Evesham, 1mo. 14, 1777 at the age of sixty six having been a minister for forty years. Hannah Foster's husband, William Foster, was a prominent Friend in his neighborhood, and was one of the Commissioners appointed by the Legislature in 1758 to purchase land for the Indian Reservation, and who bought the tract in Burlington County, later called \"Brotherton.\" William and Hannah Foster had twelve children.",
+                        "citation": "Gummere, Amelia Mott, The Journal and Essays of John Woolman, 1922",
+                        "uri": "https://books.google.com/books?id=6UQLAAAAIAAJ&pg=PA538#v=onepage&q&f=false",
+                        "id": "85361106",
+                        "version": "11503980"
+                    },
+                    "id": "85366117",
+                    "version": "11505305"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85361084",
+            "targetConstellation": "23038346",
+            "sourceArkID": "http://n2t.net/ark:/99166/w65v49t0",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b918fj",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+            "note": "Hannah Foster Core was a minister of Evesham Monthly Meeting.",
+            "id": "85366234",
+            "version": "11505381",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 78. Testimony of the Monthly Meeting held at Evesham in New Jersey… concerning our well-esteemed Friend Hannah Foster a minister deceased. She was the daughter of Enoch and Sarah Core of Evesham and was born on the 17thday of the tenth month 1710;her father died while she was very young, and left her and other children under the care of their mother whose religious concern for them was great.... In the year 1729 she was married to our friend William Foster, and entered into the care of a family.... Sometime after her marriage, ... she had a gift in the ministry committed to her, ... and through Divine aid became a lively minister. She visited most of the meetings on the continent of America except some parts of Virginia, and Carolina.... departed this life on the 14th day of the first month 1777.",
+                        "citation": "A Book for Entering the Several Testimonies of Friends, Philadelphia Yearly Meeting, via Ancestry.com search, March 17, 2021",
+                        "id": "85361108",
+                        "version": "11503982"
+                    },
+                    "id": "85366235",
+                    "version": "11505381"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85361084",
+            "targetConstellation": "63764441",
+            "sourceArkID": "http://n2t.net/ark:/99166/w65v49t0",
+            "targetArkID": "http://n2t.net/ark:/99166/w6rr22nb",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28276",
+                "term": "parentOf",
+                "type": "relation_type"
+            },
+            "content": "Foster, Josiah, 1743-1820",
+            "id": "85366063",
+            "version": "11505283"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85361084",
+            "targetConstellation": "72779524",
+            "sourceArkID": "http://n2t.net/ark:/99166/w65v49t0",
+            "targetArkID": "http://n2t.net/ark:/99166/w6gb275h",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28284",
+                "term": "spouseOf",
+                "type": "relation_type"
+            },
+            "content": "Foster, William, 1707-1778",
+            "note": "Hannah Core Foster married William Foster in 1729 and had 12 children with him.",
+            "id": "85366037",
+            "version": "11505274",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 538-539. Hannah Foster (1710-1777). Born at Evesham, N. J. 10mo. (December) 17, 1710. Daughter of Enoch and Sarah [Roberts] Core. Her father died when she was very young, and her mother brought up her and her three other children in the fear of God. She married in 1729 William Foster, and later visited most of the American meetings of Friends, except the Carolinas. In 1770 she accompanied Rebecca Jones to New York Yearly Meeting, on Long Island. She died at Evesham, 1mo. 14, 1777 at the age of sixty six having been a minister for forty years. Hannah Foster's husband, William Foster, was a prominent Friend in his neighborhood, and was one of the Commissioners appointed by the Legislature in 1758 to purchase land for the Indian Reservation, and who bought the tract in Burlington County, later called \"Brotherton.\" William and Hannah Foster had twelve children.",
+                        "citation": "Gummere, Amelia Mott, The Journal and Essays of John Woolman, 1922",
+                        "uri": "https://books.google.com/books?id=6UQLAAAAIAAJ&pg=PA538#v=onepage&q&f=false",
+                        "id": "85361106",
+                        "version": "11503980"
+                    },
+                    "id": "85366038",
+                    "version": "11505274"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 5. William Foster, son of Josiah and Amy Foster, born the 13th of 12th Month 1706/7, and Hannah Foster his wife, born the 17th of 10th Month 1710. William Foster departed this life the 1st day of 11th Month 1778.",
+                        "citation": "First Record Book of Births and Deaths of Members of Evesham Monthly Meeting, via Ancestry.com search, March 17, 2021",
+                        "id": "85361103",
+                        "version": "11503977"
+                    },
+                    "id": "85366039",
+                    "version": "11505274"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85361084",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w65v49t0",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85366059",
+            "version": "11505280"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85361084",
+            "targetConstellation": "85312751",
+            "sourceArkID": "http://n2t.net/ark:/99166/w65v49t0",
+            "targetArkID": "http://n2t.net/ark:/99166/w6ph2gz9",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Rebecca Stokes, 1720-1815",
+            "note": "Hannah Core Foster was 1st cousins with Rebecca Stokes Roberts by marriage. Foster's mother, Sarah Roberts, was the sister of John Roberts, the father of Rebecca Stokes Roberts's husband Joshua.",
+            "id": "85366068",
+            "version": "11505285"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386944"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85366026",
+            "version": "11505267"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1732",
+                "uri": "http://www.geonames.org/4500994",
+                "name": "Burlington County",
+                "latitude": "39.8776900",
+                "longitude": "-74.6682000",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85366004",
+            "version": "11505260",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 538-539. Hannah Foster (1710-1777). Born at Evesham, N. J. 10mo. (December) 17, 1710. Daughter of Enoch and Sarah [Roberts] Core. Her father died when she was very young, and her mother brought up her and her three other children in the fear of God. She married in 1729 William Foster, and later visited most of the American meetings of Friends, except the Carolinas. In 1770 she accompanied Rebecca Jones to New York Yearly Meeting, on Long Island. She died at Evesham, 1mo. 14, 1777 at the age of sixty six having been a minister for forty years. Hannah Foster's husband, William Foster, was a prominent Friend in his neighborhood, and was one of the Commissioners appointed by the Legislature in 1758 to purchase land for the Indian Reservation, and who bought the tract in Burlington County, later called \"Brotherton.\" William and Hannah Foster had twelve children.",
+                        "citation": "Gummere, Amelia Mott, The Journal and Essays of John Woolman, 1922",
+                        "uri": "https://books.google.com/books?id=6UQLAAAAIAAJ&pg=PA538#v=onepage&q&f=false",
+                        "id": "85361106",
+                        "version": "11503980"
+                    },
+                    "id": "85366005",
+                    "version": "11505260"
+                }
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85366012",
+            "version": "11505263"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85366015",
+            "version": "11505263"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85366014",
+            "version": "11505263"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85366013",
+            "version": "11505263"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "99463",
+                "term": "Clergy--Travel",
+                "type": "subject"
+            },
+            "id": "85366025",
+            "version": "11505266"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7654",
+                "term": "Female",
+                "type": "gender"
+            },
+            "id": "85366006",
+            "version": "11505261"
+        }
+    ],
+    "id": "85361084",
+    "version": "11505382",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1710-12-28",
+            "fromDateOriginal": "17th of 10th Month 1710 (o.s.)",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1777-01-14",
+            "toDateOriginal": "the 14th day of the first month 1777",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "85366001",
+            "version": "11505259",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 78. Testimony of the Monthly Meeting held at Evesham in New Jersey… concerning our well-esteemed Friend Hannah Foster a minister deceased. She was the daughter of Enoch and Sarah Core of Evesham and was born on the 17thday of the tenth month 1710;her father died while she was very young, and left her and other children under the care of their mother whose religious concern for them was great.... In the year 1729 she was married to our friend William Foster, and entered into the care of a family.... Sometime after her marriage, ... she had a gift in the ministry committed to her, ... and through Divine aid became a lively minister. She visited most of the meetings on the continent of America except some parts of Virginia, and Carolina.... departed this life on the 14th day of the first month 1777.",
+                        "citation": "A Book for Entering the Several Testimonies of Friends, Philadelphia Yearly Meeting, via Ancestry.com search, March 17, 2021",
+                        "id": "85361108",
+                        "version": "11503982"
+                    },
+                    "id": "85366002",
+                    "version": "11505259"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 5. William Foster, son of Josiah and Amy Foster, born the 13th of 12th Month 1706/7, and Hannah Foster his wife, born the 17th of 10th Month 1710. William Foster departed this life the 1st day of 11th Month 1778.",
+                        "citation": "First Record Book of Births and Deaths of Members of Evesham Monthly Meeting, via Ancestry.com search, March 17, 2021",
+                        "id": "85361103",
+                        "version": "11503977"
+                    },
+                    "id": "85366003",
+                    "version": "11505259"
+                }
+            ]
+        }
+    ]
+}

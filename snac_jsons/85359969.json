@@ -1,0 +1,1118 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6wt9jhx",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-17T08:57:30",
+            "standardDateTime": "2021-03-17T08:57:30",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-17T09:02:27",
+            "standardDateTime": "2021-03-17T09:02:27",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-17T11:08:48",
+            "standardDateTime": "2021-03-17T11:08:48",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-12T09:34:15",
+            "standardDateTime": "2021-07-12T09:34:15",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85359977",
+                "version": "11503329"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "Image 9. A list of members of Upper Evesham Preparative Meeting of Ministers and Elders since its establishment in 1794… Enoch Evans, an elder, deceased 5th month 30th 1818, aged 74 years.",
+            "citation": "Minutes of Upper Evesham Preparative Meeting of Ministers and Elders, book 3, 1882-1922, via Ancestry.com search, March 16, 2021",
+            "id": "85359970",
+            "version": "11503329"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85360000",
+                "version": "11503358"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 658-659. 31 of the 5th month 1818. We went to the burial of our brother in law,  Enoch Evans, an elder whose last wife was my wife’s sister Elizabeth. He has been very poorly some years past with paralytic dropsy and a variety of disorders. At last died very sudden in his chair alone. He had a few minutes before he was found dead been out in the yard talking with their carpenter.",
+            "citation": "Hunt, John, “Our Beloved Friend” : The Journals of John Hunt, 1770-1824, 2018",
+            "id": "85359999",
+            "version": "11503358"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85359998",
+                "version": "11503357"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 129. 3rd month 1787. Enoch Evans and Elizabeth Haines, widow of Edmund Haines, appeared and declared their intention of marriage with each other.",
+            "citation": "Minutes of Evesham Monthly Meeting, 1783-1790, via Ancestry.com search, March 16, 2021",
+            "id": "85359996",
+            "version": "11503357"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85359990",
+                "version": "11503342"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 4. Enoch Evans, son of William Evans and Sarah Roberts Evans; b. 1743-02-27; m. 1st 1769-11-16 to Mary Wilcox (b. 1753-08-29, d. 1785-03-21, daut. of Joseph and Sarah Wilcox); m. 2nd 1787-04-12 to Elizabeth; d. 1818-05-29",
+            "citation": "Upper Evesham Monthly Meeting, record of births and burials, 1693-1871, via Ancestry.com search, March 16, 2021",
+            "id": "85359982",
+            "version": "11503342"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85359994",
+                "version": "11503352"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 22. Enoch Evans, son of William Evans deceased and Sarah his wife, of the township of Evesham and county of Burlington and province of West New Jersey, and Mary Wilcox, daughter of Joseph Wilcox and Sarah his wife, of the township, county, and province aforesaid, were married on the 16th day of the 11th month 1769.",
+            "citation": "Second book of marriages of Evesham Monthly Meeting, via Ancestry.com search, March 16, 2021",
+            "id": "85359993",
+            "version": "11503355"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Evans, Enoch, 1743-1818",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85359976",
+                    "version": "11503562"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Evans",
+                    "order": "0",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85359973",
+                    "version": "11503562"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Enoch",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85359974",
+                    "version": "11503562"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1743-1818",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85359975",
+                    "version": "11503562"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85360356",
+                "version": "11503562"
+            },
+            "id": "85359972",
+            "version": "11503562"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85360173",
+            "version": "11503466"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85360355",
+                "version": "11503562"
+            },
+            "text": "Enoch Evans was a Quaker from Burlington County, New Jersey. He was born 8 May 1743 (27th of 2nd month, old style) to William Evans and Sarah Roberts Evans. In  1769 he married Mary Wilcox (1753-1785), daughter of Joseph and Sarah Wilcox; the couple had 5 children together. After Mary's death in 1785, Evans married Elizabeth Warrington Haines, widow of Edmund Haines and daughter of Henry Warrington, in 1787. Evans was recognized as an elder by Upper Evesham Monthly Meeting. He died on May 29, 1818, after several years of poor health.",
+            "id": "85360351",
+            "version": "11503562",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 658-659. 31 of the 5th month 1818. We went to the burial of our brother in law,  Enoch Evans, an elder whose last wife was my wife’s sister Elizabeth. He has been very poorly some years past with paralytic dropsy and a variety of disorders. At last died very sudden in his chair alone. He had a few minutes before he was found dead been out in the yard talking with their carpenter.",
+                        "citation": "Hunt, John, “Our Beloved Friend” : The Journals of John Hunt, 1770-1824, 2018",
+                        "id": "85359999",
+                        "version": "11503358"
+                    },
+                    "id": "85360352",
+                    "version": "11503562"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "Image 9. A list of members of Upper Evesham Preparative Meeting of Ministers and Elders since its establishment in 1794… Enoch Evans, an elder, deceased 5th month 30th 1818, aged 74 years.",
+                        "citation": "Minutes of Upper Evesham Preparative Meeting of Ministers and Elders, book 3, 1882-1922, via Ancestry.com search, March 16, 2021",
+                        "id": "85359970",
+                        "version": "11503329"
+                    },
+                    "id": "85360353",
+                    "version": "11503562"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. 4. Enoch Evans, son of William Evans and Sarah Roberts Evans; b. 1743-02-27; m. 1st 1769-11-16 to Mary Wilcox (b. 1753-08-29, d. 1785-03-21, daut. of Joseph and Sarah Wilcox); m. 2nd 1787-04-12 to Elizabeth; d. 1818-05-29",
+                        "citation": "Upper Evesham Monthly Meeting, record of births and burials, 1693-1871, via Ancestry.com search, March 16, 2021",
+                        "id": "85359982",
+                        "version": "11503342"
+                    },
+                    "id": "85360354",
+                    "version": "11503562"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "65278400",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6qj854r",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Joseph",
+            "note": "Enoch Evans's second wife, Elizabeth Warrington Haines, was the sister of Joseph Buzby's wife, Hannah Warrington.",
+            "id": "85360368",
+            "version": "11503571"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "39627413",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6s820ss",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Chester Monthly Meeting (Society of Friends : 1803-1827 : Moorestown, N.J.)",
+            "note": "Enoch Evans was an elder of Chester Monthly Meeting.",
+            "id": "85552172",
+            "version": "11552660"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "67782267",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6gj3q0h",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Collins, Esther, 1751-1820",
+            "note": "Enoch Evans was the cousin of Esther Roberts Hunt Collins; Evans's mother Sarah Roberts was the sister of Collins's father Enoch Roberts.",
+            "id": "85360052",
+            "version": "11503400"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "8563091",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6c82qz0",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, Joshua, 1731-1798",
+            "note": "Enoch Evans was the son William Evans, half-brother of Joshua Evans.",
+            "id": "85360047",
+            "version": "11503394"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "85289148",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wx87x7",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Esther, 1743-1833",
+            "note": "Enoch Evans's second wife, Elizabeth Warrington Haines, was the sister of Esther Warrington Hunt.",
+            "id": "85360036",
+            "version": "11503398"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "note": "Enoch Evans's second wife, Elizabeth Warrington Haines, was the sister of John Hunt's wife Esther Warrington.",
+            "id": "85360007",
+            "version": "11503361"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "note": "Enoch Evans was the nephew of Caleb Evans, who married John Hunt's sister Abigail.",
+            "id": "85360048",
+            "version": "11503395"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "9183408",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w68q08bb",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Philadelphia Yearly Meeting of the Religious Society of Friends. Meeting for Sufferings",
+            "id": "85360545",
+            "version": "11503674"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "85312751",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6ph2gz9",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Rebecca Stokes, 1720-1815",
+            "note": "Enoch Evans was the son of Sarah Roberts, sister-in-law of Rebecca Stokes Roberts.",
+            "id": "85360035",
+            "version": "11503381"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "85288342",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Rogers, William, 1731-1812",
+            "note": "Enoch Evans's second wife, Elizabeth Warrington Haines, was the sister of Rogers's first wife, Sarah Warrington.",
+            "id": "85360362",
+            "version": "11503567"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "14777823",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6bv9xp3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Joseph, 1730-1803",
+            "note": "Enoch Evans's second wife, Elizabeth Warrington Haines, was the sister of Joseph Warrington.",
+            "id": "85360049",
+            "version": "11503397"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85359969",
+            "targetConstellation": "42201796",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Wills, Aaron, 1734-1805",
+            "note": "Enoch Evans's second wife, Elizabeth Warrington Haines, was the sister of Aaron Wills' wife, Rachel Warrington.",
+            "id": "85360367",
+            "version": "11503571"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386944"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85360015",
+            "version": "11503364"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1732",
+                "uri": "http://www.geonames.org/4500994",
+                "name": "Burlington County",
+                "latitude": "39.8776900",
+                "longitude": "-74.6682000",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85360166",
+            "version": "11503463"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85360175",
+            "version": "11503467"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85360174",
+            "version": "11503467"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85360167",
+            "version": "11503464"
+        }
+    ],
+    "id": "85359969",
+    "version": "11552662",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1743-05-08",
+            "fromDateOriginal": "27th of 2nd month 1743 (o.s.)",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1818-05-29",
+            "toDateOriginal": "29th of 5th month 1818",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "85360164",
+            "version": "11503462"
+        }
+    ]
+}

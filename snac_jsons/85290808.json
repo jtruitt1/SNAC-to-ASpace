@@ -1,0 +1,4004 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6n9820p",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-25T10:46:10",
+            "standardDateTime": "2021-01-25T10:46:10",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "{\n    \"action\": \"merge\",\n    \"icids\": [\n        \"56886470\",\n        \"21933757\"\n    ],\n    \"arks\": [\n        \"http:\\/\\/n2t.net\\/ark:\\/99166\\/w65b11gw\",\n        \"http:\\/\\/n2t.net\\/ark:\\/99166\\/w6893mhq\"\n    ]\n}"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-25T10:46:11",
+            "standardDateTime": "2021-01-25T10:46:11",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-25T10:48:50",
+            "standardDateTime": "2021-01-25T10:48:50",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-26T17:01:11",
+            "standardDateTime": "2021-01-26T17:01:11",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-28T09:49:41",
+            "standardDateTime": "2021-01-28T09:49:41",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "Republish: User canceled edit without making changes"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-01-28T10:46:33",
+            "standardDateTime": "2021-01-28T10:46:33",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-17T10:13:06",
+            "standardDateTime": "2021-03-17T10:13:06",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "Republish: User canceled edit without making changes"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-03-17T10:23:10",
+            "standardDateTime": "2021-03-17T10:23:10",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "Republish: User canceled edit without making changes"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-04-05T14:23:10",
+            "standardDateTime": "2021-04-05T14:23:10",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-05-19T10:05:53",
+            "standardDateTime": "2021-05-19T10:05:53",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-06-14T10:38:34",
+            "standardDateTime": "2021-06-14T10:38:34",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 27. John Hunt, born the 5th day of 6th Month, 1740; son of Robert Hunt, born the 21st of 2nd Month 1709, and Abigail his wife.",
+            "citation": "First Record Book of Births and Deaths of Members of Evesham Monthly Meeting, via Ancestry.com search, January 20, 2021",
+            "id": "85286688",
+            "version": "11486508"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://www.worldcat.org/oclc/70973480",
+            "id": "21933758",
+            "version": "11486508"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http://viaf.org/viaf/56005394",
+            "id": "21933759",
+            "version": "11486508"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. 22. John Hunt, son of Robert Hunt, and Esther Warrington, daughter of Henry Warrington, were married on the Seventeenth Day of ye 3d month 1763",
+            "citation": "Evesham Monthly Meeting First Book of Marriages, via Ancestry.com search, January 20, 2021",
+            "id": "85286888",
+            "version": "11486508"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p. vi-vii. The oldest son of Robert and Abigail Hunt of Haddonfield Monthly Meeting, John was born in August of 1740.... He and Esther Warrington, daughter of Henry and Elizabeth (Bishop) Warrington, were married on March 17, 1763, under the care of Evesham Monthly Meeting.... By 1766, John was appointed as delegate to Salem Quarterly Meeting.... John Hunt's father, Robert, was a first cousin to John Woolman (1720-1772), journalist and minister. Esther Hunt's nephew, Abraham Warrington, married Rachel Evans, daughter of John Hunt's friend and fellow minister, Joshua Evans.",
+            "citation": "Hunt, John, “Our Beloved Friend” : The Journals of John Hunt, 1770-1824, 2018",
+            "id": "85286880",
+            "version": "11486508"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF</citation></conventionDeclaration>",
+            "id": "85290813",
+            "version": "11486508"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85290815",
+            "version": "11486508"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Hunt, John, 1740-1824",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85290821",
+                    "version": "11486508"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hunt",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85290818",
+                    "version": "11486508"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "John",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85290819",
+                    "version": "11486508"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1740-1824",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85290820",
+                    "version": "11486508"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85290822",
+                "version": "11486508"
+            },
+            "id": "85290816",
+            "version": "11486508",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "85290817",
+                    "version": "11486508"
+                }
+            ]
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85290827",
+            "version": "11486508"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "14784",
+                "term": "Farmers--New Jersey",
+                "type": "occupation"
+            },
+            "id": "85290826",
+            "version": "11486508"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85290828",
+            "version": "11486516"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85290811",
+                "version": "11486508"
+            },
+            "text": "<biogHist><p xmlns=\"urn:isbn:1-931666-33-4\">John Hunt was born in 1740, the son of Robert and Abigail (Wood) Hunt of New Jersey. His father was a first cousin to the John Woolman (1720-1772). In 1763, John Hunt married Esther Warrington in the Chester meeting house, under the supervision of Evesham Monthly Meeting. He was a Quaker minister for more than 50 years and died in 1824. His memorial, published in 1841, highlighted his public testimony concerning pride and superfluity, and stated that he was particularly concerned with temperance.</p>\r\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of Papers, 1770-1828. (Swarthmore College). WorldCat record id: 57202262</citation>\r\n         </biogHist>",
+            "id": "85290810",
+            "version": "11486508"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "3442439",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6sf4z67",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Allinson, Martha Cooper, 1748-1823",
+            "id": "85491283",
+            "version": "11534312"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85366829",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6zx2b7v",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Andrews, Isaac, 1749-1820",
+            "id": "85491239",
+            "version": "11534294"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85366734",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w63z8z1g",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Andrews, Isaac, approximately 1715-1775",
+            "id": "85491238",
+            "version": "11534294"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "68324529",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6s1844s",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Benezet, Anthony, 1713-1784.",
+            "id": "85290842",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "2579218",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6tq8ftp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Hannah Warrington.",
+            "note": "John Hunt was the husband of Esther Warrington, Hannah Warrington's sister.",
+            "id": "85296871",
+            "version": "11487523"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "65278400",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6qj854r",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Joseph",
+            "note": "John Hunt's wife Esther Warrington was the sister of Joseph Buzby's wife Hannah Warrington.",
+            "id": "85296872",
+            "version": "11487524"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "65278400",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6qj854r",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Buzby, Joseph, 1729-1811",
+            "note": "John Hunt's wife, Esther Warrington Hunt, was the sister of Joseph Buzby's wife, Hannah Warrington Buzby.",
+            "id": "85491288",
+            "version": "11534315"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "73184126",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6jd66gz",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Churchman, George, 1730-1814",
+            "id": "85491271",
+            "version": "11534307"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85290256",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hj799d",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Collins, Elizabeth, 1755-1831",
+            "id": "85491205",
+            "version": "11534279"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "67782267",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6gj3q0h",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Collins, Esther, 1751-1820",
+            "note": "John Hunt was the half-brother of Joshua Hunt, the first husband of Esther Collins (née Roberts).",
+            "id": "85290843",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85289632",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6165774",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Collins, John, 1750-1817",
+            "note": "John Hunt's was the half-brother of Joshua Hunt, whose widow Esther Hunt (née Roberts) married John Collins.",
+            "id": "85305008",
+            "version": "11488242"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "26991682",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b01gx6",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cox, John, approximately 1754-1847",
+            "id": "85290844",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "20994989",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6ht6kfw",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cresson, Sarah, 1771-1829",
+            "id": "85491282",
+            "version": "11534312"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85484838",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6427ngj",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Dillwyn, George, 1738-1820",
+            "id": "85491281",
+            "version": "11534312"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85313024",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6xt6kpr",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Edwards, Ann, 1773-1820",
+            "id": "85491233",
+            "version": "11534291"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85402523",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hv3dnq",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Evans, Elizabeth Warrington Haines, 1739-1805",
+            "note": "John Hunt was the husband of Esther Warrington Hunt, sister of Elizabeth Warrington Haines Evans.",
+            "id": "85491270",
+            "version": "11534306"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85359969",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Evans, Enoch, 1743-1818",
+            "note": "Enoch Evans was the second husband of Elizabeth Warrington Haines Evans, the sister of John Hunt's wife Esther Warrington Hunt.",
+            "id": "85491232",
+            "version": "11534291"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "71487292",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w60s0hwm",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Evans, Jonathan, 1759-1839.",
+            "id": "85290845",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "8563091",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6c82qz0",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Evans, Joshua, 1731-1798.",
+            "note": "John Hunt considered Joshua Evans a dear friend. In addition, Hunt's sister Abigail was the wife of Evans's brother Caleb.",
+            "id": "85290846",
+            "version": "11486508",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "id": "85290847",
+                    "version": "11486508"
+                },
+                {
+                    "dataType": "SNACControlMetadata",
+                    "citation": {
+                        "dataType": "Source",
+                        "type": {
+                            "id": "28296",
+                            "term": "simple",
+                            "type": "source_type"
+                        },
+                        "text": "p. vi-vii. The oldest son of Robert and Abigail Hunt of Haddonfield Monthly Meeting, John was born in August of 1740.... He and Esther Warrington, daughter of Henry and Elizabeth (Bishop) Warrington, were married on March 17, 1763, under the care of Evesham Monthly Meeting.... By 1766, John was appointed as delegate to Salem Quarterly Meeting.... John Hunt's father, Robert, was a first cousin to John Woolman (1720-1772), journalist and minister. Esther Hunt's nephew, Abraham Warrington, married Rachel Evans, daughter of John Hunt's friend and fellow minister, Joshua Evans.",
+                        "citation": "Hunt, John, “Our Beloved Friend” : The Journals of John Hunt, 1770-1824, 2018",
+                        "id": "85286880",
+                        "version": "11486508"
+                    },
+                    "id": "85290848",
+                    "version": "11486508"
+                }
+            ]
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "23038346",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b918fj",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+            "id": "85290849",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "2545621",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6t214bg",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.). Preparative Meeting of Ministers and Elders.",
+            "id": "85290850",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85361084",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w65v49t0",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Foster, Hannah Core, 1710-1777",
+            "id": "85491242",
+            "version": "11534294"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "30161525",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6sz54r1",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Foulke, Joseph, 1786-1853.",
+            "id": "85290851",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85385027",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w63s1j4g",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Gaskill, Solomon, approximately 1728-1793",
+            "id": "85491243",
+            "version": "11534295"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85386051",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6md9qck",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Haines, Hinchman, 1767-1853",
+            "id": "85491290",
+            "version": "11534320"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "73142617",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6rj4s40",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hicks, Elias, 1748-1830.",
+            "id": "85290852",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "51814893",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6061n21",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Caleb, 1786-1834",
+            "note": "John Hunt was the half-brother of Joshua Hunt, Caleb Hunt's father.",
+            "id": "85290853",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "40161935",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w63n62nx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Elisha, 1779-1873",
+            "note": "John Hunt was the half-brother of Joshua Hunt, Elisha Hunt's father.",
+            "id": "85290854",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85289148",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wx87x7",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28284",
+                "term": "spouseOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Esther, 1743-1833",
+            "note": "John Hunt married Esther Warrington on March 17, 1763",
+            "id": "85290855",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "51652987",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n05cnp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28283",
+                "term": "sibling of",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Joshua, 1754-1792",
+            "note": "John Hunt was the half-brother of Joshua Hunt.",
+            "id": "85290856",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "51652987",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n05cnp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Joshua, 1754-1792.",
+            "id": "85290869",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "57502540",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6dn68k9",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, William, 1733-1772",
+            "note": "John Hunt's paternal grandmother, Elizabeth Woolman Hunt Harvey (1685-1756) was the sister of William Hunt's mother Mary Woolman Hunt.",
+            "id": "85491280",
+            "version": "11534312"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "47361734",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6gq882n",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Jordan, Richard, 1756-1826",
+            "id": "85491213",
+            "version": "11534282"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "33467654",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w63n434v",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Lindley, Jacob, 1744-1814",
+            "id": "85491252",
+            "version": "11534300"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "49995894",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6s8464h",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Lippincott, Elizabeth A.",
+            "id": "85290857",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85366255",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6j49htj",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Lippincott, John, 1737-1780",
+            "id": "85491215",
+            "version": "11534284"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85290220",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6jb6xn6",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Lippincott, Joshua, 1732-1813",
+            "id": "85491206",
+            "version": "11534279"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "9511707",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wt7j0f",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Matlack, Ann R.",
+            "id": "85290858",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "31466319",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w69d6j2j",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Matlack, Asa, 1783-1851.",
+            "id": "85290859",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "11023855",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6pd2c7m",
+            "targetEntityType": {
+                "id": "699",
+                "term": "family",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Matlack family.",
+            "id": "85290860",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85410868",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w63g5dz0",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Parrish, John, 1730-1807",
+            "note": "John Hunt and John Parrish were close friends.",
+            "id": "85491273",
+            "version": "11534309"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "16476689",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w66124pd",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Pemberton, John, 1727-1795",
+            "id": "85491262",
+            "version": "11534304"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85311292",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6x16z80",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Reeve, John, approximately 1729-1816",
+            "id": "85491225",
+            "version": "11534289"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "59840986",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6xm0dbv",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Josiah, 1783-1841.",
+            "id": "85290861",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "31401628",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6k08k1m",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Rachel H., 1791-1881.",
+            "note": "John Hunt was the half-brother of Joshua Hunt, Rachel H. Roberts's father.",
+            "id": "85290862",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85312751",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6ph2gz9",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Rebecca Stokes, 1720-1815",
+            "id": "85491224",
+            "version": "11534289"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85288342",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Rogers, William, 1731-1812",
+            "note": "John Hunt married Esther Warrington, the sister of Sarah Warrington, who was the first wife of William Rogers",
+            "id": "85290863",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85392783",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6427nc6",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Savery, William, 1750-1804",
+            "id": "85491251",
+            "version": "11534300"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "1821202",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6nk4g54",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Scattergood, Thomas, 1748-1814",
+            "id": "85491240",
+            "version": "11534294"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "9302981",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w68m543d",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Simpson, John, Quaker",
+            "id": "85290864",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "17012007",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6zk9cxf",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Swett, Benjamin, approximately 1738-1819",
+            "id": "85491241",
+            "version": "11534294"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "69112313",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w68d3sbk",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Swett, Mary Howell, approximately 1739-1821",
+            "id": "85491289",
+            "version": "11534320"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "10043205",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6cr7rz4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Thornton, James, 1727-1794",
+            "id": "85491245",
+            "version": "11534295"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85378859",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6vj6d7g",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Thornton James 1761-1794",
+            "id": "85491244",
+            "version": "11534295"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "63882491",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6028wf4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Waln, Nicholas, 1742-1813",
+            "id": "85491261",
+            "version": "11534304"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "935091",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6088mm4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28275",
+                "term": "parent-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Elizabeth Bishop",
+            "id": "85296869",
+            "version": "11487522"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "22509214",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6h44564",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28238",
+                "term": "child-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Henry",
+            "id": "85296870",
+            "version": "11487522"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "14777823",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6bv9xp3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Joseph",
+            "note": "John Hunt was the husband of Esther Warrington, Joseph Warrington's sister.",
+            "id": "85290865",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "5796280",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w64n1mqv",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Warrington, Rebecca Walton.",
+            "note": "John Hunt's wife Esther Warrington was the sister of Rebecca Walton's husband Joseph Warrington.",
+            "id": "85296873",
+            "version": "11487525"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "28160043",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6zw3s78",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Willis, Robert, approximately 1713-1791",
+            "id": "85290866",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "42201796",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6r525r2",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Wills, Aaron",
+            "note": "John Hunt was the husband of Esther Warrington, whose sister Rachel Warrington was the wife of Aaron Wills.",
+            "id": "85290867",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "67118714",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6t72g07",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Woolman, John, 1720-1772",
+            "note": "John Hunt's paternal grandmother (Elizabeth Woolman Hunt Harvey, 1685-1756), was the sister of John Woolman's father (Samuel Woolman, 1690-1750).",
+            "id": "85290868",
+            "version": "11534313"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "56228280",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6h14ctn",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Wright, Rebecca Gibbs, approximately 1740-1811",
+            "id": "85491274",
+            "version": "11534309"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "25702881",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6g77m31",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Yarnall, Hannah Haines Thornton, 1765-1822",
+            "note": "John Hunt was the brother-in-law of Elizabeth Warrington Haines Evans, mother of Hannah Haines Thornton Yarnall.",
+            "id": "85491260",
+            "version": "11534304"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85394506",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Yarnall, Peter, 1754-1798",
+            "id": "85491250",
+            "version": "11534300"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85394506",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6kx66c3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Yarnall, Peter, 1754-1798",
+            "note": "John Hunt was the brother-in-law of Elizabeth Warrington Haines Evans, mother-in-law of Peter Yarnall.",
+            "id": "85491249",
+            "version": "11534304"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85389877",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n69bqr",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Zane, Isaac, 1710-1794",
+            "id": "85491254",
+            "version": "11534300"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85391488",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wj3fbd",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Zane, Isaac, 1753-1816",
+            "id": "85491253",
+            "version": "11534300"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://viaf.org/viaf/48963351",
+            "id": "85290829",
+            "version": "11486508"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.worldcat.org/identities/lccn-no2005064399",
+            "id": "85290830",
+            "version": "11486508"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/no2005064399",
+            "id": "85290831",
+            "version": "11486508"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.wikidata.org/entity/Q6240437",
+            "id": "85290832",
+            "version": "11486508"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.findagrave.com/memorial/137891527",
+            "id": "85290833",
+            "version": "11486508"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Hunt, John, of Evesham Township, N.J.",
+            "uri": "https://viaf.org/viaf/56005394",
+            "id": "85290834",
+            "version": "11486508"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.worldcat.org/identities/lccn-n2004072579",
+            "id": "85290835",
+            "version": "11486508"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/n2004072579",
+            "id": "85290836",
+            "version": "11486508"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/repositories/7/resources/5932",
+                "title": "Roberts-Hunt family papers, 1677-1829.",
+                "abstract": "This collection includes papers relating to Rachel H. Roberts and her family. Included is correspondence between Esther Hunt Collins and her first husband, Joshua Hunt, his brother John, her children Elisha, Caleb and Rachel, her second husband, John Collins, and Hannah Yarnall. Also included is correspondence between Rachel H. Roberts and her husband, David. The collection includes genealogical information on the Roberts, Hooton, and other related families, along with wills and account books of Joseph and Susanna Roberts. Letters relate family news, impressions of Redstone Monthly Meeting of Friends, and discussions of Quaker discipline.",
+                "extent": "17 folders.",
+                "displayEntry": "Roberts, Rachel H., 1791-1881. Roberts-Hunt family papers, 1677-1829.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Rachel H., 1791-1881.",
+                        "id": "9433985",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Collins, Esther, 1751-1820.",
+                        "id": "9433986",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Joseph, 1742-1826.",
+                        "id": "9433987",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Susanna, 1751-1829.",
+                        "id": "9433988",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, Joshua, 1754-1792.",
+                        "id": "9433989",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, b. 1740.",
+                        "id": "9433990",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, David, 1792-1880.",
+                        "id": "9433991",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Yarnall, Hannah, 1765-1822.",
+                        "id": "9433992",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, Caleb, 1786-1834.",
+                        "id": "9433993",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, Elisha, 1779-1873.",
+                        "id": "9433994",
+                        "version": "7319285"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, d. 1824.",
+                        "id": "9433995",
+                        "version": "7319285"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11645368",
+                        "version": "8386425"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7319285",
+                "version": "7319285"
+            },
+            "role": {
+                "id": "695",
+                "term": "contributorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#contributorOf",
+                "type": "document_role"
+            },
+            "id": "85290871",
+            "version": "11486518"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/repositories/7/resources/6630",
+                "title": "Conrow-Hunt Family Correspondence, 1786-1886.",
+                "abstract": "Contains three letters, 1786-1787, with later manuscript copies, to Quaker minister and diarist, John Hunt, from Darling Conrow. John Hunt added a biographical note concerning Conrow to the final letter. Also contains a letter, 1886, concerning Hunt genealogy.",
+                "extent": "2 folders.",
+                "displayEntry": "Conrow, Darling. Conrow-Hunt Family Correspondence, 1786-1886.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104721",
+                        "version": "7760117"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Conrow, Darling.",
+                        "id": "10104722",
+                        "version": "7760117"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11645369",
+                        "version": "8386426"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760117",
+                "version": "7760117"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "id": "85290872",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/repositories/7/resources/5849",
+                "title": "Hiram Doty collected papers relating to Quaker history",
+                "abstract": "This collection includes original manuscripts collected by Hi Doty relating to early Quaker involvement in Indian affairs from 1756 to 1821 and the Friendly Association. Of particular interest are documents concerning the settlement at Oneida and the Treaty of Easton. Correspondents include Tedyuscung, Nathaniel Holland, Frederick Post, John Hunt, William Cooper, Israel Chapin, William Savery, James Pemberton, and Joseph Elkinton. Also included in the collection are several letters written by 19th century Quakers on a variety of topics. Among the latter are eight letters received by Joel and Hannah E. Bean.",
+                "extent": ".1 linear feet (28 folders)",
+                "date": "1756-1874",
+                "displayEntry": "Hiram Doty collected papers relating to Quaker history, 1756-1874",
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11645372",
+                        "version": "8386429"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "11645371",
+                "version": "8386429"
+            },
+            "role": {
+                "id": "695",
+                "term": "contributorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#contributorOf",
+                "type": "document_role"
+            },
+            "id": "85290874",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/651668890",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:651668890</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-HVC</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Benezet, Anthony, 1713-1784.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Letter, 1765 January 14, Philad[elphi]a to \"Loving Friend Rob[er]t Pleasants\" / Anthony Benezet.</title>\n                  </titleInfo>\n                  <abstract>Typed copy of a Holograph letter from Anthony Benezet to Robert Pleasants.  Benezet speaks of John Hunt, who will be traveling through Virginia. </abstract>\n                  <name>\n                     <namePart>Haverford College Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Letter, 1765 January 14, Philad[elphi]a to \"Loving Friend Rob[er]t Pleasants\" / Anthony Benezet.",
+                "abstract": "Typed copy of a Holograph letter from Anthony Benezet to Robert Pleasants.  Benezet speaks of John Hunt, who will be traveling through Virginia. ",
+                "extent": "1 item (2 pages) ; 28 cm.",
+                "displayEntry": "Benezet, Anthony, 1713-1784. Letter, 1765 January 14, Philad[elphi]a to \"Loving Friend Rob[er]t Pleasants\" / Anthony Benezet.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Benezet, Anthony, 1713-1784.",
+                        "id": "10582865",
+                        "version": "7942185"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7942185",
+                "version": "7942185"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Benezet, Anthony, 1713-1784. Letter, 1765 January 14, Philad[elphi]a to \"Loving Friend Rob[er]t Pleasants\" / Anthony Benezet.",
+            "id": "85290870",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "7760181"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+            "id": "85290876",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/70973480",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:70973480</recordOrigin>\n                     <recordContentSource>ISIL:NjMorHI</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Hunt, Joshua, 1754-1792.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Letter, 1790 Nov. 21.</title>\n                  </titleInfo>\n                  <abstract>Letter from Hunt, to his brother John Hunt, in Evesham Township, N.J. </abstract>\n                  <name>\n                     <namePart>Unknown</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Letter, 1790 Nov. 21.",
+                "abstract": "Letter from Hunt, to his brother John Hunt, in Evesham Township, N.J. ",
+                "extent": "1 item.",
+                "displayEntry": "Hunt, Joshua, 1754-1792. Letter, 1790 Nov. 21.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, Joshua, 1754-1792.",
+                        "id": "10791462",
+                        "version": "8062324"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6kj19tg",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Historical Society of Moorestown",
+                            "preferenceScore": "99",
+                            "id": "76769922",
+                            "version": "11227745"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Historical Society of Moorestown",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "12 High St., P.O. Box 477  Moorestown, New Jersey 08057  United States",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769926",
+                                    "version": "11227745"
+                                }
+                            ],
+                            "id": "76769925",
+                            "version": "11227745"
+                        }
+                    ],
+                    "id": "76769921",
+                    "version": "11227748"
+                },
+                "id": "8062324",
+                "version": "8062324"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Hunt, Joshua, 1754-1792. Letter, 1790 Nov. 21.",
+            "id": "85290877",
+            "version": "11486508"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/repositories/5/resources/448",
+                "title": "Papers, 1685-[1919].",
+                "abstract": "Correspondence, genealogical notes and notebooks, account books, diaries, commonplace books, poetry, map, land records, Meeting records, and other papers chiefly related to the Quaker Matlack, Stackhouse and Roberts families of New Jersey and Pennsylvania; much of collection consists of genealogical material gathered by Asa Matlack (1783-1851) and Asa Matlack Stackhouse (1845-1916) on the Matlack, Stackhouse, Roberts, Romig, Lippincott, Thorn, Heulings, Hunt and related families, includes unpublished mss. \"Genealogical notes of the Matlack family ...\" compiled by Asa Matlack Stackhouse; correspondence includes approx. 140 letters (1853-1888) of Tacie E. Gillingham chiefly to Robert and Ann R. Stackhouse on family matters; also letters of Elizabeth Roberts Cooper, Ann R. Stackhouse, Ella J. Stackhouse, Mary P. Stackhouse and others; diaries and farm account book of Mordecai Matlack (1808-1896); ledger (1816-1838) of Asa Matlack; commonplace books of Tamar Matlack, Ann R. Stackhouse; travel diary (1807) of Thomas Lippincott. Material related to history of Society of Friends includes records of Chester Preparative Meeting (N.J.), Evesham Monthly Meeting and Chester Monthly Meeting (N.J.), copies of Elias Hicks' letters and extracts of articles about him, copies of writings of John Hunt, also transcripts of \"Satan's harbinger encountered ... by C.P. [Caleb Pusey],\" (1700) and \"George Keith's journal of travels ... on the continent of North America\" (1706), map \"Meetings within the limits of Philadelphia Yearly Meeting\" (1897); published and unpublished mss. of Asa M. Stackhouse on various aspects of western New Jersey colonial history including medicine, Col. Thomas Matlack, Burlington County history; copies of Burlington County (N.J.) land records.",
+                "extent": "ca. 750 items.",
+                "displayEntry": "Matlack family. Papers, 1685-[1919].",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack family.",
+                        "id": "9349387",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cooper, Elizabeth Roberts, 1843-1904.",
+                        "id": "9349388",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Gillingham, Tacie E. (Tacie Elizabeth), 1838-1919.",
+                        "id": "9349389",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hicks, Elias, 1748-1830.",
+                        "id": "9349390",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "9349391",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Thomas.",
+                        "id": "9349392",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "9349393",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Mordecai, 1808-1896.",
+                        "id": "9349394",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Tamar, 1783-1850.",
+                        "id": "9349395",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Pusey, Caleb, 1650?-1727.",
+                        "id": "9349396",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stackhouse, Ann R. (Ann Roberts), 1810-1893.",
+                        "id": "9349397",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stackhouse, Ella J., b. 1846.",
+                        "id": "9349398",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stackhouse, Mary P.",
+                        "id": "9349399",
+                        "version": "7264192"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stackhouse, A. M. (Asa Matlack), 1845-1916.",
+                        "id": "9349400",
+                        "version": "7264192"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11645370",
+                        "version": "8386428"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7264192",
+                "version": "7264192"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Matlack family. Papers, 1685-[1919].",
+            "id": "85290873",
+            "version": "11486508"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "New Jersey",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "geoplace": {
+                "id": "1732",
+                "uri": "http://www.geonames.org/4500994",
+                "name": "Burlington County",
+                "latitude": "39.8776900",
+                "longitude": "-74.6682000",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "note": "John Hunt was born, resided, and died near Evesham and Moorestown in Burlington County.",
+            "id": "85290837",
+            "version": "11521978",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "New Jersey",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "85290838",
+                    "version": "11486508"
+                }
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85290841",
+            "version": "11486508"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85290840",
+            "version": "11486508"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85290839",
+            "version": "11486508"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85290814",
+            "version": "11486508"
+        }
+    ],
+    "id": "85290808",
+    "version": "11534321",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1740-08-05",
+            "fromDateOriginal": "1740-08-05",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1824-09-21",
+            "toDateOriginal": "1824-09-21",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "85290812",
+            "version": "11486508"
+        }
+    ],
+    "snacControlMetadata": [
+        {
+            "dataType": "SNACControlMetadata",
+            "id": "85290809",
+            "version": "11486508"
+        }
+    ]
+}

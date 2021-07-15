@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+<control><recordId>http://n2t.net/ark:/99166/w6r525r2</recordId><maintenanceStatus>revised</maintenanceStatus><maintenanceAgency><agencyName>SNAC: Social Networks and Archival Context</agencyName></maintenanceAgency><languageDeclaration>
+  <language languageCode="eng">English</language> <script scriptCode="Latn">
+        Latin </script></languageDeclaration><maintenanceHistory><maintenanceEvent><eventType>revised</eventType><eventDateTime>2015-09-17</eventDateTime><agentType>machine</agentType><agent>CPF merge program</agent><eventDescription>Merge v2.0</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-08-14T00:52:53">2016-08-14T00:52:53</eventDateTime><agentType>machine</agentType><agent>SNAC EAC-CPF Parser</agent><eventDescription>Bulk ingest into SNAC Database</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-08-14T00:52:53">2016-08-14T00:52:53</eventDateTime><agentType>human</agentType><agent>System Service (system@localhost)</agent></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2021-01-26T09:49:10">2021-01-26T09:49:10</eventDateTime><agentType>human</agentType><agent>James Truitt (jtruitt1@swarthmore.edu)</agent><eventDescription>Republish: User canceled edit without making changes</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2021-01-27T10:03:08">2021-01-27T10:03:08</eventDateTime><agentType>human</agentType><agent>James Truitt (jtruitt1@swarthmore.edu)</agent><eventDescription>User published constellation</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2021-02-02T13:35:01">2021-02-02T13:35:01</eventDateTime><agentType>human</agentType><agent>James Truitt (jtruitt1@swarthmore.edu)</agent><eventDescription>Republish: User canceled edit without making changes</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2021-02-02T13:36:57">2021-02-02T13:36:57</eventDateTime><agentType>human</agentType><agent>James Truitt (jtruitt1@swarthmore.edu)</agent><eventDescription>User published constellation</eventDescription></maintenanceEvent></maintenanceHistory><sources><source><sourceEntry>A List of Members of the Monthly Meeting of Friends held in Burlington, 1805, via Ancestry.com search, 27 January 2021</sourceEntry><descriptiveNote><p>p. 68. Aaron Wills, son of Daniel Wills, born 4th Month 23rd 1734, deceased 4th Month 29th 1805.</p></descriptiveNote></source><source xlink:href="http://www.worldcat.org/oclc/70971327" xlink:type="simple" /><source><sourceEntry>Book of minutes belonging to Haddonfield Monthly Meeting, volume 2, via Ancestry.com search, 27 January 2021</sourceEntry><descriptiveNote><p>p. 392-393. At a montly meeting held at Haddonfield the 13th of the 11 month 1758 ... Aaron Wills son of Daniel Wills and Rachel Warrington daughter of Henry Warrington declared their intentions of marriage with each other, the young man belonging to Burlington monthly meeting.</p></descriptiveNote></source><source xlink:href="http://viaf.org/viaf/60923176" xlink:type="simple" /><source xlink:href="https://hdl.handle.net/2027/wu.89066283334?urlappend=%3Bseq=59" xlink:type="simple"><sourceEntry>Genealogy of the Stokes family, descended from Thomas and Mary Stokes who settled in Burlington county, N. J., 1903</sourceEntry><descriptiveNote><p>p. 47. Joseph Wills was the son of Aaron Wills and Rachel Warrington, the dau. of Henry Warrington and Elizabeth Bishop, his 2nd wife. Aaron was the son of Daniel Wills and Elizabeth Woolston, the dau. of John Woolston ... and Hannah Cooper, his 2nd wife.... Daniel Wills was the son of John Wills and Hope Delefaste.</p></descriptiveNote></source><source><sourceEntry>Burlington Monthly Meeting minutes, 1764-1806, via Ancestry.com search, 27 January 2021</sourceEntry><descriptiveNote><p>Image 15. A list of the names of the ministers and elders belonging to the monthly meeting of Burlington: Aaron Wills (deceased 4th month 1805).</p></descriptiveNote></source><source><sourceEntry>A List of the members of the Monthly Meeting of Burlington, 2 December 1776, via Ancestry.com search, 27 January 2021</sourceEntry><descriptiveNote><p>p. 22. Ancocas particular meeting. Aaron Wills and Rachel his wife; Joseph and Samuel their children.</p></descriptiveNote></source></sources></control>
+<cpfDescription><identity><entityType>person</entityType><nameEntry><part>Wills, Aaron, 1734-1805</part></nameEntry><entityId>https://viaf.org/viaf/60923176</entityId><entityId>https://www.worldcat.org/identities/lccn-n2003090497</entityId><entityId>https://id.loc.gov/authorities/n2003090497</entityId><entityId>http://n2t.net/ark:/99166/http://n2t.net/ark:/99166/w6r525r2</entityId></identity><description><existDates><dateRange><fromDate standardDate="1734-07-04" localType="Birth">23 June 1734 (old style)</fromDate><toDate standardDate="1805-04-29" localType="Birth">29 April 1805</toDate></dateRange></existDates><languageUsed><language languageCode="eng">English</language><script scriptCode="Latn">Latin</script></languageUsed><localDescriptions><localDescription localType="gender"><term>Male</term></localDescription><localDescription localType="associatedSubject"><term>Society of Friends</term></localDescription><localDescription localType="associatedSubject"><term>Quakers</term></localDescription></localDescriptions><place><placeEntry latitude="39.8776900" longitude="-74.6682000" countryCode="US">Burlington County</placeEntry></place><occupations><occupation><term>Quakers</term></occupation><occupation><term>Elders</term></occupation></occupations><biogHist><p>Aaron Wills was a Quaker from Burlington County, New Jersey. He was born to Daniel Wills and Elizabeth Woolston on 23 June 1734 (old style). In 1758 he married Rachel Warrington, daughter of Henry Warrington and Elizabeth Bishop. Wills died on 29 April 1805.</p></biogHist></description><relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="memberOf" xlink:href="http://n2t.net/ark:/99166/w6mh3fp2">
+        <relationEntry>Burlington Monthly Meeting (Society of Friends : 1678-1827)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="sibling-in-lawOf" xlink:href="http://n2t.net/ark:/99166/w6tq8ftp">
+        <relationEntry>Buzby, Hannah Warrington.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="sibling-in-lawOf" xlink:href="http://n2t.net/ark:/99166/w6qj854r">
+        <relationEntry>Buzby, Joseph</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="sibling-in-lawOf" xlink:href="http://n2t.net/ark:/99166/w6wx87x7">
+        <relationEntry>Hunt, Esther, 1743-1833</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="sibling-in-lawOf" xlink:href="http://n2t.net/ark:/99166/w6n9820p">
+        <relationEntry>Hunt, John, 1740-1824</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="acquaintanceOf" xlink:href="http://n2t.net/ark:/99166/w6n9820p">
+        <relationEntry>Hunt, John, 1740-1824</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="relativeOf" xlink:href="http://n2t.net/ark:/99166/w6jb6xn6">
+        <relationEntry>Lippincott, Joshua, 1732-1813</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6904hjh">
+        <relationEntry>Peacock, Adonijah</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="relativeOf" xlink:href="http://n2t.net/ark:/99166/w6fv9b6q">
+        <relationEntry>Rogers, William, 1731-1812</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="sibling-in-lawOf" xlink:href="http://n2t.net/ark:/99166/w6fv9b6q">
+        <relationEntry>Rogers, William, 1731-1812</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="child-in-lawOf" xlink:href="http://n2t.net/ark:/99166/w6088mm4">
+        <relationEntry>Warrington, Elizabeth Bishop</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="child-in-lawOf" xlink:href="http://n2t.net/ark:/99166/w6h44564">
+        <relationEntry>Warrington, Henry</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="sibling-in-lawOf" xlink:href="http://n2t.net/ark:/99166/w6bv9xp3">
+        <relationEntry>Warrington, Joseph, 1730-1803</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="sibling-in-lawOf" xlink:href="http://n2t.net/ark:/99166/w64n1mqv">
+        <relationEntry>Warrington, Rebecca Walton.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://archives2.tricolib.brynmawr.edu//agents/people/9110">
+        <relationEntry>Osborne, Thomas Mott</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="https://www.worldcat.org/identities/lccn-n2003090497">
+        <relationEntry/>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="https://id.loc.gov/authorities/n2003090497">
+        <relationEntry/>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://archives.tricolib.brynmawr.edu/resources/5240johu">
+        <relationEntry/>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Hunt, John, 1740-1824.</persname>
+              <persname>Matlack, Ann R.</persname>
+              <persname>Matlack, Asa, 1783-1851.</persname>
+              <persname>Lippincott, Elizabeth A.</persname>
+              <persname>Cox, John.</persname>
+              <persname>Foulke, Joseph, 1786-1853.</persname>
+              <persname>Roberts, Josiah, 1783-1841.</persname>
+            </origination>
+            <unittitle>John Hunt papers, 1770-1828.</unittitle>
+            <physdesc>
+              <extent>3 boxes ; 1.5 lin. ft.</extent>
+            </physdesc>
+            <abstract>John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 &amp; 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6jv0fkd">Friends Historical Library of Swarthmore College</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/70971327">
+        <relationEntry>Budd, John, landowner. Hillman collection, 1743-1859.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Budd, John, landowner.</persname>
+              <persname>Shinn, Levi.</persname>
+              <persname>Prickett, John, landowner.</persname>
+              <persname>Wills, Jonathan.</persname>
+              <persname>Heulings, William.</persname>
+              <persname>Stokes, Joseph, landowner.</persname>
+              <persname>Wills, Aaron.</persname>
+              <persname>Peacock, Adonijah.</persname>
+              <persname>Evans, Elizabeth, of Moorestown, N.J.</persname>
+              <persname>Haines, Solomon.</persname>
+              <persname>Hooton, Thomas.</persname>
+              <persname>Wilson, Thomas, landowner.</persname>
+              <persname>Rogers, Ann Wilson.</persname>
+              <persname>Stokces, Joshua.</persname>
+              <persname>Burr, George.</persname>
+              <persname>Bates, John, Jr.</persname>
+              <persname>Shreve, Caleb, 1766-1836.</persname>
+              <persname>Shreve, Benjamin.</persname>
+              <persname>Cline, Ephraim.</persname>
+            </origination>
+            <unittitle>Hillman collection, 1743-1859.</unittitle>
+            <physdesc>
+              <extent>18 items.</extent>
+            </physdesc>
+            <abstract>Deeds from Levi Shinn to John Prickett (1745) for land in Evesham Township, Burlington County, N.J., from William Heulings (1764) to Joseph Stokes, Moorestown, from Aaron Wills (1773) to Adonijah Peacock for land in Moorestown, and from Solomon Haines (1800) to Thomas Hooton; quitclaim (1743) by John Budd to Levi Shinn and John Prickett; obligation of debt (1759) of Jonathan Wills to Elizabeth Sharp; map (1792) of Lumberton lots on the west side of the road; small ms. book (1796) belonging to Elizabeth Evans; certificates (1814) between Joshua Stokes and George Burr and between Joshua Stokes (1814) and George Burr; mortgage deed (1827) from John Bates, Jr., to Caleb Shreve and Benjamin Shreve; and documents (3 items, 1846-1859) concerning the appointment of road surveyors and a meeting to discuss the laying out of a public road in Evesham Township. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6kj19tg">Historical Society of Moorestown</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+    </relations></cpfDescription></eac-cpf>
