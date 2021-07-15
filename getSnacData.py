@@ -1,6 +1,6 @@
 """
-Gets data from SNAC and writes it to a file w/ JSON data, a file w/ a list
-of SNAC IDs, and a series of pared-down EAC files for import into ASpace
+Gets data from SNAC and writes it to a file w/ JSON data and a file w/ a list
+of SNAC IDs
 """
 import json, requests
 import xml.etree.ElementTree as ET
