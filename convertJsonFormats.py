@@ -28,7 +28,29 @@ def convertToAgent(constellation):
 	pass
 
 def writeJsons(agents):
-	pass
+	"""
+	Given a list of JSON objects, write each one to a separate file
+
+	Param: jsons, a list of JSON objects represented as Python dicts
+	"""
+	print("Writing {} JSON objects to file...".format(len(jsons)))
+
+	# Loop over JSONs
+	for item in jsons:
+		# Create filename
+		directory = "as_jsons/"
+		entName = item["id"] ## TODO: figure out proper key for AS
+		filename = directory+entName+".json"
+
+		# Write file
+		print("Writing {}".format(filename[14:] + "..."), end="")
+		try:
+			with open(filename, 'w', encoding='utf-8') as f:
+				json.dump(item, f, ensure_ascii=False, indent=4)
+		except (FileNotFoundError):
+			with open(filename, 'x', encoding='utf-8') as f:
+				json.dump(item, f, ensure_ascii=False, indent=4)
+		print("\tDone.")
 
 def main():
 	constellations = loadSnacData()
