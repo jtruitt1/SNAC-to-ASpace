@@ -41,18 +41,58 @@ def convertToAgents(constellations):
 	agents = []
 	for constellation in constellations:
 		agent = convertToAgent(constellation)
-		agents.append(agent)
-
+		if len(agent) > 0:
+			agents.append(agent)
 	return agents
 
 def convertToAgent(constellation):
 	"""
-	insert docstring
-	"""
-	print("In convertToAgent()")
+	Convert a JSON representing a SNAC constellation to one rep'ing an AS agent
 
+	Param:	@constellation, a SNAC constellation JSON in dict form
+	Returns: agent, an ASpace agent JSON in dict form
+	"""
+
+	## TODO: print a status message
+
+	# Initialize agent dict to be returned
+	agent = {}
+
+	# Check SNAC record against AS agents
+	## TODO:
+
+	# Convert names (type-specific?)
+	## TODO:
+
+	# Convert sources
+	## TODO:
+
+	# Convert places
+	## TODO:
+
+	# Convert exist dates
+	## TODO:
 	
 
+	# Take care of details specific to agent sub-types
+	if constellation["entityType"]["term"] == "person":
+		agent = convertPersonAgent(constellation, agent)
+	elif constellation["entityType"]["term"] == "corporation":
+		agent = convertCorpAgent(constellation, agent)
+
+	return agent
+
+def convertPersonAgent(constellation, agent):
+	"""
+	insert docstring
+	"""
+	return agent
+
+def convertCorpAgent(constellation, agent):
+	"""
+	insert docstring
+	"""
+	return agent
 
 def writeJsons(agents):
 	"""
