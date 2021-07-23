@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w6wt7j0f",
+    "ark": "http://n2t.net/ark:/99166/w6j20tpc",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -16,102 +16,252 @@
             "dataType": "MaintenanceEvent",
             "eventType": {
                 "id": "704",
-                "term": "revised"
-            },
-            "eventDateTime": "2015-09-17",
-            "agentType": {
-                "id": "687",
-                "term": "machine"
-            },
-            "agent": "CPF merge program",
-            "eventDescription": "Merge v2.0"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
-            "agentType": {
-                "id": "687",
-                "term": "machine",
-                "type": "agent_type"
-            },
-            "agent": "SNAC EAC-CPF Parser",
-            "eventDescription": "Bulk ingest into SNAC Database"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
+            "eventDateTime": "2021-07-01T11:42:58",
+            "standardDateTime": "2021-07-01T11:42:58",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "System Service (system@localhost)"
+            "agent": "Dina Herbert (dina.herbert@nara.gov)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-20T17:02:46",
+            "standardDateTime": "2021-07-20T17:02:46",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85533070",
+                "version": "11546835"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/57202262",
-            "id": "9511709",
-            "version": "1381478"
+            "text": "Mention of his wife, Martha Evans, and their daughter Rachel.",
+            "citation": "Moorestown and Chester Monthly Meetings, Membership, 1885-1912 via Ancestry.com search, viewed June 30th, 2021",
+            "id": "85533069",
+            "version": "11546835"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85533080",
+                "version": "11546849"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "Marriage between Thomas Dudley and Martha Evans on November 10th, 1762.",
+            "citation": "Marriage Record of Christ Church of Philadelphia, 1709-1806 via Ancestry.com search, viewed June 30th, 2021",
+            "id": "85533079",
+            "version": "11546849"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85533051",
+                "version": "11546816"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "BIRTH 1 Jun 1741\r\nNew Jersey, USA\r\n<p>DEATH 1829 (aged 87–88)",
+            "citation": "Findagrave.com, June 30th, 2021",
+            "uri": "https://www.findagrave.com/memorial/131683884/thomas-dudley",
+            "id": "85533050",
+            "version": "11546816"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Matlack, Ann R.",
-            "preferenceScore": "1",
+            "original": "Dudley, Thomas, 1741-1829",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85527114",
+                    "version": "11545116"
+                }
+            ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Matlack, Ann R.",
+                    "text": "Dudley",
                     "order": "0",
                     "type": {
-                        "id": "400228",
-                        "term": "Name",
+                        "id": "400223",
+                        "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "9511711",
-                    "version": "1381478"
+                    "id": "85527111",
+                    "version": "11545116"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Thomas",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85527112",
+                    "version": "11545116"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1741-1829",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85527113",
+                    "version": "11545116"
                 }
             ],
-            "id": "9511710",
-            "version": "1381478",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "77578946",
-                    "version": "1381478"
-                }
-            ]
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85527115",
+                "version": "11545116"
+            },
+            "id": "85527110",
+            "version": "11545116"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85531273",
+            "version": "11545987"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85531271",
+                "version": "11546946"
+            },
+            "text": "Thomas Dudley was a member of the Society of Friends in New Jersey. He married his wife, Martha Evans, in 1762. Their daughter Rachel died young in 1791. Their other children were Hannah, Job, Thomas, Jemina, Susannah, Martha, and Evan.",
+            "id": "85531256",
+            "version": "11546946"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "9511707",
-            "targetConstellation": "56886470",
-            "sourceArkID": "http://n2t.net/ark:/99166/w6wt7j0f",
-            "targetArkID": "http://n2t.net/ark:/99166/w65b11gw",
+            "sourceConstellation": "85527109",
+            "targetConstellation": "25793258",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6j20tpc",
+            "targetArkID": "http://n2t.net/ark:/99166/w6vq5hcv",
             "targetEntityType": {
                 "id": "700",
                 "term": "person",
@@ -119,14 +269,166 @@
                 "type": "entity_type"
             },
             "type": {
-                "id": "28234",
-                "term": "associatedWith",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "id": "28284",
+                "term": "spouseOf",
                 "type": "relation_type"
             },
-            "content": "Hunt, John, 1740-1824.",
-            "id": "9511714",
-            "version": "1381478"
+            "content": "Dudley, Martha Evans",
+            "id": "85532797",
+            "version": "11546794"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85527109",
+            "targetConstellation": "85562686",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6j20tpc",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hv3dtz",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Evans, Caleb, 1737-",
+            "note": "Thomas Dudley was the husband of Martha Evans Dudley, sister of Caleb Evans.",
+            "id": "85596225",
+            "version": "11560914"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85527109",
+            "targetConstellation": "85359969",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6j20tpc",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, Enoch, 1743-1818",
+            "note": "Thomas Dudley was the husband of Martha Evans Dudley, sister of Enoch Evans's father William.",
+            "id": "85596227",
+            "version": "11560915"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85527109",
+            "targetConstellation": "85552141",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6j20tpc",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hb9wqh",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, John, 1739-1821",
+            "note": "Thomas Dudley was the husband of Martha Evans Dudley, sister of John Evans's father William.",
+            "id": "85596226",
+            "version": "11560915"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85527109",
+            "targetConstellation": "8563091",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6j20tpc",
+            "targetArkID": "http://n2t.net/ark:/99166/w6c82qz0",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Evans, Joshua, 1731-1798",
+            "note": "Thomas Dudley was the husband of Martha Evans Dudley, sister of Joshua Evans.",
+            "id": "85596224",
+            "version": "11560914"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85527109",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6j20tpc",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85532795",
+            "version": "11560909"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85527109",
+            "targetConstellation": "85290220",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6j20tpc",
+            "targetArkID": "http://n2t.net/ark:/99166/w6jb6xn6",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Lippincott, Joshua, 1732-1813",
+            "note": "Thomas Dudley's wife Martha Evans was the sister of Joshua Lippincott's wife Rachel Dudley.",
+            "id": "85596222",
+            "version": "11560910"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85527109",
+            "targetConstellation": "85552155",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6j20tpc",
+            "targetArkID": "http://n2t.net/ark:/99166/w66v1c5g",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28275",
+                "term": "parent-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Ebenezer, 1776-1854",
+            "note": "Thomas Dudley's daughter Rachel married Ebenezer Roberts.",
+            "id": "85596223",
+            "version": "11560911"
         }
     ],
     "resourceRelations": [
@@ -480,43 +782,104 @@
                     "version": "11480318"
                 },
                 "id": "7760181",
-                "version": "7760181"
+                "version": "8386944"
             },
             "role": {
-                "id": "692",
-                "term": "creatorOf",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "content": "Hunt, John, 1740-1824. Papers, 1770-1828.",
-            "id": "9511715",
-            "version": "1381478"
+            "id": "85532796",
+            "version": "11546792"
         }
     ],
-    "id": "9511707",
-    "version": "1381479",
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "9171",
+                "uri": "http://www.geonames.org/5101760",
+                "name": "New Jersey",
+                "latitude": "40.1670600",
+                "longitude": "-74.4998700",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85531258",
+            "version": "11545959"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85531279",
+            "version": "11545994"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85531280",
+            "version": "11545994"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85531272",
+            "version": "11545984"
+        }
+    ],
+    "id": "85527109",
+    "version": "11560917",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1770",
-            "fromDateOriginal": "active 1770",
+            "fromDate": "1741-08-12",
+            "fromDateOriginal": "1741-08-12",
             "fromType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1828",
-            "toDateOriginal": "active 1828",
+            "toDate": "1829",
+            "toDateOriginal": "1829",
             "toType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "9511708",
-            "version": "1381478"
+            "id": "85531257",
+            "version": "11545957"
         }
     ]
 }

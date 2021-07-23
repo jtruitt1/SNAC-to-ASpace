@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w6wt7j0f",
+    "ark": "http://n2t.net/ark:/99166/w69h6c86",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -16,102 +16,290 @@
             "dataType": "MaintenanceEvent",
             "eventType": {
                 "id": "704",
-                "term": "revised"
-            },
-            "eventDateTime": "2015-09-17",
-            "agentType": {
-                "id": "687",
-                "term": "machine"
-            },
-            "agent": "CPF merge program",
-            "eventDescription": "Merge v2.0"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
-            "agentType": {
-                "id": "687",
-                "term": "machine",
-                "type": "agent_type"
-            },
-            "agent": "SNAC EAC-CPF Parser",
-            "eventDescription": "Bulk ingest into SNAC Database"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
+            "eventDateTime": "2021-07-01T10:49:21",
+            "standardDateTime": "2021-07-01T10:49:21",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "System Service (system@localhost)"
+            "agent": "Dina Herbert (dina.herbert@nara.gov)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-05T21:09:30",
+            "standardDateTime": "2021-07-05T21:09:30",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-20T17:11:52",
+            "standardDateTime": "2021-07-20T17:11:52",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85532593",
+                "version": "11546608"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/57202262",
-            "id": "9511709",
-            "version": "1381478"
+            "text": "Francis and Ann. Members' Names: Job Collins. Births: 6-18-1752. When Deceased: 2-28-1827. Where Buried: Upper Evesham. Jonathan and Hannah Haines. Members' Names: Mary Collins 1st wife. Births: 9-27-1753. To Whom Married: To each other. Time When: 3-17-1774.  When Deceased: 4-27-1776. Where Buried: Upper Evesham. Members' Names: Sarah. Births: 11-15-1774. To Whom Married: Samuel Thorn. Joshua and Naomi Ballinger. Members' Names: Elizabeth Collins 2nd wife. Births: 11-15-1755. To Whom Married: Job Collins. Time When: 5-14-1778. When Deceased: 2-1-1831. Where Buried: Upper Evesham. Members' Names: Mary... John... Naomi... Elizabeth... Lydia... Josiah... Hannah... Hope... Isaac... Esna.",
+            "citation": "Medford and Upper Evesham Monthly Meetings, Births and Deaths, 1693-1871, via Ancestry.com search, June 30 2021. ",
+            "note": "Job Collins' Family Record. ",
+            "id": "85532504",
+            "version": "11546608"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85532520",
+                "version": "11546538"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "The following is a list of members of Upper Evesham Preparative meeting of Ministers and Elders since its establishment in 1794.. Job Collins. An Elder. Deceased. 2-28-1827. Aged 74. ",
+            "citation": "Medford and Upper Evesham Monthly Meetings, Ministers and Elders, 1882-1922, via Ancestry.com search, June 30 2021. ",
+            "note": "Elder + Death",
+            "id": "85532519",
+            "version": "11546538"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85532560",
+                "version": "11546666"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p.86. Whereas Job Collins son of Francis Collins and Ann his wife both dec. of the Township of Evesham in the County of Burlington of Province of West New Jersey, and Elizabeth Mason widow of John Mason Dec. of the Township County and Province aforesaid, they having declare their intentions of marriage with each other before several monthly meetings of the people called Quakers held on Evesham aforesaid... this fourtheenth day of the fifth month in the year of our Lord one thousand and seven hundred and seventy eight 1778...",
+            "citation": "Evesham Monthly Meeting, Marriage Certificates, 1758-1780, via Ancestry.com search, June 30 2021. ",
+            "note": "Marriage Certificate of Job Collins and Elizabeth Ballinger Mason",
+            "id": "85532559",
+            "version": "11546666"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85532639",
+            "version": "11546655"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Matlack, Ann R.",
-            "preferenceScore": "1",
+            "original": "Collins, Job, 1752-1827",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85532460",
+                    "version": "11546660"
+                }
+            ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Matlack, Ann R.",
+                    "text": "Collins",
                     "order": "0",
                     "type": {
-                        "id": "400228",
-                        "term": "Name",
+                        "id": "400223",
+                        "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "9511711",
-                    "version": "1381478"
+                    "id": "85532457",
+                    "version": "11546660"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Job",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85532458",
+                    "version": "11546660"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1752-1827",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85532459",
+                    "version": "11546660"
                 }
             ],
-            "id": "9511710",
-            "version": "1381478",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "77578946",
-                    "version": "1381478"
-                }
-            ]
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85532461",
+                "version": "11546660"
+            },
+            "id": "85532456",
+            "version": "11546660"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85532584",
+            "version": "11546598"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85532594",
+                "version": "11546654"
+            },
+            "text": "Job Collins was a Quaker Elder who lived in the Township of Evesham, New Jersey. He was born to Francis and Ann Collins on the 13th of the 6th month 1752. In 1774 he married Mary Collins (1753-1776), daughter of Jonathan and Hannah Haines; the couple had a daughter named Sarah together. In 1778, Collins remarried to Elizabeth Ballinger Mason (1755-1831), widow of John Mason; the couple had ten children together. Collins was a member of the Upper Evesham Preparative Meeting of Ministers and Elders since its establishment in 1794. He died February 28, 1827. ",
+            "id": "85532585",
+            "version": "11546654"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "9511707",
-            "targetConstellation": "56886470",
-            "sourceArkID": "http://n2t.net/ark:/99166/w6wt7j0f",
-            "targetArkID": "http://n2t.net/ark:/99166/w65b11gw",
+            "sourceConstellation": "85532454",
+            "targetConstellation": "85290256",
+            "sourceArkID": "http://n2t.net/ark:/99166/w69h6c86",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hj799d",
             "targetEntityType": {
                 "id": "700",
                 "term": "person",
@@ -119,14 +307,135 @@
                 "type": "entity_type"
             },
             "type": {
-                "id": "28234",
-                "term": "associatedWith",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "id": "28284",
+                "term": "spouseOf",
                 "type": "relation_type"
             },
-            "content": "Hunt, John, 1740-1824.",
-            "id": "9511714",
-            "version": "1381478"
+            "content": "Collins, Elizabeth, 1755-1831",
+            "note": "Job Collins' 2nd wife",
+            "id": "85532595",
+            "version": "11546611"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85532454",
+            "targetConstellation": "67782267",
+            "sourceArkID": "http://n2t.net/ark:/99166/w69h6c86",
+            "targetArkID": "http://n2t.net/ark:/99166/w6gj3q0h",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Collins, Esther Roberts Hunt, 1751-1820",
+            "note": "Job Collins was the brother of John Collins, the second husband of Esther Roberts Hunt Collins.",
+            "id": "85532632",
+            "version": "11560923"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85532454",
+            "targetConstellation": "85289632",
+            "sourceArkID": "http://n2t.net/ark:/99166/w69h6c86",
+            "targetArkID": "http://n2t.net/ark:/99166/w6165774",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28283",
+                "term": "sibling of",
+                "type": "relation_type"
+            },
+            "content": "Collins, John, 1750-1817",
+            "id": "85532630",
+            "version": "11546640"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85532454",
+            "targetConstellation": "8563091",
+            "sourceArkID": "http://n2t.net/ark:/99166/w69h6c86",
+            "targetArkID": "http://n2t.net/ark:/99166/w6c82qz0",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, Joshua, 1731-1798",
+            "note": "Job Collins was the son of Francis Collins, whose sister Priscilla Collins married Joshua Evans.",
+            "id": "85596233",
+            "version": "11560925"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85532454",
+            "targetConstellation": "2545621",
+            "sourceArkID": "http://n2t.net/ark:/99166/w69h6c86",
+            "targetArkID": "http://n2t.net/ark:/99166/w6t214bg",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.). Preparative Meeting of Ministers and Elders.",
+            "id": "85532635",
+            "version": "11546648"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85532454",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w69h6c86",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85532623",
+            "version": "11546633"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/no2013047575",
+            "id": "85532480",
+            "version": "11546498"
         }
     ],
     "resourceRelations": [
@@ -480,43 +789,130 @@
                     "version": "11480318"
                 },
                 "id": "7760181",
-                "version": "7760181"
+                "version": "8386944"
             },
             "role": {
-                "id": "692",
-                "term": "creatorOf",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "content": "Hunt, John, 1740-1824. Papers, 1770-1828.",
-            "id": "9511715",
-            "version": "1381478"
+            "id": "85532624",
+            "version": "11546634"
         }
     ],
-    "id": "9511707",
-    "version": "1381479",
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1728",
+                "uri": "http://www.geonames.org/5096075",
+                "name": "Burlington",
+                "latitude": "40.0712200",
+                "longitude": "-74.8648900",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85532638",
+            "version": "11546652"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "19281",
+                "uri": "https://www.geonames.org/4501723/township-of-evesham.html",
+                "name": "Township of Evesham",
+                "latitude": "39.8602000",
+                "longitude": "-74.8945900",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85532586",
+            "version": "11546602"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85532477",
+            "version": "11546493"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85532478",
+            "version": "11546494"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85532463",
+            "version": "11546470"
+        }
+    ],
+    "id": "85532454",
+    "version": "11560926",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1770",
-            "fromDateOriginal": "active 1770",
+            "fromDate": "1752-06-13",
+            "fromDateOriginal": "1752-06-13",
             "fromType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1828",
-            "toDateOriginal": "active 1828",
+            "toDate": "1827-02-28",
+            "toDateOriginal": "1827-02-28",
             "toType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "9511708",
-            "version": "1381478"
+            "id": "85532455",
+            "version": "11549016"
         }
     ]
 }

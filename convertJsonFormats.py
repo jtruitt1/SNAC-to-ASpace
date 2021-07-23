@@ -72,7 +72,7 @@ def convertToAgent(constellation):
 
 	# Convert exist dates
 	## TODO:
-	
+
 
 	# Take care of details specific to agent sub-types
 	if constellation["entityType"]["term"] == "person":
@@ -86,12 +86,14 @@ def convertPersonAgent(constellation, agent):
 	"""
 	insert docstring
 	"""
+	print("inConvertPersonAgent")
 	return agent
 
 def convertCorpAgent(constellation, agent):
 	"""
 	insert docstring
 	"""
+	print("inConvertCorpAgent")
 	return agent
 
 def writeJsons(agents):

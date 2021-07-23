@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w6wt7j0f",
+    "ark": "http://n2t.net/ark:/99166/w61h1brp",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -16,106 +16,255 @@
             "dataType": "MaintenanceEvent",
             "eventType": {
                 "id": "704",
-                "term": "revised"
-            },
-            "eventDateTime": "2015-09-17",
-            "agentType": {
-                "id": "687",
-                "term": "machine"
-            },
-            "agent": "CPF merge program",
-            "eventDescription": "Merge v2.0"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
-            "agentType": {
-                "id": "687",
-                "term": "machine",
-                "type": "agent_type"
-            },
-            "agent": "SNAC EAC-CPF Parser",
-            "eventDescription": "Bulk ingest into SNAC Database"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
+            "eventDateTime": "2021-07-15T13:25:34",
+            "standardDateTime": "2021-07-15T13:25:34",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "System Service (system@localhost)"
+            "agent": "Ayodeji George (ageorge3@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-15T23:29:53",
+            "standardDateTime": "2021-07-15T23:29:53",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-20T10:25:41",
+            "standardDateTime": "2021-07-20T10:25:41",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85567783",
+                "version": "11556531"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/57202262",
-            "id": "9511709",
-            "version": "1381478"
+            "text": "Job had a son named Samuel.",
+            "citation": "Haddonfield Monthly Meeting, Minutes, 1804-1813, via Ancestry.com search, July 15th, 2021",
+            "id": "85567782",
+            "version": "11556531"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85567789",
+            "version": "11556536"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Matlack, Ann R.",
-            "preferenceScore": "1",
+            "original": "Coles, Job, 1748-1828",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85567761",
+                    "version": "11556523"
+                }
+            ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Matlack, Ann R.",
+                    "text": "Coles",
                     "order": "0",
                     "type": {
-                        "id": "400228",
-                        "term": "Name",
+                        "id": "400223",
+                        "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "9511711",
-                    "version": "1381478"
+                    "id": "85567758",
+                    "version": "11556523"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Job",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85567759",
+                    "version": "11556523"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1748-1828",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85567760",
+                    "version": "11556523"
                 }
             ],
-            "id": "9511710",
-            "version": "1381478",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "77578946",
-                    "version": "1381478"
-                }
-            ]
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85567762",
+                "version": "11556523"
+            },
+            "id": "85567757",
+            "version": "11556523"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85567793",
+            "version": "11556538"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85567813",
+                "version": "11556548"
+            },
+            "text": "Job Coles was a member of the Society of Friends born in 1748. He was associated with Haddonfield, New Jersey and Haddonfield Monthly Meeting. He was married to Elizabeth Tomlin and the couple had at least one child, Samuel. He died on the 9th day of the 10th month, 1828.",
+            "id": "85567812",
+            "version": "11556548"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "9511707",
-            "targetConstellation": "56886470",
-            "sourceArkID": "http://n2t.net/ark:/99166/w6wt7j0f",
-            "targetArkID": "http://n2t.net/ark:/99166/w65b11gw",
+            "sourceConstellation": "85567755",
+            "targetConstellation": "67782267",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61h1brp",
+            "targetArkID": "http://n2t.net/ark:/99166/w6gj3q0h",
             "targetEntityType": {
                 "id": "700",
                 "term": "person",
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Collins, Esther Roberts Hunt, 1751-1820",
+            "note": "Job Coles was a cousin of Esther Roberts Hunt Collins; Job's father Kendall Coles was the brother of Collins's mother Rachel Coles Roberts.",
+            "id": "85593015",
+            "version": "11559893"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85567755",
+            "targetConstellation": "68042571",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61h1brp",
+            "targetArkID": "http://n2t.net/ark:/99166/w6ds13bk",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
                 "type": "entity_type"
             },
             "type": {
@@ -124,9 +273,74 @@
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
                 "type": "relation_type"
             },
-            "content": "Hunt, John, 1740-1824.",
-            "id": "9511714",
-            "version": "1381478"
+            "content": "Haddonfield Monthly Meeting of the Religious Society of Friends",
+            "id": "85567802",
+            "version": "11556542"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85567755",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61h1brp",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85567803",
+            "version": "11556542"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85567755",
+            "targetConstellation": "68531606",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61h1brp",
+            "targetArkID": "http://n2t.net/ark:/99166/w6k6603s",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, David, 1792-1880",
+            "note": "Job Coles was the brother of Susanna Coles Roberts, mother of David.",
+            "id": "85592954",
+            "version": "11559856"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85567755",
+            "targetConstellation": "12635601",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61h1brp",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n05bth",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Joseph, 1742-1826",
+            "note": "Job Coles was the brother of Susanna Coles, wife of Joseph Roberts",
+            "id": "85592953",
+            "version": "11559854"
         }
     ],
     "resourceRelations": [
@@ -480,43 +694,93 @@
                     "version": "11480318"
                 },
                 "id": "7760181",
-                "version": "7760181"
+                "version": "8386944"
             },
             "role": {
-                "id": "692",
-                "term": "creatorOf",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "content": "Hunt, John, 1740-1824. Papers, 1770-1828.",
-            "id": "9511715",
-            "version": "1381478"
+            "id": "85567804",
+            "version": "11556542"
         }
     ],
-    "id": "9511707",
-    "version": "1381479",
+    "places": [
+        {
+            "dataType": "Place",
+            "geoplace": {
+                "id": "5460",
+                "uri": "http://www.geonames.org/4502103",
+                "name": "Haddonfield",
+                "latitude": "39.8915000",
+                "longitude": "-75.0376700",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85567784",
+            "version": "11556532"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85567801",
+            "version": "11556541"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85567800",
+            "version": "11556541"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85567787",
+            "version": "11556534"
+        }
+    ],
+    "id": "85567755",
+    "version": "11559894",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1770",
-            "fromDateOriginal": "active 1770",
+            "fromDate": "1748",
+            "fromDateOriginal": "1748",
             "fromType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1828",
-            "toDateOriginal": "active 1828",
+            "toDate": "1828-10-09",
+            "toDateOriginal": "1828-10-09",
             "toType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "9511708",
-            "version": "1381478"
+            "id": "85567756",
+            "version": "11556523"
         }
     ]
 }

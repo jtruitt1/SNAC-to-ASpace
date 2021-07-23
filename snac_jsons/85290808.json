@@ -198,6 +198,40 @@
             },
             "agent": "James Truitt (jtruitt1@swarthmore.edu)",
             "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-20T17:17:51",
+            "standardDateTime": "2021-07-20T17:17:51",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-20T17:41:15",
+            "standardDateTime": "2021-07-20T17:41:15",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
@@ -459,6 +493,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "74118480",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6058f0z",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Allinson, Samuel, 1739?-1791",
+            "id": "85596015",
+            "version": "11560891"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "85366829",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6zx2b7v",
@@ -519,6 +574,111 @@
             "content": "Benezet, Anthony, 1713-1784.",
             "id": "85290842",
             "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85589327",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6jr1rg4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Bispham, Joshua, 1705?-1795",
+            "id": "85591775",
+            "version": "11559648"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85578553",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w66z02ks",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Borton, Issac, 1737-1807",
+            "id": "85592736",
+            "version": "11559755"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85545503",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6vv2hnp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Brown, Clayton, 1763-1847",
+            "id": "85595255",
+            "version": "11560579"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85568358",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6r31rzq",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Burroughs, Joseph, 1736-1814",
+            "id": "85592914",
+            "version": "11559824"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85585690",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6rg6kkd",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Burroughs, Samuel, 1742-1793",
+            "id": "85591864",
+            "version": "11559694"
         },
         {
             "dataType": "ConstellationRelation",
@@ -589,6 +749,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "85558534",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6x74cd2",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cattle, Jonas, 1741-1828",
+            "id": "85594869",
+            "version": "11560462"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "73184126",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6jd66gz",
@@ -606,6 +787,69 @@
             "content": "Churchman, George, 1730-1814",
             "id": "85491271",
             "version": "11534307"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "286968",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6cg1kgr",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Churchman, John, 1705-1775",
+            "id": "85595876",
+            "version": "11560848"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85567755",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w61h1brp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Coles, Job, 1748-1828",
+            "id": "85592916",
+            "version": "11559826"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85539565",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w66f6jgb",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Coles, Kendall, 1723-1804",
+            "id": "85595700",
+            "version": "11560717"
         },
         {
             "dataType": "ConstellationRelation",
@@ -653,6 +897,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "85532454",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w69h6c86",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Collins, Job, 1752-1827",
+            "id": "85596232",
+            "version": "11560922"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "85289632",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6165774",
@@ -671,6 +936,133 @@
             "note": "John Hunt's was the half-brother of Joshua Hunt, whose widow Esther Hunt (née Roberts) married John Collins.",
             "id": "85305008",
             "version": "11488242"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "73313762",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w62n51qq",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Comly, John, 1773-1850",
+            "id": "85595691",
+            "version": "11560712"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "57841013",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6qj9kc7",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cooper, David, 1725-1795",
+            "id": "85596240",
+            "version": "11560947"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85564260",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b38ksb",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cooper, James, 1754-1819",
+            "id": "85593560",
+            "version": "11560065"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85589274",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6010spn",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Cowperthwaite, Hugh, 1744-1808",
+            "note": "Hugh Cowperthwaite's daughter Phebe married John Hunt's son Benjamin.",
+            "id": "85591861",
+            "version": "11559742"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85566596",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6fs0n6b",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cowperthwaite, Job, -1813",
+            "id": "85593408",
+            "version": "11559982"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85585645",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6mt4j9v",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Cowperthwaite, Joseph, 1793-1822",
+            "id": "85592566",
+            "version": "11559741"
         },
         {
             "dataType": "ConstellationRelation",
@@ -717,6 +1109,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "144438",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6qr572m",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Darby, Deborah, 1754-1810",
+            "id": "85596256",
+            "version": "11560967"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "85484838",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6427ngj",
@@ -738,6 +1151,48 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "85566563",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6xq7wg4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Drinker, Elizabeth, 1737-1794",
+            "id": "85593060",
+            "version": "11559915"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85527109",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6j20tpc",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Dudley, Thomas, 1741-1829",
+            "id": "85596221",
+            "version": "11560907"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "85313024",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6xt6kpr",
@@ -755,6 +1210,28 @@
             "content": "Edwards, Ann, 1773-1820",
             "id": "85491233",
             "version": "11534291"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85562686",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hv3dtz",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Evans, Caleb, 1737-",
+            "note": "John Hunt was the brother of Abigail Hunt, wife of Caleb Evans.",
+            "id": "85594004",
+            "version": "11560252"
         },
         {
             "dataType": "ConstellationRelation",
@@ -799,6 +1276,48 @@
             "note": "Enoch Evans was the second husband of Elizabeth Warrington Haines Evans, the sister of John Hunt's wife Esther Warrington Hunt.",
             "id": "85491232",
             "version": "11534291"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85552141",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hb9wqh",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, John, 1739-1821",
+            "id": "85595124",
+            "version": "11560555"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85557519",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6kx66hw",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, John, 1774-1841",
+            "id": "85594874",
+            "version": "11560467"
         },
         {
             "dataType": "ConstellationRelation",
@@ -871,6 +1390,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "85560461",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6rg6kjz",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, Thomas, 1693-1783",
+            "id": "85594115",
+            "version": "11560324"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "23038346",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6b918fj",
@@ -913,6 +1453,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "74054099",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w65d92g1",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Forster, William, 1784-1854",
+            "id": "85595932",
+            "version": "11560879"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "85361084",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w65v49t0",
@@ -930,6 +1491,27 @@
             "content": "Foster, Hannah Core, 1710-1777",
             "id": "85491242",
             "version": "11534294"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "39965134",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6kp9nc6",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Foulke, Elizabeth, 1758-1820",
+            "id": "85596239",
+            "version": "11560946"
         },
         {
             "dataType": "ConstellationRelation",
@@ -956,6 +1538,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "36928915",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wh4nqv",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "French, Robert, 1749-1811",
+            "id": "85596234",
+            "version": "11560928"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "85385027",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w63s1j4g",
@@ -973,6 +1576,48 @@
             "content": "Gaskill, Solomon, approximately 1728-1793",
             "id": "85491243",
             "version": "11534295"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85560501",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6qk87r0",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Gibbs, Lucas, 1773-1807",
+            "id": "85594059",
+            "version": "11560289"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85588035",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w67f3kpm",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Griffith, Abraham, 1712?-1798",
+            "id": "85591862",
+            "version": "11559690"
         },
         {
             "dataType": "ConstellationRelation",
@@ -998,6 +1643,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "74109159",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6nz8ghx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Healy, Christopher, 1773-1851",
+            "id": "85594880",
+            "version": "11560477"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "73142617",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6rj4s40",
@@ -1015,6 +1681,48 @@
             "content": "Hicks, Elias, 1748-1830.",
             "id": "85290852",
             "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85586547",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6g55ftx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hollinshead, Edmund, 1708-1781",
+            "id": "85591867",
+            "version": "11559698"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85513426",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6jj4bpx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hollinshead, Jacob, 1732-1819",
+            "id": "85596246",
+            "version": "11560955"
         },
         {
             "dataType": "ConstellationRelation",
@@ -1085,6 +1793,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "85556964",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6vf7pzj",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28276",
+                "term": "parentOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1778-1824",
+            "id": "85594875",
+            "version": "11560468"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "51652987",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6n05cnp",
@@ -1151,6 +1880,48 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "3507407",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6cr7t0d",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Jackson, William, 1746-1834",
+            "id": "85594878",
+            "version": "11560471"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85532673",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6sk2b2m",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Jones, William, -1782",
+            "id": "85596231",
+            "version": "11560920"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "47361734",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6gq882n",
@@ -1172,6 +1943,69 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "85542130",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w67b4w4h",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Justice, Joseph, 1763-1825",
+            "id": "85595677",
+            "version": "11560708"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "53837053",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w66t871b",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Kaighn, Joseph, 1734?-1797",
+            "id": "85595280",
+            "version": "11560593"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85555670",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6xf1s5t",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Lindley, Jacob, 1744-1814",
+            "id": "85594876",
+            "version": "11560469"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "33467654",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w63n434v",
@@ -1189,6 +2023,27 @@
             "content": "Lindley, Jacob, 1744-1814",
             "id": "85491252",
             "version": "11534300"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85566518",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6q924kg",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Lippincott, Caleb, 1740-",
+            "id": "85593416",
+            "version": "11559988"
         },
         {
             "dataType": "ConstellationRelation",
@@ -1253,6 +2108,69 @@
             "content": "Lippincott, Joshua, 1732-1813",
             "id": "85491206",
             "version": "11534279"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85560490",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w67j292w",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Lippincott, Samuel, 1770-1844",
+            "id": "85594068",
+            "version": "11560295"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "55784347",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6jx3293",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Lippincott, Thomas, 1756-1821",
+            "id": "85595893",
+            "version": "11560860"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85578809",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6rk58z8",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Lloyd, John, 1725-1797",
+            "id": "85592567",
+            "version": "11559743"
         },
         {
             "dataType": "ConstellationRelation",
@@ -1323,6 +2241,111 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "85566391",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6tz45z2",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Matlack, William, 1725-1795",
+            "id": "85593498",
+            "version": "11560012"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "23145759",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6cz4d1t",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Mifflin, Warner, 1745-1798",
+            "id": "85595703",
+            "version": "11560720"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85585714",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6bd4q25",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Miller, Ebenezer, 1725-1800",
+            "id": "85591865",
+            "version": "11559696"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85563064",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6w48mwd",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Newbold, Mary Foster, 1741-1809",
+            "id": "85593999",
+            "version": "11560249"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "35918349",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w68g9ffr",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Offley, Daniel, 1756-1793",
+            "id": "85596257",
+            "version": "11560968"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "85410868",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w63g5dz0",
@@ -1366,6 +2389,111 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "60917789",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w60g68ww",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Potts, Joseph, 1742-1804",
+            "id": "85595792",
+            "version": "11560794"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "47146111",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6x098rs",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Redman, Mercy Davis, 1722-1778",
+            "id": "85595676",
+            "version": "11560707"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85517848",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w61657hq",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Redman, Thomas, 1714-1766",
+            "id": "85595791",
+            "version": "11560792"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "13632608",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6gb2s37",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Redman, Thomas, 1742-1823",
+            "id": "85595796",
+            "version": "11560798"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "41503579",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6h70g88",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Reeve, Benjamin, 1737-1801",
+            "id": "85596245",
+            "version": "11560954"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "85311292",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6x16z80",
@@ -1383,6 +2511,132 @@
             "content": "Reeve, John, approximately 1729-1816",
             "id": "85491225",
             "version": "11534289"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85501852",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w66794np",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Reeve, Mark, 1724-1788",
+            "id": "85596258",
+            "version": "11560969"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85558894",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6107trk",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Reeves, Hannah Foster, 1734-1813",
+            "id": "85594866",
+            "version": "11560457"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85552155",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w66v1c5g",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Ebenezer, 1776-1854",
+            "id": "85594877",
+            "version": "11560470"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85564628",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6xx5995",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, John, 1744-1827",
+            "id": "85593559",
+            "version": "11560061"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "12635601",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n05bth",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Joseph, 1742-1826",
+            "id": "85596012",
+            "version": "11560889"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85564036",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w63p2txf",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Joshua, 1770-1815",
+            "id": "85593996",
+            "version": "11560247"
         },
         {
             "dataType": "ConstellationRelation",
@@ -1451,6 +2705,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "85547666",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6553d40",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Samuel, 1758-1834",
+            "id": "85595254",
+            "version": "11560575"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "85288342",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6fv9b6q",
@@ -1469,6 +2744,48 @@
             "note": "John Hunt married Esther Warrington, the sister of Sarah Warrington, who was the first wife of William Rogers",
             "id": "85290863",
             "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85494329",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b38kp0",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Ross, Thomas, approximately 1709-1786",
+            "id": "85596259",
+            "version": "11560970"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "45956082",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w65147nn",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Routh, Martha Winter, 1743-1817",
+            "id": "85595570",
+            "version": "11560642"
         },
         {
             "dataType": "ConstellationRelation",
@@ -1515,6 +2832,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "33762128",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n87x9b",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Scott, Job, 1751-1793",
+            "id": "85595786",
+            "version": "11560788"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "9302981",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w68m543d",
@@ -1532,6 +2870,27 @@
             "content": "Simpson, John, Quaker",
             "id": "85290864",
             "version": "11486508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "67558766",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w65t3wn2",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Smith, Samuel, 1737-1817",
+            "id": "85595548",
+            "version": "11560617"
         },
         {
             "dataType": "ConstellationRelation",
@@ -1578,6 +2937,27 @@
         {
             "dataType": "ConstellationRelation",
             "sourceConstellation": "85290808",
+            "targetConstellation": "28660463",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6mk6p7z",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Thorn, Thomas, 1740-1809",
+            "id": "85596253",
+            "version": "11560961"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
             "targetConstellation": "10043205",
             "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetArkID": "http://n2t.net/ark:/99166/w6cr7rz4",
@@ -1616,6 +2996,69 @@
             "content": "Thornton James 1761-1794",
             "id": "85491244",
             "version": "11534295"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "85531241",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6d902xk",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Tomlinson, Ephraim, 1695-1780",
+            "id": "85596016",
+            "version": "11560895"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "11157948",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Valentine, Robert, 1717-1786",
+            "id": "85595671",
+            "version": "11560697"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "15248318",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w6d59f93",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Vickers, Thomas, 1720-1793",
+            "id": "85592915",
+            "version": "11559825"
         },
         {
             "dataType": "ConstellationRelation",
@@ -1723,6 +3166,27 @@
             "note": "John Hunt's wife Esther Warrington was the sister of Rebecca Walton's husband Joseph Warrington.",
             "id": "85296873",
             "version": "11487525"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85290808",
+            "targetConstellation": "21001667",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetArkID": "http://n2t.net/ark:/99166/w64r0gvn",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "White, Josiah, 1705-1780",
+            "id": "85596255",
+            "version": "11560966"
         },
         {
             "dataType": "ConstellationRelation",
@@ -3969,7 +5433,7 @@
         }
     ],
     "id": "85290808",
-    "version": "11534321",
+    "version": "11560975",
     "dates": [
         {
             "dataType": "SNACDate",

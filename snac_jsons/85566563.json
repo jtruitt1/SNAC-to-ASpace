@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w6wt7j0f",
+    "ark": "http://n2t.net/ark:/99166/w6xq7wg4",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -16,106 +16,436 @@
             "dataType": "MaintenanceEvent",
             "eventType": {
                 "id": "704",
-                "term": "revised"
-            },
-            "eventDateTime": "2015-09-17",
-            "agentType": {
-                "id": "687",
-                "term": "machine"
-            },
-            "agent": "CPF merge program",
-            "eventDescription": "Merge v2.0"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
-            "agentType": {
-                "id": "687",
-                "term": "machine",
-                "type": "agent_type"
-            },
-            "agent": "SNAC EAC-CPF Parser",
-            "eventDescription": "Bulk ingest into SNAC Database"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
+            "eventDateTime": "2021-07-15T10:47:46",
+            "standardDateTime": "2021-07-15T10:47:46",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "System Service (system@localhost)"
+            "agent": "Ayodeji George (ageorge3@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-15T23:11:10",
+            "standardDateTime": "2021-07-15T23:11:10",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85566943",
+                "version": "11556369"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/57202262",
-            "id": "9511709",
-            "version": "1381478"
+            "text": "<p>b. ca. 1737, Phila., Pa., dau. John Hart.\r\nm., 1760, Daniel Drinker. 1775, appeared as a minister. Visited meetings in the limits of Phila. Yearly Mtg. In 1793, embarked with George and Sarah Dillwyn for England. From London, proceeded into Kent, Sussex and the western counties. From Hertfordshire\r\nto Middlesex and back to London.\r\nd. 10 Aug. 1794, London, Eng., aged ca. 57.<p>\r\n  <p>Four months into the trip she was in a declining state of health, She continued to attend meetings but eventually died in London on the 10th day of the 8th month, 1793. ",
+            "citation": "Dictionary of Quaker Biography, Haverford College",
+            "id": "85566874",
+            "version": "11556369"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85566647",
+            "version": "11556230"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Matlack, Ann R.",
-            "preferenceScore": "1",
+            "original": "Drinker, Elizabeth, 1737-1794",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85566580",
+                    "version": "11556199"
+                }
+            ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Matlack, Ann R.",
+                    "text": "Drinker",
                     "order": "0",
                     "type": {
-                        "id": "400228",
-                        "term": "Name",
+                        "id": "400223",
+                        "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "9511711",
-                    "version": "1381478"
+                    "id": "85566577",
+                    "version": "11556199"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Elizabeth",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85566578",
+                    "version": "11556199"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1737-1794",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85566579",
+                    "version": "11556199"
                 }
             ],
-            "id": "9511710",
-            "version": "1381478",
-            "snacControlMetadata": [
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85566581",
+                "version": "11556199"
+            },
+            "id": "85566576",
+            "version": "11556199"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Drinker, Elizabeth Hart, 1737-1794",
+            "preferenceScore": "0",
+            "contributors": [
                 {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "77578946",
-                    "version": "1381478"
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85566568",
+                    "version": "11556199"
                 }
-            ]
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Drinker",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85566565",
+                    "version": "11556199"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Elizabeth Hart",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85566566",
+                    "version": "11556199"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1737-1794",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85566567",
+                    "version": "11556199"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85566569",
+                "version": "11556199"
+            },
+            "id": "85566564",
+            "version": "11556199"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Hart, Elizabeth, 1737-1794",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85566574",
+                    "version": "11556199"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hart",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85566571",
+                    "version": "11556199"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Elizabeth",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85566572",
+                    "version": "11556199"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1737-1794",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85566573",
+                    "version": "11556199"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85566575",
+                "version": "11556199"
+            },
+            "id": "85566570",
+            "version": "11556199"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85566650",
+            "version": "11556232"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85566649",
+            "version": "11556232"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "26986",
+                "term": "Women clergy",
+                "type": "occupation"
+            },
+            "id": "85566648",
+            "version": "11556232"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85566898",
+                "version": "11556354"
+            },
+            "text": "Elizabeth (Hart) Drinker was born in 1737, the daughter of John Hart. She was a minister frequenting meetings throughout the area associated with the Philadelphia Yearly Meeting. She married Daniel Drinker in 1760. She traveled with George and Sarah Dillwyn to England in 1793. Her health declined and she eventually died in London on the 10th day of the 8th month, 1794.",
+            "id": "85566897",
+            "version": "11556354"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "9511707",
-            "targetConstellation": "56886470",
-            "sourceArkID": "http://n2t.net/ark:/99166/w6wt7j0f",
-            "targetArkID": "http://n2t.net/ark:/99166/w65b11gw",
+            "sourceConstellation": "85566563",
+            "targetConstellation": "85484838",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xq7wg4",
+            "targetArkID": "http://n2t.net/ark:/99166/w6427ngj",
             "targetEntityType": {
                 "id": "700",
                 "term": "person",
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Dillwyn, George, 1738-1820",
+            "id": "85566888",
+            "version": "11556346"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85566563",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xq7wg4",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85566858",
+            "version": "11556324"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85566563",
+            "targetConstellation": "6888581",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xq7wg4",
+            "targetArkID": "http://n2t.net/ark:/99166/w6pw0t8h",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
                 "type": "entity_type"
             },
             "type": {
@@ -124,9 +454,9 @@
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
                 "type": "relation_type"
             },
-            "content": "Hunt, John, 1740-1824.",
-            "id": "9511714",
-            "version": "1381478"
+            "content": "Philadelphia Yearly Meeting of the Religious Society of Friends",
+            "id": "85566857",
+            "version": "11556324"
         }
     ],
     "resourceRelations": [
@@ -480,43 +810,170 @@
                     "version": "11480318"
                 },
                 "id": "7760181",
-                "version": "7760181"
+                "version": "8386944"
             },
             "role": {
-                "id": "692",
-                "term": "creatorOf",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "content": "Hunt, John, 1740-1824. Papers, 1770-1828.",
-            "id": "9511715",
-            "version": "1381478"
+            "id": "85566728",
+            "version": "11556266"
         }
     ],
-    "id": "9511707",
-    "version": "1381479",
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400239",
+                "term": "Death",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "7552",
+                "uri": "http://www.geonames.org/2643743",
+                "name": "London",
+                "latitude": "51.5085300",
+                "longitude": "-0.1257400",
+                "administrationCode": "ENG",
+                "countryCode": "GB"
+            },
+            "confirmed": true,
+            "id": "85566592",
+            "version": "11556371"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "10200",
+                "uri": "http://www.geonames.org/4560349",
+                "name": "Philadelphia",
+                "latitude": "39.9523400",
+                "longitude": "-75.1637900",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85566593",
+            "version": "11556213"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299320",
+                "term": "Quaker women",
+                "type": "subject"
+            },
+            "id": "85566686",
+            "version": "11556251"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85566687",
+            "version": "11556251"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85568356",
+            "version": "11556819"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "99463",
+                "term": "Clergy--Travel",
+                "type": "subject"
+            },
+            "id": "85566685",
+            "version": "11556251"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85566688",
+            "version": "11556251"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85566689",
+            "version": "11556251"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7654",
+                "term": "Female",
+                "type": "gender"
+            },
+            "id": "85566645",
+            "version": "11556228"
+        }
+    ],
+    "id": "85566563",
+    "version": "11556820",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1770",
-            "fromDateOriginal": "active 1770",
+            "fromDate": "1737",
+            "fromDateOriginal": "1737",
             "fromType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1828",
-            "toDateOriginal": "active 1828",
+            "toDate": "1794-08-10",
+            "toDateOriginal": "1794-08-10",
             "toType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "9511708",
-            "version": "1381478"
+            "id": "85566587",
+            "version": "11556205"
         }
     ]
 }

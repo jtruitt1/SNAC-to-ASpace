@@ -1,0 +1,1513 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w61p2c7g",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-19",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-10T10:55:50",
+            "standardDateTime": "2016-08-10T10:55:50",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-10T10:55:50",
+            "standardDateTime": "2016-08-10T10:55:50",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-07T13:52:23",
+            "standardDateTime": "2021-07-07T13:52:23",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-20T15:20:36",
+            "standardDateTime": "2021-07-20T15:20:36",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85543101",
+                "version": "11550365"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p.21. Robert Valentine (son of Thomas Valentine and Mary his wife) who was born at Bally Brinnhill in Ireland the 24th day of the 7th mo 1717 and Rachel Edge (daughter of John Edge and Mary his wife) who was born at Providence in this county the 29 day of the 6th mo 1725 were joined in marriage the 4th day of the 4th month 1744... Thomas their son... Mary... Robert... Rachel... Jane... Sarah... Phebe... George... Jacob... Susanna...",
+            "citation": "Uwchlan Monthly Meeting, [Register], 1749-1999,  via Ancestry.com search, July 7 2021. ",
+            "note": "Robert Valentine's Marriage + Children",
+            "id": "85543100",
+            "version": "11550365"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85543272",
+                "version": "11550422"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p.25. 1787. The Testimony of Uwchlan Monthly Meeting concerning our esteemed Friend Robert Valentine. This our beloved Friend was born in the County of Carlow, in the Kingdom of Ireland; from whence he came to this country with his parents, about the tenth year of his age, who settled at now Providence, in the County of Philadelphia... He departed this life the 21st of the 7th mo 1786 aged 69 years...",
+            "citation": "Philadelphia Yearly Meeting, Epistles, letters, minutes, and reports, 1786,  via Ancestry.com search, July 7 2021. ",
+            "note": "Robert Valentine's Memorial",
+            "id": "85543114",
+            "version": "11550422"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF</citation></conventionDeclaration>",
+            "id": "11157954",
+            "version": "1626344"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85542984",
+            "version": "11550338"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Valentine, Robert, 1717-1786",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85542844",
+                    "version": "11550309"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Valentine",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85542841",
+                    "version": "11550309"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Robert",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85542842",
+                    "version": "11550309"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1717-1786",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85542843",
+                    "version": "11550309"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85542845",
+                "version": "11550309"
+            },
+            "id": "11157955",
+            "version": "11550309",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "77715152",
+                    "version": "1626344"
+                }
+            ]
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85542985",
+            "version": "11550339"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85542986",
+            "version": "11550340"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "11157950",
+                "version": "1626344"
+            },
+            "text": "<biogHist><p xmlns=\"urn:isbn:1-931666-33-4\">Robert Valentine, Pennsylvania Quaker minister, was born in Ballybrumhill, Ireland. His parents came to Pennsylvania in the late 1720s or early 1730s, settling in Chester and then Delaware Counties. In 1747 Robert Valentine married Rachel Edge (1725-1779). In 1764, the Concord Monthly Meeting recommended him for ministry. He was a well-known public figure who maintained contacts with many leading Quakers in Pennsylvania, New Jersey, New York, Ireland, and England. As a \"public Friend,\" he traveled extensively, and in 1781-1784 journeyed to England and Ireland. He died in East Caln in 1786. The Valentines had ten children who married into Sharpless, Malin, Massey, and Ashbridge families.</p>\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of Papers of Robert Valentine, ca. 1712-1927 (bulk 1781-1786). (Huntington Library, Art Collections &amp; Botanical Gardens). WorldCat record id: 228737784</citation>\n         </biogHist>",
+            "id": "11157949",
+            "version": "1626344"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "62248026",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w65z1k5p",
+            "targetEntityType": {
+                "id": "699",
+                "term": "family",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Ashbridge family.",
+            "id": "11157993",
+            "version": "1626344"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "66663936",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6381kx1",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28256",
+                "term": "grandparentOf",
+                "type": "relation_type"
+            },
+            "content": "Ashbridge, Rachel Valentine Sharpless.",
+            "id": "11157994",
+            "version": "11560665"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "51503587",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w60616kc",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Concord Monthly Meeting (Society of Friends)",
+            "id": "85543277",
+            "version": "11560665"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85542992",
+            "version": "11550347"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "75567611",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wt520w",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "London Yearly Meeting of Women Friends",
+            "id": "11157991",
+            "version": "1626344"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "40054266",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6f51qrh",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "London Yearly Meeting (Society of Friends)",
+            "id": "11157990",
+            "version": "1626344"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "71009773",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6kx4r8m",
+            "targetEntityType": {
+                "id": "699",
+                "term": "family",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Malin family.",
+            "id": "11157996",
+            "version": "1626344"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "74484053",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6rr68ps",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28276",
+                "term": "parentOf",
+                "type": "relation_type"
+            },
+            "content": "Malin, Rachel Valentine.",
+            "id": "11157997",
+            "version": "11560665"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "40208181",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6449xzk",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28275",
+                "term": "parent-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Sharpless, Abraham.",
+            "id": "11157998",
+            "version": "11560665"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "54268689",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6xd7b6t",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Uwchlan Monthly Meeting (Society of Friends)",
+            "note": "ministerOf",
+            "id": "85543133",
+            "version": "11550385"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "20780796",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6203dph",
+            "targetEntityType": {
+                "id": "699",
+                "term": "family",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Valentine family.",
+            "id": "11157999",
+            "version": "1626344"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "11157948",
+            "targetConstellation": "25054162",
+            "sourceArkID": "http://n2t.net/ark:/99166/w61p2c7g",
+            "targetArkID": "http://n2t.net/ark:/99166/w66v0hpg",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Valentine, Robert, active 1779, of Add MS 38531"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Valentine, Robert, 1717-1786",
+            "uri": "https://viaf.org/viaf/102997442",
+            "id": "11157961",
+            "version": "1626344"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://www.worldcat.org/identities/lccn-no2009176129",
+            "id": "11157962",
+            "version": "1626344"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/no2009176129",
+            "id": "11157963",
+            "version": "11550336"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6jv0fkd",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Friends Historical Library of Swarthmore College",
+                            "preferenceScore": "99",
+                            "id": "85254723",
+                            "version": "11480310"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Bucks County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254764",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Swarthmore College, FRIENDS HIST LIBR",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "500 College Ave",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254747",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Swarthmore",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254748",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254749",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19081-1399",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254750",
+                                    "version": "11480310"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85254751",
+                                    "version": "11480310"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17201",
+                                "name": "Swarthmore College, FRIENDS HIST LIBR",
+                                "latitude": "39.9053000",
+                                "longitude": "-75.3531000"
+                            },
+                            "confirmed": true,
+                            "id": "85254746",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "1992",
+                                "uri": "http://www.geonames.org/6251999",
+                                "name": "Canada",
+                                "latitude": "60.1086700",
+                                "longitude": "-113.6425800",
+                                "administrationCode": "00",
+                                "countryCode": "CA"
+                            },
+                            "score": "1",
+                            "id": "85254770",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Montgomery County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254762",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Philadelphia County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254766",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254756",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "United States",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13587",
+                                "uri": "http://www.geonames.org/6252001",
+                                "name": "United States",
+                                "latitude": "39.7600000",
+                                "longitude": "-98.5000000",
+                                "administrationCode": "00",
+                                "countryCode": "US"
+                            },
+                            "score": "1",
+                            "id": "85254768",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254772",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Canada",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254760",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Pennsylvania",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254754",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Chester County (Pa.)",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "85254752",
+                            "version": "11480310"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "John J. Tyler Arboretum.",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "geoplace": {
+                                "id": "13512",
+                                "uri": "http://www.geonames.org/4561828",
+                                "name": "Tyler Arboretum",
+                                "latitude": "39.9331700",
+                                "longitude": "-75.4352000",
+                                "administrationCode": "PA",
+                                "countryCode": "US"
+                            },
+                            "score": "0.01",
+                            "id": "85254758",
+                            "version": "11480310"
+                        }
+                    ],
+                    "id": "85254717",
+                    "version": "11480318"
+                },
+                "id": "7760181",
+                "version": "8386944"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
+                "type": "document_role"
+            },
+            "id": "85542991",
+            "version": "11550346"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http://www.worldcat.org/oclc/228737784",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:228737784</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-HUV</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Valentine, Robert, 1717-1786.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Ashbridge family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Ashbridge, Rachel Valentine Sharpless.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>George III, King of Great Britain, 1738-1820,</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Malin family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Malin, Rachel Valentine.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Sharpless, Abraham.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Valentine family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Papers of Robert Valentine, ca. 1712-1927 (bulk 1781-1786).</title>\n                  </titleInfo>\n                  <abstract>Correspondence and papers of Robert Valentine that cover chiefly his voyage to Great Britain and its aftermath. Included are his letters to his daughters (often both retained and sent copies) and letters from Friends in England, Ireland, and Pennsylvania. A significant number of the letters was written by women Quakers. The collection also includes an account of Robert Valentine's journey to New Jersey in 1775 and other Quaker travel accounts. Also included are minutes and correspondence of various meetings in Pennsylvania, England, and Ireland, including London Yearly Meeting of Women Friends, personal testimonies of individual Quakers recounting their visions and prophesies, devotional treatises and poems. There are also a few items relating to the relations between Quakers communities and Indians, including the minutes of a meeting between a group of Philadelphia Quakers headed by Israel Pemberton and representatives of the Six Nations (1756) and a few pieces of correspondence between women Friends of Philadelphia and Oneida Indian women (1796-1797). There is also a copy of the congratulatory address from London Yearly Meeting to George III on the occasion of the end of the Seven Years War (1763). The collection also includes a smaller group of correspondence of Robert Valentine's daughter Rachel Valentin Malin and his granddaughter Rachel Valentine Sharpless Ashbridge. The latter group consists chiefly of the letters to her from her father, a Pennsylvania ironmaster Abraham Sharpless written between 1824 and 1834. Also included are a few pieces of later family correspondence. </abstract>\n                  <name>\n                     <namePart>Huntington Library, Art Collections &amp; Botanical Gardens</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+                "title": "Papers of Robert Valentine, ca. 1712-1927 (bulk 1781-1786).",
+                "abstract": "Correspondence and papers of Robert Valentine that cover chiefly his voyage to Great Britain and its aftermath. Included are his letters to his daughters (often both retained and sent copies) and letters from Friends in England, Ireland, and Pennsylvania. A significant number of the letters was written by women Quakers. The collection also includes an account of Robert Valentine's journey to New Jersey in 1775 and other Quaker travel accounts. Also included are minutes and correspondence of various meetings in Pennsylvania, England, and Ireland, including London Yearly Meeting of Women Friends, personal testimonies of individual Quakers recounting their visions and prophesies, devotional treatises and poems. There are also a few items relating to the relations between Quakers communities and Indians, including the minutes of a meeting between a group of Philadelphia Quakers headed by Israel Pemberton and representatives of the Six Nations (1756) and a few pieces of correspondence between women Friends of Philadelphia and Oneida Indian women (1796-1797). There is also a copy of the congratulatory address from London Yearly Meeting to George III on the occasion of the end of the Seven Years War (1763). The collection also includes a smaller group of correspondence of Robert Valentine's daughter Rachel Valentin Malin and his granddaughter Rachel Valentine Sharpless Ashbridge. The latter group consists chiefly of the letters to her from her father, a Pennsylvania ironmaster Abraham Sharpless written between 1824 and 1834. Also included are a few pieces of later family correspondence. ",
+                "extent": "305 pieces.5 boxes.",
+                "displayEntry": "Valentine, Robert, 1717-1786. Papers of Robert Valentine, ca. 1712-1927 (bulk 1781-1786).",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Valentine, Robert, 1717-1786.",
+                        "id": "9006825",
+                        "version": "7088397"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Ashbridge family.",
+                        "id": "9006826",
+                        "version": "7088397"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Ashbridge, Rachel Valentine Sharpless.",
+                        "id": "9006827",
+                        "version": "7088397"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "George III, King of Great Britain, 1738-1820,",
+                        "id": "9006828",
+                        "version": "7088397"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Malin family.",
+                        "id": "9006829",
+                        "version": "7088397"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Malin, Rachel Valentine.",
+                        "id": "9006830",
+                        "version": "7088397"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Sharpless, Abraham.",
+                        "id": "9006831",
+                        "version": "7088397"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Valentine family.",
+                        "id": "9006832",
+                        "version": "7088397"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http://n2t.net/ark:/99166/w6kf2pd0",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Huntington Library, Art Collections & Botanical Gardens",
+                            "preferenceScore": "99",
+                            "id": "85520480",
+                            "version": "11542097"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "The Huntington Library, Art Collections, and Botanical Gardens",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "The Huntington Library 1151 Oxford Road San Marino, California 91108 Phone: 626-405-3437 Email: dkramer@huntington.org URL: http://www.huntington.org",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520493",
+                                    "version": "11542097"
+                                }
+                            ],
+                            "id": "85520492",
+                            "version": "11542097"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Huntington Library, Art Collections & Botanical Gardens",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "1151 Oxford Rd",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520487",
+                                    "version": "11542097"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "San Marino",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520488",
+                                    "version": "11542097"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-CA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520489",
+                                    "version": "11542097"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "91108-1299",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520490",
+                                    "version": "11542097"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "85520491",
+                                    "version": "11542097"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17104",
+                                "name": "Huntington Library, Art Collections & Botanical Gardens",
+                                "latitude": "34.1273766",
+                                "longitude": "-118.1095280"
+                            },
+                            "confirmed": true,
+                            "id": "85520486",
+                            "version": "11542097"
+                        }
+                    ],
+                    "id": "85520478",
+                    "version": "11542099"
+                },
+                "id": "7088397",
+                "version": "7088397"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Valentine, Robert, 1717-1786. Papers of Robert Valentine, ca. 1712-1927 (bulk 1781-1786).",
+            "id": "11158001",
+            "version": "1626344"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "10202",
+                "uri": "http://www.geonames.org/5205788",
+                "name": "Philadelphia County",
+                "latitude": "40.0076400",
+                "longitude": "-75.1339600",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85543118",
+            "version": "11550376"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "3368",
+                "uri": "http://www.geonames.org/5186677",
+                "name": "Delaware County",
+                "latitude": "39.9168100",
+                "longitude": "-75.3989000",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85543276",
+            "version": "11550426"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "2436",
+                "uri": "http://www.geonames.org/5184079",
+                "name": "Chester County",
+                "latitude": "39.9731400",
+                "longitude": "-75.7484500",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85543275",
+            "version": "11550424"
+        },
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400238",
+                "term": "Birth",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "6268",
+                "uri": "http://www.geonames.org/2963597",
+                "name": "Ireland",
+                "latitude": "53.0000000",
+                "longitude": "-8.0000000",
+                "administrationCode": "00",
+                "countryCode": "IE"
+            },
+            "confirmed": true,
+            "id": "85543113",
+            "version": "11550367"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "360951",
+                "term": "Transatlantic voyages--History--18th century--Sources",
+                "type": "subject"
+            },
+            "id": "11157986",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85542988",
+            "version": "11550342"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85542989",
+            "version": "11550343"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85542987",
+            "version": "11550341"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "95949",
+                "term": "Circuit riders--Archives",
+                "type": "subject"
+            },
+            "id": "11157979",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "263484",
+                "term": "Oneida Indians--History--Sources",
+                "type": "subject"
+            },
+            "id": "11157988",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85542990",
+            "version": "11550343"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "99463",
+                "term": "Clergy--Travel",
+                "type": "subject"
+            },
+            "id": "85543271",
+            "version": "11550415"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299344",
+                "term": "Quaker women--Correspondence",
+                "type": "subject"
+            },
+            "id": "11157981",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "198092",
+                "term": "Irish Americans--Archives",
+                "type": "subject"
+            },
+            "id": "11157982",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299159",
+                "term": "Quakers--Correspondence",
+                "type": "subject"
+            },
+            "id": "11157983",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334780",
+                "term": "Society of Friends--History--18th century--Sources",
+                "type": "subject"
+            },
+            "id": "11157978",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "361976",
+                "term": "Travelers' writings, American",
+                "type": "subject"
+            },
+            "id": "11157985",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "150497",
+                "term": "Fathers and daughters--Correspondence",
+                "type": "subject"
+            },
+            "id": "11157987",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "192484",
+                "term": "Indians of North America--Wars--1750-1815--Sources",
+                "type": "subject"
+            },
+            "id": "11157984",
+            "version": "1626344"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "376338",
+                "term": "Voyages and travels",
+                "type": "subject"
+            },
+            "id": "85543270",
+            "version": "11550413"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299134",
+                "term": "Quakers--Archives",
+                "type": "subject"
+            },
+            "id": "11157980",
+            "version": "1626344"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85542983",
+            "version": "11550337"
+        }
+    ],
+    "id": "11157948",
+    "version": "11560692",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1717-10-02",
+            "fromDateOriginal": "1717-07-21 (Old Style)",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1786-07-21",
+            "toDateOriginal": "1786-07-21",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "11157951",
+            "version": "11550344"
+        }
+    ]
+}

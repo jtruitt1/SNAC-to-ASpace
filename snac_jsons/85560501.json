@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w6wt7j0f",
+    "ark": "http://n2t.net/ark:/99166/w6qk87r0",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -16,102 +16,354 @@
             "dataType": "MaintenanceEvent",
             "eventType": {
                 "id": "704",
-                "term": "revised"
-            },
-            "eventDateTime": "2015-09-17",
-            "agentType": {
-                "id": "687",
-                "term": "machine"
-            },
-            "agent": "CPF merge program",
-            "eventDescription": "Merge v2.0"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
-            "agentType": {
-                "id": "687",
-                "term": "machine",
-                "type": "agent_type"
-            },
-            "agent": "SNAC EAC-CPF Parser",
-            "eventDescription": "Bulk ingest into SNAC Database"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2016-08-10T07:31:57",
-            "standardDateTime": "2016-08-10T07:31:57",
+            "eventDateTime": "2021-07-13T14:18:30",
+            "standardDateTime": "2021-07-13T14:18:30",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "System Service (system@localhost)"
+            "agent": "Ayodeji George (ageorge3@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-14T18:48:02",
+            "standardDateTime": "2021-07-14T18:48:02",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "Republish: User canceled edit without making changes"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-14T18:56:35",
+            "standardDateTime": "2021-07-14T18:56:35",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-14T21:15:48",
+            "standardDateTime": "2021-07-14T21:15:48",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85562103",
+                "version": "11554653"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/57202262",
-            "id": "9511709",
-            "version": "1381478"
+            "text": "Married Mary Hance in 1796.",
+            "citation": "Salem Monthly Meeting, Marriage certificates, 1724-1899 via Ancestry.com search, July 13th, 2021",
+            "id": "85562102",
+            "version": "11554653"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85562117",
+                "version": "11554663"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "Gibbs was born on September 6th, 1773.",
+            "citation": "Encyclopedia of American Quaker Genealogy Vol. II via Ancestry.com search, July 13th, 2021",
+            "id": "85562116",
+            "version": "11554663"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85562112",
+                "version": "11554661"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "Lucas and Mary Gibbs had two children who died young, John and Thompson.",
+            "citation": "Evesham Monthly Meeting, First Record Book of Births and Deaths, 1682-1808 via Ancestry.com search, July 13th, 2021",
+            "id": "85562111",
+            "version": "11554671"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85562110",
+                "version": "11554658"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "Lucas Gibbs's will was executed November 30th, 1807 by Benjamin Atkinson and Joseph Matlack.",
+            "citation": "New Jersey Abstract of Wills, 1806-1809 via Ancestry.com search, July 13th, 2021",
+            "id": "85562109",
+            "version": "11554658"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85560707",
+            "version": "11554552"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Matlack, Ann R.",
-            "preferenceScore": "1",
+            "original": "Gibbs, Lucas, 1773-1807",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85560506",
+                    "version": "11554435"
+                }
+            ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Matlack, Ann R.",
+                    "text": "Gibbs",
                     "order": "0",
                     "type": {
-                        "id": "400228",
-                        "term": "Name",
+                        "id": "400223",
+                        "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "9511711",
-                    "version": "1381478"
+                    "id": "85560503",
+                    "version": "11554435"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Lucas",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85560504",
+                    "version": "11554435"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1773-1807",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85560505",
+                    "version": "11554435"
                 }
             ],
-            "id": "9511710",
-            "version": "1381478",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "77578946",
-                    "version": "1381478"
-                }
-            ]
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85560507",
+                "version": "11554435"
+            },
+            "id": "85560502",
+            "version": "11554435"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85560708",
+            "version": "11554555"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85562127",
+                "version": "11554672"
+            },
+            "text": "Lucas Gibbs was a member of the Society of Friends associated with Moorestown Monthly Meeting. He was born on the 6th day of the 9th month, 1773. He married Mary Hance in 1796 and the couple had 9 children, Lucas, Jonathan, Thompson, Josiah, David, Hannah, Elizabeth, Charlotte, Sebilla. Two of his children, John and Thompson, died at a young age. Lucas Gibbs himself died on the 24th day of the 11th month, 1807.",
+            "id": "85562126",
+            "version": "11554672"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "9511707",
-            "targetConstellation": "56886470",
-            "sourceArkID": "http://n2t.net/ark:/99166/w6wt7j0f",
-            "targetArkID": "http://n2t.net/ark:/99166/w65b11gw",
+            "sourceConstellation": "85560501",
+            "targetConstellation": "23038346",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87r0",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b918fj",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+            "id": "85566033",
+            "version": "11555990"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85560501",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87r0",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetEntityType": {
                 "id": "700",
                 "term": "person",
@@ -119,14 +371,34 @@
                 "type": "entity_type"
             },
             "type": {
-                "id": "28234",
-                "term": "associatedWith",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "id": "28227",
+                "term": "acquaintanceOf",
                 "type": "relation_type"
             },
-            "content": "Hunt, John, 1740-1824.",
-            "id": "9511714",
-            "version": "1381478"
+            "content": "Hunt, John, 1740-1824",
+            "id": "85560726",
+            "version": "11554568"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85560501",
+            "targetConstellation": "43645840",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87r0",
+            "targetArkID": "http://n2t.net/ark:/99166/w6cs0k3j",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Salem Monthly Meeting (Society of Friends : 1676-1827)",
+            "id": "85566034",
+            "version": "11555991"
         }
     ],
     "resourceRelations": [
@@ -480,43 +752,104 @@
                     "version": "11480318"
                 },
                 "id": "7760181",
-                "version": "7760181"
+                "version": "8386944"
             },
             "role": {
-                "id": "692",
-                "term": "creatorOf",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "content": "Hunt, John, 1740-1824. Papers, 1770-1828.",
-            "id": "9511715",
-            "version": "1381478"
+            "id": "85560725",
+            "version": "11554567"
         }
     ],
-    "id": "9511707",
-    "version": "1381479",
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "17730",
+                "uri": "https://www.geonames.org/4503106/moorestown.html",
+                "name": "Moorestown",
+                "latitude": "39.9670600",
+                "longitude": "-74.9426700",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85560705",
+            "version": "11554548"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85560710",
+            "version": "11554558"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85560709",
+            "version": "11554558"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85560706",
+            "version": "11554550"
+        }
+    ],
+    "id": "85560501",
+    "version": "11555992",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1770",
-            "fromDateOriginal": "active 1770",
+            "fromDate": "1773-09-06",
+            "fromDateOriginal": "1773-09-06",
             "fromType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1828",
-            "toDateOriginal": "active 1828",
+            "toDate": "1807-11-24",
+            "toDateOriginal": "1807-11-24",
             "toType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "9511708",
-            "version": "1381478"
+            "id": "85560704",
+            "version": "11554547"
         }
     ]
 }
