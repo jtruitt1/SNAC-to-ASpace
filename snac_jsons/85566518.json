@@ -62,6 +62,23 @@
             },
             "agent": "James Truitt (jtruitt1@swarthmore.edu)",
             "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-22T08:20:30",
+            "standardDateTime": "2021-07-22T08:20:30",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
@@ -266,6 +283,16 @@
             },
             "id": "85566533",
             "version": "11556173"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "28189",
+                "term": "Yeomen",
+                "type": "occupation"
+            },
+            "id": "85600938",
+            "version": "11562103"
         }
     ],
     "biogHists": [
@@ -810,7 +837,7 @@
         }
     ],
     "id": "85566518",
-    "version": "11560010",
+    "version": "11562104",
     "dates": [
         {
             "dataType": "SNACDate",

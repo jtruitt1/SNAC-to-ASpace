@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w63n62nx",
+    "ark": "http://n2t.net/ark:/99166/w6kf2pgw",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -16,166 +16,284 @@
             "dataType": "MaintenanceEvent",
             "eventType": {
                 "id": "704",
-                "term": "revised"
-            },
-            "eventDateTime": "2015-09-18",
-            "agentType": {
-                "id": "687",
-                "term": "machine"
-            },
-            "agent": "CPF merge program",
-            "eventDescription": "Merge v2.0"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2016-08-13T18:11:27",
-            "standardDateTime": "2016-08-13T18:11:27",
-            "agentType": {
-                "id": "687",
-                "term": "machine",
-                "type": "agent_type"
-            },
-            "agent": "SNAC EAC-CPF Parser",
-            "eventDescription": "Bulk ingest into SNAC Database"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2016-08-13T18:11:27",
-            "standardDateTime": "2016-08-13T18:11:27",
+            "eventDateTime": "2021-07-21T11:38:40",
+            "standardDateTime": "2021-07-21T11:38:40",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "System Service (system@localhost)"
+            "agent": "Ayodeji George (ageorge3@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-26T18:26:39",
+            "standardDateTime": "2021-07-26T18:26:39",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85597257",
+                "version": "11561344"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/31452321",
-            "id": "40161937",
-            "version": "5865926"
+            "text": "p.131 Children of John Sleeper were John, Jonathan, William, Samuel, Joseph, Hannah, Phebe, Mary, Benjamin and Ann. ",
+            "citation": "Burlington Monthly Meeting, Minutes, 1770-1781, via Ancestry.com search, July 21st, 2021",
+            "id": "85597255",
+            "version": "11561344"
         },
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85597250",
+                "version": "11561339"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/53042949",
-            "id": "40161938",
-            "version": "5865926"
+            "text": "p.98 Born the 14th day of the 10th month, 1731. Married to Hannah Sleeper.",
+            "citation": "Burlington Monthly Meeting, Births and Deaths, 1675-1805, via Ancestry.com search, July 21st, 2021",
+            "id": "85597249",
+            "version": "11561339"
         },
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85597179",
+                "version": "11561268"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://viaf.org/viaf/48806153",
-            "id": "40161939",
-            "version": "5865926"
+            "text": "Born on the 14th day of the 10th month, 1731. Son of Jonathan and Hannah Sleeper of Bridgetown (Mount Holly) N.J. Carpenter. On the 26th day of the 9th month 1754, he married Hannah Haines, the daughter of Nehemiah and Ann Haines. They had ten children.",
+            "citation": "Dictionary of Quaker Biography, Haverford College",
+            "id": "85597178",
+            "version": "11561268"
         }
     ],
-    "conventionDeclarations": [
+    "languagesUsed": [
         {
-            "dataType": "ConventionDeclaration",
-            "text": "<conventionDeclaration><citation>VIAF</citation></conventionDeclaration>",
-            "id": "40161940",
-            "version": "5865926"
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85597156",
+            "version": "11561243"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Hunt, Elisha, 1779-1873",
+            "original": "Sleeper, John, 1731-1794",
             "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85597127",
+                    "version": "11561209"
+                }
+            ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Hunt, Elisha, 1779-1873",
+                    "text": "Sleeper",
                     "order": "0",
                     "type": {
-                        "id": "400228",
-                        "term": "Name",
+                        "id": "400223",
+                        "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "40161942",
-                    "version": "5865926"
+                    "id": "85597124",
+                    "version": "11561209"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "John",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85597125",
+                    "version": "11561209"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1731-1794",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85597126",
+                    "version": "11561209"
                 }
             ],
-            "id": "40161941",
-            "version": "5865926",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "80082804",
-                    "version": "5865926"
-                }
-            ]
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85597128",
+                "version": "11561209"
+            },
+            "id": "85597123",
+            "version": "11561209"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85597159",
+            "version": "11561247"
         },
         {
-            "dataType": "NameEntry",
-            "original": "Hunt, Elisha, 1771-",
-            "preferenceScore": "1",
-            "components": [
-                {
-                    "dataType": "NameComponent",
-                    "text": "Hunt, Elisha, 1771-",
-                    "order": "0",
-                    "type": {
-                        "id": "400228",
-                        "term": "Name",
-                        "type": "name_component"
-                    },
-                    "id": "40161946",
-                    "version": "5865926"
-                }
-            ],
-            "id": "40161945",
-            "version": "5865926",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "80082805",
-                    "version": "5865926"
-                }
-            ]
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85597160",
+            "version": "11561247"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85597370",
+                "version": "11564414"
+            },
+            "text": "John Sleeper was a minister associated with Mount Holly, New Jersey, and Burlington Monthly Meeting. He was born on the 14th day of the 10th month, 1731 (old style), the son of Jonathan and Hannah Sleeper. He married Hannah Haines in 1754. The couple had 10 children, John, Jonathan, William, Samuel, Joseph, Hannah, Phebe, Mary, Benjamin and Ann. He died on the 24th day of the 11th month, 1794.",
+            "id": "85597369",
+            "version": "11564414"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "40161935",
-            "targetConstellation": "31401628",
-            "sourceArkID": "http://n2t.net/ark:/99166/w63n62nx",
-            "targetArkID": "http://n2t.net/ark:/99166/w6k08k1m",
+            "sourceConstellation": "85597121",
+            "targetConstellation": "59583036",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kf2pgw",
+            "targetArkID": "http://n2t.net/ark:/99166/w6mh3fp2",
             "targetEntityType": {
-                "id": "700",
-                "term": "person",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
                 "type": "entity_type"
             },
             "type": {
@@ -184,9 +302,30 @@
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
                 "type": "relation_type"
             },
-            "content": "Roberts, Rachel H., 1791-1881.",
-            "id": "40161954",
-            "version": "5865926"
+            "content": "Burlington Monthly Meeting (Society of Friends : 1678-1827)",
+            "id": "85597371",
+            "version": "11561361"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85597121",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6kf2pgw",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28227",
+                "term": "acquaintanceOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85597171",
+            "version": "11561258"
         }
     ],
     "sameAsRelations": [
@@ -198,34 +337,9 @@
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
                 "type": "record_type"
             },
-            "text": "Hunt, Elisha, 1779-1873",
-            "uri": "https://viaf.org/viaf/48806153",
-            "id": "40161951",
-            "version": "5865926"
-        },
-        {
-            "dataType": "SameAs",
-            "type": {
-                "id": "28225",
-                "term": "sameAs",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
-                "type": "record_type"
-            },
-            "uri": "https://www.worldcat.org/identities/lccn-no94036524",
-            "id": "40161952",
-            "version": "5865926"
-        },
-        {
-            "dataType": "SameAs",
-            "type": {
-                "id": "28225",
-                "term": "sameAs",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
-                "type": "record_type"
-            },
-            "uri": "https://id.loc.gov/authorities/no94036524",
-            "id": "40161953",
-            "version": "5865926"
+            "uri": "https://www.findagrave.com/memorial/73193800",
+            "id": "85597172",
+            "version": "11561259"
         }
     ],
     "resourceRelations": [
@@ -239,77 +353,53 @@
                     "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
                     "type": "document_type"
                 },
-                "link": "http://archives.tricolib.brynmawr.edu/repositories/7/resources/5932",
-                "title": "Roberts-Hunt family papers, 1677-1829.",
-                "abstract": "This collection includes papers relating to Rachel H. Roberts and her family. Included is correspondence between Esther Hunt Collins and her first husband, Joshua Hunt, his brother John, her children Elisha, Caleb and Rachel, her second husband, John Collins, and Hannah Yarnall. Also included is correspondence between Rachel H. Roberts and her husband, David. The collection includes genealogical information on the Roberts, Hooton, and other related families, along with wills and account books of Joseph and Susanna Roberts. Letters relate family news, impressions of Redstone Monthly Meeting of Friends, and discussions of Quaker discipline.",
-                "extent": "17 folders.",
-                "displayEntry": "Roberts, Rachel H., 1791-1881. Roberts-Hunt family papers, 1677-1829.",
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
                 "originationNames": [
                     {
                         "dataType": "OriginationName",
-                        "name": "Roberts, Rachel H., 1791-1881.",
-                        "id": "9433985",
-                        "version": "7319285"
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Collins, Esther, 1751-1820.",
-                        "id": "9433986",
-                        "version": "7319285"
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Roberts, Joseph, 1742-1826.",
-                        "id": "9433987",
-                        "version": "7319285"
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Roberts, Susanna, 1751-1829.",
-                        "id": "9433988",
-                        "version": "7319285"
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Hunt, Joshua, 1754-1792.",
-                        "id": "9433989",
-                        "version": "7319285"
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Hunt, John, b. 1740.",
-                        "id": "9433990",
-                        "version": "7319285"
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Roberts, David, 1792-1880.",
-                        "id": "9433991",
-                        "version": "7319285"
-                    },
-                    {
-                        "dataType": "OriginationName",
-                        "name": "Yarnall, Hannah, 1765-1822.",
-                        "id": "9433992",
-                        "version": "7319285"
-                    },
-                    {
-                        "dataType": "OriginationName",
-                        "name": "Hunt, Caleb, 1786-1834.",
-                        "id": "9433993",
-                        "version": "7319285"
-                    },
-                    {
-                        "dataType": "OriginationName",
-                        "name": "Hunt, Elisha, 1779-1873.",
-                        "id": "9433994",
-                        "version": "7319285"
-                    },
-                    {
-                        "dataType": "OriginationName",
-                        "name": "Hunt, John, d. 1824.",
-                        "id": "9433995",
-                        "version": "7319285"
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
                     }
                 ],
                 "languages": [
@@ -327,8 +417,8 @@
                             "type": "script_code",
                             "description": "Latin"
                         },
-                        "id": "11645368",
-                        "version": "8386425"
+                        "id": "11644367",
+                        "version": "8385422"
                     }
                 ],
                 "repository": {
@@ -602,146 +692,8 @@
                     "id": "85254717",
                     "version": "11480318"
                 },
-                "id": "7319285",
-                "version": "7319285"
-            },
-            "role": {
-                "id": "692",
-                "term": "creatorOf",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
-                "type": "document_role"
-            },
-            "content": "Roberts, Rachel H., 1791-1881. Roberts-Hunt family papers, 1677-1829.",
-            "id": "40161955",
-            "version": "5865926"
-        },
-        {
-            "dataType": "ResourceRelation",
-            "resource": {
-                "dataType": "Resource",
-                "documentType": {
-                    "id": "696",
-                    "term": "ArchivalResource",
-                    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
-                    "type": "document_type"
-                },
-                "link": "http://www.worldcat.org/oclc/53042949",
-                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:53042949</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-GES</recordContentSource>\n                  </recordInfo>\n                  <titleInfo>\n                     <title>Bible record for the Elisha Hunt family, 1771-1808.</title>\n                  </titleInfo>\n                  <abstract>Original N.T. title page from a 1696 Bible. Verso has entries for the Elisha and Lucy (Calef) Hunt family of Boston, Mass. The entries were \"crossed-out\" (most still legible) and there is a note in pencil \"recopied in another book.\" </abstract>\n                  <name>\n                     <namePart>New England Historic Genealogical Society</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
-                "title": "Bible record for the Elisha Hunt family, 1771-1808.",
-                "abstract": "Original N.T. title page from a 1696 Bible. Verso has entries for the Elisha and Lucy (Calef) Hunt family of Boston, Mass. The entries were \"crossed-out\" (most still legible) and there is a note in pencil \"recopied in another book.\" ",
-                "extent": "1 leaf ; 37 cm.",
-                "displayEntry": "Bible record for the Elisha Hunt family, 1771-1808.",
-                "repository": {
-                    "dataType": "Constellation",
-                    "ark": "http://n2t.net/ark:/99166/w6p08xt0",
-                    "entityType": {
-                        "id": "698",
-                        "term": "corporateBody",
-                        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
-                        "type": "entity_type"
-                    },
-                    "nameEntries": [
-                        {
-                            "dataType": "NameEntry",
-                            "original": "New England Historic Genealogical Society",
-                            "preferenceScore": "99",
-                            "id": "84071617",
-                            "version": "11306733"
-                        }
-                    ],
-                    "places": [
-                        {
-                            "dataType": "Place",
-                            "original": "New England Historic Genealogical Society, NEHGS",
-                            "type": {
-                                "id": "400242",
-                                "term": "Address",
-                                "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
-                                "type": "place_type"
-                            },
-                            "address": [
-                                {
-                                    "dataType": "AddressLine",
-                                    "text": "99-101 Newbury Street",
-                                    "order": "0",
-                                    "type": {
-                                        "id": "400243",
-                                        "term": "Unspecified",
-                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
-                                        "type": "address_part"
-                                    },
-                                    "id": "84071630",
-                                    "version": "11306722"
-                                },
-                                {
-                                    "dataType": "AddressLine",
-                                    "text": "Boston",
-                                    "order": "1",
-                                    "type": {
-                                        "id": "400243",
-                                        "term": "Unspecified",
-                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
-                                        "type": "address_part"
-                                    },
-                                    "id": "84071631",
-                                    "version": "11306722"
-                                },
-                                {
-                                    "dataType": "AddressLine",
-                                    "text": "US-MA",
-                                    "order": "2",
-                                    "type": {
-                                        "id": "400243",
-                                        "term": "Unspecified",
-                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
-                                        "type": "address_part"
-                                    },
-                                    "id": "84071632",
-                                    "version": "11306722"
-                                },
-                                {
-                                    "dataType": "AddressLine",
-                                    "text": "02116",
-                                    "order": "3",
-                                    "type": {
-                                        "id": "400243",
-                                        "term": "Unspecified",
-                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
-                                        "type": "address_part"
-                                    },
-                                    "id": "84071633",
-                                    "version": "11306722"
-                                },
-                                {
-                                    "dataType": "AddressLine",
-                                    "text": "US",
-                                    "order": "4",
-                                    "type": {
-                                        "id": "400243",
-                                        "term": "Unspecified",
-                                        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
-                                        "type": "address_part"
-                                    },
-                                    "id": "84071634",
-                                    "version": "11306722"
-                                }
-                            ],
-                            "geoplace": {
-                                "id": "15795",
-                                "name": "New England Historic Genealogical Society, NEHGS",
-                                "latitude": "42.3484000",
-                                "longitude": "-71.0737000"
-                            },
-                            "confirmed": true,
-                            "id": "84071629",
-                            "version": "11306722"
-                        }
-                    ],
-                    "id": "84071591",
-                    "version": "11306734"
-                },
-                "id": "7663680",
-                "version": "7663680"
+                "id": "7760181",
+                "version": "8386944"
             },
             "role": {
                 "id": "693",
@@ -749,26 +701,107 @@
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "content": "Bible record for the Elisha Hunt family, 1771-1808.",
-            "id": "40161956",
-            "version": "5865926"
+            "id": "85597168",
+            "version": "11561254"
         }
     ],
-    "id": "40161935",
-    "version": "5865927",
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "8808",
+                "uri": "http://www.geonames.org/4503134",
+                "name": "Mount Holly",
+                "latitude": "39.9928900",
+                "longitude": "-74.7876600",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85597138",
+            "version": "11561219"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85597165",
+            "version": "11561252"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85597164",
+            "version": "11561252"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85597163",
+            "version": "11561252"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85597166",
+            "version": "11561252"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85597155",
+            "version": "11561242"
+        }
+    ],
+    "id": "85597121",
+    "version": "11564415",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1779",
-            "fromDateOriginal": "1779",
+            "fromDate": "1731-12-25",
+            "fromDateOriginal": "1731-10-14 (Old Style)",
             "fromType": {
                 "id": "689",
                 "term": "Birth",
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1873",
-            "toDateOriginal": "1873",
+            "toDate": "1794-11-24",
+            "toDateOriginal": "1794-11-24",
             "toType": {
                 "id": "690",
                 "term": "Death",
@@ -776,8 +809,8 @@
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "40161936",
-            "version": "5865926"
+            "id": "85597122",
+            "version": "11561209"
         }
     ]
 }

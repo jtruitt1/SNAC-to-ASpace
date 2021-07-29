@@ -51,8 +51,6 @@ def extractData(constellation):
 		for occu in constellation["occupations"]:
 			data[-1] += occu["term"]["term"] + ";"
 		data[-1] = data[-1][:-1] # Strip trailing separator
-	else:
-		data.append("")
 
 	# Get subjects
 	data.append("")
@@ -60,8 +58,6 @@ def extractData(constellation):
 		for subj in constellation["subjects"]:
 			data[-1] += subj["term"]["term"] + ";"
 		data[-1] = data[-1][:-1] # Strip trailing separator
-	else:
-		data.append("")
 
 	# Get monthly meeting
 	data.append(getMonthlyMeeting(constellation))

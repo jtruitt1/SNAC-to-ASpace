@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w66z02ks",
+    "ark": "http://n2t.net/ark:/99166/w6qk87tw",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -19,31 +19,14 @@
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2021-07-16T13:00:11",
-            "standardDateTime": "2021-07-16T13:00:11",
+            "eventDateTime": "2021-07-26T09:49:57",
+            "standardDateTime": "2021-07-26T09:49:57",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
             "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
-            "eventDescription": "User published constellation"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2021-07-28T12:38:17",
-            "standardDateTime": "2021-07-28T12:38:17",
-            "agentType": {
-                "id": "400254",
-                "term": "human",
-                "type": "agent_type"
-            },
-            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
             "eventDescription": "User published constellation"
         }
     ],
@@ -64,19 +47,19 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578649",
-                "version": "11557349"
+                "id": "85610559",
+                "version": "11563909"
             },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "text": "Issac Borton, 9-12-1737, 9-26-1807, Cropwell; Mary Borton, 6-17-1749; Ann; John; Elizabeth; Mary; Hope; Elizabeth; Jacob; Sarah",
-            "citation": "Upper Evesham Meeting, Record of Members Births and Deaths, 1693-1872,   via Ancestry.com search, July 16 2021. ",
-            "note": "Birth + Spouse + Children",
-            "id": "85578648",
-            "version": "11557398"
+            "text": "Thomas Buzby, son of Thomas Buzby, born 1739; his 2nd wife Hannah Buzby, daughter of Samuel Stokes and widow of Haines, their son Benjamin; deceased 11th mo 29th 1815",
+            "citation": "Burlington Monthly Meeting, Membership, 1805-1832,  via Ancestry.com search, July 26 2021. ",
+            "note": "Spouse + Child + Parent + First spouse + Death",
+            "id": "85610558",
+            "version": "11563912"
         },
         {
             "dataType": "Source",
@@ -94,19 +77,18 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578682",
-                "version": "11557373"
+                "id": "85610603",
+                "version": "11563931"
             },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "text": "p.19. 1761. Whereas Issac Borton of the Township of Waterford and County of Gloucester in the province of New Jersey son of John Borton... and Mary Hooten daughter of Samuel Hooten having declared their intentions of marriage with each other... this twenty eight day of the fifth month in the year of our Lord on thousand seven hundred and sixty one...",
-            "citation": "Haddonfield Monthly Meeting, Marriage Certificates, 1718-1886,  via Ancestry.com search, July 16 2021. ",
-            "note": "Marriage certificate",
-            "id": "85578678",
-            "version": "11557373"
+            "text": "p.19. Samuel Stokes, son of 'Joseph Stokes and Judith Lippincott, 1st wife, m. Hannah Hinchman, dau. of John Hinchman Jr., and Sarah, 1st wife. Children were-- Elizabeth, Joseph, Hannah, m. Ephraim Haines, Judith, Sarah, Mary, John",
+            "citation": "Stokes Family, Marriages from English Records, via Ancestry.com search, July 26 2021.",
+            "id": "85610602",
+            "version": "11563931"
         }
     ],
     "languagesUsed": [
@@ -124,14 +106,14 @@
                 "type": "script_code",
                 "description": "Latin"
             },
-            "id": "85578590",
-            "version": "11557322"
+            "id": "85610547",
+            "version": "11563900"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Borton, Isaac, 1737-1807",
+            "original": "Buzby, Hannah Stokes, -1815",
             "preferenceScore": "99",
             "contributors": [
                 {
@@ -146,46 +128,46 @@
                         "term": "rda",
                         "type": "name_rule"
                     },
-                    "id": "85578559",
-                    "version": "11566052"
+                    "id": "85610615",
+                    "version": "11563935"
                 }
             ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Borton",
-                    "order": "0",
+                    "text": "Buzby",
+                    "order": "1",
                     "type": {
                         "id": "400223",
                         "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "85578556",
-                    "version": "11566052"
+                    "id": "85610612",
+                    "version": "11563935"
                 },
                 {
                     "dataType": "NameComponent",
-                    "text": "Isaac",
-                    "order": "1",
+                    "text": "Hannah Stokes",
+                    "order": "2",
                     "type": {
                         "id": "400224",
                         "term": "Forename",
                         "type": "name_component"
                     },
-                    "id": "85578557",
-                    "version": "11566052"
+                    "id": "85610613",
+                    "version": "11563935"
                 },
                 {
                     "dataType": "NameComponent",
-                    "text": "1737-1807",
-                    "order": "2",
+                    "text": "-1815",
+                    "order": "3",
                     "type": {
                         "id": "400237",
                         "term": "Date",
                         "type": "name_component"
                     },
-                    "id": "85578558",
-                    "version": "11566052"
+                    "id": "85610614",
+                    "version": "11563935"
                 }
             ],
             "language": {
@@ -202,11 +184,406 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578560",
-                "version": "11566052"
+                "id": "85610616",
+                "version": "11563935"
             },
-            "id": "85578555",
-            "version": "11566052"
+            "id": "85610611",
+            "version": "11563935"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Buzby, Hannah, -1815",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85610544",
+                    "version": "11563934"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Buzby",
+                    "order": "0",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85610541",
+                    "version": "11563934"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85610542",
+                    "version": "11563934"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "-1815",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85610543",
+                    "version": "11563934"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85610545",
+                "version": "11563934"
+            },
+            "id": "85610540",
+            "version": "11563934"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Haines, Hannah, -1815",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85610609",
+                    "version": "11563941"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Haines",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85610606",
+                    "version": "11563941"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85610607",
+                    "version": "11563941"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "-1815",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85610608",
+                    "version": "11563941"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85610610",
+                "version": "11563933"
+            },
+            "id": "85610605",
+            "version": "11563933"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Stokes, Hannah, -1815",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85610622",
+                    "version": "11563937"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Stokes",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85610619",
+                    "version": "11563937"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85610620",
+                    "version": "11563937"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "-1815",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85610621",
+                    "version": "11563937"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85610623",
+                "version": "11563937"
+            },
+            "id": "85610618",
+            "version": "11563937"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Haines, Hannah Stokes, -1815",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85610628",
+                    "version": "11563938"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Haines",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85610625",
+                    "version": "11563938"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah Stokes",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85610626",
+                    "version": "11563938"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "-1815",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85610627",
+                    "version": "11563938"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85610629",
+                "version": "11563938"
+            },
+            "id": "85610624",
+            "version": "11563938"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Buzby, Hannah Stokes Haines, -1815",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85610636",
+                    "version": "11563943"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Buzby",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85610633",
+                    "version": "11563943"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hannah Stokes Haines",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85610634",
+                    "version": "11563943"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "-1815",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85610635",
+                    "version": "11563943"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85610637",
+                "version": "11563943"
+            },
+            "id": "85610632",
+            "version": "11563943"
         }
     ],
     "occupations": [
@@ -217,8 +594,8 @@
                 "term": "Quakers",
                 "type": "occupation"
             },
-            "id": "85578591",
-            "version": "11557323"
+            "id": "85610548",
+            "version": "11563901"
         }
     ],
     "biogHists": [
@@ -238,20 +615,63 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578778",
-                "version": "11557404"
+                "id": "85610654",
+                "version": "11563953"
             },
-            "text": "Issac Borton was a Quaker associated with Haddonfield Monthly Meeting and Upper Evesham Meeting, from Gloucester County, New Jersey. Son of John Borton, he was born on the 23rd of the 11th month 1737 (new style). In 1761 he married Mary Hooten, daughter of Samuel Hooten; the couple had eight children together named Ann, John, Elizabeth, Mary, Hope, Elizabeth, Jacob, Sarah. He died September 26, 1807 and was buried at Cropwell.\r\n",
-            "id": "85578771",
-            "version": "11557404"
+            "text": "Hannah Stokes Buzby was a Quaker associated with Burlington County and widow of Ephraim Haines. She was born to Samuel and Hannah (Hinchman), the third child out of seven. Her second marriage was to Thomas Buzby (b.1739), son of Thomas Buzby; the couple had a son named Benjamin. She died November 29, 1815.\r\n",
+            "id": "85610653",
+            "version": "11563953"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "85578553",
+            "sourceConstellation": "85610538",
+            "targetConstellation": "24762263",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87tw",
+            "targetArkID": "http://n2t.net/ark:/99166/w6zk9q82",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Burlington Monthly Meeting of Friends (1827-1959 : Rancocas, N.J.)",
+            "id": "85610639",
+            "version": "11563944"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85610538",
+            "targetConstellation": "85589274",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87tw",
+            "targetArkID": "http://n2t.net/ark:/99166/w6010spn",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Cowperthwaite, Hugh, 1744-1808",
+            "note": "cousinOf",
+            "id": "85610659",
+            "version": "11563963"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85610538",
             "targetConstellation": "85290808",
-            "sourceArkID": "http://n2t.net/ark:/99166/w66z02ks",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87tw",
             "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetEntityType": {
                 "id": "700",
@@ -265,8 +685,118 @@
                 "type": "relation_type"
             },
             "content": "Hunt, John, 1740-1824",
-            "id": "85578611",
-            "version": "11557331"
+            "note": "An old acquaintance of",
+            "id": "85610553",
+            "version": "11563954"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85610538",
+            "targetConstellation": "85564628",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87tw",
+            "targetArkID": "http://n2t.net/ark:/99166/w6xx5995",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, John, 1744-1827",
+            "note": "cousinOf",
+            "id": "85610661",
+            "version": "11563965"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85610538",
+            "targetConstellation": "12635601",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87tw",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n05bth",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Joseph, 1742-1826",
+            "note": "cousinOf",
+            "id": "85610662",
+            "version": "11563966"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85610538",
+            "targetConstellation": "85312751",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87tw",
+            "targetArkID": "http://n2t.net/ark:/99166/w6ph2gz9",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Rebecca Stokes, 1720-1815",
+            "id": "85610660",
+            "version": "11563964"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85610538",
+            "targetConstellation": "85547666",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87tw",
+            "targetArkID": "http://n2t.net/ark:/99166/w6553d40",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Samuel, 1758-1834",
+            "note": "cousinOf",
+            "id": "85610656",
+            "version": "11563959"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85610538",
+            "targetConstellation": "85597130",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6qk87tw",
+            "targetArkID": "http://n2t.net/ark:/99166/w60h49r3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, William, 1753-1829",
+            "note": "cousinOf",
+            "id": "85610657",
+            "version": "11563960"
         }
     ],
     "resourceRelations": [
@@ -628,8 +1158,8 @@
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "id": "85578608",
-            "version": "11557329"
+            "id": "85610552",
+            "version": "11563903"
         }
     ],
     "places": [
@@ -647,30 +1177,20 @@
                 "type": "place_role"
             },
             "geoplace": {
-                "id": "5089",
-                "uri": "http://www.geonames.org/4501944",
-                "name": "Gloucester County",
-                "latitude": "39.7173100",
-                "longitude": "-75.1416700",
+                "id": "1732",
+                "uri": "http://www.geonames.org/4500994",
+                "name": "Burlington County",
+                "latitude": "39.8776900",
+                "longitude": "-74.6682000",
                 "administrationCode": "NJ",
                 "countryCode": "US"
             },
             "confirmed": true,
-            "id": "85578586",
-            "version": "11557318"
+            "id": "85610640",
+            "version": "11563945"
         }
     ],
     "subjects": [
-        {
-            "dataType": "Subject",
-            "term": {
-                "id": "334720",
-                "term": "Society of Friends",
-                "type": "subject"
-            },
-            "id": "85578593",
-            "version": "11557325"
-        },
         {
             "dataType": "Subject",
             "term": {
@@ -678,37 +1198,55 @@
                 "term": "Quakers",
                 "type": "subject"
             },
-            "id": "85578592",
-            "version": "11557324"
+            "id": "85610551",
+            "version": "11563902"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85610550",
+            "version": "11563902"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299320",
+                "term": "Quaker women",
+                "type": "subject"
+            },
+            "id": "85610549",
+            "version": "11563902"
         }
     ],
     "genders": [
         {
             "dataType": "Gender",
             "term": {
-                "id": "7655",
-                "term": "Male",
+                "id": "7654",
+                "term": "Female",
                 "type": "gender"
             },
-            "id": "85578589",
-            "version": "11557321"
+            "id": "85610546",
+            "version": "11563899"
         }
     ],
-    "id": "85578553",
-    "version": "11566053",
+    "id": "85610538",
+    "version": "11563969",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1737-11-23",
-            "fromDateOriginal": "1737-09-12 (Old Style)",
             "fromType": {
                 "id": "689",
                 "term": "Birth",
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1807-09-26",
-            "toDateOriginal": "1807-09-26",
+            "toDate": "1815-11-29",
+            "toDateOriginal": "1815-11-29",
             "toType": {
                 "id": "690",
                 "term": "Death",
@@ -716,8 +1254,8 @@
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "85578554",
-            "version": "11557306"
+            "id": "85610539",
+            "version": "11563897"
         }
     ]
 }

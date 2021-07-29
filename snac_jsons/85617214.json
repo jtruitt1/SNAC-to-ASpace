@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w66z02ks",
+    "ark": "http://n2t.net/ark:/99166/w6xt6kzb",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -19,31 +19,14 @@
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2021-07-16T13:00:11",
-            "standardDateTime": "2021-07-16T13:00:11",
+            "eventDateTime": "2021-07-27T18:22:36",
+            "standardDateTime": "2021-07-27T18:22:36",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
             "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
-            "eventDescription": "User published constellation"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2021-07-28T12:38:17",
-            "standardDateTime": "2021-07-28T12:38:17",
-            "agentType": {
-                "id": "400254",
-                "term": "human",
-                "type": "agent_type"
-            },
-            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
             "eventDescription": "User published constellation"
         }
     ],
@@ -64,19 +47,19 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578649",
-                "version": "11557349"
+                "id": "85617234",
+                "version": "11565496"
             },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "text": "Issac Borton, 9-12-1737, 9-26-1807, Cropwell; Mary Borton, 6-17-1749; Ann; John; Elizabeth; Mary; Hope; Elizabeth; Jacob; Sarah",
-            "citation": "Upper Evesham Meeting, Record of Members Births and Deaths, 1693-1872,   via Ancestry.com search, July 16 2021. ",
-            "note": "Birth + Spouse + Children",
-            "id": "85578648",
-            "version": "11557398"
+            "text": "p.20. 1772. Whereas Samuel Roberts son of Enoch Roberts of the Township of Chester and County of Burlington, and Hannah Stiles daughter of Robert Stiles deceased having declared their intentions of marriage with each other... this seventeenth day of the twelfth month in the year of our Lord one thousand seven hundred and seventy two",
+            "citation": "Evesham Monthly Meeting, Marriage Certificates, 1779-1794, via Ancestry.com search, July 27 2021.",
+            "note": "Marriage Certificate",
+            "id": "85617231",
+            "version": "11565496"
         },
         {
             "dataType": "Source",
@@ -94,19 +77,19 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578682",
-                "version": "11557373"
+                "id": "85617232",
+                "version": "11565494"
             },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "text": "p.19. 1761. Whereas Issac Borton of the Township of Waterford and County of Gloucester in the province of New Jersey son of John Borton... and Mary Hooten daughter of Samuel Hooten having declared their intentions of marriage with each other... this twenty eight day of the fifth month in the year of our Lord on thousand seven hundred and sixty one...",
-            "citation": "Haddonfield Monthly Meeting, Marriage Certificates, 1718-1886,  via Ancestry.com search, July 16 2021. ",
-            "note": "Marriage certificate",
-            "id": "85578678",
-            "version": "11557373"
+            "text": "p.16. Births of the children of Samuel Roberts born the 27th of 3 mo 1746 amd Hannah his wife 1751; Deceased 10 mo 1825; Rachel; Sarah; Mary; Hannah; Lydia; Enoch; Samuel; Hannah; Asa",
+            "citation": "Chester Monthly Meeting (Burlington), Births and burials, 1726-1859,  via Ancestry.com search, July 27 2021. ",
+            "note": "Birth + Death + Spouse + Children",
+            "id": "85617229",
+            "version": "11565494"
         }
     ],
     "languagesUsed": [
@@ -124,14 +107,14 @@
                 "type": "script_code",
                 "description": "Latin"
             },
-            "id": "85578590",
-            "version": "11557322"
+            "id": "85617223",
+            "version": "11565487"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Borton, Isaac, 1737-1807",
+            "original": "Roberts, Samuel, 1746-1825",
             "preferenceScore": "99",
             "contributors": [
                 {
@@ -146,46 +129,46 @@
                         "term": "rda",
                         "type": "name_rule"
                     },
-                    "id": "85578559",
-                    "version": "11566052"
+                    "id": "85617220",
+                    "version": "11565484"
                 }
             ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Borton",
+                    "text": "Roberts",
                     "order": "0",
                     "type": {
                         "id": "400223",
                         "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "85578556",
-                    "version": "11566052"
+                    "id": "85617217",
+                    "version": "11565484"
                 },
                 {
                     "dataType": "NameComponent",
-                    "text": "Isaac",
+                    "text": "Samuel",
                     "order": "1",
                     "type": {
                         "id": "400224",
                         "term": "Forename",
                         "type": "name_component"
                     },
-                    "id": "85578557",
-                    "version": "11566052"
+                    "id": "85617218",
+                    "version": "11565484"
                 },
                 {
                     "dataType": "NameComponent",
-                    "text": "1737-1807",
+                    "text": "1746-1825",
                     "order": "2",
                     "type": {
                         "id": "400237",
                         "term": "Date",
                         "type": "name_component"
                     },
-                    "id": "85578558",
-                    "version": "11566052"
+                    "id": "85617219",
+                    "version": "11565484"
                 }
             ],
             "language": {
@@ -202,11 +185,11 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578560",
-                "version": "11566052"
+                "id": "85617221",
+                "version": "11565484"
             },
-            "id": "85578555",
-            "version": "11566052"
+            "id": "85617216",
+            "version": "11565484"
         }
     ],
     "occupations": [
@@ -217,8 +200,8 @@
                 "term": "Quakers",
                 "type": "occupation"
             },
-            "id": "85578591",
-            "version": "11557323"
+            "id": "85617224",
+            "version": "11565488"
         }
     ],
     "biogHists": [
@@ -238,20 +221,277 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578778",
-                "version": "11557404"
+                "id": "85617270",
+                "version": "11565530"
             },
-            "text": "Issac Borton was a Quaker associated with Haddonfield Monthly Meeting and Upper Evesham Meeting, from Gloucester County, New Jersey. Son of John Borton, he was born on the 23rd of the 11th month 1737 (new style). In 1761 he married Mary Hooten, daughter of Samuel Hooten; the couple had eight children together named Ann, John, Elizabeth, Mary, Hope, Elizabeth, Jacob, Sarah. He died September 26, 1807 and was buried at Cropwell.\r\n",
-            "id": "85578771",
-            "version": "11557404"
+            "text": "Samuel Roberts was a Quaker associated with Chester and Evesham Monthly Meetings. The son of Enoc, he was born on the 7th of the 6th month 1746 (new style). In 1772 he married Hannah Stiles daughter of Robert Stiles; the couple had nine children together named Rachel, Sarah, Mary, Hannah, Lydia, Enoch, Samuel, Hannah, and Asa. He died in October 1825.",
+            "id": "85617269",
+            "version": "11565530"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "85578553",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "85366829",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6zx2b7v",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Andrews, Isaac, 1749-1820",
+            "note": "cousinOf",
+            "id": "85617244",
+            "version": "11565506"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "85558534",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6x74cd2",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Cattle, Jonas, 1741-1828",
+            "id": "85617236",
+            "version": "11565498"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "61920242",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6sv1fmd",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Chester Monthly Meeting (Society of Friends : 1681-1827)",
+            "id": "85617267",
+            "version": "11565528"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "8618419",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6gj1z13",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Coles, Samuel, 1703-1772",
+            "id": "85617243",
+            "version": "11565505"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "67782267",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6gj3q0h",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28283",
+                "term": "sibling of",
+                "type": "relation_type"
+            },
+            "content": "Collins, Esther Roberts Hunt, 1751-1820",
+            "id": "85617237",
+            "version": "11565499"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "85589274",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6010spn",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Cowperthwaite, Hugh, 1744-1808",
+            "note": "cousin-in-lawOf",
+            "id": "85617264",
+            "version": "11565525"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "85402523",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hv3dnq",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, Elizabeth Warrington Haines, 1739-1805",
+            "note": "cousinOf",
+            "id": "85617245",
+            "version": "11565507"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "85359969",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6wt9jhx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, Enoch, 1743-1818",
+            "note": "cousinOf",
+            "id": "85617246",
+            "version": "11565508"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "85552141",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hb9wqh",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Evans, John, 1739-1821",
+            "note": "cousinOf",
+            "id": "85617247",
+            "version": "11565509"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "23038346",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6b918fj",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.)",
+            "id": "85617268",
+            "version": "11565529"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "51814893",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6061n21",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Caleb, 1786-1834",
+            "id": "85617240",
+            "version": "11565502"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "40161935",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w63n62nx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Elisha, 1779-1873",
+            "id": "85617239",
+            "version": "11565501"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
             "targetConstellation": "85290808",
-            "sourceArkID": "http://n2t.net/ark:/99166/w66z02ks",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
             "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetEntityType": {
                 "id": "700",
@@ -265,8 +505,159 @@
                 "type": "relation_type"
             },
             "content": "Hunt, John, 1740-1824",
-            "id": "85578611",
-            "version": "11557331"
+            "id": "85617228",
+            "version": "11565492"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "51652987",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n05cnp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28282",
+                "term": "sibling-in-law of",
+                "type": "relation_type"
+            },
+            "content": "Hunt, Joshua, 1753-1792",
+            "id": "85617238",
+            "version": "11565500"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "68531606",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6k6603s",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28236",
+                "term": "auntOrUncleOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, David, 1792-1880",
+            "id": "85617241",
+            "version": "11565503"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "12635601",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n05bth",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Joseph, 1742-1826",
+            "note": "cousin-in-lawOf",
+            "id": "85617242",
+            "version": "11565504"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "12635601",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n05bth",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Joseph, 1742-1826",
+            "note": "cousinOf",
+            "id": "85617266",
+            "version": "11565527"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "85312751",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6ph2gz9",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28272",
+                "term": "nieceOrNephewOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Rebecca Stokes, 1720-1815",
+            "id": "85617265",
+            "version": "11565526"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "85547666",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w6553d40",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, Samuel, 1758-1834",
+            "note": "cousinOf",
+            "id": "85617262",
+            "version": "11565523"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85617214",
+            "targetConstellation": "85597130",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6xt6kzb",
+            "targetArkID": "http://n2t.net/ark:/99166/w60h49r3",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28281",
+                "term": "relativeOf",
+                "type": "relation_type"
+            },
+            "content": "Roberts, William, 1753-1829",
+            "note": "cousinOf",
+            "id": "85617263",
+            "version": "11565524"
         }
     ],
     "resourceRelations": [
@@ -628,8 +1019,8 @@
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "id": "85578608",
-            "version": "11557329"
+            "id": "85617227",
+            "version": "11565491"
         }
     ],
     "places": [
@@ -647,17 +1038,17 @@
                 "type": "place_role"
             },
             "geoplace": {
-                "id": "5089",
-                "uri": "http://www.geonames.org/4501944",
-                "name": "Gloucester County",
-                "latitude": "39.7173100",
-                "longitude": "-75.1416700",
+                "id": "1732",
+                "uri": "http://www.geonames.org/4500994",
+                "name": "Burlington County",
+                "latitude": "39.8776900",
+                "longitude": "-74.6682000",
                 "administrationCode": "NJ",
                 "countryCode": "US"
             },
             "confirmed": true,
-            "id": "85578586",
-            "version": "11557318"
+            "id": "85617235",
+            "version": "11565497"
         }
     ],
     "subjects": [
@@ -668,8 +1059,8 @@
                 "term": "Society of Friends",
                 "type": "subject"
             },
-            "id": "85578593",
-            "version": "11557325"
+            "id": "85617226",
+            "version": "11565490"
         },
         {
             "dataType": "Subject",
@@ -678,8 +1069,8 @@
                 "term": "Quakers",
                 "type": "subject"
             },
-            "id": "85578592",
-            "version": "11557324"
+            "id": "85617225",
+            "version": "11565489"
         }
     ],
     "genders": [
@@ -690,25 +1081,25 @@
                 "term": "Male",
                 "type": "gender"
             },
-            "id": "85578589",
-            "version": "11557321"
+            "id": "85617222",
+            "version": "11565486"
         }
     ],
-    "id": "85578553",
-    "version": "11566053",
+    "id": "85617214",
+    "version": "11565532",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1737-11-23",
-            "fromDateOriginal": "1737-09-12 (Old Style)",
+            "fromDate": "1746-06-07",
+            "fromDateOriginal": "1746-03-27 (Old Style)",
             "fromType": {
                 "id": "689",
                 "term": "Birth",
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1807-09-26",
-            "toDateOriginal": "1807-09-26",
+            "toDate": "1825-10",
+            "toDateOriginal": "1825-10",
             "toType": {
                 "id": "690",
                 "term": "Death",
@@ -716,8 +1107,8 @@
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "85578554",
-            "version": "11557306"
+            "id": "85617215",
+            "version": "11565484"
         }
     ]
 }

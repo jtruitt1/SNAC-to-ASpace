@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w66z02ks",
+    "ark": "http://n2t.net/ark:/99166/w66b7v3g",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -19,14 +19,14 @@
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2021-07-16T13:00:11",
-            "standardDateTime": "2021-07-16T13:00:11",
+            "eventDateTime": "2021-07-20T12:28:50",
+            "standardDateTime": "2021-07-20T12:28:50",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "agent": "Ayodeji George (ageorge3@swarthmore.edu)",
             "eventDescription": "User published constellation"
         },
         {
@@ -36,14 +36,31 @@
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2021-07-28T12:38:17",
-            "standardDateTime": "2021-07-28T12:38:17",
+            "eventDateTime": "2021-07-20T22:20:48",
+            "standardDateTime": "2021-07-20T22:20:48",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "Republish: User canceled edit without making changes"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-20T22:23:49",
+            "standardDateTime": "2021-07-20T22:23:49",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
             "eventDescription": "User published constellation"
         }
     ],
@@ -64,19 +81,18 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578649",
-                "version": "11557349"
+                "id": "85594019",
+                "version": "11560262"
             },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "text": "Issac Borton, 9-12-1737, 9-26-1807, Cropwell; Mary Borton, 6-17-1749; Ann; John; Elizabeth; Mary; Hope; Elizabeth; Jacob; Sarah",
-            "citation": "Upper Evesham Meeting, Record of Members Births and Deaths, 1693-1872,   via Ancestry.com search, July 16 2021. ",
-            "note": "Birth + Spouse + Children",
-            "id": "85578648",
-            "version": "11557398"
+            "text": "p.3 Elizabeth Atkinson died on the 7th day of 2nd month, 1796.",
+            "citation": "Mount Holly Monthly Meeting, Marriage Certificates, 1753-1827, Ancestry.com search, July 20th, 2021",
+            "id": "85594011",
+            "version": "11560262"
         },
         {
             "dataType": "Source",
@@ -94,19 +110,47 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578682",
-                "version": "11557373"
+                "id": "85594010",
+                "version": "11560258"
             },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "text": "p.19. 1761. Whereas Issac Borton of the Township of Waterford and County of Gloucester in the province of New Jersey son of John Borton... and Mary Hooten daughter of Samuel Hooten having declared their intentions of marriage with each other... this twenty eight day of the fifth month in the year of our Lord on thousand seven hundred and sixty one...",
-            "citation": "Haddonfield Monthly Meeting, Marriage Certificates, 1718-1886,  via Ancestry.com search, July 16 2021. ",
-            "note": "Marriage certificate",
-            "id": "85578678",
-            "version": "11557373"
+            "text": "p.99 Atkinson was born around 1732. Her children were Mary, Elizabeth, Ann, Hinchman, Joseph, and Rachel.",
+            "citation": "Burlington Monthly Meeting, Births and Deaths, 1675-1805, Ancestry.com search, July 20th, 2021",
+            "id": "85594009",
+            "version": "11560266"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85593994",
+                "version": "11560244"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p.358 Elizabeth Hatkinson was associated the the Philadelphia Yearly Meeting. Several instances of palsy weakened her.",
+            "citation": "Philadelphia Yearly Meeting, Minutes, 1686-1850, via Ancestry.com search, July 20th, 2021",
+            "id": "85593992",
+            "version": "11560267"
         }
     ],
     "languagesUsed": [
@@ -124,14 +168,14 @@
                 "type": "script_code",
                 "description": "Latin"
             },
-            "id": "85578590",
-            "version": "11557322"
+            "id": "85593623",
+            "version": "11560128"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Borton, Isaac, 1737-1807",
+            "original": "Atkinson, Elizabeth, 1732-1796",
             "preferenceScore": "99",
             "contributors": [
                 {
@@ -146,46 +190,46 @@
                         "term": "rda",
                         "type": "name_rule"
                     },
-                    "id": "85578559",
-                    "version": "11566052"
+                    "id": "85593592",
+                    "version": "11560088"
                 }
             ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Borton",
+                    "text": "Atkinson",
                     "order": "0",
                     "type": {
                         "id": "400223",
                         "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "85578556",
-                    "version": "11566052"
+                    "id": "85593589",
+                    "version": "11560088"
                 },
                 {
                     "dataType": "NameComponent",
-                    "text": "Isaac",
+                    "text": "Elizabeth",
                     "order": "1",
                     "type": {
                         "id": "400224",
                         "term": "Forename",
                         "type": "name_component"
                     },
-                    "id": "85578557",
-                    "version": "11566052"
+                    "id": "85593590",
+                    "version": "11560088"
                 },
                 {
                     "dataType": "NameComponent",
-                    "text": "1737-1807",
+                    "text": "1732-1796",
                     "order": "2",
                     "type": {
                         "id": "400237",
                         "term": "Date",
                         "type": "name_component"
                     },
-                    "id": "85578558",
-                    "version": "11566052"
+                    "id": "85593591",
+                    "version": "11560088"
                 }
             ],
             "language": {
@@ -202,11 +246,90 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578560",
-                "version": "11566052"
+                "id": "85593593",
+                "version": "11560088"
             },
-            "id": "85578555",
-            "version": "11566052"
+            "id": "85593588",
+            "version": "11560088"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Hatkinson, Elizabeth, 1732-1796",
+            "preferenceScore": "0",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7657",
+                        "term": "alternativeForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85594017",
+                    "version": "11560261"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hatkinson",
+                    "order": "1",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85594014",
+                    "version": "11560261"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Elizabeth",
+                    "order": "2",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85594015",
+                    "version": "11560261"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1732-1796",
+                    "order": "3",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85594016",
+                    "version": "11560261"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85594018",
+                "version": "11560261"
+            },
+            "id": "85594013",
+            "version": "11560261"
         }
     ],
     "occupations": [
@@ -217,8 +340,28 @@
                 "term": "Quakers",
                 "type": "occupation"
             },
-            "id": "85578591",
-            "version": "11557323"
+            "id": "85593625",
+            "version": "11560130"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85593624",
+            "version": "11560130"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "26986",
+                "term": "Women clergy",
+                "type": "occupation"
+            },
+            "id": "85593643",
+            "version": "11560140"
         }
     ],
     "biogHists": [
@@ -238,20 +381,41 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "85578778",
-                "version": "11557404"
+                "id": "85593619",
+                "version": "11560119"
             },
-            "text": "Issac Borton was a Quaker associated with Haddonfield Monthly Meeting and Upper Evesham Meeting, from Gloucester County, New Jersey. Son of John Borton, he was born on the 23rd of the 11th month 1737 (new style). In 1761 he married Mary Hooten, daughter of Samuel Hooten; the couple had eight children together named Ann, John, Elizabeth, Mary, Hope, Elizabeth, Jacob, Sarah. He died September 26, 1807 and was buried at Cropwell.\r\n",
-            "id": "85578771",
-            "version": "11557404"
+            "text": "Elizabeth Atkinson was a Quaker minister associated with Mount Holly and Burlington Monthly Meetings and Mount Holly, New Jersey. She was born around 1732 and her spouse's name was John Atkinson. The couple had 5 children, Mary, Elizabeth, Anna, Hinchman, and Joseph. She was a minister for 20 years before dying on the 6th day of the 2nd month, 1796.",
+            "id": "85593618",
+            "version": "11560119"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "85578553",
+            "sourceConstellation": "85593586",
+            "targetConstellation": "59583036",
+            "sourceArkID": "http://n2t.net/ark:/99166/w66b7v3g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6mh3fp2",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Burlington Monthly Meeting (Society of Friends : 1678-1827)",
+            "id": "85596336",
+            "version": "11561035"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85593586",
             "targetConstellation": "85290808",
-            "sourceArkID": "http://n2t.net/ark:/99166/w66z02ks",
+            "sourceArkID": "http://n2t.net/ark:/99166/w66b7v3g",
             "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetEntityType": {
                 "id": "700",
@@ -265,8 +429,29 @@
                 "type": "relation_type"
             },
             "content": "Hunt, John, 1740-1824",
-            "id": "85578611",
-            "version": "11557331"
+            "id": "85593800",
+            "version": "11560182"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85593586",
+            "targetConstellation": "57813095",
+            "sourceArkID": "http://n2t.net/ark:/99166/w66b7v3g",
+            "targetArkID": "http://n2t.net/ark:/99166/w6pc78wf",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Mount Holly Monthly Meeting of Friends",
+            "id": "85596335",
+            "version": "11561034"
         }
     ],
     "resourceRelations": [
@@ -628,8 +813,8 @@
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "id": "85578608",
-            "version": "11557329"
+            "id": "85593795",
+            "version": "11560180"
         }
     ],
     "places": [
@@ -647,29 +832,49 @@
                 "type": "place_role"
             },
             "geoplace": {
-                "id": "5089",
-                "uri": "http://www.geonames.org/4501944",
-                "name": "Gloucester County",
-                "latitude": "39.7173100",
-                "longitude": "-75.1416700",
+                "id": "8808",
+                "uri": "http://www.geonames.org/4503134",
+                "name": "Mount Holly",
+                "latitude": "39.9928900",
+                "longitude": "-74.7876600",
                 "administrationCode": "NJ",
                 "countryCode": "US"
             },
             "confirmed": true,
-            "id": "85578586",
-            "version": "11557318"
+            "id": "85593595",
+            "version": "11560092"
         }
     ],
     "subjects": [
         {
             "dataType": "Subject",
             "term": {
-                "id": "334720",
-                "term": "Society of Friends",
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
                 "type": "subject"
             },
-            "id": "85578593",
-            "version": "11557325"
+            "id": "85593781",
+            "version": "11560166"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299320",
+                "term": "Quaker women",
+                "type": "subject"
+            },
+            "id": "85593644",
+            "version": "11560143"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85593782",
+            "version": "11560166"
         },
         {
             "dataType": "Subject",
@@ -678,37 +883,47 @@
                 "term": "Quakers",
                 "type": "subject"
             },
-            "id": "85578592",
-            "version": "11557324"
+            "id": "85593645",
+            "version": "11560143"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85593642",
+            "version": "11560139"
         }
     ],
     "genders": [
         {
             "dataType": "Gender",
             "term": {
-                "id": "7655",
-                "term": "Male",
+                "id": "7654",
+                "term": "Female",
                 "type": "gender"
             },
-            "id": "85578589",
-            "version": "11557321"
+            "id": "85593622",
+            "version": "11560127"
         }
     ],
-    "id": "85578553",
-    "version": "11566053",
+    "id": "85593586",
+    "version": "11561036",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1737-11-23",
-            "fromDateOriginal": "1737-09-12 (Old Style)",
+            "fromDate": "1732",
+            "fromDateOriginal": "1732",
             "fromType": {
                 "id": "689",
                 "term": "Birth",
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1807-09-26",
-            "toDateOriginal": "1807-09-26",
+            "toDate": "1796-02-07",
+            "toDateOriginal": "1796-02-07",
             "toType": {
                 "id": "690",
                 "term": "Death",
@@ -716,8 +931,8 @@
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "85578554",
-            "version": "11557306"
+            "id": "85593587",
+            "version": "11560260"
         }
     ]
 }

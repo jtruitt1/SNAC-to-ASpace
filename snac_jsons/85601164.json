@@ -1,10 +1,10 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w6t214bg",
+    "ark": "http://n2t.net/ark:/99166/w6q061bh",
     "entityType": {
-        "id": "698",
-        "term": "corporateBody",
-        "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
         "type": "entity_type"
     },
     "maintenanceStatus": {
@@ -16,93 +16,246 @@
             "dataType": "MaintenanceEvent",
             "eventType": {
                 "id": "704",
-                "term": "revised"
-            },
-            "eventDateTime": "2015-09-17",
-            "agentType": {
-                "id": "687",
-                "term": "machine"
-            },
-            "agent": "CPF merge program",
-            "eventDescription": "Merge v2.0"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2016-08-09T17:46:13",
-            "standardDateTime": "2016-08-09T17:46:13",
-            "agentType": {
-                "id": "687",
-                "term": "machine",
-                "type": "agent_type"
-            },
-            "agent": "SNAC EAC-CPF Parser",
-            "eventDescription": "Bulk ingest into SNAC Database"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2016-08-09T17:46:13",
-            "standardDateTime": "2016-08-09T17:46:13",
+            "eventDateTime": "2021-07-22T11:31:36",
+            "standardDateTime": "2021-07-22T11:31:36",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "System Service (system@localhost)"
+            "agent": "Ayodeji George (ageorge3@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-26T19:17:11",
+            "standardDateTime": "2021-07-26T19:17:11",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85601335",
+                "version": "11562210"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/29568955",
-            "id": "2545625",
-            "version": "368219"
+            "text": "p.115 Marriage certificate with Gertrude Derricks Nieson.",
+            "citation": "Colchester Monthly Meeting, Births, Burials, and Marriages, 1613-1776, via Ancestry.com search, July 22nd, 2021",
+            "id": "85601334",
+            "version": "11562210"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85601337",
+                "version": "11562213"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "Steven Crisp of Colchester was a typical example of a middle class. He married his first wife, Dorothy, in 1648. His parents, his wife, and he joined the Friends at about the same time. His two children died of the plague, at Colchester. From 1663, Crisp paid numerous visits to Holland. In 1685, Crisp married Gertrude Dericks Nieson. \r\nCrisp's numerous writings were collected and published by John Field in 1695, his Short History of a Long Travel from Babylon to Bethel, 1691. ",
+            "citation": "Dictionary of Quaker Biography, Haverford College",
+            "id": "85601336",
+            "version": "11562213"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85601331",
+                "version": "11562211"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p.723 Died the 28th day of the 6th month, 1692.",
+            "citation": "Quarterly Meeting of London and Middlesex, Burials, 1661-1698, via Ancestry.com search, July 22nd, 2021",
+            "id": "85601330",
+            "version": "11562211"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85601174",
+            "version": "11562175"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.). Preparative Meeting of Ministers and Elders.",
-            "preferenceScore": "1",
+            "original": "Crisp, Steven, 1628-1692",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85601170",
+                    "version": "11562171"
+                }
+            ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.). Preparative Meeting of Ministers and Elders.",
+                    "text": "Crisp",
                     "order": "0",
                     "type": {
-                        "id": "400228",
-                        "term": "Name",
+                        "id": "400223",
+                        "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "2545627",
-                    "version": "368219"
+                    "id": "85601167",
+                    "version": "11562171"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Steven",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85601168",
+                    "version": "11562171"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1628-1692",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85601169",
+                    "version": "11562171"
                 }
             ],
-            "id": "2545626",
-            "version": "368219",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "77010607",
-                    "version": "368219"
-                }
-            ]
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85601171",
+                "version": "11562171"
+            },
+            "id": "85601166",
+            "version": "11562171"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85601189",
+            "version": "11562180"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85601188",
+            "version": "11562180"
         }
     ],
     "biogHists": [
@@ -122,12 +275,51 @@
                     "type": "script_code",
                     "description": "Latin"
                 },
-                "id": "2545623",
-                "version": "368219"
+                "id": "85601339",
+                "version": "11562215"
             },
-            "text": "<biogHist><p xmlns=\"urn:isbn:1-931666-33-4\">Evesham Monthly Meeting was established in 1760 by Salem Quarterly Meeting out of Haddonfield Monthly Meeting. The monthly meeting was transferred to Haddonfield Quarterly Meeting in 1794. In 1827, after the Hicksite Separation in Philadelphia Yearly Meeting, the meeting split into Hicksite and Orthodox branches. Evesham Monthly Meeting (Hicksite) was discontinued in 1884; its members were transferred to Chester Monthly Meeting (NJ) and Medford Monthly Meeting (Hicksite). In 1956, the former Orthodox monthly meeting was merged into Moorestown Monthly Meeting. This meeting was often unofficially known as \"Mount Laurel\".</p>\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of Minutes, 1762-1800. (Swarthmore College). WorldCat record id: 29568955</citation>\n         </biogHist>",
-            "id": "2545622",
-            "version": "368219"
+            "text": "Steven Crisp was a Quaker minister associated with Colchester and Colchester Monthly Meeting. He was born in 1628. He was married first to Dorothy Crisp and then to Gertrude Dericks Nieson. He had two children who died of the plague in the mid 1660s. He died on the 8th day of the 9th month, 2021.",
+            "id": "85601338",
+            "version": "11562215"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85601164",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6q061bh",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "note": "Often quoted by John Hunt (1740-1824)",
+            "id": "85613047",
+            "version": "11564438"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https://id.loc.gov/authorities/n85009032",
+            "id": "85601195",
+            "version": "11562183"
         }
     ],
     "resourceRelations": [
@@ -141,18 +333,72 @@
                     "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
                     "type": "document_type"
                 },
-                "link": "http://www.worldcat.org/oclc/29568955",
-                "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:29568955</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-PSH</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.). Preparative Meeting of Ministers and Elders.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Minutes, 1762-1800.</title>\n                  </titleInfo>\n                  <abstract>Minutes from 6mo 10, 1762 to 11mo 1, 1800 inclusive. </abstract>\n                  <name>\n                     <namePart>Swarthmore College</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
-                "title": "Minutes, 1762-1800.",
-                "abstract": "Minutes from 6mo 10, 1762 to 11mo 1, 1800 inclusive. ",
-                "extent": "1 v. ([90] p.) ; 33 cm.",
-                "displayEntry": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.). Preparative Meeting of Ministers and Elders. Minutes, 1762-1800.",
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
                 "originationNames": [
                     {
                         "dataType": "OriginationName",
-                        "name": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.). Preparative Meeting of Ministers and Elders.",
-                        "id": "9364030",
-                        "version": "7272477"
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "script": {
+                            "id": "586",
+                            "term": "Latn",
+                            "type": "script_code",
+                            "description": "Latin"
+                        },
+                        "id": "11644367",
+                        "version": "8385422"
                     }
                 ],
                 "repository": {
@@ -426,54 +672,48 @@
                     "id": "85254717",
                     "version": "11480318"
                 },
-                "id": "7272477",
-                "version": "7272477"
+                "id": "7760181",
+                "version": "8386944"
             },
             "role": {
-                "id": "692",
-                "term": "creatorOf",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "content": "Evesham Monthly Meeting (Society of Friends : 1760-1827 : Mount Laurel, N.J.). Preparative Meeting of Ministers and Elders. Minutes, 1762-1800.",
-            "id": "2545635",
-            "version": "368219"
+            "id": "85601194",
+            "version": "11562182"
         }
     ],
     "places": [
         {
             "dataType": "Place",
-            "original": "New Jersey--Burlington County",
             "type": {
                 "id": "705",
                 "term": "AssociatedPlace",
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
                 "type": "place_type"
             },
-            "id": "2545630",
-            "version": "368219",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "New Jersey--Burlington County",
-                    "note": "Parsed from SNAC EAC-CPF.",
-                    "id": "2545631",
-                    "version": "368219"
-                }
-            ]
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "2736",
+                "uri": "http://www.geonames.org/2652618",
+                "name": "Colchester",
+                "latitude": "51.8892100",
+                "longitude": "0.9042100",
+                "administrationCode": "ENG",
+                "countryCode": "GB"
+            },
+            "confirmed": true,
+            "id": "85601172",
+            "version": "11562173"
         }
     ],
     "subjects": [
-        {
-            "dataType": "Subject",
-            "term": {
-                "id": "214580",
-                "term": "Lay ministry--Society of Friends",
-                "type": "subject"
-            },
-            "id": "2545633",
-            "version": "368219"
-        },
         {
             "dataType": "Subject",
             "term": {
@@ -481,44 +721,76 @@
                 "term": "Quakers",
                 "type": "subject"
             },
-            "id": "2545634",
-            "version": "368219"
+            "id": "85601193",
+            "version": "11562181"
         },
         {
             "dataType": "Subject",
             "term": {
-                "id": "214568",
-                "term": "Lay ministry",
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
                 "type": "subject"
             },
-            "id": "2545632",
-            "version": "368219"
+            "id": "85601191",
+            "version": "11562181"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85601190",
+            "version": "11562181"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85601192",
+            "version": "11562181"
         }
     ],
-    "id": "2545621",
-    "version": "368220",
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85601173",
+            "version": "11562174"
+        }
+    ],
+    "id": "85601164",
+    "version": "11564439",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1762",
-            "fromDateOriginal": "active 1762",
+            "fromDate": "1628",
+            "fromDateOriginal": "1628",
             "fromType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1800",
-            "toDateOriginal": "active 1800",
+            "toDate": "1692-08-28",
+            "toDateOriginal": "1692-06-28 (Old Style)",
             "toType": {
-                "id": "688",
-                "term": "Active",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+                "id": "690",
+                "term": "Death",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "2545624",
-            "version": "368219"
+            "id": "85601165",
+            "version": "11562219"
         }
     ]
 }
