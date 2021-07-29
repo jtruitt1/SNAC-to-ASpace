@@ -39,6 +39,43 @@ def retrieveSnacAgent(snacID):
 
 	return snacConstellation
 
+def getSnacAgentsFromList(snacIds):
+	"""
+	Given a list of snacIDs, return a list of constellation JSONs via API calls
+
+	Params: @snacIDs, a list containing SNAC IDs
+	Returns: snacConstellations, a list of SNAC agent JSONs in dict form
+	"""
+	numRelated = len(snacIds)
+	i = 0
+
+	# Pull full JSONs of listed constellations from SNAC into a list
+
+	snacConstellations = [] # Initialize list to return
+
+	print("Fetching {} related constellations from SNAC...".format(numRelated))
+
+	for ID in snacIds:
+		# Get constellation via API request
+		i += 1
+		print("Fetching constellation {}, id {}...".format(i, ID), end="")
+		agent = retrieveSnacAgent(ID)
+		# Append constellation to list
+		snacConstellations.append(agent)
+
+	print("Successfully fetched all constellations!")
+
+	return snacConstellations
+
+def getIdList(url):
+	"""
+	Given the url of a file listing of SNAC agents IDs, returns a list of IDs
+
+	Params: @url, the "raw." github url of a TSV whose first column is SNAC IDs
+	Returns: 
+	"""
+	pass
+
 def getRelatedSnacAgents(mainID):
 	"""
 	Given a SNAC agent's ID number, pull the full JSON record of that

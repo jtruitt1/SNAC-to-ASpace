@@ -31,11 +31,11 @@ def main():
 		if "relations" in item.keys():
 			for link in item["relations"]:
 				data = [
-				#link["sourceConstellation"],
-				item["nameEntries"][0]["original"],
+				link["sourceConstellation"],
+				#item["nameEntries"][0]["original"],
 				link["type"]["term"],
-				#link["targetConstellation"],
-				link["content"]
+				link["targetConstellation"],
+				#link["content"]
 				]
 				output.append(data)
 
