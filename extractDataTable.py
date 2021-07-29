@@ -25,7 +25,7 @@ def loadSnacData():
 
 def extractData(constellation):
 	"""
-	Given a SNAC constellation JSON, return a various data pieces
+	Given a SNAC constellation JSON, return various data pieces
 
 	Params: @constellation, a SNAC constellation in JSON form
 	Returns: data, a list of attribute values
@@ -33,8 +33,8 @@ def extractData(constellation):
 	# Initialize the list we'll eventually return
 	data = []
 
-	# Get SNACID
-	data.append(constellation["id"])
+	# Get 8-digit ArkID
+	data.append(constellation["ark"][-8:])
 
 	# Get name
 	data.append(constellation["nameEntries"][0]["original"])
@@ -51,6 +51,8 @@ def extractData(constellation):
 		for occu in constellation["occupations"]:
 			data[-1] += occu["term"]["term"] + ";"
 		data[-1] = data[-1][:-1] # Strip trailing separator
+	else:
+		data.append("")
 
 	# Get subjects
 	data.append("")
@@ -58,6 +60,8 @@ def extractData(constellation):
 		for subj in constellation["subjects"]:
 			data[-1] += subj["term"]["term"] + ";"
 		data[-1] = data[-1][:-1] # Strip trailing separator
+	else:
+		data.append("")
 
 	# Get monthly meeting
 	data.append(getMonthlyMeeting(constellation))
@@ -68,19 +72,31 @@ def getMonthlyMeeting(constellation):
 	"""
 	Given a SNAC constellation JSON,
 	a) determine if it contains a link to a Quaker monthly meeting, and
-	b) return the name of the monthly meeting with the latest foundation date
-	(this ensures that people who joined later-branching meetings are well
-	grouped)
+	b) return a string of associated pre-separation monthly meetings
 
 	Params: @constellation, a SNAC constellation in JSON form
 	Returns: meetingName, the name of the relevant monthly meeting
 			 (Or "Unknown" if none found)
 	"""
+	# Make sure the constellation has relationships
 	if "relations" in constellation.keys():
+		# Initialize list of meetings
 		meetingList = []
+
+		# Loop over relationships, checking if the target is a monthly meeting
 		for link in constellation["relations"]:
 			if "monthly meeting" in link["content"].lower():
+				# If the target is a monthly meeting, add it to the meeting list
 				meetingList.append(link["content"])
+
+
+
+		# Loop over mtg list, removing ones w/ "Hicksite" or "Orthodox" in name
+		# 	(this is because those relationships are probably spurious, since
+		# 	Hicksite & Orthodox only emerged after John Hunt's death)
+		# And add the mtg name to a string we'll eventually return
+		#	(loop over the list backward, since we're changing it as we go)
+
 		i = len(meetingList)
 		meetings = ""
 		while i > 0:
@@ -91,21 +107,26 @@ def getMonthlyMeeting(constellation):
 			if "Orthodox" in mtg:
 				del meetingList[i]
 			meetings += mtg + ";"
+
+		# Return the list of meetings if there are any qualifying ones
 		if len(meetings) > 0:
 			meetings = meetings[:-1] # Strip trailing separator
 			return meetings
 
+	# If the record lacks meeting affiliations
 	return "Unknown"
 
 def main():
+	# Load constellation data
 	constellations = loadSnacData()
 
+	# Loop over constellations, extracting data and adding it to "output" list
 	output = []
 	for item in constellations:
 		if item["entityType"]["term"] == "person":
 			output.append(extractData(item))
 
-	#print output
+	# Write output to .tsv file
 	header="id\tlabel\tGender\tOccupations\tSubjects\tMonthly Meeting\t\n"
 	with open("dataTable.tsv","w") as f:
 		f.write(header)
