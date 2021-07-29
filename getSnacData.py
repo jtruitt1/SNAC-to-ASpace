@@ -72,7 +72,7 @@ def getIdList(url):
 	Given the url of a file listing of SNAC agents IDs, returns a list of IDs
 
 	Params: @url, the "raw." github url of a TSV whose first column is SNAC IDs
-	Returns: 
+	Returns: a list of ID strings
 	"""
 	pass
 
