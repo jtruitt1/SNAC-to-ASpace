@@ -232,6 +232,23 @@
             },
             "agent": "James Truitt (jtruitt1@swarthmore.edu)",
             "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-21T11:48:03",
+            "standardDateTime": "2021-07-21T11:48:03",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
@@ -2002,27 +2019,6 @@
             "content": "Lindley, Jacob, 1744-1814",
             "id": "85594876",
             "version": "11560469"
-        },
-        {
-            "dataType": "ConstellationRelation",
-            "sourceConstellation": "85290808",
-            "targetConstellation": "33467654",
-            "sourceArkID": "http://n2t.net/ark:/99166/w6n9820p",
-            "targetArkID": "http://n2t.net/ark:/99166/w63n434v",
-            "targetEntityType": {
-                "id": "700",
-                "term": "person",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
-                "type": "entity_type"
-            },
-            "type": {
-                "id": "28227",
-                "term": "acquaintanceOf",
-                "type": "relation_type"
-            },
-            "content": "Lindley, Jacob, 1744-1814",
-            "id": "85491252",
-            "version": "11534300"
         },
         {
             "dataType": "ConstellationRelation",
@@ -5433,7 +5429,7 @@
         }
     ],
     "id": "85290808",
-    "version": "11560975",
+    "version": "11561386",
     "dates": [
         {
             "dataType": "SNACDate",

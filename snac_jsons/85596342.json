@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w6sz54r1",
+    "ark": "http://n2t.net/ark:/99166/w6md9qk8",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -16,102 +16,290 @@
             "dataType": "MaintenanceEvent",
             "eventType": {
                 "id": "704",
-                "term": "revised"
-            },
-            "eventDateTime": "2015-09-17",
-            "agentType": {
-                "id": "687",
-                "term": "machine"
-            },
-            "agent": "CPF merge program",
-            "eventDescription": "Merge v2.0"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2016-08-12T11:16:39",
-            "standardDateTime": "2016-08-12T11:16:39",
-            "agentType": {
-                "id": "687",
-                "term": "machine",
-                "type": "agent_type"
-            },
-            "agent": "SNAC EAC-CPF Parser",
-            "eventDescription": "Bulk ingest into SNAC Database"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2016-08-12T11:16:39",
-            "standardDateTime": "2016-08-12T11:16:39",
+            "eventDateTime": "2021-07-20T23:03:44",
+            "standardDateTime": "2021-07-20T23:03:44",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "System Service (system@localhost)"
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-20T23:07:52",
+            "standardDateTime": "2021-07-20T23:07:52",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-20T23:22:46",
+            "standardDateTime": "2021-07-20T23:22:46",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85596361",
+                "version": "11561057"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/57202262",
-            "id": "30161527",
-            "version": "4402991"
+            "text": "p.53. James Simpson was born about the year 1750; Hannah Simpson; Benjamin; Hannah; James; Anna; John; Samuel and Anna (Twins); Thomas; William",
+            "citation": "Salem Monthly Meeting, Births and deaths, 1721-1886,  via Ancestry.com search, July 20 2021. ",
+            "note": "Birth + Spouse + Children",
+            "id": "85596360",
+            "version": "11561057"
+        },
+        {
+            "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85596363",
+                "version": "11561058"
+            },
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "p.21. 1787. Our friend James Simpson informs this meeting he hath a concern upon his mind to pay a visit to some branches of Chesterfield monthly meeting as truth may open and he produced a minute from Buckingham monthly meeting setting forth their unity therewith...",
+            "citation": "Chesterfield Monthly Meeting, Minutes, 1786-1798, via Ancestry.com search, July 20 2021.",
+            "id": "85596362",
+            "version": "11561058"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85596351",
+            "version": "11561051"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Foulke, Joseph, 1786-1853.",
-            "preferenceScore": "1",
+            "original": "Simpson, James, 1750-",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85596348",
+                    "version": "11561048"
+                }
+            ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Foulke, Joseph, 1786-1853.",
+                    "text": "Simpson",
                     "order": "0",
                     "type": {
-                        "id": "400228",
-                        "term": "Name",
+                        "id": "400223",
+                        "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "30161529",
-                    "version": "4402991"
+                    "id": "85596345",
+                    "version": "11561048"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "James",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85596346",
+                    "version": "11561048"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1750-",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85596347",
+                    "version": "11561048"
                 }
             ],
-            "id": "30161528",
-            "version": "4402991",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "79263476",
-                    "version": "4402991"
-                }
-            ]
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85596349",
+                "version": "11561048"
+            },
+            "id": "85596344",
+            "version": "11561048"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85596352",
+            "version": "11561052"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85596353",
+            "version": "11561053"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85596409",
+                "version": "11561099"
+            },
+            "text": "James Simpson was a Quaker minister associated with Salem and Chesterfield Monthly Meetings. He was born about the year 1750 and married Hannah Simpson; the couple had nine children named Benjamin, Hannah, James, Anna, John, Samuel and Anna (twins), Thomas, and William. \r\n",
+            "id": "85596408",
+            "version": "11561099"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "30161525",
-            "targetConstellation": "56886470",
-            "sourceArkID": "http://n2t.net/ark:/99166/w6sz54r1",
-            "targetArkID": "http://n2t.net/ark:/99166/w65b11gw",
+            "sourceConstellation": "85596342",
+            "targetConstellation": "44825849",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6md9qk8",
+            "targetArkID": "http://n2t.net/ark:/99166/w6hf2zf4",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Chesterfield Monthly Meeting of the Religious Society of Friends",
+            "id": "85596364",
+            "version": "11561059"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85596342",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6md9qk8",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetEntityType": {
                 "id": "700",
                 "term": "person",
@@ -119,14 +307,34 @@
                 "type": "entity_type"
             },
             "type": {
-                "id": "28234",
-                "term": "associatedWith",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "id": "28227",
+                "term": "acquaintanceOf",
                 "type": "relation_type"
             },
-            "content": "Hunt, John, 1740-1824.",
-            "id": "30161532",
-            "version": "4402991"
+            "content": "Hunt, John, 1740-1824",
+            "id": "85596359",
+            "version": "11561056"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85596342",
+            "targetConstellation": "43645840",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6md9qk8",
+            "targetArkID": "http://n2t.net/ark:/99166/w6cs0k3j",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Salem Monthly Meeting (Society of Friends : 1676-1827)",
+            "id": "85596365",
+            "version": "11561060"
         }
     ],
     "resourceRelations": [
@@ -480,34 +688,113 @@
                     "version": "11480318"
                 },
                 "id": "7760181",
-                "version": "7760181"
+                "version": "8386944"
             },
             "role": {
-                "id": "692",
-                "term": "creatorOf",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "content": "Hunt, John, 1740-1824. Papers, 1770-1828.",
-            "id": "30161533",
-            "version": "4402991"
+            "id": "85596358",
+            "version": "11561055"
         }
     ],
-    "id": "30161525",
-    "version": "4402992",
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "11493",
+                "uri": "http://www.geonames.org/4503944",
+                "name": "Salem",
+                "latitude": "39.5717800",
+                "longitude": "-75.4671400",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85596385",
+            "version": "11561073"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85596357",
+            "version": "11561054"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85596355",
+            "version": "11561054"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85596354",
+            "version": "11561054"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85596356",
+            "version": "11561054"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85596350",
+            "version": "11561050"
+        }
+    ],
+    "id": "85596342",
+    "version": "11561100",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1786",
-            "fromDateOriginal": "1786",
+            "fromDate": "1750",
+            "fromDateOriginal": "1750",
             "fromType": {
                 "id": "689",
                 "term": "Birth",
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1853",
-            "toDateOriginal": "1853",
             "toType": {
                 "id": "690",
                 "term": "Death",
@@ -515,8 +802,8 @@
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "30161526",
-            "version": "4402991"
+            "id": "85596343",
+            "version": "11561048"
         }
     ]
 }

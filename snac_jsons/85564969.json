@@ -1,0 +1,219 @@
+{
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6jn3260",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2021-07-14T14:58:18",
+            "standardDateTime": "2021-07-14T14:58:18",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "James Truitt (jtruitt1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Hunt, Nathan, 1800-",
+            "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85564976",
+                    "version": "11555615"
+                }
+            ],
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hunt",
+                    "order": "0",
+                    "type": {
+                        "id": "400223",
+                        "term": "Surname",
+                        "type": "name_component"
+                    },
+                    "id": "85564973",
+                    "version": "11555615"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Nathan",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85564974",
+                    "version": "11555615"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1800-",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85564975",
+                    "version": "11555615"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85564977",
+                "version": "11555615"
+            },
+            "id": "85564972",
+            "version": "11555615"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85564971",
+                "version": "11555615"
+            },
+            "text": "Son of Joseph Hunt (1768-1856), son of John and Esther (Warrington) Hunt, and Agnes Haines (1769-), daughter of Isaac and Deborah (Roberts) Haines. Married Jemima (or Juliann) Powell, of Byberry Township, Philadelphia County, Pa. In 1824 they lived on part of her father’s farm and were the parents of one child. ",
+            "id": "85564970",
+            "version": "11555615"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85564969",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6jn3260",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28255",
+                "term": "grandchildOf",
+                "type": "relation_type"
+            },
+            "content": "Hunt, John, 1740-1824",
+            "id": "85564981",
+            "version": "11555619"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1774",
+                "uri": "http://www.geonames.org/5182616",
+                "name": "Byberry",
+                "latitude": "40.1548300",
+                "longitude": "-75.0662800",
+                "administrationCode": "PA",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85564979",
+            "version": "11555618"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85564980",
+            "version": "11555619"
+        }
+    ],
+    "id": "85564969",
+    "version": "11555621",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1800-05-08",
+            "fromDateOriginal": "5 month 8th, 1800",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+                "type": "date_type"
+            },
+            "id": "85564978",
+            "version": "11555617"
+        }
+    ]
+}

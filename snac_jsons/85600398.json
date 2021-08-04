@@ -1,6 +1,6 @@
 {
     "dataType": "Constellation",
-    "ark": "http://n2t.net/ark:/99166/w6061n21",
+    "ark": "http://n2t.net/ark:/99166/w6gg1k1v",
     "entityType": {
         "id": "700",
         "term": "person",
@@ -16,121 +16,256 @@
             "dataType": "MaintenanceEvent",
             "eventType": {
                 "id": "704",
-                "term": "revised"
-            },
-            "eventDateTime": "2015-09-19",
-            "agentType": {
-                "id": "687",
-                "term": "machine"
-            },
-            "agent": "CPF merge program",
-            "eventDescription": "Merge v2.0"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
                 "term": "revised",
                 "type": "event_type"
             },
-            "eventDateTime": "2016-08-15T11:21:55",
-            "standardDateTime": "2016-08-15T11:21:55",
-            "agentType": {
-                "id": "687",
-                "term": "machine",
-                "type": "agent_type"
-            },
-            "agent": "SNAC EAC-CPF Parser",
-            "eventDescription": "Bulk ingest into SNAC Database"
-        },
-        {
-            "dataType": "MaintenanceEvent",
-            "eventType": {
-                "id": "704",
-                "term": "revised",
-                "type": "event_type"
-            },
-            "eventDateTime": "2016-08-15T11:21:55",
-            "standardDateTime": "2016-08-15T11:21:55",
+            "eventDateTime": "2021-07-21T21:55:56",
+            "standardDateTime": "2021-07-21T21:55:56",
             "agentType": {
                 "id": "400254",
                 "term": "human",
                 "type": "agent_type"
             },
-            "agent": "System Service (system@localhost)"
+            "agent": "Anna Jeong (cjeong1@swarthmore.edu)",
+            "eventDescription": "User published constellation"
         }
     ],
     "sources": [
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85600465",
+                "version": "11562044"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://viaf.org/viaf/46339837",
-            "id": "51814896",
-            "version": "7575008"
+            "text": "ATKINSON, Samuel -1841. minister, of Rancocas Meeting, N.J. Visited Ohio Y. Mtg. At Mount Pleasant, Ohio, once sat silence before meat for 3 hours, thus preventing a merry party from proceeding. d. 20 Oct. 1841, Northampton, Burl. Co., N.J.",
+            "citation": "Dictionary of Quaker Biography, Haverford College",
+            "id": "85600464",
+            "version": "11562044"
         },
         {
             "dataType": "Source",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85600469",
+                "version": "11562048"
+            },
             "type": {
                 "id": "28296",
                 "term": "simple",
                 "type": "source_type"
             },
-            "uri": "http://www.worldcat.org/oclc/31452321",
-            "id": "51814895",
-            "version": "7575008"
+            "text": "p.86. 1796. Whereas Samuel Atkinson son of Jonathan and Mary Atkinson of the Township of Northampton in the County of Burlington and Western Division of the state of New Jersey and Hannah Graft daughter of Robert and Sarah Graft... having declared their intentions of marriage with each other before several monthly meetings... this eighteenth day of the second month in the year of our Lord one thousand seven hundred and ninety six",
+            "citation": "Burlington Monthly Meeting, Marriage Certificates, 1744-1926,  via Ancestry.com search, July 21 2021. \r\n",
+            "note": "Marriage Certificate",
+            "id": "85600468",
+            "version": "11562048"
         }
     ],
-    "conventionDeclarations": [
+    "languagesUsed": [
         {
-            "dataType": "ConventionDeclaration",
-            "text": "<conventionDeclaration><citation>VIAF</citation></conventionDeclaration>",
-            "id": "51814897",
-            "version": "7575008"
+            "dataType": "Language",
+            "language": {
+                "id": "130",
+                "term": "eng",
+                "type": "language_code",
+                "description": "English"
+            },
+            "script": {
+                "id": "586",
+                "term": "Latn",
+                "type": "script_code",
+                "description": "Latin"
+            },
+            "id": "85600407",
+            "version": "11561970"
         }
     ],
     "nameEntries": [
         {
             "dataType": "NameEntry",
-            "original": "Hunt, Caleb, 1786-1834",
+            "original": "Atkinson, Samuel, 1768?-1841",
             "preferenceScore": "99",
+            "contributors": [
+                {
+                    "dataType": "Contributor",
+                    "type": {
+                        "id": "7658",
+                        "term": "authorizedForm",
+                        "type": "name_type"
+                    },
+                    "rule": {
+                        "id": "7661",
+                        "term": "rda",
+                        "type": "name_rule"
+                    },
+                    "id": "85600404",
+                    "version": "11562043"
+                }
+            ],
             "components": [
                 {
                     "dataType": "NameComponent",
-                    "text": "Hunt, Caleb, 1786-1834",
+                    "text": "Atkinson",
                     "order": "0",
                     "type": {
-                        "id": "400228",
-                        "term": "Name",
+                        "id": "400223",
+                        "term": "Surname",
                         "type": "name_component"
                     },
-                    "id": "51814899",
-                    "version": "7575008"
+                    "id": "85600401",
+                    "version": "11562043"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Samuel",
+                    "order": "1",
+                    "type": {
+                        "id": "400224",
+                        "term": "Forename",
+                        "type": "name_component"
+                    },
+                    "id": "85600402",
+                    "version": "11562043"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "1768?-1841",
+                    "order": "2",
+                    "type": {
+                        "id": "400237",
+                        "term": "Date",
+                        "type": "name_component"
+                    },
+                    "id": "85600403",
+                    "version": "11562043"
                 }
             ],
-            "id": "51814898",
-            "version": "7575008",
-            "snacControlMetadata": [
-                {
-                    "dataType": "SNACControlMetadata",
-                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
-                    "note": "Contributors from initial SNAC EAC-CPF ingest",
-                    "id": "81039361",
-                    "version": "7575008"
-                }
-            ]
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85600405",
+                "version": "11562043"
+            },
+            "id": "85600400",
+            "version": "11562043"
+        }
+    ],
+    "occupations": [
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "23191",
+                "term": "Quakers",
+                "type": "occupation"
+            },
+            "id": "85600408",
+            "version": "11561971"
+        },
+        {
+            "dataType": "Occupation",
+            "term": {
+                "id": "12131",
+                "term": "Clergy",
+                "type": "occupation"
+            },
+            "id": "85600409",
+            "version": "11561972"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "85600472",
+                "version": "11562050"
+            },
+            "text": "Samuel Atkinson was a Quaker minister associated with Burlington Monthly Meeting in Rancocas, New Jersey. He was born sometime in 1768 to Jonathan and Mary Atkinson of the Township of Northampton in the County of Burlington and died on October 20, 1841. He was married to Hannah Graft, daughter of Robert and Sarah Graft. ",
+            "id": "85600471",
+            "version": "11562050"
         }
     ],
     "relations": [
         {
             "dataType": "ConstellationRelation",
-            "sourceConstellation": "51814893",
-            "targetConstellation": "31401628",
-            "sourceArkID": "http://n2t.net/ark:/99166/w6061n21",
-            "targetArkID": "http://n2t.net/ark:/99166/w6k08k1m",
+            "sourceConstellation": "85600398",
+            "targetConstellation": "24762263",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6gg1k1v",
+            "targetArkID": "http://n2t.net/ark:/99166/w6zk9q82",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
+            },
+            "content": "Burlington Monthly Meeting of Friends (1827-1959 : Rancocas, N.J.)",
+            "id": "85600470",
+            "version": "11562049"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85600398",
+            "targetConstellation": "85290808",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6gg1k1v",
+            "targetArkID": "http://n2t.net/ark:/99166/w6n9820p",
             "targetEntityType": {
                 "id": "700",
                 "term": "person",
@@ -138,53 +273,34 @@
                 "type": "entity_type"
             },
             "type": {
-                "id": "28234",
-                "term": "associatedWith",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+                "id": "28227",
+                "term": "acquaintanceOf",
                 "type": "relation_type"
             },
-            "content": "Roberts, Rachel H., 1791-1881.",
-            "id": "51814907",
-            "version": "7575008"
-        }
-    ],
-    "sameAsRelations": [
-        {
-            "dataType": "SameAs",
-            "type": {
-                "id": "28225",
-                "term": "sameAs",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
-                "type": "record_type"
-            },
-            "text": "Hunt, Caleb, 1786-1834",
-            "uri": "https://viaf.org/viaf/46339837",
-            "id": "51814904",
-            "version": "7575008"
+            "content": "Hunt, John, 1740-1824",
+            "id": "85600415",
+            "version": "11561975"
         },
         {
-            "dataType": "SameAs",
-            "type": {
-                "id": "28225",
-                "term": "sameAs",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
-                "type": "record_type"
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "85600398",
+            "targetConstellation": "30309442",
+            "sourceArkID": "http://n2t.net/ark:/99166/w6gg1k1v",
+            "targetArkID": "http://n2t.net/ark:/99166/w69w66c8",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+                "type": "entity_type"
             },
-            "uri": "https://www.worldcat.org/identities/lccn-no94036525",
-            "id": "51814905",
-            "version": "7575008"
-        },
-        {
-            "dataType": "SameAs",
             "type": {
-                "id": "28225",
-                "term": "sameAs",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
-                "type": "record_type"
+                "id": "28271",
+                "term": "memberOf",
+                "type": "relation_type"
             },
-            "uri": "https://id.loc.gov/authorities/no94036525",
-            "id": "51814906",
-            "version": "7575008"
+            "content": "Rancocas Monthly Meeting (Society of Friends)",
+            "id": "85600466",
+            "version": "11562046"
         }
     ],
     "resourceRelations": [
@@ -198,77 +314,53 @@
                     "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
                     "type": "document_type"
                 },
-                "link": "http://archives.tricolib.brynmawr.edu/repositories/7/resources/5932",
-                "title": "Roberts-Hunt family papers, 1677-1829.",
-                "abstract": "This collection includes papers relating to Rachel H. Roberts and her family. Included is correspondence between Esther Hunt Collins and her first husband, Joshua Hunt, his brother John, her children Elisha, Caleb and Rachel, her second husband, John Collins, and Hannah Yarnall. Also included is correspondence between Rachel H. Roberts and her husband, David. The collection includes genealogical information on the Roberts, Hooton, and other related families, along with wills and account books of Joseph and Susanna Roberts. Letters relate family news, impressions of Redstone Monthly Meeting of Friends, and discussions of Quaker discipline.",
-                "extent": "17 folders.",
-                "displayEntry": "Roberts, Rachel H., 1791-1881. Roberts-Hunt family papers, 1677-1829.",
+                "link": "http://archives.tricolib.brynmawr.edu/resources/5240johu",
+                "title": "John Hunt papers, 1770-1828.",
+                "abstract": "John Hunt kept a diary for more than 40 years, recording Quaker concerns and daily events. This collections consists primarily of the manuscript journal, 1770-1800; fragments of 1805, 1806 & 1808; and 1814-1824. Of particular interest are the visits of prominent Quakers, including Elias Hicks and Jonathan Evans. There is also an account book, some correspondence received, and other miscellaneous materials. Correspondents include Ann R. Matlack, Asa Matlack, Elizabeth A. Lippincott, John Cox, Joseph Foulke, and Josiah Roberts.",
+                "extent": "3 boxes ; 1.5 lin. ft.",
+                "displayEntry": "Hunt, John, 1740-1824. Papers, 1770-1828.",
                 "originationNames": [
                     {
                         "dataType": "OriginationName",
-                        "name": "Roberts, Rachel H., 1791-1881.",
-                        "id": "9433985",
-                        "version": "7319285"
+                        "name": "Hunt, John, 1740-1824.",
+                        "id": "10104834",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Collins, Esther, 1751-1820.",
-                        "id": "9433986",
-                        "version": "7319285"
+                        "name": "Matlack, Ann R.",
+                        "id": "10104835",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Roberts, Joseph, 1742-1826.",
-                        "id": "9433987",
-                        "version": "7319285"
+                        "name": "Matlack, Asa, 1783-1851.",
+                        "id": "10104836",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Roberts, Susanna, 1751-1829.",
-                        "id": "9433988",
-                        "version": "7319285"
+                        "name": "Lippincott, Elizabeth A.",
+                        "id": "10104837",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Hunt, Joshua, 1754-1792.",
-                        "id": "9433989",
-                        "version": "7319285"
+                        "name": "Cox, John.",
+                        "id": "10104838",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Hunt, John, b. 1740.",
-                        "id": "9433990",
-                        "version": "7319285"
+                        "name": "Foulke, Joseph, 1786-1853.",
+                        "id": "10104839",
+                        "version": "7760181"
                     },
                     {
                         "dataType": "OriginationName",
-                        "name": "Roberts, David, 1792-1880.",
-                        "id": "9433991",
-                        "version": "7319285"
-                    },
-                    {
-                        "dataType": "OriginationName",
-                        "name": "Yarnall, Hannah, 1765-1822.",
-                        "id": "9433992",
-                        "version": "7319285"
-                    },
-                    {
-                        "dataType": "OriginationName",
-                        "name": "Hunt, Caleb, 1786-1834.",
-                        "id": "9433993",
-                        "version": "7319285"
-                    },
-                    {
-                        "dataType": "OriginationName",
-                        "name": "Hunt, Elisha, 1779-1873.",
-                        "id": "9433994",
-                        "version": "7319285"
-                    },
-                    {
-                        "dataType": "OriginationName",
-                        "name": "Hunt, John, d. 1824.",
-                        "id": "9433995",
-                        "version": "7319285"
+                        "name": "Roberts, Josiah, 1783-1841.",
+                        "id": "10104840",
+                        "version": "7760181"
                     }
                 ],
                 "languages": [
@@ -286,8 +378,8 @@
                             "type": "script_code",
                             "description": "Latin"
                         },
-                        "id": "11645368",
-                        "version": "8386425"
+                        "id": "11644367",
+                        "version": "8385422"
                     }
                 ],
                 "repository": {
@@ -561,35 +653,116 @@
                     "id": "85254717",
                     "version": "11480318"
                 },
-                "id": "7319285",
-                "version": "7319285"
+                "id": "7760181",
+                "version": "8386944"
             },
             "role": {
-                "id": "692",
-                "term": "creatorOf",
-                "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#referencedIn",
                 "type": "document_role"
             },
-            "content": "Roberts, Rachel H., 1791-1881. Roberts-Hunt family papers, 1677-1829.",
-            "id": "51814908",
-            "version": "7575008"
+            "id": "85600414",
+            "version": "11561974"
         }
     ],
-    "id": "51814893",
-    "version": "7575009",
+    "places": [
+        {
+            "dataType": "Place",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "role": {
+                "id": "400241",
+                "term": "Residence",
+                "type": "place_role"
+            },
+            "geoplace": {
+                "id": "1732",
+                "uri": "http://www.geonames.org/4500994",
+                "name": "Burlington County",
+                "latitude": "39.8776900",
+                "longitude": "-74.6682000",
+                "administrationCode": "NJ",
+                "countryCode": "US"
+            },
+            "confirmed": true,
+            "id": "85600467",
+            "version": "11562047"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334720",
+                "term": "Society of Friends",
+                "type": "subject"
+            },
+            "id": "85600412",
+            "version": "11561973"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "299089",
+                "term": "Quakers",
+                "type": "subject"
+            },
+            "id": "85600413",
+            "version": "11561973"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "334745",
+                "term": "Society of Friends--Clergy",
+                "type": "subject"
+            },
+            "id": "85600411",
+            "version": "11561973"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "214580",
+                "term": "Lay ministry--Society of Friends",
+                "type": "subject"
+            },
+            "id": "85600410",
+            "version": "11561973"
+        }
+    ],
+    "genders": [
+        {
+            "dataType": "Gender",
+            "term": {
+                "id": "7655",
+                "term": "Male",
+                "type": "gender"
+            },
+            "id": "85600406",
+            "version": "11561969"
+        }
+    ],
+    "id": "85600398",
+    "version": "11562052",
     "dates": [
         {
             "dataType": "SNACDate",
-            "fromDate": "1786",
-            "fromDateOriginal": "1786",
+            "fromDate": "1768",
+            "fromDateOriginal": "~1768",
             "fromType": {
                 "id": "689",
                 "term": "Birth",
                 "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
                 "type": "date_type"
             },
-            "toDate": "1834",
-            "toDateOriginal": "1834",
+            "toDate": "1841-10-20",
+            "toDateOriginal": "1841-10-20",
             "toType": {
                 "id": "690",
                 "term": "Death",
@@ -597,8 +770,8 @@
                 "type": "date_type"
             },
             "isRange": true,
-            "id": "51814894",
-            "version": "7575008"
+            "id": "85600399",
+            "version": "11561967"
         }
     ]
 }

@@ -39,6 +39,63 @@ def retrieveSnacAgent(snacID):
 
 	return snacConstellation
 
+def getSnacAgentsFromList(snacIds):
+	"""
+	Given a list of snacIDs, return a list of constellation JSONs via API calls
+
+	Params: @snacIDs, a list containing SNAC IDs
+	Returns: snacConstellations, a list of SNAC agent JSONs in dict form
+	"""
+	numRelated = len(snacIds)
+	i = 0
+
+	# Pull full JSONs of listed constellations from SNAC into a list
+
+	snacConstellations = [] # Initialize list to return
+
+	print("Fetching {} related constellations from SNAC...".format(numRelated))
+
+	for ID in snacIds:
+		# Get constellation via API request
+		i += 1
+		print("Fetching constellation {}, id {}...".format(i, ID), end="\t\t")
+		agent = retrieveSnacAgent(ID)
+		# Append constellation to list
+		snacConstellations.append(agent)
+		print("done")
+
+	print("Successfully fetched all constellations!\r\r")
+
+	return snacConstellations
+
+def getIdList(url):
+	"""
+	Given the url of a file listing of SNAC agents IDs, returns a list of IDs
+
+	Params: @url, the "raw." github url of a TSV whose first column is SNAC IDs
+	Returns: a list of ID strings
+	"""
+	# Get file contents from GitHub
+	response = requests.get(url)
+	file = response.text
+
+	# Split file contents into rows
+	rows = file.split("\n")
+	# Discard the first row, labels, and the last row, which is blank
+	del rows[0], rows[-1]
+
+	# Initialize list to return
+	ids = []
+
+	# Extract id list from file text
+	for row in rows:
+		# Split the row by tabs, and grab the first section
+		id = row.split("\t", 1)[0]
+
+		# Append that id to the list we'll eventually return
+		ids.append(id)
+	return ids
+
 def getRelatedSnacAgents(mainID):
 	"""
 	Given a SNAC agent's ID number, pull the full JSON record of that
@@ -178,20 +235,15 @@ def extractName(eac):
 def main():
 	huntID = 85290808
 
+	base = "https://raw.githubusercontent.com/swat-ds/our-beloved-friend/main/"
+	url = base + "constellationsForInclusion.tsv"
+
 	# Get data on agents from SNAC in JSON form
-	snacConstellations = getRelatedSnacAgents(huntID)
+	idList = getIdList(url)
+	snacConstellations = getSnacAgentsFromList(idList)
 
 	# Write SNAC jsons to files
 	writeJsons(snacConstellations)
-
-	# Convert JSON constellations to EAC format
-	#eacs = convertSnacToEac(snacConstellations)
-
-	# Write EAC objects to individual files
-	#writeEACs(eacs)
-
-	# TODO: Write JSONs to files
-	# (avoids need to requery SNAC for next step of import)
 
 
 if __name__ == '__main__':
