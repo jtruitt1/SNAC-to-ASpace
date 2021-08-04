@@ -56,4 +56,5 @@ def main():
 				toWrite += i + "\t"
 			f.write(toWrite+"\n")
 
-main()
+if __name__ == '__main__':
+    main()
