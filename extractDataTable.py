@@ -81,9 +81,10 @@ def getMonthlyMeeting(constellation):
 
 		# Loop over relationships, checking if the target is a monthly meeting
 		for link in constellation["relations"]:
-			if "monthly meeting" in link["content"].lower():
-				# If the target is a monthly meeting, add it to the meeting list
-				meetingList.append(link["content"])
+			if link["type"]["term"] == "memberOf"
+				if "monthly meeting" in link["content"].lower():
+					# If the target is a monthly meeting, add it to the meeting list
+					meetingList.append(link["content"])
 
 
 
