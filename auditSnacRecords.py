@@ -21,7 +21,7 @@ def checkForGender(constellations):
 
 def checkRelSources(constellations):
 	for constellation in constellations:
-		if "relations" in constellation.keys():
+		if "relations" in constellation:
 			for relation in constellation["relations"]:
 				print(relation["sourceArkID"])
 				print(constellation["ark"])
@@ -29,11 +29,18 @@ def checkRelSources(constellations):
 				if relation["sourceArkID"] != constellation["ark"]:
 					print(relation)
 
+def checkForRelationships(constellations):
+	for constellation in constellations:
+		if "relations" not in constellation:
+			print("Has no relationships:\t" + constellation["ark"])
+
+
 def main():
 	constellations = loadSnacData()
 
-	#checkForGender(constellations)
-	checkRelSources(constellations)
+	validateBiogHist(constellations)
+	checkForGender(constellations)
+	checkForRelationships(constellations)
 
 
 main()
