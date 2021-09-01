@@ -463,3 +463,12 @@ def writeXML(xml, filename):
 
 	with open(filename, "w") as file:
 		file.write(text)
+
+def extractName(eac):
+	"""
+	Extract the contents of <cpfDescription><identity><nameEntry><part>
+
+	Params: eac, an XML object conforming to the EAC standard
+	"""
+	for part in eac.iter("part"):
+		return part.text
