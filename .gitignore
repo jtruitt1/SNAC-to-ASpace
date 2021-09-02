@@ -132,3 +132,5 @@ dmypy.json
 *.tsv
 *.tsv
 *.xml
+__pycache__/JSONtoEACCPF.cpython-38.pyc
+.DS_Store
