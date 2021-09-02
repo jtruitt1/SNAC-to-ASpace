@@ -9,7 +9,7 @@ def printTree(element, indent=""):
 	"""
 	print(indent+"<"+element.tag+">")
 	indent = "-"+indent
-	for item in element.attrib.keys():
+	for item in element.attrib:
 		print(indent+"@"+item+"="+element.attrib[item])
 	if element.text != None:
 		print(indent+"\""+element.text+"\"")
@@ -39,7 +39,7 @@ def addDesNote(jsonElem,eacElem):
 	returns: none
 	side effects: inserts a <descriptiveNote> in eacElem if note content found
 	"""
-	if "note" in jsonElem.keys():
+	if "note" in jsonElem:
 		descriptiveNote = ET.Element("descriptiveNote")
 		descriptiveNote.text = jsonElem["note"]
 		eacElem.append(descriptiveNote)
@@ -123,7 +123,7 @@ def migrateControl(json, eac):
 		eventDateTime = ET.Element("eventDateTime")
 		eventDateTime.text = item["eventDateTime"]
 		# Check for standardDateTime data; add it if found
-		if "standardDateTime" in item.keys():
+		if "standardDateTime" in item:
 			eventDateTime.set("standardDateTime", item["standardDateTime"])
 		maintenanceEvent.append(eventDateTime)
 
@@ -138,7 +138,7 @@ def migrateControl(json, eac):
 		maintenanceEvent.append(agent)
 
 		#Check for eventDescription data
-		if "eventDescription" in item.keys():
+		if "eventDescription" in item:
 			#Create and insert <eventDescription> in <maintenanceEvent>
 			eventDescription = ET.Element("eventDescription")
 			eventDescription.text = item["eventDescription"]
@@ -154,18 +154,18 @@ def migrateControl(json, eac):
 			source = ET.Element("source")
 
 			#If source has an attached URI, add @xlink:href & @xlink:type attribs
-			if "uri" in item.keys():
+			if "uri" in item:
 				source.set("xlink:href", item["uri"])
 				source.set("xlink:type", item["type"]["term"])
 
 			#Add <sourceEntry> tag if source has a citation
-			if "citation" in item.keys():
+			if "citation" in item:
 				sourceEntry = ET.Element("sourceEntry")
 				sourceEntry.text = item["citation"]
 				source.append(sourceEntry)
 
 			#Add <descriptiveNote> if source has text
-			if "text" in item.keys():
+			if "text" in item:
 				descriptiveNote = ET.Element("descriptiveNote")
 				source.append(descriptiveNote)
 
@@ -215,7 +215,7 @@ def migrateDescription(json, eac):
 	nameEntry.append(part)
 
 	# Check for sameAsRelations; add them as <entityId> tags if found
-	if "sameAsRelations" in json.keys():
+	if "sameAsRelations" in json:
 		# Loop over sameAsRelations
 		for item in json["sameAsRelations"]:
 			# Create and insert <entityId> tags in <identity>
@@ -237,14 +237,14 @@ def migrateDescription(json, eac):
 	### <existDates> ###
 
 	# Check for existDates data, and if found:
-	if "dates" in json.keys():
+	if "dates" in json:
 
 		# Create and insert <existDates> tag in <description>
 		existDates = ET.Element("existDates")
 		description.append(existDates)
 
 		# Check if we're dealing with a single date or a date range
-		if "toDate" in json["dates"][0].keys():
+		if "toDate" in json["dates"][0]:
 			## Date Ranges ##
 
 			# Create and insert <dateRange> tag in <existDates>
@@ -253,21 +253,21 @@ def migrateDescription(json, eac):
 
 			# Create and insert <fromDate> tag in <dateRange>
 			fromDate = ET.Element("fromDate")
-			if "fromDateOriginal" in json["dates"][0].keys():
+			if "fromDateOriginal" in json["dates"][0]:
 				fromDate.text = json["dates"][0]["fromDateOriginal"]
-			if "fromDate" in json["dates"][0].keys():
+			if "fromDate" in json["dates"][0]:
 				fromDate.set("standardDate", json["dates"][0]["fromDate"])
-			if "fromType" in json["dates"][0].keys():
+			if "fromType" in json["dates"][0]:
 				fromDate.set("localType", json["dates"][0]["fromType"]["term"])
 			dateRange.append(fromDate)
 
 			# Create and insert <toDate> tag in <dateRange>
 			toDate = ET.Element("toDate")
-			if "toDateOriginal" in json["dates"][0].keys():
+			if "toDateOriginal" in json["dates"][0]:
 				toDate.text = json["dates"][0]["toDateOriginal"]
-			if "toDate" in json["dates"][0].keys():
+			if "toDate" in json["dates"][0]:
 				toDate.set("standardDate", json["dates"][0]["toDate"])
-			if "toType" in json["dates"][0].keys():
+			if "toType" in json["dates"][0]:
 				toDate.set("localType", json["dates"][0]["toType"]["term"])
 			dateRange.append(toDate)
 
@@ -279,22 +279,22 @@ def migrateDescription(json, eac):
 			existDates.append(date)
 
 			# Wrap natural language text in <date> if present
-			if "fromDateOriginal" in json["dates"][0].keys():
+			if "fromDateOriginal" in json["dates"][0]:
 				date.text = json["dates"][0]["fromDateOriginal"]
 
 			# Add machine readable date if present
-			if "fromDate" in json["dates"][0].keys():
+			if "fromDate" in json["dates"][0]:
 				date.set("standardDate", json["dates"][0]["fromDate"])
 
 			# Add date type data if present
-			if "fromType" in json["dates"][0].keys():
+			if "fromType" in json["dates"][0]:
 				date.set("localType", json["dates"][0]["fromType"]["term"])
 
 
 	### <language(s)Used> ###
 
 	#First, check that there is language used data
-	if "languagesUsed" in json.keys():
+	if "languagesUsed" in json:
 
 		# Create <languagesUsed> if >1 lang; else add langs to <description>
 		if len(json["languagesUsed"]) > 1:
@@ -329,7 +329,7 @@ def migrateDescription(json, eac):
 
 	# Add gender data in <localDescriptions>
 	# First, check that there is gender data
-	if "genders" in json.keys():
+	if "genders" in json:
 		# Loop over those genders
 		for item in json["genders"]:
 			# Create and insert a <localDescription> tag in <localDescriptions>
@@ -344,7 +344,7 @@ def migrateDescription(json, eac):
 
 	# Add associated subjects in <localDescriptions>
 	# First, check that there is subject data
-	if "subjects" in json.keys():
+	if "subjects" in json:
 		# Loop over those subjects
 		for item in json["subjects"]:
 			# Create and insert a <localDescription> tag in <localDescriptions>
@@ -360,7 +360,7 @@ def migrateDescription(json, eac):
 	### <places> ###
 
 	# First, check JSON for place data
-	if "places" in json.keys():
+	if "places" in json:
 		# Create a <places> tag if there's more than one <place>
 		if len(json["places"]) == 1:
 			placeContainer = description
@@ -377,14 +377,14 @@ def migrateDescription(json, eac):
 
 			# Create and insert <placeEntry> tag in <place>
 			placeEntry = ET.Element("placeEntry")
-			if "geoplace" in item.keys():
+			if "geoplace" in item:
 				placeEntry.text = item["geoplace"]["name"]
-				if "latitude" in item["geoplace"].keys():
+				if "latitude" in item["geoplace"]:
 					placeEntry.set("latitude", item["geoplace"]["latitude"])
 					placeEntry.set("longitude", item["geoplace"]["longitude"])
-				if "countryCode" in item["geoplace"].keys():
+				if "countryCode" in item["geoplace"]:
 					placeEntry.set("countryCode", item["geoplace"]["countryCode"])
-			elif "original" in item.keys():
+			elif "original" in item:
 				placeEntry.text = item["original"]
 			else:
 				# Cannot identify place metadata
@@ -397,7 +397,7 @@ def migrateDescription(json, eac):
 	### <occupations> ###
 
 	# First, check the JSON for occupation data
-	if "occupations" in json.keys():
+	if "occupations" in json:
 		# Create an <occupations> tag if there's more than one <occupation>
 		if len(json["occupations"]) == 1:
 			occuContainer = description
@@ -419,7 +419,7 @@ def migrateDescription(json, eac):
 	### <biogHist> ###
 
 	# First, check the JSON for biogHist data
-	if "biogHists" in json.keys():
+	if "biogHists" in json:
 		# Get the content of the biogHist field
 		text = json["biogHists"][0]["text"] # SNAC only allows for one BH note
 
@@ -505,13 +505,16 @@ def main():
 	for eac in eacs:
 		try:
 			# Get the arkid for the filename
-			filename = eac.find("recordId").text[-8:]
-			filename = 'eacsForAspace/' + filename
+			filename = 'eacsForAspace/'
+			for ark in eac.getroot().iter("recordId"):
+				filename += ark.text[-8:] + ".xml"
+				break
 			writeXML(eac, filename)
 
 		# On error, identify constellation causing problem
 		except BaseException as error:
 			print("Error processing " + json["ark"] + ':')
+			#printTree(eac.getroot())
 			raise error
 
 
