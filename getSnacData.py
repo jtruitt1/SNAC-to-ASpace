@@ -154,7 +154,7 @@ def writeJsons(jsons):
 	for item in jsons:
 		# Create filename
 		directory = "snac_jsons/"
-		entName = item["id"]
+		entName = item["ark"][-8:]
 		filename = directory+entName+".json"
 
 		# Write file
