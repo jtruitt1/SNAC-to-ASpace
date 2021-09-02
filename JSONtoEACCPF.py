@@ -1,6 +1,7 @@
 from argparse import *
 import json
 import xml.etree.ElementTree as ET
+from utils import loadSnacData
 
 def printTree(element, indent=""):
 	"""
@@ -148,33 +149,34 @@ def migrateControl(json, eac):
 	control.append(sources)
 
 	#Loop over sources in the json, adding every one to <sources>
-	for item in json["sources"]:
-		source = ET.Element("source")
+	if "sources" in json:
+		for item in json["sources"]:
+			source = ET.Element("source")
 
-		#If source has an attached URI, add @xlink:href & @xlink:type attribs
-		if "uri" in item.keys():
-			source.set("xlink:href", item["uri"])
-			source.set("xlink:type", item["type"]["term"])
+			#If source has an attached URI, add @xlink:href & @xlink:type attribs
+			if "uri" in item.keys():
+				source.set("xlink:href", item["uri"])
+				source.set("xlink:type", item["type"]["term"])
 
-		#Add <sourceEntry> tag if source has a citation
-		if "citation" in item.keys():
-			sourceEntry = ET.Element("sourceEntry")
-			sourceEntry.text = item["citation"]
-			source.append(sourceEntry)
+			#Add <sourceEntry> tag if source has a citation
+			if "citation" in item.keys():
+				sourceEntry = ET.Element("sourceEntry")
+				sourceEntry.text = item["citation"]
+				source.append(sourceEntry)
 
-		#Add <descriptiveNote> if source has text
-		if "text" in item.keys():
-			descriptiveNote = ET.Element("descriptiveNote")
-			source.append(descriptiveNote)
+			#Add <descriptiveNote> if source has text
+			if "text" in item.keys():
+				descriptiveNote = ET.Element("descriptiveNote")
+				source.append(descriptiveNote)
 
-			#Check for <p> tag in text; insert if not there
-			text = item["text"]
-			if "<p>" in text:
-				descriptiveNote.text = text
-			else:
-				ET.SubElement(descriptiveNote, "p")
-				descriptiveNote[0].text = text
-		sources.append(source)
+				#Check for <p> tag in text; insert if not there
+				text = item["text"]
+				if "<p>" in text:
+					descriptiveNote.text = text
+				else:
+					ET.SubElement(descriptiveNote, "p")
+					descriptiveNote[0].text = text
+			sources.append(source)
 	return eac
 
 def migrateDescription(json, eac):
@@ -266,7 +268,7 @@ def migrateDescription(json, eac):
 			if "toDate" in json["dates"][0].keys():
 				toDate.set("standardDate", json["dates"][0]["toDate"])
 			if "toType" in json["dates"][0].keys():
-				toDate.set("localType", json["dates"][0]["fromType"]["term"])
+				toDate.set("localType", json["dates"][0]["toType"]["term"])
 			dateRange.append(toDate)
 
 		else:
@@ -388,7 +390,7 @@ def migrateDescription(json, eac):
 				# Cannot identify place metadata
 				msg = "Could not interprepret some place metadata in record "
 				msg = msg + json["id"]
-				print("\n", msg)
+				print(msg)
 				break
 			place.append(placeEntry)
 
@@ -472,3 +474,45 @@ def extractName(eac):
 	"""
 	for part in eac.iter("part"):
 		return part.text
+
+def main():
+	# Load JSON constellation data from file
+	constellations = loadSnacData()
+
+	# Initialize container for finished eacs
+	eacs = []
+
+	# Loop over constellations,
+	print("\nConverting SNAC data to EAC-CPF format...")
+	for json in constellations:
+		try:
+			# initializing the xml files,
+			eac = initializeEACCPF()
+
+			# moving data into them from the JSONs,
+			eac = jsonToEacMigration(json, eac)
+
+			# and adding them to the eac container
+			eacs.append(eac)
+
+		# On error, identify constellation causing problem
+		except BaseException as error:
+			print("Error processing " + json["ark"] + ':')
+			raise error
+
+	# Write the eacs to file
+	print("\nWriting data to file...")
+	for eac in eacs:
+		try:
+			# Get the arkid for the filename
+			filename = eac.find("recordId").text[-8:]
+			filename = 'eacsForAspace/' + filename
+			writeXML(eac, filename)
+
+		# On error, identify constellation causing problem
+		except BaseException as error:
+			print("Error processing " + json["ark"] + ':')
+			raise error
+
+
+main()
