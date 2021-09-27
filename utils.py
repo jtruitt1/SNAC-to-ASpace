@@ -14,11 +14,15 @@ def loadSnacData():
 	constellations = []
 
 	# Loop over filenames, reading the files & adding the data to constellations
-	print("Reading {} JSON files...")
+	print("Reading {} JSON files...".format(len(filenames)))
 	for filename in filenames:
-		print("Reading {}".format(filename + "..."), end="")
-		with open(filename) as f:
-			constellations.append(json.load(f))
-		print("\tdone")
-	print("JSON files read successfully.\n")
+		try:
+			print("Reading {}".format(filename + "..."), end="")
+			with open(filename) as f:
+				constellations.append(json.load(f))
+			print("\tdone",end="\r")
+		except Exception as e:
+			print("")
+			raise e
+	print("\nJSON files read successfully.\n")
 	return constellations
