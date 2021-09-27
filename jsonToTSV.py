@@ -23,7 +23,7 @@ def convertToTsv(constellations):
 	return rows
 
 def writeTsvToFile(rows):
-	with open("Hunt.tsv", 'w', newline='') as tsvFile:
+	with open("constellationData.tsv", 'w', newline='') as tsvFile:
 		header = ['Name Entry','Entity Type','SNAC ID','BiogHist']
 		writer = DictWriter(tsvFile, fieldnames = header, dialect = 'excel-tab')
 
