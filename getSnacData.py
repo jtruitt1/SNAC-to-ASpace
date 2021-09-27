@@ -3,10 +3,7 @@ Gets data from SNAC and writes it to a file w/ JSON data and a file w/ a list
 of SNAC IDs
 """
 import json, requests
-import xml.etree.ElementTree as ET
-from JSONtoEACCPF import *
-from base64 import b64decode
-
+from sys import exc_info
 
 def retrieveSnacAgent(snacID):
 	"""
@@ -25,17 +22,13 @@ def retrieveSnacAgent(snacID):
 	"""
 	# Prep data for API request
 	baseURL = "https://api.snaccooperative.org/"
-	input = {"command": "download_constellation",
-	"constellationid": snacID, "type": "constellation_json"}
+	input = {"command": "read",
+	"constellationid": snacID}
 	toPost = json.dumps(input)
 
 	# Make API request
-	output = requests.post(baseURL, data=toPost).json()
-
-	# Convert file downloaded from API into JSON dict format
-	binary = output['file']["content"]
-	text = str(b64decode(binary), encoding="utf-8")
-	snacConstellation = json.loads(text)
+	output = requests.post(baseURL, data=toPost)
+	snacConstellation = output.json()["constellation"]
 
 	return snacConstellation
 
@@ -62,10 +55,17 @@ def getSnacAgentsFromList(snacIds):
 		msg = "\rFetching constellation {:3d}, id {:9}...".format(i, ID)
 		print(msg, end="")
 
-		# Download constellation json
-		agent = retrieveSnacAgent(ID)
-		# Append constellation to list
-		snacConstellations.append(agent)
+		try:
+			# Download constellation json
+			agent = retrieveSnacAgent(ID)
+			# Append constellation to list
+			snacConstellations.append(agent)
+		except Exception as e:
+			# print()
+			# raise e
+			print("\nEncountered error with " + ID)
+			print(exc_info()[2])
+			continue
 
 	print("Successfully fetched all constellations!\r\r")
 
@@ -84,6 +84,7 @@ def getIdList(url):
 
 	# Split file contents into rows
 	rows = file.split("\n")
+
 	# Discard the first row, labels, and the last row, which is blank
 	del rows[0], rows[-1]
 
@@ -152,20 +153,28 @@ def writeJsons(jsons):
 
 	# Loop over JSONs
 	for item in jsons:
-		# Create filename
-		directory = "snac_jsons/"
-		entName = item["ark"][-8:]
-		filename = directory+entName+".json"
-
-		# Write file
-		print("Writing {}".format(filename[14:] + "..."), end="")
 		try:
-			with open(filename, 'w', encoding='utf-8') as f:
-				json.dump(item, f, ensure_ascii=False, indent=4)
-		except (FileNotFoundError):
-			with open(filename, 'x', encoding='utf-8') as f:
-				json.dump(item, f, ensure_ascii=False, indent=4)
-		print("\tDone.")
+			# Create filename
+			directory = "snac_jsons/"
+			entName = item["ark"][-8:]
+			filename = directory+entName+".json"
+
+			# Write file
+			print("Writing {}".format(filename[14:] + "..."), end="")
+			try:
+				with open(filename, 'w', encoding='utf-8') as f:
+					json.dump(item, f, ensure_ascii=False, indent=4)
+			except (FileNotFoundError):
+				with open(filename, 'x', encoding='utf-8') as f:
+					json.dump(item, f, ensure_ascii=False, indent=4)
+			print("\tDone.")
+		except Exception as e:
+			# print()
+			# raise e
+			print("\nFailed to write the following JSON:")
+			print(item)
+			#print(exc_info()[2])
+			continue
 
 def convertSnacToEac(snacConstellations):
 	"""
@@ -237,9 +246,8 @@ def extractName(eac):
 
 def main():
 	huntID = 85290808
-
-	base = "https://raw.githubusercontent.com/swat-ds/our-beloved-friend/main/"
-	url = base + "constellationsForInclusion.tsv"
+	base = "https://raw.githubusercontent.com/swat-ds/obf-site/main"
+	url = base + "/src/assets/data/constellationsForInclusion.tsv"
 
 	# Get data on agents from SNAC in JSON form
 	idList = getIdList(url)
