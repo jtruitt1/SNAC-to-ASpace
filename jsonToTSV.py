@@ -9,9 +9,6 @@ def convertToTsv(constellations):
 	containing certain fields
 	'''
 	rows = []
-	# Add list of column headers
-	header = ['Name Entry','Entity Type','SNAC ID','BiogHist']
-	rows.append(header)
 	for constellation in constellations:
 		row = {} # Initialize dictionary to add to rows
 
@@ -26,7 +23,13 @@ def convertToTsv(constellations):
 	return rows
 
 def writeTsvToFile(rows):
-	pass
+	with open("Hunt.tsv", 'w', newline='') as tsvFile:
+		header = ['Name Entry','Entity Type','SNAC ID','BiogHist']
+		writer = DictWriter(tsvFile, fieldnames = header, dialect = 'excel-tab')
+
+		writer.writeheader()
+		for row in rows:
+			writer.writerow(row)
 
 def main():
 	# Import JSONs
