@@ -139,7 +139,7 @@ def convertPersonName(nameEntry):
 	# Handle rules, source, and language
 	agentName["source"] = "snac"
 	agentName["rules"] = "rda"
-	# TODO: Language
+	# TODO: Language?
 	if nameEntry["preferenceScore"] == "99":
 		agentName["authorized"] = True
 		agentName["is_display_name"] = True
@@ -147,7 +147,12 @@ def convertPersonName(nameEntry):
 		agentName["authorized"] = False
 		agentName["is_display_name"] = False
 	else:
-		if 
+		if agentName["contributors"]["type"]["term"] == "authorizedForm":
+			agentName["authorized"] = True
+			agentName["is_display_name"] = True
+		else:
+			agentName["authorized"] = False
+			agentName["is_display_name"] = False
 
 	return agentName
 
