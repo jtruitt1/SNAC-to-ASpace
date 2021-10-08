@@ -71,9 +71,24 @@ def convertPersonAgent(constellation, agent):
 	"""
 	insert docstring
 	"""
-	print("inConvertPersonAgent")
+	#print("inConvertPersonAgent")
 
-	convertPersonName(constellation, agent)
+	# Handle name entries
+	agentNames = []
+	for name in constellation["nameEntries"]:
+		try:
+			agentNames.append(convertPersonName(name))
+		except KeyError:
+			ark = constellation["ark"][-8:]
+			print("ERROR: skipped an unparsed name in", ark)
+			print(name)
+		except SnacError:
+			ark = constellation["ark"][-8:]
+			print("ERROR: skipped an unparsed name in", ark)
+			print(name)
+			continue
+
+	agent["names"] = agentNames
 
 	return agent
 
@@ -84,50 +99,47 @@ def convertCorpAgent(constellation, agent):
 	print("inConvertCorpAgent")
 	return agent
 
-def convertPersonName(constellation, agent):
+def convertPersonName(nameEntry):
 	"""
-	Get preferred name from SNAC JSON; add its data to ASpace agent JSON.
+	Convert a name entry from SNAC format to ASpace format
 
-	@param constellation: a SNAC constellation JSON of the person type
-	@param agent: a JSON representing an ASpace agent
+	@param nameEntry: a SNAC name entry in dict form
 
-	@returns: a dict containing the name info
+	@returns: an ASpace name entry in dict form
 	"""
-	# Get preferred name from the constellation
-	constName = constellation["nameEntries"][0]
 
 	# Check to see if name has been parsed
-	if "components" not in constName:
+	if "components" not in nameEntry:
 		# Raise an error if not
-		ark = constellation["ark"][-8]
-		print("ERROR: preferred name of", ark, "is unparsed")
 		raise SnacError
 
 	# Initialize name dict to be returned
 	agentName = {}
 
 	# Go through the name components, assigning them to ASpace slots
-	for item in constName["components"]:
-		try:
-			if item["type"]["term"] == "Surname":
-				agentName["primary_name"] = item["text"]
+	for component in nameEntry["components"]:
+		if component["type"]["term"] == "Surname":
+			agentName["primary_name"] = component["text"]
 
-			if item["type"]["term"] == "NameAddition":
-				agentName["title"] = item["text"]
+		if component["type"]["term"] == "NameAddition":
+			agentName["title"] = component["text"]
 
-			if item["type"]["term"] == "Forename":
-				agentName["rest_of_name"] = item["text"]
+		if component["type"]["term"] == "Forename":
+			agentName["rest_of_name"] = component["text"]
 
-			if item["type"]["term"] == "Numeration":
-				agentName["number"] = item["text"]
+		if component["type"]["term"] == "Numeration":
+			agentName["number"] = component["text"]
 
-			if item["type"]["term"] == "NameExpansion":
-				agentName["fuller_form"] = item["text"]
+		if component["type"]["term"] == "NameExpansion":
+			agentName["fuller_form"] = component["text"]
 
-			if item["type"]["term"] == "Date":
-				agentName["dates"] = item["text"]
-		except KeyError:
-			print("KeyError": )
+		if component["type"]["term"] == "Date":
+			agentName["dates"] = component["text"]
+
+	# Handle rules, source, authorization, and language
+	agentName["source"] = "snac"
+	agentName["rules"] = "rda"
+	#TODO: authorized vs nonauthorized (pref score: 99 v 0)
 
 	return agentName
 
