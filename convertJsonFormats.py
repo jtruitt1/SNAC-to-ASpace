@@ -5,31 +5,13 @@ convert into JSONs acceptable to the ArchivesSpace agent module.
 import json, requests
 from glob import glob
 from random import choices
+from utils import loadSnacData
 
-def loadSnacData():
-	"""
-	Read SNAC JSON data from files in the snac_jsons folder.
+class SnacError(Exception):
+	"""Raise when there's a non-fatal conversion error & we want to skip."""
 
-	Returns: constellations, a list of SNAC JSONs in dict form
-	"""
-	# Get list of filenames to read
-	filenames = glob("snac_jsons/*.json")
-
-	# For testing purposes
-	filenames = choices(filenames, k=5)
-
-	# Initialize array of constellations to eventually return
-	constellations = []
-
-	# Loop over filenames, reading the files & adding the data to constellations
-	print("Reading {} JSON files...")
-	for filename in filenames:
-		print("Writing {}".format(filename + "..."), end="")
-		with open(filename) as f:
-			constellations.append(json.load(f))
-		print("\tdone")
-	print("JSON files read successfully.\n")
-	return constellations
+	def __init__(self):
+		super(SnacError, self).__init__()
 
 def convertToAgents(constellations):
 	"""
@@ -40,9 +22,12 @@ def convertToAgents(constellations):
 	"""
 	agents = []
 	for constellation in constellations:
-		agent = convertToAgent(constellation)
-		if len(agent) > 0:
-			agents.append(agent)
+		try:
+			agent = convertToAgent(constellation)
+			if len(agent) > 0:
+				agents.append(agent)
+		except SnacError:
+			continue
 	return agents
 
 def convertToAgent(constellation):
@@ -87,6 +72,9 @@ def convertPersonAgent(constellation, agent):
 	insert docstring
 	"""
 	print("inConvertPersonAgent")
+
+	convertPersonName(constellation, agent)
+
 	return agent
 
 def convertCorpAgent(constellation, agent):
@@ -95,6 +83,53 @@ def convertCorpAgent(constellation, agent):
 	"""
 	print("inConvertCorpAgent")
 	return agent
+
+def convertPersonName(constellation, agent):
+	"""
+	Get preferred name from SNAC JSON; add its data to ASpace agent JSON.
+
+	@param constellation: a SNAC constellation JSON of the person type
+	@param agent: a JSON representing an ASpace agent
+
+	@returns: a dict containing the name info
+	"""
+	# Get preferred name from the constellation
+	constName = constellation["nameEntries"][0]
+
+	# Check to see if name has been parsed
+	if "components" not in constName:
+		# Raise an error if not
+		ark = constellation["ark"][-8]
+		print("ERROR: preferred name of", ark, "is unparsed")
+		raise SnacError
+
+	# Initialize name dict to be returned
+	agentName = {}
+
+	# Go through the name components, assigning them to ASpace slots
+	for item in constName["components"]:
+		try:
+			if item["type"]["term"] == "Surname":
+				agentName["primary_name"] = item["text"]
+
+			if item["type"]["term"] == "NameAddition":
+				agentName["title"] = item["text"]
+
+			if item["type"]["term"] == "Forename":
+				agentName["rest_of_name"] = item["text"]
+
+			if item["type"]["term"] == "Numeration":
+				agentName["number"] = item["text"]
+
+			if item["type"]["term"] == "NameExpansion":
+				agentName["fuller_form"] = item["text"]
+
+			if item["type"]["term"] == "Date":
+				agentName["dates"] = item["text"]
+		except KeyError:
+			print("KeyError": )
+
+	return agentName
 
 def writeJsons(agents):
 	"""
