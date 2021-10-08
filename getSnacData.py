@@ -160,7 +160,7 @@ def writeJsons(jsons):
 			filename = directory+entName+".json"
 
 			# Write file
-			print("Writing {}".format(filename[14:] + "..."), end="")
+			print("Writing {}".format(filename.split("/")[-1] + "..."), end="")
 			try:
 				with open(filename, 'w', encoding='utf-8') as f:
 					json.dump(item, f, ensure_ascii=False, indent=4)
