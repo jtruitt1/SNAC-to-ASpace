@@ -136,10 +136,18 @@ def convertPersonName(nameEntry):
 		if component["type"]["term"] == "Date":
 			agentName["dates"] = component["text"]
 
-	# Handle rules, source, authorization, and language
+	# Handle rules, source, and language
 	agentName["source"] = "snac"
 	agentName["rules"] = "rda"
-	#TODO: authorized vs nonauthorized (pref score: 99 v 0)
+	# TODO: Language
+	if nameEntry["preferenceScore"] == "99":
+		agentName["authorized"] = True
+		agentName["is_display_name"] = True
+	elif nameEntry["preferenceScore"] == "0":
+		agentName["authorized"] = False
+		agentName["is_display_name"] = False
+	else:
+		if 
 
 	return agentName
 
