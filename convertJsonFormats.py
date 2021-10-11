@@ -21,13 +21,22 @@ def convertToAgents(constellations):
 	Returns: agents, a list of ASpace JSONs in dict form
 	"""
 	agents = []
+	i = 0
+	length = str(len(constellations))
 	for constellation in constellations:
 		try:
+			# Print status message
+			i += 1
+			print("Converting constellation", i, "of", length+"...", end="\r")
 			agent = convertToAgent(constellation)
 			if len(agent) > 0:
 				agents.append(agent)
 		except SnacError:
 			continue
+		except Exception as e:
+			print("\n\n")
+			raise e
+	print()
 	return agents
 
 def convertToAgent(constellation):
