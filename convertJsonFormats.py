@@ -49,7 +49,7 @@ def convertToAgent(constellation):
 	# Convert names (type-specific?)
 	## TODO:
 
-	# Convert sources
+	# Convert biogHist
 	## TODO:
 
 	# Convert places
