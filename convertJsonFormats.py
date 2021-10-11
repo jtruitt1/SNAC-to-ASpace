@@ -2,7 +2,7 @@
 Read in a series of JSON files representing SNAC constellations;
 convert into JSONs acceptable to the ArchivesSpace agent module.
 """
-import json, requests
+import json, re
 from glob import glob
 from random import choices
 from utils import loadSnacData
@@ -50,7 +50,19 @@ def convertToAgent(constellation):
 	## TODO:
 
 	# Convert biogHist
-	## TODO:
+	if "biogHists" in constellation:
+		# Isolate biogHist in SNAC JSON
+		biogHist = constellation["biogHists"][0]
+
+		# Check biogHist for <biogHist> tag
+		match = re.search("</?biogHist.+?>",biogHist)
+
+		while match: # If <biogHist> found
+			# Remove the tag
+			biogHist = re.sub("</?biogHist.+?>","",biogHist)
+			match = re.search("</?biogHist.+?>",biogHist)
+
+		# CHECK FOR SOURCE TAG; CONVERT IF FOUND
 
 	# Convert places
 	## TODO:
