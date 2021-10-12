@@ -56,3 +56,32 @@ class Relationship:
 				if self.source == other.source:
 					return True
 		return False
+
+def checkForInverse(relation, relationList):
+	"""
+	# TODO: add docstring
+	"""
+	pass
+
+def loadRelationsFromFile(filename):
+	"""
+	# TODO: add docstring
+	"""
+	pass
+
+def findMissingReciprocals(relationList):
+	"""
+	# TODO: add docstring
+	"""
+	pass
+
+def main():
+	# Extract relationships from external file
+	relationList = loadRelationsFromFile("relationshipTable.tsv")
+
+	# Find missing reciprocal relationships
+	missingRecips = findMissingReciprocals(relationList)
+
+	# Write the list of missing reciprocals to a file
+
+main()
