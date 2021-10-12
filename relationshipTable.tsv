@@ -1,4 +1,10 @@
 source	label	target	
+w6096wx2	grandchildOf	w6hv3dnq	
+w6096wx2	acquaintanceOf	w6n9820p	
+w6096wx2	grandchildOf	w6cr7rz4	
+w6096wx2	nieceOrNephewOf	w6vj6d7g	
+w6096wx2	childOf	w6hf8m7k	
+w6096wx2	childOf	w6g77m31	
 w6tq8ftp	spouseOf	w6qj854r	
 w6tq8ftp	sibling of	w6hv3dnq	
 w6tq8ftp	sibling-in-law of	w6wt9jhx	
@@ -9,26 +15,24 @@ w6tq8ftp	sibling of	w6bv9xp3
 w6tq8ftp	sibling-in-law of	w64n1mqv	
 w6tq8ftp	sibling-in-law of	w6r525r2	
 w6tq8ftp	auntOrUncleOf	w6g77m31	
-w6r032ff	acquaintanceOf	w6n9820p	
-w6rg6kjz	grandparentOf	w6zx2b7v	
-w6rg6kjz	parent-in-law of	w6j20tpc	
-w6rg6kjz	grandparentOf	w6wt9jhx	
-w6rg6kjz	grandparentOf	w6hb9wqh	
-w6rg6kjz	parentOf	w6c82qz0	
-w6rg6kjz	acquaintanceOf	w6n9820p	
-w6rg6kjz	acquaintanceOf	w6107trk	
-w6sv8fbg	nieceOrNephewOf	w6010spn	
-w6sv8fbg	relativeOf	w6kx66hw	
-w6sv8fbg	acquaintanceOf	w6n9820p	
-w6sv8fbg	relativeOf	w6k6603s	
-w6sv8fbg	sibling of	w66v1c5g	
-w6sv8fbg	childOf	w6xx5995	
-w6sv8fbg	nieceOrNephewOf	w6n05bth	
-w6sv8fbg	sibling of	w63p2txf	
-w6sv8fbg	relativeOf	w6xm0dbv	
-w6sv8fbg	grandchildOf	w6ph2gz9	
-w6sv8fbg	nieceOrNephewOf	w6553d40	
-w6sv8fbg	nieceOrNephewOf	w60h49r3	
+w68x44wf	nieceOrNephewOf	w6tq8ftp	
+w68x44wf	nieceOrNephewOf	w6qj854r	
+w68x44wf	nieceOrNephewOf	w6gj3q0h	
+w68x44wf	nieceOrNephewOf	w6hv3dnq	
+w68x44wf	nieceOrNephewOf	w6wt9jhx	
+w68x44wf	relativeOf	w6kx66hw	
+w68x44wf	childOf	w6wx87x7	
+w68x44wf	childOf	w6n9820p	
+w68x44wf	sibling of	w6vf7pzj	
+w68x44wf	nieceOrNephewOf	w6n05cnp	
+w68x44wf	relativeOf	w6k6603s	
+w68x44wf	nieceOrNephewOf	w6fv9b6q	
+w68x44wf	relativeOf	w6vv2hqk	
+w68x44wf	nieceOrNephewOf	w6bv9xp3	
+w68x44wf	nieceOrNephewOf	w6r525r2	
+w68x44wf	relativeOf	w6g77m31	
+w68x44wf	relativeOf	w6kx66c3	
+w6sq9jjd	acquaintanceOf	w6n9820p	
 w63s1jcm	grandchildOf	w65v49t0	
 w63s1jcm	grandchildOf	w6gb275h	
 w63s1jcm	childOf	w6g55ftx	
@@ -36,46 +40,154 @@ w63s1jcm	acquaintanceOf	w6n9820p
 w63s1jcm	nieceOrNephewOf	w6w48mwd	
 w63s1jcm	nieceOrNephewOf	w66794np	
 w63s1jcm	nieceOrNephewOf	w6107trk	
-w6g77m31	nieceOrNephewOf	w6tq8ftp	
-w6g77m31	nieceOrNephewOf	w6qj854r	
-w6g77m31	parentOf	w6wt9jhx	
-w6g77m31	nieceOrNephewOf	w6wx87x7	
-w6g77m31	nieceOrNephewOf	w6n9820p	
-w6g77m31	nieceOrNephewOf	w6fv9b6q	
-w6g77m31	child-in-law of	w6cr7rz4	
-w6g77m31	sibling-in-law of	w6vj6d7g	
-w6g77m31	nieceOrNephewOf	w6r525r2	
-w6g77m31	spouseOf	w6kx66c3	
+w66794np	acquaintanceOf	w6n9820p	
+w66794np	sibling of	w6x16z80	
+w6dw29hq	acquaintanceOf	w6mw2sk8	
+w6dw29hq	acquaintanceOf	w6n9820p	
+w6n87x9b	acquaintanceOf	w6n9820p	
+w6zd8tgw	childOf	w65v49t0	
+w6zd8tgw	childOf	w6gb275h	
+w6zd8tgw	acquaintanceOf	w6n9820p	
+w6zd8tgw	sibling of	w6w48mwd	
+w6zd8tgw	sibling-in-law of	w66794np	
+w6zd8tgw	nieceOrNephewOf	w64r0gvn	
+w6621qxj	acquaintanceOf	w6n9820p	
+w6621qxj	sibling of	w6t25v7b	
+w6621qxj	childOf	w6tz45z2	
+w6jx3293	acquaintanceOf	w6n9820p	
+w6jx3293	sibling of	w6q924kg	
+w6jx3293	childOf	w6j49htj	
+w6jx3293	sibling of	w65z31h9	
+w6xt6kzb	relativeOf	w6zx2b7v	
+w6xt6kzb	sibling-in-law of	w6x74cd2	
+w6xt6kzb	sibling of	w6gj3q0h	
+w6xt6kzb	relativeOf	w6010spn	
+w6xt6kzb	relativeOf	w6hv3dnq	
+w6xt6kzb	relativeOf	w6wt9jhx	
+w6xt6kzb	relativeOf	w6hb9wqh	
+w6xt6kzb	acquaintanceOf	w6n9820p	
+w6xt6kzb	sibling-in-law of	w6n05cnp	
+w6xt6kzb	auntOrUncleOf	w6k6603s	
+w6xt6kzb	childOf	w61m02bn	
+w6xt6kzb	relativeOf	w6n05bth	
+w6xt6kzb	relativeOf	w6n05bth	
+w6xt6kzb	nieceOrNephewOf	w6ph2gz9	
+w6xt6kzb	relativeOf	w6553d40	
+w6xt6kzb	relativeOf	w60h49r3	
 w6b01gx6	correspondedWith	w6n9820p	
 w6b01gx6	acquaintanceOf	w6n9820p	
-w6427nc6	acquaintanceOf	w6n9820p	
-w6hf8m7k	hasFamilyRelationTo	w6n9820p	
-w6hf8m7k	childOf	w6cr7rz4	
-w6hf8m7k	childOf	w6cr7rz4	
-w6hf8m7k	sibling of	w6vj6d7g	
-w6hf8m7k	spouseOf	w6g77m31	
-w6j49htj	relativeOf	w6wt9jhx	
-w6j49htj	acquaintanceOf	w6n9820p	
-w6j49htj	acquaintanceOf	w6tz45z2	
-w6096wx2	grandchildOf	w6hv3dnq	
-w6096wx2	acquaintanceOf	w6n9820p	
-w6096wx2	grandchildOf	w6cr7rz4	
-w6096wx2	nieceOrNephewOf	w6vj6d7g	
-w6096wx2	childOf	w6hf8m7k	
-w6096wx2	childOf	w6g77m31	
-w68m543d	acquaintanceOf	w6n9820p	
-w6j20tpc	sibling-in-law of	w6hv3dtz	
-w6j20tpc	auntOrUncleOf	w6wt9jhx	
-w6j20tpc	auntOrUncleOf	w6hb9wqh	
-w6j20tpc	sibling-in-law of	w6c82qz0	
-w6j20tpc	acquaintanceOf	w6n9820p	
-w6j20tpc	sibling-in-law of	w6jb6xn6	
-w6j20tpc	parent-in-law of	w66v1c5g	
-w63s1j4g	acquaintanceOf	w6n9820p	
-w6gb2s37	acquaintanceOf	w6n9820p	
-w6gb2s37	acquaintanceOf	w6n9820p	
-w6gb2s37	associatedWith	w6x098rs	
-w6gb2s37	childOf	w61657hq	
+w68g9ffr	sibling-in-law of	w6q924mx	
+w68g9ffr	associatedWith	w6wq14dj	
+w68g9ffr	acquaintanceOf	w6n9820p	
+w68g9ffr	correspondedWith	w6kx66c3	
+w6912v93	acquaintanceOf	w6n9820p	
+w6s505g1	associatedWith	w6n9820p	
+w66v1c5g	acquaintanceOf	w6xt6kpr	
+w66v1c5g	relativeOf	w6kx66hw	
+w66v1c5g	acquaintanceOf	w6n9820p	
+w66v1c5g	childOf	w6xx5995	
+w66v1c5g	nieceOrNephewOf	w6553d40	
+w6jr1rg4	acquaintanceOf	w6n9820p	
+w6dn68k9	acquaintanceOf	w6wq14dj	
+w6dn68k9	relativeOf	w6n9820p	
+w6dn68k9	relativeOf	w6n05cnp	
+w6dn68k9	parentOf	w6wh3qkh	
+w6dn68k9	relativeOf	w6wr0v4m	
+w6br9gtg	acquaintanceOf	w6p55q0b	
+w6k08k1m	nieceOrNephewOf	w6x74cd2	
+w6k08k1m	childOf	w6gj3q0h	
+w6k08k1m	child-in-law of	w6165774	
+w6k08k1m	nieceOrNephewOf	w68x44xw	
+w6k08k1m	nieceOrNephewOf	w6wx87x7	
+w6k08k1m	nieceOrNephewOf	w6n9820p	
+w6k08k1m	childOf	w6n05cnp	
+w6k08k1m	grandchildOf	w6hv3dwv	
+w6k08k1m	nieceOrNephewOf	w66b7v5c	
+w6k08k1m	spouseOf	w6k6603s	
+w6k08k1m	grandchildOf	w61m02bn	
+w6k08k1m	child-in-law of	w6n05bth	
+w6k08k1m	sibling-in-law of	w6xm0dbv	
+w6k08k1m	nieceOrNephewOf	w6xt6kzb	
+w6k08k1m	nieceOrNephewOf	w61d2nhm	
+w6k08k1m	correspondedWith	w6g77m31	
+w6x93chq	acquaintanceOf	w6n9820p	
+w68x44xw	sibling-in-law of	w6gj3q0h	
+w68x44xw	auntOrUncleOf	w638818j	
+w68x44xw	sibling-in-law of	w6hv3dtz	
+w68x44xw	auntOrUncleOf	w68x44wf	
+w68x44xw	auntOrUncleOf	w64v7902	
+w68x44xw	auntOrUncleOf	w6136j8n	
+w68x44xw	sibling-in-law of	w6n9820p	
+w68x44xw	auntOrUncleOf	w6vf7pzj	
+w68x44xw	auntOrUncleOf	w6vz1749	
+w68x44xw	sibling-in-law of	w6n05cnp	
+w68x44xw	child-in-law of	w6hv3dwv	
+w68x44xw	auntOrUncleOf	w60h49sj	
+w68x44xw	auntOrUncleOf	w6k6603s	
+w60h49r3	relativeOf	w6x74cd2	
+w60h49r3	relativeOf	w6gj3q0h	
+w60h49r3	sibling-in-law of	w6010spn	
+w60h49r3	relativeOf	w6hv3dnq	
+w60h49r3	relativeOf	w6wt9jhx	
+w60h49r3	relativeOf	w6hb9wqh	
+w60h49r3	acquaintanceOf	w6n9820p	
+w60h49r3	relativeOf	w6n05cnp	
+w60h49r3	auntOrUncleOf	w66v1c5g	
+w60h49r3	sibling of	w6xx5995	
+w60h49r3	sibling of	w6n05bth	
+w60h49r3	sibling of	w6553d40	
+w66b7v3g	acquaintanceOf	w6n9820p	
+w67j292w	acquaintanceOf	w6n9820p	
+w6d902xk	acquaintanceOf	w63z8z1g	
+w6d902xk	acquaintanceOf	w6n9820p	
+w6w77bbk	acquaintanceOf	w6ht6kfw	
+w6w77bbk	acquaintanceOf	w6qr572m	
+w6w77bbk	acquaintanceOf	w6n9820p	
+w6w77bbk	acquaintanceOf	w65147nn	
+w6w77bbk	acquaintanceOf	w65t3wn2	
+w6w77bbk	acquaintanceOf	w69h6cd0	
+w6b38kp0	associatedWith	w6427ngj	
+w6b38kp0	acquaintanceOf	w6wq14dj	
+w6b38kp0	acquaintanceOf	w6n9820p	
+w6b38kp0	acquaintanceOf	w6891hbg	
+w6b38kp0	acquaintanceOf	w66696rh	
+w6b38kp0	acquaintanceOf	w66124pd	
+w61s7fx6	acquaintanceOf	w6wq14dj	
+w6n05bth	acquaintanceOf	w6n9820p	
+w6n05bth	grandparentOf	w6k6603s	
+w6n05bth	childOf	w6ph2gz9	
+w6vv2hqk	nieceOrNephewOf	w6tq8ftp	
+w6vv2hqk	nieceOrNephewOf	w6qj854r	
+w6vv2hqk	relativeOf	w6x74cd2	
+w6vv2hqk	relativeOf	w6gj3q0h	
+w6vv2hqk	relativeOf	w6010spn	
+w6vv2hqk	nieceOrNephewOf	w6hv3dnq	
+w6vv2hqk	nieceOrNephewOf	w6wt9jhx	
+w6vv2hqk	relativeOf	w6wt9jhx	
+w6vv2hqk	relativeOf	w6hb9wqh	
+w6vv2hqk	relativeOf	w6kx66hw	
+w6vv2hqk	child-in-law of	w6c82qz0	
+w6vv2hqk	sibling-in-law of	w6md9qck	
+w6vv2hqk	relativeOf	w68x44wf	
+w6vv2hqk	relativeOf	w64v7902	
+w6vv2hqk	nieceOrNephewOf	w6wx87x7	
+w6vv2hqk	relativeOf	w6136j8n	
+w6vv2hqk	nieceOrNephewOf	w6n9820p	
+w6vv2hqk	relativeOf	w6vf7pzj	
+w6vv2hqk	nieceOrNephewOf	w61m02bn	
+w6vv2hqk	relativeOf	w6xx5995	
+w6vv2hqk	relativeOf	w6n05bth	
+w6vv2hqk	nieceOrNephewOf	w6ph2gz9	
+w6vv2hqk	relativeOf	w6xt6kzb	
+w6vv2hqk	relativeOf	w6553d40	
+w6vv2hqk	relativeOf	w60h49r3	
+w6vv2hqk	nieceOrNephewOf	w6fv9b6q	
+w6vv2hqk	relativeOf	w6hf8m7k	
+w6vv2hqk	nieceOrNephewOf	w6bv9xp3	
+w6vv2hqk	nieceOrNephewOf	w6r525r2	
+w6vv2hqk	relativeOf	w6g77m31	
+w6vv2hqk	relativeOf	w6kx66c3	
+w6f29q6b	acquaintanceOf	w6n9820p	
 w6r525r2	sibling-in-law of	w6tq8ftp	
 w6r525r2	sibling-in-law of	w6qj854r	
 w6r525r2	sibling-in-law of	w6wx87x7	
@@ -87,88 +199,165 @@ w6r525r2	sibling-in-law of	w6fv9b6q
 w6r525r2	acquaintanceOf	w6f29q6b	
 w6r525r2	sibling-in-law of	w6bv9xp3	
 w6r525r2	sibling-in-law of	w64n1mqv	
-w65147nn	acquaintanceOf	w6n9820p	
-w6165774	sibling-in-law of	w6hj799d	
-w6165774	spouseOf	w6gj3q0h	
-w6165774	nieceOrNephewOf	w6c82qz0	
-w6wq14dj	acquaintanceOf	w65q5g7f	
-w6wq14dj	acquaintanceOf	w6sq9jjd	
-w6wq14dj	acquaintanceOf	w6wr0v4m	
-w6gq882n	acquaintanceOf	w6n9820p	
-w6xf1s5t	acquaintanceOf	w6s1844s	
-w6xf1s5t	acquaintanceOf	w6jd66gz	
-w6xf1s5t	acquaintanceOf	w6n9820p	
-w64v7902	nieceOrNephewOf	w6tq8ftp	
-w64v7902	nieceOrNephewOf	w6qj854r	
-w64v7902	nieceOrNephewOf	w6gj3q0h	
-w64v7902	child-in-law of	w6010spn	
-w64v7902	nieceOrNephewOf	w6hv3dtz	
-w64v7902	nieceOrNephewOf	w6hv3dnq	
-w64v7902	nieceOrNephewOf	w6wt9jhx	
-w64v7902	relativeOf	w6kx66hw	
-w64v7902	sibling of	w68x44wf	
-w64v7902	childOf	w6wx87x7	
-w64v7902	childOf	w6n9820p	
-w64v7902	sibling of	w6vf7pzj	
-w64v7902	nieceOrNephewOf	w6n05cnp	
-w64v7902	relativeOf	w6k6603s	
-w64v7902	nieceOrNephewOf	w6fv9b6q	
-w64v7902	relativeOf	w6hf8m7k	
-w64v7902	nieceOrNephewOf	w6bv9xp3	
-w64v7902	nieceOrNephewOf	w6r525r2	
-w64v7902	relativeOf	w6g77m31	
-w64v7902	relativeOf	w6kx66c3	
-w6sk2b2m	acquaintanceOf	w6c82qz0	
-w6sk2b2m	acquaintanceOf	w6n9820p	
-w6r31rzq	sibling of	w6rg6kkd	
-w6r31rzq	acquaintanceOf	w6n9820p	
-w6r31rzq	sibling-in-law of	w6mk6p7z	
+w65v49t0	spouseOf	w6gb275h	
+w65v49t0	acquaintanceOf	w6n9820p	
+w65v49t0	relativeOf	w6ph2gz9	
+w6mh8f3b	auntOrUncleOf	w6gj3q0h	
+w6mh8f3b	auntOrUncleOf	w6wt9jhx	
+w6mh8f3b	auntOrUncleOf	w6hb9wqh	
+w6mh8f3b	relativeOf	w65v49t0	
+w6mh8f3b	acquaintanceOf	w6n9820p	
+w6mh8f3b	sibling of	w61m02bn	
+w6mh8f3b	auntOrUncleOf	w6xx5995	
+w6mh8f3b	auntOrUncleOf	w6n05bth	
+w6mh8f3b	sibling-in-law of	w6ph2gz9	
+w6mh8f3b	auntOrUncleOf	w6xt6kzb	
+w6mh8f3b	auntOrUncleOf	w6553d40	
+w6mh8f3b	auntOrUncleOf	w6vv2hqk	
+w6n69bqr	relativeOf	w63z8z1g	
+w6n69bqr	associatedWith	w6s1844s	
+w6n69bqr	acquaintanceOf	w6n9820p	
+w6n69bqr	parent-in-law of	w66124pd	
+w6n69bqr	acquaintanceOf	w6028wf4	
+w6j49htj	relativeOf	w6wt9jhx	
+w6j49htj	acquaintanceOf	w6n9820p	
+w6j49htj	acquaintanceOf	w6tz45z2	
 w6nk4g54	relativeOf	w6058f0z	
 w6nk4g54	acquaintanceOf	w6165774	
 w6nk4g54	acquaintanceOf	w6md9qck	
 w6nk4g54	acquaintanceOf	w6n9820p	
 w6nk4g54	relativeOf	w6fv9b6q	
-w6wr0v4m	correspondedWith	w6s1844s	
-w6wr0v4m	acquaintanceOf	w6wq14dj	
-w6wr0v4m	associatedWith	w6rj4s40	
-w6wr0v4m	acquaintanceOf	w6x098rs	
-w6wr0v4m	associatedWith	w6gb2s37	
-w6c931wj	acquaintanceOf	w6n9820p	
-w6vf7pzj	childOf	w6wx87x7	
-w6vf7pzj	childOf	w6n9820p	
+w6wh4nqv	acquaintanceOf	w6n9820p	
+w6wh4nqv	associatedWith	w6xm0dbv	
+w6891hbg	associatedWith	w6jd66gz	
+w6891hbg	acquaintanceOf	w6wq14dj	
+w6891hbg	acquaintanceOf	w6n9820p	
+w6891hbg	associatedWith	w66124pd	
+w6891hbg	acquaintanceOf	w61s7fx6	
+w6891hbg	acquaintanceOf	w6nk4g54	
+w6891hbg	correspondedWith	w6cr7rz4	
+w6891hbg	associatedWith	w6028wf4	
+w6891hbg	acquaintanceOf	w6wr0v4m	
+w6q061bh	acquaintanceOf	w6912v76	
+w6q061bh	acquaintanceOf	w6p55q0b	
+w6cr7rz4	associatedWith	w6058f0z	
+w6cr7rz4	associatedWith	w6891hbg	
+w6cr7rz4	associatedWith	w66124pd	
+w6cr7rz4	parentOf	w6vj6d7g	
+w6sk2b2m	acquaintanceOf	w6c82qz0	
+w6sk2b2m	acquaintanceOf	w6n9820p	
 w68w3qrz	relativeOf	w6rj4s40	
-w6md3mdh	acquaintanceOf	w6n9820p	
-w6hv3dnq	sibling of	w6tq8ftp	
-w6hv3dnq	sibling-in-law of	w6qj854r	
-w6hv3dnq	spouseOf	w6wt9jhx	
-w6hv3dnq	sibling of	w6wx87x7	
-w6hv3dnq	sibling-in-law of	w6n9820p	
-w6hv3dnq	sibling-in-law of	w6fv9b6q	
-w6hv3dnq	sibling of	w6bv9xp3	
-w6hv3dnq	sibling-in-law of	w6r525r2	
-w6hv3dnq	parentOf	w6g77m31	
-w6hv3dnq	parent-in-law of	w6kx66c3	
-w64r0gvn	sibling-in-law of	w65v49t0	
-w64r0gvn	sibling-in-law of	w6gb275h	
-w64r0gvn	acquaintanceOf	w6n9820p	
-w65v49t0	spouseOf	w6gb275h	
-w65v49t0	acquaintanceOf	w6n9820p	
-w65v49t0	relativeOf	w6ph2gz9	
+w6r60gdw	spouseOf	w6010spn	
+w6r60gdw	parentOf	w6650f8c	
+w6r60gdw	acquaintanceOf	w6n9820p	
+w6r60gdw	nieceOrNephewOf	w61m02bn	
+w6r60gdw	nieceOrNephewOf	w6mh8f3b	
+w6r60gdw	sibling of	w6xx5995	
+w6r60gdw	sibling of	w6n05bth	
+w6r60gdw	childOf	w66r2nv3	
+w6r60gdw	childOf	w6ph2gz9	
+w6r60gdw	sibling of	w6553d40	
+w6r60gdw	nieceOrNephewOf	w6cp7vj9	
+w6gg1k1v	acquaintanceOf	w6n9820p	
+w6xm0dbv	nieceOrNephewOf	w6010spn	
+w6xm0dbv	relativeOf	w6kx66hw	
+w6xm0dbv	associatedWith	w6wh4nqv	
+w6xm0dbv	sibling of	w6k6603s	
+w6xm0dbv	relativeOf	w66v1c5g	
+w6xm0dbv	nieceOrNephewOf	w6xx5995	
+w6xm0dbv	childOf	w6n05bth	
+w6xm0dbv	grandchildOf	w6ph2gz9	
+w6xm0dbv	nieceOrNephewOf	w6553d40	
+w6xm0dbv	nieceOrNephewOf	w60h49r3	
+w6mk6p7z	sibling-in-law of	w6r31rzq	
+w6mk6p7z	sibling-in-law of	w6rg6kkd	
+w6mk6p7z	acquaintanceOf	w6n9820p	
 w6tv5gh9	acquaintanceOf	w6n9820p	
 w6tv5gh9	childOf	w6bd4q25	
-w6cz4d1t	correspondedWith	w6jd66gz	
-w6cz4d1t	correspondedWith	w6rj4s40	
-w6cz4d1t	acquaintanceOf	w6n9820p	
-w65d92g1	acquaintanceOf	w6n9820p	
-w6zx2b7v	childOf	w63z8z1g	
-w6zx2b7v	sibling-in-law of	w6wt9jhx	
-w6zx2b7v	relativeOf	w6c82qz0	
-w6zx2b7v	acquaintanceOf	w6n9820p	
-w6z71dmb	childOf	w6sp11k8	
-w6z71dmb	auntOrUncleOf	w6n9820p	
-w6z71dmb	sibling of	w6hv3dwv	
-w6j20tr8	acquaintanceOf	w6n9820p	
-w66z02ks	acquaintanceOf	w6n9820p	
+w6c931wj	acquaintanceOf	w6n9820p	
+w6wf3zbk	acquaintanceOf	w6br9gtg	
+w6t25v7b	acquaintanceOf	w6n9820p	
+w6t25v7b	childOf	w6tz45z2	
+w6t25v7b	sibling of	w6621qxj	
+w6t25v7b	sibling-in-law of	w6sv8fbg	
+w6t25v7b	sibling-in-law of	w6553d40	
+w6gj3q0h	sibling-in-law of	w6hj799d	
+w6gj3q0h	spouseOf	w6165774	
+w6gj3q0h	sibling-in-law of	w6wx87x7	
+w6gj3q0h	spouseOf	w6n05cnp	
+w6gj3q0h	parent-in-law of	w6k6603s	
+w6gj3q0h	parentOf	w6k08k1m	
+w60g68ww	acquaintanceOf	w6n9820p	
+w67b4w4h	acquaintanceOf	w6n9820p	
+w6jd66gz	childOf	w6cg1kgr	
+w6jd66gz	acquaintanceOf	w6b01gx6	
+w6jd66gz	acquaintanceOf	w6wq14dj	
+w6jd66gz	acquaintanceOf	w6wt9jhx	
+w6jd66gz	acquaintanceOf	w6c82qz0	
+w6jd66gz	associatedWith	w6rj4s40	
+w6jd66gz	acquaintanceOf	w6n9820p	
+w6jd66gz	associatedWith	w6891hbg	
+w6jd66gz	acquaintanceOf	w6cz4d1t	
+w6jd66gz	acquaintanceOf	w68g9ffr	
+w6jd66gz	acquaintanceOf	w66124pd	
+w6jd66gz	acquaintanceOf	w68m543d	
+w6jd66gz	acquaintanceOf	w6zk9cxf	
+w6jd66gz	acquaintanceOf	w6028wf4	
+w6jd66gz	acquaintanceOf	w6kx66c3	
+w6jd66gz	acquaintanceOf	w6n69bqr	
+w6kf2pgw	sibling-in-law of	w69h6c86	
+w6kf2pgw	sibling-in-law of	w6165774	
+w6kf2pgw	acquaintanceOf	w6427ngj	
+w6kf2pgw	acquaintanceOf	w6n9820p	
+w6kf2pgw	acquaintanceOf	w6wr0v4m	
+w63z8z1g	parentOf	w6zx2b7v	
+w63z8z1g	acquaintanceOf	w6n9820p	
+w65q5g7f	correspondedWith	w6s1844s	
+w6fv9b6q	sibling-in-law of	w6tq8ftp	
+w6fv9b6q	sibling-in-law of	w6qj854r	
+w6fv9b6q	sibling-in-law of	w6bv9xp3	
+w6fv9b6q	sibling-in-law of	w64n1mqv	
+w6fv9b6q	sibling-in-law of	w6r525r2	
+w6fv9b6q	relativeOf	w6r525r2	
+w6165774	sibling-in-law of	w6hj799d	
+w6165774	spouseOf	w6gj3q0h	
+w6165774	nieceOrNephewOf	w6c82qz0	
+w6hf8m7k	acquaintanceOf	w6n9820p	
+w6hf8m7k	childOf	w6cr7rz4	
+w6hf8m7k	sibling of	w6vj6d7g	
+w6hf8m7k	spouseOf	w6g77m31	
+w6p55q0b	associatedWith	w6br9gtg	
+w66124pd	associatedWith	w6jd66gz	
+w66124pd	acquaintanceOf	w6cg1kgr	
+w66124pd	acquaintanceOf	w6n9820p	
+w66124pd	associatedWith	w6891hbg	
+w66124pd	correspondedWith	w6cr7rz4	
+w66124pd	child-in-law of	w6n69bqr	
+w6xx5995	sibling-in-law of	w6010spn	
+w6xx5995	acquaintanceOf	w6n9820p	
+w6xx5995	auntOrUncleOf	w6k6603s	
+w6xx5995	parentOf	w66v1c5g	
+w6xx5995	sibling of	w6n05bth	
+w6xx5995	childOf	w6ph2gz9	
+w6xx5995	sibling of	w6553d40	
+w6gb2s37	acquaintanceOf	w6n9820p	
+w6gb2s37	child-in-law of	w6x098rs	
+w6gb2s37	parent-in-law of	w64r0gvn	
+w6qk87r0	acquaintanceOf	w6n9820p	
+w6kp9nc6	acquaintanceOf	w6n9820p	
+w6rj4s40	associatedWith	w6jd66gz	
+w6rj4s40	associatedWith	w68w3qrz	
+w6rj4s40	associatedWith	w6cz4d1t	
+w6rj4s40	associatedWith	w6k6603s	
+w61p2c7g	acquaintanceOf	w6n9820p	
+w61p2c7g	correspondedWith	w6028wf4	
+w6cp7vj9	acquaintanceOf	w6n9820p	
+w6912v76	associatedWith	w6p55q0b	
+w6r032ff	acquaintanceOf	w6n9820p	
+w61h1brp	relativeOf	w6gj3q0h	
+w61h1brp	acquaintanceOf	w6n9820p	
+w61h1brp	auntOrUncleOf	w6k6603s	
+w61h1brp	sibling-in-law of	w6n05bth	
 w6n9820p	acquaintanceOf	w6sf4z67	
 w6n9820p	acquaintanceOf	w6058f0z	
 w6n9820p	acquaintanceOf	w6zx2b7v	
@@ -247,7 +436,6 @@ w6n9820p	acquaintanceOf	w63g5dz0
 w6n9820p	acquaintanceOf	w66124pd	
 w6n9820p	acquaintanceOf	w60g68ww	
 w6n9820p	acquaintanceOf	w6x098rs	
-w6n9820p	acquaintanceOf	w61657hq	
 w6n9820p	acquaintanceOf	w6gb2s37	
 w6n9820p	acquaintanceOf	w6h70g88	
 w6n9820p	acquaintanceOf	w6x16z80	
@@ -256,8 +444,8 @@ w6n9820p	acquaintanceOf	w6107trk
 w6n9820p	acquaintanceOf	w66v1c5g	
 w6n9820p	acquaintanceOf	w6xx5995	
 w6n9820p	acquaintanceOf	w6n05bth	
-w6n9820p	acquaintanceOf	w63p2txf	
 w6n9820p	acquaintanceOf	w6xm0dbv	
+w6n9820p	auntOrUncleOf	w6k08k1m	
 w6n9820p	acquaintanceOf	w6ph2gz9	
 w6n9820p	acquaintanceOf	w6553d40	
 w6n9820p	sibling-in-law of	w6fv9b6q	
@@ -288,285 +476,23 @@ w6n9820p	acquaintanceOf	w6kx66c3
 w6n9820p	relativeOf	w6kx66c3	
 w6n9820p	acquaintanceOf	w6n69bqr	
 w6n9820p	acquaintanceOf	w6wj3fbd	
-w6n05cnp	spouseOf	w6gj3q0h	
-w6n05cnp	sibling-in-law of	w6hv3dtz	
-w6n05cnp	sibling-in-law of	w6wx87x7	
-w6n05cnp	sibling of	w6n9820p	
-w6n05cnp	auntOrUncleOf	w6vf7pzj	
-w6n05cnp	parent-in-law of	w6k6603s	
-w6vv2hnp	acquaintanceOf	w6n9820p	
-w61p2c7g	acquaintanceOf	w6n9820p	
-w61p2c7g	correspondedWith	w6028wf4	
-w6028wf4	acquaintanceOf	w6jd66gz	
-w6028wf4	acquaintanceOf	w6wt9jhx	
-w6028wf4	acquaintanceOf	w6z65997	
-w6028wf4	acquaintanceOf	w6n9820p	
-w6028wf4	acquaintanceOf	w6cz4d1t	
-w6028wf4	acquaintanceOf	w68m543d	
-w6028wf4	acquaintanceOf	w6zk9cxf	
-w6028wf4	acquaintanceOf	w6kx66c3	
-w6028wf4	acquaintanceOf	w6n69bqr	
-w6hb9wqh	sibling-in-law of	w6zx2b7v	
-w6hb9wqh	nieceOrNephewOf	w6j20tpc	
-w6hb9wqh	nieceOrNephewOf	w6hv3dtz	
-w6hb9wqh	sibling-in-law of	w6hv3dnq	
-w6hb9wqh	sibling of	w6wt9jhx	
-w6hb9wqh	nieceOrNephewOf	w6c82qz0	
-w6hb9wqh	grandchildOf	w6rg6kjz	
-w6hb9wqh	acquaintanceOf	w6n9820p	
-w6hb9wqh	nieceOrNephewOf	w6ph2gz9	
-w6b38kp0	associatedWith	w6427ngj	
-w6b38kp0	acquaintanceOf	w6wq14dj	
-w6b38kp0	acquaintanceOf	w6n9820p	
-w6b38kp0	acquaintanceOf	w66696rh	
-w6b38kp0	acquaintanceOf	w66124pd	
-w6gv6crg	associatedWith	w68w3qrz	
-w6gv6crg	acquaintanceOf	w6n9820p	
-w6gv6crg	associatedWith	w6n87x9b	
-w6bd4q25	acquaintanceOf	w6n9820p	
-w69h6cd0	associatedWith	w6qr572m	
-w69h6cd0	acquaintanceOf	w6n9820p	
-w6md9qk8	acquaintanceOf	w6n9820p	
-w6kx66hw	nieceOrNephewOf	w6zx2b7v	
-w6kx66hw	child-in-law of	w6010spn	
-w6kx66hw	childOf	w6wt9jhx	
-w6kx66hw	acquaintanceOf	w6n9820p	
-w6kx66hw	sibling-in-law of	w6g77m31	
-w66124pd	associatedWith	w6jd66gz	
-w66124pd	acquaintanceOf	w6cg1kgr	
-w66124pd	acquaintanceOf	w6n9820p	
-w66124pd	correspondedWith	w6cr7rz4	
-w66124pd	child-in-law of	w6n69bqr	
-w6wf3zbk	associatedWith	w6n9820p	
-w6bv9xp3	sibling of	w6tq8ftp	
-w6bv9xp3	sibling-in-law of	w6qj854r	
-w6bv9xp3	sibling of	w6wx87x7	
-w6bv9xp3	sibling-in-law of	w6n9820p	
-w6bv9xp3	sibling-in-law of	w6fv9b6q	
-w6bv9xp3	spouseOf	w64n1mqv	
-w6bv9xp3	sibling-in-law of	w6r525r2	
-w6912v76	associatedWith	w6p55q0b	
-w61657hq	acquaintanceOf	w6n9820p	
-w61657hq	spouseOf	w6x098rs	
-w61657hq	parentOf	w6gb2s37	
-w6vr3t5g	acquaintanceOf	w6n9820p	
-w6x098rs	acquaintanceOf	w6n9820p	
-w6x098rs	spouseOf	w61657hq	
-w6x098rs	parentOf	w6gb2s37	
-w6sf4z67	spouseOf	w6058f0z	
-w6sf4z67	spouseOf	w6058f0z	
-w6sf4z67	childOf	w6qj9kc7	
-w6sf4z67	acquaintanceOf	w6n9820p	
-w6sf4z67	correspondedWith	w6nk4g54	
-w6dw29hq	acquaintanceOf	w6n9820p	
-w69h6c86	spouseOf	w6hj799d	
-w69h6c86	sibling-in-law of	w6gj3q0h	
-w69h6c86	sibling of	w6165774	
-w69h6c86	nieceOrNephewOf	w6c82qz0	
-w69h6c86	acquaintanceOf	w6n9820p	
-w6jj4bpx	acquaintanceOf	w6n9820p	
-w6zw3s78	acquaintanceOf	w6wx87x7	
-w6zw3s78	acquaintanceOf	w6n9820p	
-w6x16z80	acquaintanceOf	w6n9820p	
-w6x16z80	sibling of	w6h70g88	
-w6md9qck	acquaintanceOf	w6n9820p	
-w6md9qck	child-in-law of	w6jb6xn6	
-w6dn68k9	acquaintanceOf	w6wq14dj	
-w6dn68k9	relativeOf	w6n9820p	
-w6dn68k9	relativeOf	w6n05cnp	
-w6dn68k9	parentOf	w6wh3qkh	
-w6dn68k9	relativeOf	w6wr0v4m	
-w6gg1k1v	acquaintanceOf	w6n9820p	
-w6c82qz0	nieceOrNephewOf	w6165774	
-w6c82qz0	relativeOf	w6n9820p	
-w6c82qz0	acquaintanceOf	w6n9820p	
-w67h3crq	associatedWith	w6n9820p	
-w67h3crq	parentOf	w6j20tr8	
-w6hv3dwv	parent-in-law of	w6gj3q0h	
-w6hv3dwv	grandparentOf	w638818j	
-w6hv3dwv	parent-in-law of	w6hv3dtz	
-w6hv3dwv	grandparentOf	w68x44wf	
-w6hv3dwv	grandparentOf	w64v7902	
-w6hv3dwv	parent-in-law of	w6wx87x7	
-w6hv3dwv	childOf	w6n9820p	
-w6hv3dwv	grandparentOf	w6vf7pzj	
-w6hv3dwv	grandparentOf	w6vz1749	
-w6hv3dwv	parentOf	w6n05cnp	
-w6hv3dwv	grandparentOf	w60h49sj	
-w6hv3dwv	relativeOf	w6dn68k9	
-w6hv3dwv	grandparentOf	w6k6603s	
-w6hv3dwv	relativeOf	w6wr0v4m	
-w68x44wf	nieceOrNephewOf	w6tq8ftp	
-w68x44wf	nieceOrNephewOf	w6qj854r	
-w68x44wf	nieceOrNephewOf	w6gj3q0h	
-w68x44wf	nieceOrNephewOf	w6hv3dnq	
-w68x44wf	nieceOrNephewOf	w6wt9jhx	
-w68x44wf	relativeOf	w6kx66hw	
-w68x44wf	childOf	w6wx87x7	
-w68x44wf	childOf	w6n9820p	
-w68x44wf	sibling of	w6vf7pzj	
-w68x44wf	nieceOrNephewOf	w6n05cnp	
-w68x44wf	relativeOf	w6k6603s	
-w68x44wf	nieceOrNephewOf	w6fv9b6q	
-w68x44wf	relativeOf	w6vv2hqk	
-w68x44wf	nieceOrNephewOf	w6bv9xp3	
-w68x44wf	nieceOrNephewOf	w6r525r2	
-w68x44wf	relativeOf	w6g77m31	
-w68x44wf	relativeOf	w6kx66c3	
-w6sq9jjd	acquaintanceOf	w6n9820p	
-w6k6603s	nieceOrNephewOf	w6010spn	
-w6k6603s	relativeOf	w6kx66hw	
-w6k6603s	associatedWith	w6rj4s40	
-w6k6603s	relativeOf	w64v7902	
-w6k6603s	relativeOf	w66v1c5g	
-w6k6603s	relativeOf	w6sv8fbg	
-w6k6603s	nieceOrNephewOf	w6xx5995	
-w6k6603s	childOf	w6n05bth	
-w6k6603s	relativeOf	w63p2txf	
-w6k6603s	sibling of	w6xm0dbv	
-w6k6603s	nieceOrNephewOf	w6553d40	
-w6k6603s	nieceOrNephewOf	w60h49r3	
-w6h14ctn	acquaintanceOf	w6x93chq	
-w6h14ctn	acquaintanceOf	w6n9820p	
-w6h14ctn	acquaintanceOf	w65147nn	
-w67b4w4h	acquaintanceOf	w6n9820p	
-w6p37ppz	acquaintanceOf	w6n9820p	
-w6vv2hqk	nieceOrNephewOf	w6tq8ftp	
-w6vv2hqk	nieceOrNephewOf	w6qj854r	
-w6vv2hqk	relativeOf	w6x74cd2	
-w6vv2hqk	relativeOf	w6gj3q0h	
-w6vv2hqk	relativeOf	w6010spn	
-w6vv2hqk	nieceOrNephewOf	w6hv3dnq	
-w6vv2hqk	nieceOrNephewOf	w6wt9jhx	
-w6vv2hqk	relativeOf	w6wt9jhx	
-w6vv2hqk	relativeOf	w6hb9wqh	
-w6vv2hqk	relativeOf	w6kx66hw	
-w6vv2hqk	child-in-law of	w6c82qz0	
-w6vv2hqk	sibling-in-law of	w6md9qck	
-w6vv2hqk	relativeOf	w68x44wf	
-w6vv2hqk	relativeOf	w64v7902	
-w6vv2hqk	nieceOrNephewOf	w6wx87x7	
-w6vv2hqk	nieceOrNephewOf	w6n9820p	
-w6vv2hqk	relativeOf	w6vf7pzj	
-w6vv2hqk	nieceOrNephewOf	w61m02bn	
-w6vv2hqk	relativeOf	w6xx5995	
-w6vv2hqk	relativeOf	w6n05bth	
-w6vv2hqk	nieceOrNephewOf	w6ph2gz9	
-w6vv2hqk	relativeOf	w6xt6kzb	
-w6vv2hqk	relativeOf	w6553d40	
-w6vv2hqk	relativeOf	w60h49r3	
-w6vv2hqk	nieceOrNephewOf	w6fv9b6q	
-w6vv2hqk	relativeOf	w6hf8m7k	
-w6vv2hqk	nieceOrNephewOf	w6bv9xp3	
-w6vv2hqk	nieceOrNephewOf	w6r525r2	
-w6vv2hqk	relativeOf	w6g77m31	
-w6vv2hqk	relativeOf	w6kx66c3	
-w6553d40	acquaintanceOf	w6n9820p	
-w6553d40	sibling of	w6n05bth	
-w6553d40	childOf	w6ph2gz9	
-w6xx5995	sibling-in-law of	w6010spn	
-w6xx5995	acquaintanceOf	w6n9820p	
-w6xx5995	auntOrUncleOf	w6k6603s	
-w6xx5995	parentOf	w66v1c5g	
-w6xx5995	sibling of	w6n05bth	
-w6xx5995	childOf	w6ph2gz9	
-w6xx5995	sibling of	w6553d40	
-w6621qxj	acquaintanceOf	w6n9820p	
-w6621qxj	childOf	w6tz45z2	
-w60h49sj	sibling of	w68x44wf	
-w60h49sj	childOf	w6wx87x7	
-w60h49sj	childOf	w6n9820p	
-w60h49sj	sibling of	w6vz1749	
-w6jr1rg4	acquaintanceOf	w6n9820p	
-w6mk6p7z	sibling-in-law of	w6r31rzq	
-w6mk6p7z	sibling-in-law of	w6rg6kkd	
-w6mk6p7z	acquaintanceOf	w6n9820p	
-w6010spn	parent-in-law of	w6kx66hw	
-w6010spn	acquaintanceOf	w6n9820p	
-w6010spn	auntOrUncleOf	w6k6603s	
-w6010spn	auntOrUncleOf	w66v1c5g	
-w6010spn	sibling-in-law of	w6xx5995	
-w6010spn	auntOrUncleOf	w63p2txf	
-w6010spn	child-in-law of	w6ph2gz9	
-w67f3kpm	acquaintanceOf	w6n9820p	
-w6bm240j	acquaintanceOf	w6x93chq	
-w6bm240j	acquaintanceOf	w6n9820p	
-w6rg6kkd	sibling of	w6r31rzq	
-w6rg6kkd	acquaintanceOf	w6n9820p	
-w6rg6kkd	sibling-in-law of	w6mk6p7z	
-w6br9gtg	acquaintanceOf	w6p55q0b	
-w638818j	nieceOrNephewOf	w6gj3q0h	
-w638818j	spouseOf	w6d01xtv	
-w638818j	nieceOrNephewOf	w6hv3dtz	
-w638818j	nieceOrNephewOf	w6hv3dnq	
-w638818j	nieceOrNephewOf	w6wt9jhx	
-w638818j	relativeOf	w6kx66hw	
-w638818j	sibling of	w68x44wf	
-w638818j	sibling of	w64v7902	
-w638818j	childOf	w6wx87x7	
-w638818j	childOf	w6n9820p	
-w638818j	sibling of	w6vf7pzj	
-w638818j	sibling of	w6vz1749	
-w638818j	nieceOrNephewOf	w6n05cnp	
-w638818j	relativeOf	w6hf8m7k	
-w638818j	relativeOf	w6g77m31	
-w6107trk	childOf	w65v49t0	
-w6107trk	childOf	w6gb275h	
-w6107trk	acquaintanceOf	w6n9820p	
-w6107trk	sibling-in-law of	w6h70g88	
-w6107trk	sibling-in-law of	w6x16z80	
-w6107trk	spouseOf	w66794np	
-w6107trk	nieceOrNephewOf	w64r0gvn	
-w66b7v3g	acquaintanceOf	w6n9820p	
-w6mt4j9v	nieceOrNephewOf	w6010spn	
-w6mt4j9v	childOf	w6fs0n6b	
-w6mt4j9v	acquaintanceOf	w6n9820p	
-w6gj3q0h	sibling-in-law of	w6hj799d	
-w6gj3q0h	spouseOf	w6165774	
-w6gj3q0h	sibling-in-law of	w6wx87x7	
-w6gj3q0h	spouseOf	w6n05cnp	
-w6gj3q0h	parent-in-law of	w6k6603s	
-w67j292w	acquaintanceOf	w6n9820p	
-w6rk58z8	acquaintanceOf	w6n9820p	
+w6gq882n	acquaintanceOf	w68x44wf	
+w6gq882n	acquaintanceOf	w6n9820p	
+w6gq882n	acquaintanceOf	w6wh3qkh	
 w68d3sbk	correspondedWith	w6sf4z67	
+w68d3sbk	acquaintanceOf	w6f1984q	
 w68d3sbk	acquaintanceOf	w6n9820p	
+w68d3sbk	correspondedWith	w6891hbg	
 w68d3sbk	correspondedWith	w6gq882n	
 w68d3sbk	correspondedWith	w65147nn	
 w68d3sbk	spouseOf	w6zk9cxf	
-w67d3g1h	acquaintanceOf	w6n9820p	
-w6wj3fbd	acquaintanceOf	w6n9820p	
-w6q924mx	acquaintanceOf	w6n9820p	
-w6q924mx	sibling-in-law of	w6nk4g54	
-w6q924mx	sibling-in-law of	w6g77m31	
-w6q924mx	sibling-in-law of	w6kx66c3	
-w6jd66gz	childOf	w6cg1kgr	
-w6jd66gz	acquaintanceOf	w6b01gx6	
-w6jd66gz	acquaintanceOf	w6wq14dj	
-w6jd66gz	acquaintanceOf	w6wt9jhx	
-w6jd66gz	acquaintanceOf	w6c82qz0	
-w6jd66gz	associatedWith	w6rj4s40	
-w6jd66gz	acquaintanceOf	w6n9820p	
-w6jd66gz	acquaintanceOf	w6cz4d1t	
-w6jd66gz	acquaintanceOf	w68g9ffr	
-w6jd66gz	acquaintanceOf	w66124pd	
-w6jd66gz	acquaintanceOf	w68m543d	
-w6jd66gz	acquaintanceOf	w6zk9cxf	
-w6jd66gz	acquaintanceOf	w6028wf4	
-w6jd66gz	acquaintanceOf	w6kx66c3	
-w6jd66gz	acquaintanceOf	w6n69bqr	
-w63g5dz0	acquaintanceOf	w6n9820p	
-w63g5dz0	acquaintanceOf	w6427nc6	
-w63g5dz0	acquaintanceOf	w6028wf4	
-w63g5dz0	acquaintanceOf	w6028wf4	
-w6427ngj	correspondedWith	w6s1844s	
-w6427ngj	sibling-in-law of	w6b01gx6	
-w6427ngj	associatedWith	w6wq14dj	
-w6427ngj	acquaintanceOf	w6n9820p	
-w6427ngj	acquaintanceOf	w6nk4g54	
-w6t25v7b	acquaintanceOf	w6n9820p	
-w6t25v7b	childOf	w6tz45z2	
+w6wh3qkh	relativeOf	w6n9820p	
+w6wh3qkh	childOf	w6dn68k9	
+w6wh3qkh	relativeOf	w6wr0v4m	
+w6s57hk5	auntOrUncleOf	w6j20tpc	
+w6s57hk5	acquaintanceOf	w6n9820p	
+w6s57hk5	auntOrUncleOf	w6jb6xn6	
 w66696rh	associatedWith	w6n9820p	
-w6kf2pgw	acquaintanceOf	w6n9820p	
 w64n1mqv	sibling of	w6tq8ftp	
 w64n1mqv	sibling-in-law of	w6qj854r	
 w64n1mqv	sibling of	w6hv3dnq	
@@ -576,223 +502,12 @@ w64n1mqv	sibling-in-law of	w6n9820p
 w64n1mqv	sibling-in-law of	w6fv9b6q	
 w64n1mqv	spouseOf	w6bv9xp3	
 w64n1mqv	sibling-in-law of	w6r525r2	
-w6jx3293	acquaintanceOf	w6n9820p	
-w6jx3293	childOf	w6j49htj	
-w6qj9kc7	parentOf	w6sf4z67	
-w6qj9kc7	parent-in-law of	w6058f0z	
-w6qj9kc7	acquaintanceOf	w6n9820p	
-w68g9ffr	associatedWith	w6wq14dj	
-w68g9ffr	acquaintanceOf	w6n9820p	
-w68g9ffr	correspondedWith	w6kx66c3	
-w6p55q0b	associatedWith	w6br9gtg	
-w6n05bth	acquaintanceOf	w6n9820p	
-w6n05bth	grandparentOf	w6k6603s	
-w6n05bth	childOf	w6ph2gz9	
-w6z65997	parentOf	w6q924mx	
-w6z65997	acquaintanceOf	w6n9820p	
-w6z65997	parent-in-law of	w6nk4g54	
-w6w48mwd	childOf	w65v49t0	
-w6w48mwd	childOf	w6gb275h	
-w6w48mwd	acquaintanceOf	w6n9820p	
-w6w48mwd	sibling-in-law of	w66794np	
-w6w48mwd	sibling of	w6107trk	
-w6n87x9b	acquaintanceOf	w6n9820p	
-w6wt9jhx	sibling-in-law of	w6qj854r	
-w6wt9jhx	relativeOf	w6gj3q0h	
-w6wt9jhx	nieceOrNephewOf	w6c82qz0	
-w6wt9jhx	sibling-in-law of	w6wx87x7	
-w6wt9jhx	sibling-in-law of	w6n9820p	
-w6wt9jhx	relativeOf	w6n9820p	
-w6wt9jhx	nieceOrNephewOf	w6ph2gz9	
-w6wt9jhx	sibling-in-law of	w6fv9b6q	
-w6wt9jhx	sibling-in-law of	w6bv9xp3	
-w6wt9jhx	sibling-in-law of	w6r525r2	
-w6zd8tgw	childOf	w65v49t0	
-w6zd8tgw	childOf	w6gb275h	
-w6zd8tgw	acquaintanceOf	w6n9820p	
-w6zd8tgw	sibling of	w6w48mwd	
-w6zd8tgw	sibling-in-law of	w66794np	
-w6zd8tgw	nieceOrNephewOf	w64r0gvn	
-w6s505g1	associatedWith	w6n9820p	
-w6d01xtv	child-in-law of	w6wx87x7	
-w6d01xtv	child-in-law of	w6n9820p	
-w6xm0dbv	nieceOrNephewOf	w6010spn	
-w6xm0dbv	relativeOf	w6kx66hw	
-w6xm0dbv	associatedWith	w6wh4nqv	
-w6xm0dbv	sibling of	w6k6603s	
-w6xm0dbv	relativeOf	w66v1c5g	
-w6xm0dbv	nieceOrNephewOf	w6xx5995	
-w6xm0dbv	childOf	w6n05bth	
-w6xm0dbv	relativeOf	w63p2txf	
-w6xm0dbv	grandchildOf	w6ph2gz9	
-w6xm0dbv	nieceOrNephewOf	w6553d40	
-w6xm0dbv	nieceOrNephewOf	w60h49r3	
-w6fv9b6q	sibling-in-law of	w6tq8ftp	
-w6fv9b6q	sibling-in-law of	w6qj854r	
-w6fv9b6q	sibling-in-law of	w6bv9xp3	
-w6fv9b6q	sibling-in-law of	w64n1mqv	
-w6fv9b6q	sibling-in-law of	w6r525r2	
-w6fv9b6q	relativeOf	w6r525r2	
-w6zk9cxf	acquaintanceOf	w6n9820p	
-w6zk9cxf	spouseOf	w68d3sbk	
-w6cr7t0d	acquaintanceOf	w6n9820p	
-w63p2txf	relativeOf	w6kx66hw	
-w63p2txf	acquaintanceOf	w6n9820p	
-w63p2txf	sibling of	w66v1c5g	
-w63p2txf	childOf	w6xx5995	
-w63p2txf	relativeOf	w6n05bth	
-w63p2txf	grandchildOf	w6ph2gz9	
-w63p2txf	nieceOrNephewOf	w6553d40	
-w6d902xk	acquaintanceOf	w63z8z1g	
-w6d902xk	acquaintanceOf	w6n9820p	
-w6w77bbk	acquaintanceOf	w6n9820p	
-w6b38ksb	relativeOf	w6sf4z67	
-w6b38ksb	nieceOrNephewOf	w6qj9kc7	
-w6b38ksb	acquaintanceOf	w6n9820p	
-w6qj854r	spouseOf	w6tq8ftp	
-w6qj854r	sibling-in-law of	w6hv3dnq	
-w6qj854r	sibling-in-law of	w6wt9jhx	
-w6qj854r	sibling-in-law of	w6wx87x7	
-w6qj854r	sibling-in-law of	w6n9820p	
-w6qj854r	sibling-in-law of	w6fv9b6q	
-w6qj854r	sibling-in-law of	w6bv9xp3	
-w6qj854r	sibling-in-law of	w64n1mqv	
-w6qj854r	sibling-in-law of	w6r525r2	
-w6qj854r	auntOrUncleOf	w6g77m31	
-w6gb275h	acquaintanceOf	w6n9820p	
-w6xt6kzb	relativeOf	w6zx2b7v	
-w6xt6kzb	sibling-in-law of	w6x74cd2	
-w6xt6kzb	sibling of	w6gj3q0h	
-w6xt6kzb	relativeOf	w6010spn	
-w6xt6kzb	relativeOf	w6hv3dnq	
-w6xt6kzb	relativeOf	w6wt9jhx	
-w6xt6kzb	relativeOf	w6hb9wqh	
-w6xt6kzb	acquaintanceOf	w6n9820p	
-w6xt6kzb	sibling-in-law of	w6n05cnp	
-w6xt6kzb	auntOrUncleOf	w6k6603s	
-w6xt6kzb	childOf	w61m02bn	
-w6xt6kzb	relativeOf	w6n05bth	
-w6xt6kzb	relativeOf	w6n05bth	
-w6xt6kzb	nieceOrNephewOf	w6ph2gz9	
-w6xt6kzb	relativeOf	w6553d40	
-w6xt6kzb	relativeOf	w60h49r3	
-w6qk87r0	acquaintanceOf	w6n9820p	
-w6g55ftx	parentOf	w63s1jcm	
-w6g55ftx	acquaintanceOf	w6n9820p	
-w60g68ww	acquaintanceOf	w6n9820p	
-w6x74cd2	sibling-in-law of	w6gj3q0h	
-w6x74cd2	acquaintanceOf	w6n9820p	
-w6x74cd2	sibling of	w6fv9b6q	
-w66f6jgb	auntOrUncleOf	w6165774	
-w66f6jgb	acquaintanceOf	w6n9820p	
-w66f6jgb	grandparentOf	w6k6603s	
-w66f6jgb	parent-in-law of	w6n05bth	
-w66f6jgb	grandparentOf	w6xm0dbv	
-w6h70g88	acquaintanceOf	w6n9820p	
-w6h70g88	sibling of	w6x16z80	
-w6h70g88	sibling of	w66794np	
-w6cr7rz4	associatedWith	w6058f0z	
-w6cr7rz4	associatedWith	w66124pd	
-w6cr7rz4	parentOf	w6vj6d7g	
-w6058f0z	spouseOf	w6sf4z67	
-w6058f0z	child-in-law of	w6qj9kc7	
-w6058f0z	acquaintanceOf	w6n9820p	
-w6ph2gz9	auntOrUncleOf	w6gj3q0h	
-w6ph2gz9	acquaintanceOf	w6n9820p	
-w6ph2gz9	relativeOf	w6jb6xn6	
-w6ph2gz9	grandparentOf	w6k6603s	
-w6ph2gz9	auntOrUncleOf	w6fv9b6q	
-w6s57hk5	auntOrUncleOf	w6j20tpc	
-w6s57hk5	acquaintanceOf	w6n9820p	
-w6s57hk5	auntOrUncleOf	w6jb6xn6	
-w6vj6d7g	acquaintanceOf	w6n9820p	
-w6vj6d7g	childOf	w6cr7rz4	
-w65q5g7f	correspondedWith	w6s1844s	
-w6912v93	acquaintanceOf	w6n9820p	
-w6mh8f3b	auntOrUncleOf	w6gj3q0h	
-w6mh8f3b	auntOrUncleOf	w6wt9jhx	
-w6mh8f3b	auntOrUncleOf	w6hb9wqh	
-w6mh8f3b	relativeOf	w65v49t0	
-w6mh8f3b	acquaintanceOf	w6n9820p	
-w6mh8f3b	sibling of	w61m02bn	
-w6mh8f3b	auntOrUncleOf	w6xx5995	
-w6mh8f3b	auntOrUncleOf	w6n05bth	
-w6mh8f3b	sibling-in-law of	w6ph2gz9	
-w6mh8f3b	auntOrUncleOf	w6xt6kzb	
-w6mh8f3b	auntOrUncleOf	w6553d40	
-w6mh8f3b	auntOrUncleOf	w6vv2hqk	
-w6hj799d	sibling-in-law of	w6165774	
-w6650f8c	childOf	w6010spn	
-w6650f8c	relativeOf	w6mt4j9v	
-w6650f8c	spouseOf	w6kx66hw	
-w6650f8c	acquaintanceOf	w6n9820p	
-w6650f8c	relativeOf	w6k6603s	
-w6650f8c	relativeOf	w66v1c5g	
-w6650f8c	nieceOrNephewOf	w6n05bth	
-w6650f8c	relativeOf	w6xm0dbv	
-w6650f8c	grandchildOf	w6ph2gz9	
-w6650f8c	nieceOrNephewOf	w6553d40	
-w6650f8c	nieceOrNephewOf	w60h49r3	
-w6cg1kgr	parentOf	w6jd66gz	
-w6cg1kgr	associatedWith	w6n9820p	
-w6tz45z2	acquaintanceOf	w6n9820p	
-w6jn3260	grandchildOf	w6n9820p	
-w6hv3dtz	auntOrUncleOf	w6wt9jhx	
-w6hv3dtz	sibling of	w6c82qz0	
-w6hv3dtz	childOf	w6rg6kjz	
-w6hv3dtz	sibling-in-law of	w6n9820p	
-w6hv3dtz	auntOrUncleOf	w66v1c5g	
-w6rj4s40	associatedWith	w6jd66gz	
-w6rj4s40	associatedWith	w68w3qrz	
-w6rj4s40	associatedWith	w6cz4d1t	
-w6rj4s40	associatedWith	w6k6603s	
-w61h1brp	relativeOf	w6gj3q0h	
-w61h1brp	acquaintanceOf	w6n9820p	
-w61h1brp	auntOrUncleOf	w6k6603s	
-w61h1brp	sibling-in-law of	w6n05bth	
-w6sp11k8	parentOf	w6z71dmb	
-w6sp11k8	grandparentOf	w6n9820p	
-w6sp11k8	parent-in-law of	w6hv3dwv	
-w63z8z1g	parentOf	w6zx2b7v	
-w63z8z1g	acquaintanceOf	w6n9820p	
-w6wx87x7	sibling of	w6tq8ftp	
-w6wx87x7	sibling-in-law of	w6qj854r	
-w6wx87x7	sibling-in-law of	w6gj3q0h	
-w6wx87x7	sibling-in-law of	w6n05cnp	
-w6wx87x7	sibling-in-law of	w6fv9b6q	
-w6wx87x7	sibling of	w6bv9xp3	
-w6wx87x7	sibling-in-law of	w64n1mqv	
-w6wx87x7	sibling-in-law of	w6r525r2	
 w6vz1749	sibling of	w68x44wf	
 w6vz1749	sibling of	w64v7902	
 w6vz1749	childOf	w6wx87x7	
+w6vz1749	sibling of	w6136j8n	
 w6vz1749	childOf	w6n9820p	
 w6vz1749	sibling of	w6vf7pzj	
-w6x93chq	acquaintanceOf	w6n9820p	
-w6xt6kpr	acquaintanceOf	w6gj3q0h	
-w6xt6kpr	acquaintanceOf	w6n9820p	
-w6f29q6b	acquaintanceOf	w6n9820p	
-w6s1844s	correspondedWith	w65q5g7f	
-w6qk87tw	relativeOf	w6010spn	
-w6qk87tw	acquaintanceOf	w6n9820p	
-w6qk87tw	relativeOf	w6xx5995	
-w6qk87tw	relativeOf	w6n05bth	
-w6qk87tw	nieceOrNephewOf	w6ph2gz9	
-w6qk87tw	relativeOf	w6553d40	
-w6qk87tw	relativeOf	w60h49r3	
-w6d59f93	acquaintanceOf	w6n9820p	
-w6wh4nqv	acquaintanceOf	w6n9820p	
-w6wh4nqv	associatedWith	w6xm0dbv	
-w6fs0n6b	sibling of	w6010spn	
-w6fs0n6b	parentOf	w6mt4j9v	
-w6fs0n6b	acquaintanceOf	w6n9820p	
-w66794np	acquaintanceOf	w6n9820p	
-w66794np	sibling of	w6x16z80	
-w6wh3qkh	relativeOf	w6n9820p	
-w6wh3qkh	childOf	w6dn68k9	
-w6wh3qkh	relativeOf	w6wr0v4m	
-w6kf2phb	associatedWith	w65t3wn2	
-w6kf2phb	associatedWith	w6br9gtg	
 w61m02bn	auntOrUncleOf	w6zx2b7v	
 w61m02bn	parentOf	w6x74cd2	
 w61m02bn	parentOf	w6gj3q0h	
@@ -812,52 +527,518 @@ w61m02bn	sibling-in-law of	w6ph2gz9
 w61m02bn	parentOf	w6xt6kzb	
 w61m02bn	auntOrUncleOf	w6553d40	
 w61m02bn	auntOrUncleOf	w60h49r3	
+w6xt6kpr	acquaintanceOf	w6gj3q0h	
+w6xt6kpr	acquaintanceOf	w6n9820p	
+w6sv8fbg	nieceOrNephewOf	w6010spn	
+w6sv8fbg	relativeOf	w6kx66hw	
+w6sv8fbg	acquaintanceOf	w6n9820p	
+w6sv8fbg	relativeOf	w6k6603s	
+w6sv8fbg	sibling of	w66v1c5g	
+w6sv8fbg	childOf	w6xx5995	
+w6sv8fbg	nieceOrNephewOf	w6n05bth	
+w6sv8fbg	relativeOf	w6xm0dbv	
+w6sv8fbg	grandchildOf	w6ph2gz9	
+w6sv8fbg	nieceOrNephewOf	w6553d40	
+w6sv8fbg	nieceOrNephewOf	w60h49r3	
+w65z31h9	acquaintanceOf	w6n9820p	
+w65z31h9	nieceOrNephewOf	w6q924kg	
+w65z31h9	childOf	w6j49htj	
+w65z31h9	sibling of	w6jx3293	
+w6107trk	sibling-in-law of	w6hb9wqh	
+w6107trk	childOf	w65v49t0	
+w6107trk	childOf	w6gb275h	
+w6107trk	sibling of	w6zd8tgw	
+w6107trk	acquaintanceOf	w6n9820p	
+w6107trk	sibling of	w6w48mwd	
+w6107trk	sibling-in-law of	w6h70g88	
+w6107trk	sibling-in-law of	w6x16z80	
+w6107trk	spouseOf	w66794np	
+w6107trk	nieceOrNephewOf	w64r0gvn	
 w66t871b	acquaintanceOf	w6c82qz0	
 w66t871b	acquaintanceOf	w6n9820p	
-w6kp9nc6	acquaintanceOf	w6n9820p	
-w6ht6kfw	acquaintanceOf	w6n9820p	
-w6jb6xn6	acquaintanceOf	w6n9820p	
-w6jb6xn6	relativeOf	w6r525r2	
-w6qr572m	acquaintanceOf	w6n9820p	
-w6qr572m	acquaintanceOf	w6427nc6	
-w6q924kg	acquaintanceOf	w6n9820p	
-w6q924kg	sibling of	w6j49htj	
-w6kx66c3	acquaintanceOf	w6jd66gz	
-w6kx66c3	acquaintanceOf	w6b01gx6	
-w6kx66c3	acquaintanceOf	w6wt9jhx	
-w6kx66c3	relativeOf	w6n9820p	
-w6kx66c3	acquaintanceOf	w6cz4d1t	
-w6kx66c3	acquaintanceOf	w6x16z80	
-w6kx66c3	acquaintanceOf	w68m543d	
-w6kx66c3	acquaintanceOf	w6zk9cxf	
-w6kx66c3	spouseOf	w6g77m31	
-w66v1c5g	acquaintanceOf	w6xt6kpr	
-w66v1c5g	relativeOf	w6kx66hw	
-w66v1c5g	acquaintanceOf	w6n9820p	
-w66v1c5g	childOf	w6xx5995	
-w66v1c5g	sibling of	w63p2txf	
-w66v1c5g	nieceOrNephewOf	w6553d40	
-w6xq7wg4	acquaintanceOf	w6427ngj	
-w6xq7wg4	acquaintanceOf	w6n9820p	
-w6n69bqr	relativeOf	w63z8z1g	
-w6n69bqr	associatedWith	w6s1844s	
-w6n69bqr	acquaintanceOf	w6n9820p	
-w6n69bqr	parent-in-law of	w66124pd	
-w6n69bqr	acquaintanceOf	w6028wf4	
+w6vj6d7g	acquaintanceOf	w6n9820p	
+w6vj6d7g	childOf	w6cr7rz4	
+w6md3mdh	acquaintanceOf	w6n9820p	
+w6kx66hw	nieceOrNephewOf	w6zx2b7v	
+w6kx66hw	child-in-law of	w6010spn	
+w6kx66hw	childOf	w6wt9jhx	
+w6kx66hw	acquaintanceOf	w6n9820p	
+w6kx66hw	sibling-in-law of	w6g77m31	
+w6f1984q	acquaintanceOf	w6n9820p	
+w6f1984q	associatedWith	w6w77bbk	
 w6zq4xpd	child-in-law of	w6gj3q0h	
 w6zq4xpd	nieceOrNephewOf	w69h6c86	
 w6zq4xpd	childOf	w6165774	
 w6zq4xpd	acquaintanceOf	w6n9820p	
-w60h49r3	relativeOf	w6x74cd2	
-w60h49r3	relativeOf	w6gj3q0h	
-w60h49r3	sibling-in-law of	w6010spn	
-w60h49r3	relativeOf	w6hv3dnq	
-w60h49r3	relativeOf	w6wt9jhx	
-w60h49r3	relativeOf	w6hb9wqh	
-w60h49r3	acquaintanceOf	w6n9820p	
-w60h49r3	relativeOf	w6n05cnp	
-w60h49r3	auntOrUncleOf	w66v1c5g	
-w60h49r3	sibling of	w6xx5995	
-w60h49r3	sibling of	w6n05bth	
-w60h49r3	sibling of	w6553d40	
+w6zx2b7v	childOf	w63z8z1g	
+w6zx2b7v	sibling-in-law of	w6wt9jhx	
+w6zx2b7v	relativeOf	w6c82qz0	
+w6zx2b7v	acquaintanceOf	w6n9820p	
+w6k6603s	nieceOrNephewOf	w6010spn	
+w6k6603s	relativeOf	w6kx66hw	
+w6k6603s	associatedWith	w6rj4s40	
+w6k6603s	relativeOf	w64v7902	
+w6k6603s	relativeOf	w66v1c5g	
+w6k6603s	relativeOf	w6sv8fbg	
+w6k6603s	nieceOrNephewOf	w6xx5995	
+w6k6603s	childOf	w6n05bth	
+w6k6603s	sibling of	w6xm0dbv	
+w6k6603s	spouseOf	w6k08k1m	
+w6k6603s	nieceOrNephewOf	w6553d40	
+w6k6603s	nieceOrNephewOf	w60h49r3	
+w6650f8c	childOf	w6010spn	
+w6650f8c	relativeOf	w6mt4j9v	
+w6650f8c	spouseOf	w6kx66hw	
+w6650f8c	acquaintanceOf	w6n9820p	
+w6650f8c	relativeOf	w6k6603s	
+w6650f8c	relativeOf	w66v1c5g	
+w6650f8c	nieceOrNephewOf	w6n05bth	
+w6650f8c	relativeOf	w6xm0dbv	
+w6650f8c	grandchildOf	w6ph2gz9	
+w6650f8c	nieceOrNephewOf	w6553d40	
+w6650f8c	nieceOrNephewOf	w60h49r3	
+w68q6r38	acquaintanceOf	w6n9820p	
+w6jb6xn6	acquaintanceOf	w6n9820p	
+w6jb6xn6	relativeOf	w6r525r2	
+w6hb9wqh	sibling-in-law of	w6zx2b7v	
+w6hb9wqh	nieceOrNephewOf	w6j20tpc	
+w6hb9wqh	nieceOrNephewOf	w6hv3dtz	
+w6hb9wqh	sibling-in-law of	w6hv3dnq	
+w6hb9wqh	sibling of	w6wt9jhx	
+w6hb9wqh	nieceOrNephewOf	w6c82qz0	
+w6hb9wqh	grandchildOf	w6rg6kjz	
+w6hb9wqh	child-in-law of	w65v49t0	
+w6hb9wqh	child-in-law of	w6gb275h	
+w6hb9wqh	sibling-in-law of	w6zd8tgw	
+w6hb9wqh	acquaintanceOf	w6n9820p	
+w6hb9wqh	sibling-in-law of	w6w48mwd	
+w6hb9wqh	sibling-in-law of	w66794np	
+w6hb9wqh	sibling-in-law of	w6107trk	
+w6hb9wqh	nieceOrNephewOf	w61m02bn	
+w6hb9wqh	nieceOrNephewOf	w66r2nv3	
+w6hb9wqh	nieceOrNephewOf	w6ph2gz9	
+w6zw3s78	acquaintanceOf	w6wx87x7	
+w6zw3s78	acquaintanceOf	w6n9820p	
+w6r31rzq	sibling of	w6rg6kkd	
+w6r31rzq	acquaintanceOf	w6n9820p	
+w6r31rzq	sibling-in-law of	w6mk6p7z	
+w6qj854r	spouseOf	w6tq8ftp	
+w6qj854r	sibling-in-law of	w6hv3dnq	
+w6qj854r	sibling-in-law of	w6wt9jhx	
+w6qj854r	sibling-in-law of	w6wx87x7	
+w6qj854r	sibling-in-law of	w6n9820p	
+w6qj854r	sibling-in-law of	w6fv9b6q	
+w6qj854r	sibling-in-law of	w6bv9xp3	
+w6qj854r	sibling-in-law of	w64n1mqv	
+w6qj854r	sibling-in-law of	w6r525r2	
+w6qj854r	auntOrUncleOf	w6g77m31	
+w6md9qk8	acquaintanceOf	w6n9820p	
+w6md9qk8	childOf	w68m543d	
+w6wr0v4m	correspondedWith	w6s1844s	
+w6wr0v4m	acquaintanceOf	w6wq14dj	
+w6wr0v4m	associatedWith	w6rj4s40	
+w6wr0v4m	acquaintanceOf	w6x098rs	
+w6wr0v4m	associatedWith	w6gb2s37	
+w6cz4d1t	correspondedWith	w6jd66gz	
+w6cz4d1t	correspondedWith	w6rj4s40	
+w6cz4d1t	acquaintanceOf	w6n9820p	
+w6ht6kfw	acquaintanceOf	w6n9820p	
+w6kf2phb	associatedWith	w6br9gtg	
+w6g55ftx	parentOf	w63s1jcm	
+w6g55ftx	acquaintanceOf	w6n9820p	
+w63s1j4g	acquaintanceOf	w6n9820p	
+w65d92g1	acquaintanceOf	w6hj799d	
+w65d92g1	acquaintanceOf	w6n9820p	
+w65d92g1	acquaintanceOf	w6gq882n	
+w66z02ks	acquaintanceOf	w6n9820p	
+w66z02ks	relativeOf	w61d2nhm	
+w6tz45z2	acquaintanceOf	w6n9820p	
+w6tz45z2	parentOf	w6t25v7b	
+w6tz45z2	parentOf	w6621qxj	
+w6tz45z2	parent-in-law of	w61d2nhm	
+w6hv3dwv	parent-in-law of	w6gj3q0h	
+w6hv3dwv	grandparentOf	w638818j	
+w6hv3dwv	parent-in-law of	w6hv3dtz	
+w6hv3dwv	grandparentOf	w68x44wf	
+w6hv3dwv	grandparentOf	w64v7902	
+w6hv3dwv	parent-in-law of	w6wx87x7	
+w6hv3dwv	grandparentOf	w6136j8n	
+w6hv3dwv	childOf	w6n9820p	
+w6hv3dwv	grandparentOf	w6vf7pzj	
+w6hv3dwv	grandparentOf	w6vz1749	
+w6hv3dwv	parentOf	w6n05cnp	
+w6hv3dwv	grandparentOf	w60h49sj	
+w6hv3dwv	relativeOf	w6dn68k9	
+w6hv3dwv	grandparentOf	w6k6603s	
+w6hv3dwv	relativeOf	w6wr0v4m	
+w6w48mwd	childOf	w65v49t0	
+w6w48mwd	childOf	w6gb275h	
+w6w48mwd	acquaintanceOf	w6n9820p	
+w6w48mwd	sibling-in-law of	w66794np	
+w6w48mwd	sibling of	w6107trk	
+w66f6jgb	auntOrUncleOf	w6165774	
+w66f6jgb	acquaintanceOf	w6n9820p	
+w66f6jgb	grandparentOf	w6k6603s	
+w66f6jgb	parent-in-law of	w6n05bth	
+w66f6jgb	grandparentOf	w6xm0dbv	
+w6mw2sk8	acquaintanceOf	w6qr572m	
+w6mw2sk8	associatedWith	w65d92g1	
+w6mw2sk8	acquaintanceOf	w6n9820p	
+w6mw2sk8	acquaintanceOf	w6427nc6	
+w6mw2sk8	acquaintanceOf	w69h6cd0	
+w6x16z80	acquaintanceOf	w6n9820p	
+w6x16z80	sibling of	w6h70g88	
+w6x098rs	acquaintanceOf	w6n9820p	
+w6x098rs	parentOf	w6gb2s37	
+w6427nc6	acquaintanceOf	w6n9820p	
+w6rg6kjz	grandparentOf	w6zx2b7v	
+w6rg6kjz	parent-in-law of	w6j20tpc	
+w6rg6kjz	grandparentOf	w6wt9jhx	
+w6rg6kjz	grandparentOf	w6hb9wqh	
+w6rg6kjz	parentOf	w6c82qz0	
+w6rg6kjz	acquaintanceOf	w65v49t0	
+w6rg6kjz	acquaintanceOf	w6n9820p	
+w66r2nv3	auntOrUncleOf	w6gj3q0h	
+w66r2nv3	parent-in-law of	w6010spn	
+w66r2nv3	sibling of	w61m02bn	
+w66r2nv3	parentOf	w6xx5995	
+w66r2nv3	parentOf	w6n05bth	
+w66r2nv3	spouseOf	w6ph2gz9	
+w66r2nv3	auntOrUncleOf	w6vv2hqk	
+w6x74cd2	sibling-in-law of	w6gj3q0h	
+w6x74cd2	acquaintanceOf	w6n9820p	
+w6x74cd2	sibling of	w6fv9b6q	
+w638818j	nieceOrNephewOf	w6gj3q0h	
+w638818j	spouseOf	w6d01xtv	
+w638818j	nieceOrNephewOf	w6hv3dtz	
+w638818j	nieceOrNephewOf	w6hv3dnq	
+w638818j	nieceOrNephewOf	w6wt9jhx	
+w638818j	sibling of	w68x44wf	
+w638818j	sibling of	w64v7902	
+w638818j	childOf	w6wx87x7	
+w638818j	sibling of	w6136j8n	
+w638818j	childOf	w6n9820p	
+w638818j	sibling of	w6vf7pzj	
+w638818j	sibling of	w6vz1749	
+w638818j	nieceOrNephewOf	w6n05cnp	
+w66b7v5c	sibling-in-law of	w6wx87x7	
+w66b7v5c	sibling of	w6n9820p	
+w6xq7wg4	acquaintanceOf	w6427ngj	
+w6xq7wg4	acquaintanceOf	w6n9820p	
+w6s1844s	correspondedWith	w65q5g7f	
+w6wx87x7	sibling of	w6tq8ftp	
+w6wx87x7	sibling-in-law of	w6qj854r	
+w6wx87x7	sibling-in-law of	w6gj3q0h	
+w6wx87x7	sibling-in-law of	w6n05cnp	
+w6wx87x7	sibling-in-law of	w6fv9b6q	
+w6wx87x7	sibling of	w6bv9xp3	
+w6wx87x7	sibling-in-law of	w64n1mqv	
+w6wx87x7	sibling-in-law of	w6r525r2	
+w63g5dz0	acquaintanceOf	w6n9820p	
+w63g5dz0	acquaintanceOf	w6427nc6	
+w63g5dz0	acquaintanceOf	w6028wf4	
+w63g5dz0	acquaintanceOf	w6028wf4	
+w6d59f93	acquaintanceOf	w6n9820p	
+w6vf7pzj	childOf	w6wx87x7	
+w6vf7pzj	childOf	w6n9820p	
+w6cg1kgr	parentOf	w6jd66gz	
+w6cg1kgr	associatedWith	w6n9820p	
+w65f9hh6	acquaintanceOf	w6n9820p	
+w65f9hh6	auntOrUncleOf	w6md9qk8	
+w65f9hh6	sibling of	w68m543d	
+w6028wf4	acquaintanceOf	w6jd66gz	
+w6028wf4	acquaintanceOf	w6wt9jhx	
+w6028wf4	acquaintanceOf	w6z65997	
+w6028wf4	acquaintanceOf	w6n9820p	
+w6028wf4	associatedWith	w6891hbg	
+w6028wf4	acquaintanceOf	w6cz4d1t	
+w6028wf4	acquaintanceOf	w68m543d	
+w6028wf4	acquaintanceOf	w6zk9cxf	
+w6028wf4	acquaintanceOf	w6kx66c3	
+w6028wf4	acquaintanceOf	w6n69bqr	
+w6wq14dj	acquaintanceOf	w65q5g7f	
+w6wq14dj	acquaintanceOf	w6891hbg	
+w6wq14dj	acquaintanceOf	w6sq9jjd	
+w6wq14dj	acquaintanceOf	w6wr0v4m	
+w6mt4j9v	nieceOrNephewOf	w6010spn	
+w6mt4j9v	childOf	w6fs0n6b	
+w6mt4j9v	acquaintanceOf	w6n9820p	
+w6ph2gz9	auntOrUncleOf	w6gj3q0h	
+w6ph2gz9	acquaintanceOf	w6n9820p	
+w6ph2gz9	relativeOf	w6jb6xn6	
+w6ph2gz9	grandparentOf	w6k6603s	
+w6ph2gz9	relativeOf	w6k08k1m	
+w6ph2gz9	auntOrUncleOf	w6fv9b6q	
+w6qr572m	acquaintanceOf	w6mw2sk8	
+w6qr572m	acquaintanceOf	w6n9820p	
+w6qr572m	acquaintanceOf	w6427nc6	
+w6058f0z	spouseOf	w6sf4z67	
+w6058f0z	child-in-law of	w6qj9kc7	
+w6058f0z	acquaintanceOf	w6n9820p	
+w61d2nhm	sibling-in-law of	w6n9820p	
+w61d2nhm	sibling-in-law of	w6n05cnp	
+w61d2nhm	sibling-in-law of	w66b7v5c	
+w61d2nhm	sibling-in-law of	w6t25v7b	
+w61d2nhm	child-in-law of	w6tz45z2	
+w61d2nhm	sibling-in-law of	w6621qxj	
+w61d2nhm	nieceOrNephewOf	w6cp7vj9	
+w65147nn	acquaintanceOf	w6n9820p	
+w6rg6kkd	sibling of	w6r31rzq	
+w6rg6kkd	acquaintanceOf	w6n9820p	
+w6rg6kkd	sibling-in-law of	w6mk6p7z	
+w6j20tr8	acquaintanceOf	w6n9820p	
+w6kx66c3	acquaintanceOf	w6jd66gz	
+w6kx66c3	acquaintanceOf	w6b01gx6	
+w6kx66c3	acquaintanceOf	w6wq14dj	
+w6kx66c3	acquaintanceOf	w6wt9jhx	
+w6kx66c3	relativeOf	w6n9820p	
+w6kx66c3	acquaintanceOf	w6cz4d1t	
+w6kx66c3	acquaintanceOf	w66124pd	
+w6kx66c3	acquaintanceOf	w6x16z80	
+w6kx66c3	acquaintanceOf	w6427nc6	
+w6kx66c3	acquaintanceOf	w68m543d	
+w6kx66c3	acquaintanceOf	w6zk9cxf	
+w6kx66c3	spouseOf	w6g77m31	
+w6553d40	acquaintanceOf	w6n9820p	
+w6553d40	sibling of	w6n05bth	
+w6553d40	childOf	w6ph2gz9	
+w6q924mx	acquaintanceOf	w6n9820p	
+w6q924mx	sibling-in-law of	w6nk4g54	
+w67f3kpm	acquaintanceOf	w6n9820p	
+w6vr3t5g	acquaintanceOf	w6n9820p	
+w6gg1k3r	acquaintanceOf	w6n9820p	
+w6gg1k3r	nieceOrNephewOf	w66r2nv3	
+w6gg1k3r	nieceOrNephewOf	w6ph2gz9	
+w6gg1k3r	childOf	w6cp7vj9	
+w6j20tpc	sibling-in-law of	w6hv3dtz	
+w6j20tpc	auntOrUncleOf	w6wt9jhx	
+w6j20tpc	auntOrUncleOf	w6hb9wqh	
+w6j20tpc	sibling-in-law of	w6c82qz0	
+w6j20tpc	acquaintanceOf	w6n9820p	
+w6j20tpc	sibling-in-law of	w6jb6xn6	
+w6j20tpc	parent-in-law of	w66v1c5g	
+w6xf1s5t	acquaintanceOf	w6s1844s	
+w6xf1s5t	acquaintanceOf	w6jd66gz	
+w6xf1s5t	acquaintanceOf	w6n9820p	
+w60h49sj	nieceOrNephewOf	w6gj3q0h	
+w60h49sj	sibling-in-law of	w6d01xtv	
+w60h49sj	sibling of	w638818j	
+w60h49sj	nieceOrNephewOf	w6hv3dtz	
+w60h49sj	nieceOrNephewOf	w68x44xw	
+w60h49sj	sibling of	w68x44wf	
+w60h49sj	sibling of	w64v7902	
+w60h49sj	childOf	w6wx87x7	
+w60h49sj	sibling of	w6136j8n	
+w60h49sj	childOf	w6n9820p	
+w60h49sj	sibling of	w6vf7pzj	
+w60h49sj	sibling of	w6vz1749	
+w60h49sj	nieceOrNephewOf	w6n05cnp	
+w60h49sj	auntOrUncleOf	w6jn3260	
+w60h49sj	grandchildOf	w6hv3dwv	
+w60h49sj	nieceOrNephewOf	w66b7v5c	
+w60h49sj	nieceOrNephewOf	w61d2nhm	
+w6g77m31	nieceOrNephewOf	w6tq8ftp	
+w6g77m31	nieceOrNephewOf	w6qj854r	
+w6g77m31	parentOf	w6wt9jhx	
+w6g77m31	nieceOrNephewOf	w6wx87x7	
+w6g77m31	nieceOrNephewOf	w6n9820p	
+w6g77m31	associatedWith	w6k08k1m	
+w6g77m31	nieceOrNephewOf	w6fv9b6q	
+w6g77m31	child-in-law of	w6cr7rz4	
+w6g77m31	sibling-in-law of	w6vj6d7g	
+w6g77m31	nieceOrNephewOf	w6r525r2	
+w6g77m31	spouseOf	w6kx66c3	
+w67h3crq	associatedWith	w6n9820p	
+w67h3crq	parentOf	w6j20tr8	
+w6rk58z8	acquaintanceOf	w63s1j4g	
+w6rk58z8	acquaintanceOf	w6n9820p	
+w69h6c86	spouseOf	w6hj799d	
+w69h6c86	sibling-in-law of	w6gj3q0h	
+w69h6c86	sibling of	w6165774	
+w69h6c86	nieceOrNephewOf	w6c82qz0	
+w69h6c86	acquaintanceOf	w6n9820p	
+w6q924kg	acquaintanceOf	w6n9820p	
+w6q924kg	sibling of	w6j49htj	
+w6q924kg	sibling of	w65z31h9	
+w6q924kg	sibling of	w6jx3293	
+w6z71dmb	auntOrUncleOf	w6n9820p	
+w6z71dmb	sibling of	w6hv3dwv	
+w6hj799d	sibling-in-law of	w6165774	
+w6jn3260	nieceOrNephewOf	w638818j	
+w6jn3260	nieceOrNephewOf	w68x44wf	
+w6jn3260	grandchildOf	w6wx87x7	
+w6jn3260	nieceOrNephewOf	w6136j8n	
+w6jn3260	grandchildOf	w6n9820p	
+w6jn3260	nieceOrNephewOf	w6vf7pzj	
+w6jn3260	childOf	w6vz1749	
+w6jn3260	nieceOrNephewOf	w60h49sj	
+w6p37ppz	acquaintanceOf	w6n9820p	
+w6bd4q25	acquaintanceOf	w6n9820p	
+w6n05cnp	sibling-in-law of	w6x74cd2	
+w6n05cnp	spouseOf	w6gj3q0h	
+w6n05cnp	auntOrUncleOf	w638818j	
+w6n05cnp	sibling-in-law of	w6hv3dtz	
+w6n05cnp	sibling-in-law of	w68x44xw	
+w6n05cnp	auntOrUncleOf	w68x44wf	
+w6n05cnp	auntOrUncleOf	w64v7902	
+w6n05cnp	sibling-in-law of	w6wx87x7	
+w6n05cnp	auntOrUncleOf	w6136j8n	
+w6n05cnp	sibling of	w6n9820p	
+w6n05cnp	auntOrUncleOf	w6vf7pzj	
+w6n05cnp	auntOrUncleOf	w6vf7pzj	
+w6n05cnp	auntOrUncleOf	w6vz1749	
+w6n05cnp	sibling of	w66b7v5c	
+w6n05cnp	auntOrUncleOf	w60h49sj	
+w6n05cnp	parent-in-law of	w6k6603s	
+w6n05cnp	child-in-law of	w61m02bn	
+w6n05cnp	parentOf	w6k08k1m	
+w6n05cnp	sibling-in-law of	w6xt6kzb	
+w6n05cnp	sibling-in-law of	w61d2nhm	
+w6md9qck	acquaintanceOf	w6n9820p	
+w6md9qck	child-in-law of	w6jb6xn6	
+w6010spn	parent-in-law of	w6kx66hw	
+w6010spn	acquaintanceOf	w6n9820p	
+w6010spn	auntOrUncleOf	w6k6603s	
+w6010spn	auntOrUncleOf	w66v1c5g	
+w6010spn	sibling-in-law of	w6xx5995	
+w6010spn	child-in-law of	w6ph2gz9	
+w6vv2hnp	acquaintanceOf	w6n9820p	
+w6wj3fbd	acquaintanceOf	w6n9820p	
+w67d3g1h	acquaintanceOf	w6n9820p	
+w67d3g1h	acquaintanceOf	w6wr0v4m	
+w6gb275h	acquaintanceOf	w6n9820p	
+w68m543d	acquaintanceOf	w6427ngj	
+w68m543d	acquaintanceOf	w6n9820p	
+w68m543d	acquaintanceOf	w6nk4g54	
+w68m543d	parentOf	w6md9qk8	
+w68m543d	acquaintanceOf	w6h14ctn	
+w6c82qz0	nieceOrNephewOf	w6165774	
+w6c82qz0	relativeOf	w6n9820p	
+w6c82qz0	acquaintanceOf	w6n9820p	
+w6qk87tw	relativeOf	w6010spn	
+w6qk87tw	acquaintanceOf	w6n9820p	
+w6qk87tw	relativeOf	w6xx5995	
+w6qk87tw	relativeOf	w6n05bth	
+w6qk87tw	nieceOrNephewOf	w6ph2gz9	
+w6qk87tw	relativeOf	w6553d40	
+w6qk87tw	relativeOf	w60h49r3	
+w64r0gvn	sibling-in-law of	w65v49t0	
+w64r0gvn	sibling-in-law of	w6gb275h	
+w64r0gvn	acquaintanceOf	w6n9820p	
+w6wt9jhx	sibling-in-law of	w6qj854r	
+w6wt9jhx	relativeOf	w6gj3q0h	
+w6wt9jhx	nieceOrNephewOf	w6c82qz0	
+w6wt9jhx	sibling-in-law of	w6wx87x7	
+w6wt9jhx	sibling-in-law of	w6n9820p	
+w6wt9jhx	relativeOf	w6n9820p	
+w6wt9jhx	nieceOrNephewOf	w6ph2gz9	
+w6wt9jhx	sibling-in-law of	w6fv9b6q	
+w6wt9jhx	sibling-in-law of	w6bv9xp3	
+w6wt9jhx	sibling-in-law of	w6r525r2	
+w6d01xtv	child-in-law of	w6wx87x7	
+w6d01xtv	child-in-law of	w6n9820p	
+w6gv6crg	associatedWith	w68w3qrz	
+w6gv6crg	acquaintanceOf	w6n9820p	
+w6gv6crg	associatedWith	w6n87x9b	
+w6bv9xp3	sibling of	w6tq8ftp	
+w6bv9xp3	sibling-in-law of	w6qj854r	
+w6bv9xp3	sibling of	w6wx87x7	
+w6bv9xp3	sibling-in-law of	w6n9820p	
+w6bv9xp3	sibling-in-law of	w6fv9b6q	
+w6bv9xp3	spouseOf	w64n1mqv	
+w6bv9xp3	sibling-in-law of	w6r525r2	
+w6427ngj	correspondedWith	w6s1844s	
+w6427ngj	sibling-in-law of	w6b01gx6	
+w6427ngj	associatedWith	w6wq14dj	
+w6427ngj	acquaintanceOf	w6n9820p	
+w6427ngj	acquaintanceOf	w6nk4g54	
+w6fs0n6b	sibling of	w6010spn	
+w6fs0n6b	parentOf	w6mt4j9v	
+w6fs0n6b	acquaintanceOf	w6n9820p	
+w6hv3dtz	auntOrUncleOf	w6wt9jhx	
+w6hv3dtz	sibling of	w6c82qz0	
+w6hv3dtz	childOf	w6rg6kjz	
+w6hv3dtz	sibling-in-law of	w6n9820p	
+w6hv3dtz	auntOrUncleOf	w66v1c5g	
+w69h6cd0	associatedWith	w6qr572m	
+w69h6cd0	acquaintanceOf	w6n9820p	
+w6b38ksb	relativeOf	w6sf4z67	
+w6b38ksb	nieceOrNephewOf	w6qj9kc7	
+w6b38ksb	acquaintanceOf	w6n9820p	
+w6h70g88	acquaintanceOf	w6n9820p	
+w6h70g88	sibling of	w6x16z80	
+w6h70g88	sibling of	w66794np	
+w6qj9kc7	parentOf	w6sf4z67	
+w6qj9kc7	parent-in-law of	w6058f0z	
+w6qj9kc7	acquaintanceOf	w6n9820p	
+w6sf4z67	spouseOf	w6058f0z	
+w6sf4z67	childOf	w6qj9kc7	
+w6sf4z67	acquaintanceOf	w6n9820p	
+w6sf4z67	correspondedWith	w6nk4g54	
 w65t3wn2	acquaintanceOf	w6n9820p	
+w65t3wn2	acquaintanceOf	w6gq882n	
+w6z65997	parentOf	w6q924mx	
+w6z65997	acquaintanceOf	w6n9820p	
+w6z65997	parent-in-law of	w6nk4g54	
+w6cr7t0d	acquaintanceOf	w6cg1kgr	
+w6cr7t0d	acquaintanceOf	w6n9820p	
+w6jj4bpx	acquaintanceOf	w6n9820p	
+w64v7902	nieceOrNephewOf	w6tq8ftp	
+w64v7902	nieceOrNephewOf	w6qj854r	
+w64v7902	nieceOrNephewOf	w6gj3q0h	
+w64v7902	child-in-law of	w6010spn	
+w64v7902	nieceOrNephewOf	w6hv3dtz	
+w64v7902	nieceOrNephewOf	w6hv3dnq	
+w64v7902	nieceOrNephewOf	w6wt9jhx	
+w64v7902	relativeOf	w6kx66hw	
+w64v7902	sibling of	w68x44wf	
+w64v7902	childOf	w6wx87x7	
+w64v7902	childOf	w6n9820p	
+w64v7902	sibling of	w6vf7pzj	
+w64v7902	nieceOrNephewOf	w6n05cnp	
+w64v7902	relativeOf	w6k6603s	
+w64v7902	nieceOrNephewOf	w6fv9b6q	
+w64v7902	relativeOf	w6hf8m7k	
+w64v7902	nieceOrNephewOf	w6bv9xp3	
+w64v7902	nieceOrNephewOf	w6r525r2	
+w64v7902	relativeOf	w6g77m31	
+w64v7902	relativeOf	w6kx66c3	
+w6zk9cxf	acquaintanceOf	w6f1984q	
+w6zk9cxf	acquaintanceOf	w6n9820p	
+w6zk9cxf	spouseOf	w68d3sbk	
+w6hv3dnq	sibling of	w6tq8ftp	
+w6hv3dnq	sibling-in-law of	w6qj854r	
+w6hv3dnq	spouseOf	w6wt9jhx	
+w6hv3dnq	sibling of	w6wx87x7	
+w6hv3dnq	sibling-in-law of	w6n9820p	
+w6hv3dnq	sibling-in-law of	w6fv9b6q	
+w6hv3dnq	sibling of	w6bv9xp3	
+w6hv3dnq	sibling-in-law of	w6r525r2	
+w6hv3dnq	parentOf	w6g77m31	
+w6hv3dnq	parent-in-law of	w6kx66c3	
+w6h14ctn	acquaintanceOf	w6x93chq	
+w6h14ctn	acquaintanceOf	w6n9820p	
+w6h14ctn	acquaintanceOf	w65147nn	
+w6h14ctn	acquaintanceOf	w6w77bbk	
+w6136j8n	nieceOrNephewOf	w6tq8ftp	
+w6136j8n	nieceOrNephewOf	w6qj854r	
+w6136j8n	nieceOrNephewOf	w6gj3q0h	
+w6136j8n	nieceOrNephewOf	w6hv3dtz	
+w6136j8n	nieceOrNephewOf	w6hv3dnq	
+w6136j8n	nieceOrNephewOf	w6wt9jhx	
+w6136j8n	relativeOf	w6kx66hw	
+w6136j8n	sibling of	w68x44wf	
+w6136j8n	sibling of	w64v7902	
+w6136j8n	childOf	w6wx87x7	
+w6136j8n	childOf	w6n9820p	
+w6136j8n	sibling of	w6vf7pzj	
+w6136j8n	nieceOrNephewOf	w6n05cnp	
+w6136j8n	relativeOf	w6k6603s	
+w6136j8n	nieceOrNephewOf	w6fv9b6q	
+w6136j8n	relativeOf	w6vv2hqk	
+w6136j8n	nieceOrNephewOf	w6bv9xp3	
+w6136j8n	nieceOrNephewOf	w6r525r2	
+w6136j8n	relativeOf	w6g77m31	
+w6136j8n	relativeOf	w6kx66c3	
+w6bm240j	acquaintanceOf	w6x93chq	
+w6bm240j	acquaintanceOf	w6n9820p	
