@@ -57,17 +57,46 @@ class Relationship:
 					return True
 		return False
 
-def checkForInverse(relation, relationList):
-	"""
-	# TODO: add docstring
-	"""
-	pass
-
 def loadRelationsFromFile(filename):
 	"""
-	# TODO: add docstring
+	Loads data from an external TSV & turns it into Relationship objects.
+
+	@param: filename, the name of a TSV file w/ a header row
+			rows should be formatted source, relationship type, target
+	@return: a list of Relationship objects
 	"""
-	pass
+	# Initialize the list we'll return
+	relationList = []
+
+	# Print status message
+	print("Loading relationship data from", filename + "...")
+
+	# Open the file, read into a list of lines
+	with open(filename) as f:
+		data = f.read().split("\n")
+
+	del data[0] # Delete header row
+
+	# Loop over the lines,
+	for line in data:
+
+		# (skipping empty lines)
+		if line == "":
+			continue
+
+		# splitting each line by tabs,
+		args = line.split("\t")
+
+		# feeding the data into a Relationship object,
+		relation = Relationship(args[0], args[2], args[1])
+
+		# and appending that obj to the list that will be returned
+		relationList.append(relation)
+
+	# Print status message
+	print("Relationship data successfully loaded.")
+
+	return relationList
 
 def findMissingReciprocals(relationList):
 	"""
@@ -76,6 +105,7 @@ def findMissingReciprocals(relationList):
 	pass
 
 def main():
+	print("")
 	# Extract relationships from external file
 	relationList = loadRelationsFromFile("relationshipTable.tsv")
 
@@ -83,5 +113,7 @@ def main():
 	missingRecips = findMissingReciprocals(relationList)
 
 	# Write the list of missing reciprocals to a file
+
+	print("")
 
 main()
