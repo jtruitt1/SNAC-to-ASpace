@@ -125,10 +125,29 @@ def findMissingReciprocals(relationList):
 			# Add it to the list of missing inverses if it isn't
 			missingRecips.append(inverse)
 
+#			print("\t".join([relation.source, relation.type, relation.target]))
+#			print("\t".join([inverse.source, inverse.type, inverse.target]))
+#			print("")
+
 	#Print status message
 	print("List compiled!")
 
 	return missingRecips
+
+def writeRelationshipsToFile(relationList, filename):
+
+	print("Writing data to", filename+ "...")
+
+	headerRow = "Source\tType\tTarget\n"
+
+	with open(filename, "w") as f:
+		f.write(headerRow)
+
+		for link in relationList:
+			row = "\t".join([link.source, link.type, link.target])
+			f.write(row + "\n")
+
+	print("Data successfully written!")
 
 def main():
 	print("")
@@ -136,9 +155,12 @@ def main():
 	relationList = loadRelationsFromFile("relationshipTable.tsv")
 
 	# Find missing reciprocal relationships
+	print("")
 	missingRecips = findMissingReciprocals(relationList)
 
+	print("")
 	# Write the list of missing reciprocals to a file
+	writeRelationshipsToFile(missingRecips, "missingRelationships.tsv")
 
 	print("")
 
