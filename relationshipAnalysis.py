@@ -100,9 +100,35 @@ def loadRelationsFromFile(filename):
 
 def findMissingReciprocals(relationList):
 	"""
-	# TODO: add docstring
+	Check for non-reciprocal relationships in a list of Relationship objs.
+
+	For every item in the list, check to see if its inverse is in the list.
+	@param: relationList, a list of Relationship objects
+	@return: a list of Relationship objs which, if added to relationList,
+				would ensure that all relationships had an inverse
 	"""
-	pass
+
+	# Initialize list to return
+	missingRecips = []
+
+	# Print a status message
+	print("Checking for relationships without reciprocals…")
+
+	for relation in relationList:
+
+		# Get the inverse relationship
+		inverse = relation.getInverse()
+
+		# See if the inverse is in the list
+		if inverse not in relationList:
+
+			# Add it to the list of missing inverses if it isn't
+			missingRecips.append(inverse)
+
+	#Print status message
+	print("List compiled!")
+
+	return missingRecips
 
 def main():
 	print("")
