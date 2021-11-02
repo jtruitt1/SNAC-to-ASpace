@@ -1,6 +1,14 @@
-import re, json, requests
+"""
+Written by James Truitt of Swarthmore College's Friends Historical Library,
+November 2021.
+"""
+
+import re, json, requests, secret
 from glob import glob
-from utils import loadSnacData, apiError, postToApi, verifyApiSuccess
+from utils import loadSnacData, apiError, postToApi, verifyApiSuccess, apiError
+
+import re, json, requests, secret
+
 
 def getUniqueIdentifiers(constellations):
 	"""

@@ -179,7 +179,6 @@ class Relationship:
 	}
 
 
-
 def loadSnacData():
 	"""
 	Read SNAC JSON data from files in the snac_jsons folder.
@@ -233,3 +232,31 @@ def verifyApiSuccess(response):
 		except TypeError:
 			print(response)
 			raise apiError("Seems like one of the weird ones")
+
+def loadIdsToUpdate():
+	"""
+	Loads data from a .tsv (A\tB\tC\tD) into a list of lists ([[A,B,C,D]])
+	"""
+	print("Reading data from file...")
+	# Initialize the list we'll return
+	identifiers = {}
+
+	# Read data from file
+	filename = "idsToUpdate.tsv"
+	with open(filename) as f:
+		rows = f.read().split("\n")
+
+	# Discard header row
+	del rows[0]
+
+	# Delete last line if it's blank
+	if rows[-1] == "":
+		del rows[-1]
+
+	# Loop over row strings, turning them into lists & adding them to main list
+	for row in rows:
+		identifiers.append(row.split("\t"))
+
+
+	print("Data successfully read.\n")
+	return identifiers
