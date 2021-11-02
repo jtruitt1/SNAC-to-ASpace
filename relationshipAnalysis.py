@@ -116,6 +116,10 @@ def findMissingReciprocals(relationList):
 
 	for relation in relationList:
 
+		# Skip "associatedWith" relationships
+		if relation.type == "associatedWith":
+			continue
+
 		# Get the inverse relationship
 		inverse = relation.getInverse()
 

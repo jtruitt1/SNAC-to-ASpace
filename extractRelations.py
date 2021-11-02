@@ -7,7 +7,7 @@ def extractRelations(constellation):
 		Given a SNAC constellation JSON, return a list of its relations
 
 		Params: @constellation, a SNAC constellation in JSON form
-		Returns: a list of lists in the form [srcArkID, relType, trgtArkID]
+		Returns: a list of lists in the form [srcSnacID, relType, trgtSnacID]
 				 (if constellation has no relations, returns empty list)
 		"""
 		data = []
@@ -16,9 +16,9 @@ def extractRelations(constellation):
 		if "relations" in constellation.keys():
 			for relationship in constellation["relations"]:
 				triple = [
-					relationship["sourceArkID"][-8:], # 8-digit source ArkID
+					relationship["sourceConstellation"], # SNAC ID
 					relationship["type"]["term"], # Relationship type
-					relationship["targetArkID"][-8:] # 8-digit target ArkID
+					relationship["targetConstellation"] # SNAC ID
 				]
 				data.append(triple)
 
@@ -29,12 +29,15 @@ def main():
 	constellations = loadSnacData()
 
 	# Loop over constellations, extracting their relationships into a list
-	#	and compiling a list of their 8-digit Ark IDs
+	#	and compiling a list of their SNAC IDs
 	output = []
-	arks = []
+	ids = []
 	for constellation in constellations:
+		# Add get relation list from constellation; add contents to output list
 		output = output + extractRelations(constellation)
-		arks.append(constellation["ark"][-8:])
+
+		# Add the constellation's SNAC ID to the list we're keeping track of
+		ids.append(constellation["id"])
 
 	# Remove links to constellations not in our data set
 	#	(loop over list backwards b/c we're modifying it)
@@ -48,7 +51,7 @@ def main():
 		target = link[2]
 
 		# Delete the link if its target isn't in our dataset
-		if target not in arks:
+		if target not in ids:
 			del output[i]
 
 	# Remove trailing periods from names
@@ -63,10 +66,8 @@ def main():
 		f.write(header)
 
 		# Piece together string that will represent row of TSV
-		for item in output:
-			toWrite = ""
-			for i in item:
-				toWrite += i + "\t"
+		for relationshipList in output:
+			toWrite = "\t".join(relationshipList)
 			f.write(toWrite+"\n")
 
 if __name__ == '__main__':
