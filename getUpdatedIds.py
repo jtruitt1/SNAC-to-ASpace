@@ -107,6 +107,10 @@ def writeDataToFile(idsToUpdate):
 	"""
 	Write a list of lists to a .tsv file
 	"""
+	# Skip this step if there are no ids to update
+	if len(idsToUpdate) == 0:
+		return None
+
 	filename = "idsToUpdate.tsv"
 	header = "\t".join(["Old ID", "New ID", "Old Ark", "New Ark\n"])
 	rowsAsStrings = ["\t".join(idsToUpdate[i]) for i in range(len(idsToUpdate))]

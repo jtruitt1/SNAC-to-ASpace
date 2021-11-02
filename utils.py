@@ -239,7 +239,7 @@ def loadIdsToUpdate():
 	"""
 	print("Reading data from file...")
 	# Initialize the list we'll return
-	identifiers = {}
+	identifiers = []
 
 	# Read data from file
 	filename = "idsToUpdate.tsv"
