@@ -1,4 +1,9 @@
+# Data output formats
 *.json
+*.tsv
+
+# Secrets file
+secret*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
