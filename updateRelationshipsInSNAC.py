@@ -1,3 +1,8 @@
+"""
+Written by James Truitt of Swarthmore College's Friends Historical Library,
+November 2021.
+"""
+
 import requests, json, argparse, secret
 
 from snacUtils import Relationship, loadRelationsFromFile, apiError
