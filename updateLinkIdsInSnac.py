@@ -1,9 +1,11 @@
 """
+Update outdated target IDs in constellation relationships on SNAC.
+
 Written by James Truitt of Swarthmore College's Friends Historical Library,
 November 2021.
 """
 
-import re, json, requests, secret
+import json, requests, secret
 from glob import glob
 from utils import loadIdsToUpdate, apiError, postToApi, verifyApiSuccess
 from apiEditUtils import checkOutConstellation, publishConstellation

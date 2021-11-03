@@ -1,3 +1,10 @@
+"""
+Adds a set of relationships to constellations in SNAC.
+
+Written by James Truitt of Swarthmore College's Friends Historical Library,
+November 2021
+"""
+
 import requests, json, argparse, secret
 from utils import Relationship, loadRelationsFromFile, apiError
 from utils import postToApi, verifyApiSuccess
