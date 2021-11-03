@@ -6,8 +6,8 @@ November 2021.
 import re, json, requests, secret
 from glob import glob
 from utils import loadIdsToUpdate, apiError, postToApi, verifyApiSuccess
-
-import re, json, requests, secret
+from apiEditUtils import checkOutConstellation, publishConstellation
+from apiEditUtils import getUserInput
 
 def makeDict(listOfLists):
 	"""
@@ -36,7 +36,7 @@ def compileEditList(idsToUpdate):
 			filedata = f.read()
 
 		# Extract the record's SNAC ID, for the API call later
-		snacId = json.loads(filedata)["id"]
+		snacID = json.loads(filedata)["id"]
 
 		# Loop over the outdated IDs, seeing if any are in this record
 		for outdatedId in idsToUpdate:
@@ -45,11 +45,11 @@ def compileEditList(idsToUpdate):
 			if "\"" + outdatedId + "\"" in filedata:
 
 				# Add record's ID (if needed) to the dict we're compiling
-				if snacId not in recordsToUpdate:
-					recordsToUpdate[snacId] = []
+				if snacID not in recordsToUpdate:
+					recordsToUpdate[snacID] = []
 
 				# Append the outdated ID to this record's dict entry
-				recordsToUpdate[snacId].append(outdatedId)
+				recordsToUpdate[snacID].append(outdatedId)
 
 	return recordsToUpdate
 
@@ -63,9 +63,12 @@ def makeUpdates(updateDict, apiKey, production = False):
 
 	# TODO: print message
 
-	for snacID in updateDict:
+	for constellation in updateDict:
 		# Make API call to check out constellation
 
+		# Loop over identifiers to be updated in the constellation
+		for snacID in updateDict[constellation]:
+			editConstellation()
 
 def main():
 	print()
