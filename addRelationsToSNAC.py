@@ -148,8 +148,7 @@ def insertRelations(snacID, apiKey, relationships, production = False):
 
 	# Validate API key
 	if not isinstance(apiKey, str):
-		print("Error: API key must be a string.")
-		raise KeyboardInterrupt
+		raise Exception("Error: API key must be a string.")
 
 	# Set appropriate URL
 	if production == True:
