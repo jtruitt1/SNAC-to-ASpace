@@ -11,16 +11,38 @@ from apiEditUtils import getUserInput
 
 def makeDict(listOfLists):
 	"""
-	# TODO: add docstring
+	Convert a list of lists ([[A,B,C,D]]) into a dict ({A:{newId:B, newArk:D}})
 	"""
-	print("In makeDict")
-	return {"1234":["this","isn't","done"], "5678":["still","not","done"]}
+	# Print status message
+	print("Formatting loaded data...")
+
+	# Initialize the dict we'll eventually return
+	updateDict = {}
+
+	for list in listOfLists:
+		oldId, newId, newArk = list[0], list[1], list[3]
+		updateDict[oldId] = {"newId": newId, "newArk": newArk}
+
+	print("Data successfully formatted.\n")
+
+	return updateDict
 
 def compileEditList(idsToUpdate):
 	"""
-	# TODO: Add doc string
+	Find out what SNAC constellations need to be updated & what edits they need.
+
+	Check JSON files containing constellation data against a dict whose keys
+	are outdated identifiers.
+
+	@param: idsToUpdate, a dict w/ entries of the form
+		outdatedId: {"newId":newId, "newArk":newArk}
+	@return: a dict w/ entries of the form
+		constellationToBeUpdatedID: {
+			outdatedId1: {"newId":newId1, "newArk":newArk1},
+			...
+			outdatedIdN: {"newId":newIdN, "newArk":newArkN}
+		}
 	"""
-	# TODO: Print status message
 
 	# Get list of filenames to read
 	filenames = glob("snac_jsons/*.json")
@@ -28,8 +50,18 @@ def compileEditList(idsToUpdate):
 	# Initialize the dict we'll return
 	recordsToUpdate = {}
 
+	# Print status message
+	print("Checking", len(filenames), "constellations for outdated IDs...")
+
 	# Loop over JSON files
+	i = 0
 	for filename in filenames:
+
+		# Print status message
+		i += 1
+		short = filename.split("/").pop()
+		print("Checking constellation {:3d}, id {:9}...".format(i, short),
+			end="\r")
 
 		# Read the file's data into a string
 		with open(filename) as f:
@@ -46,14 +78,22 @@ def compileEditList(idsToUpdate):
 
 				# Add record's ID (if needed) to the dict we're compiling
 				if snacID not in recordsToUpdate:
-					recordsToUpdate[snacID] = []
+					recordsToUpdate[snacID] = {}
 
-				# Append the outdated ID to this record's dict entry
-				recordsToUpdate[snacID].append(outdatedId)
+				# Add outdated ID (& current IDs) to record's dict entry
+				# {snacID: {outdatedId: idsToUpdate[outdatedId]}}
+				recordsToUpdate[snacID][outdatedId] = idsToUpdate[outdatedId]
 
+	print("Successfully compiled list of constellations to update.\n")
 	return recordsToUpdate
 
 	print("\nSuccessfully updated files.\n")
+
+def updateConstellation(updateDict):
+	"""
+	# TODO: Add doc string
+	"""
+	pass
 
 def makeUpdates(updateDict, apiKey, production = False):
 	"""
@@ -62,13 +102,14 @@ def makeUpdates(updateDict, apiKey, production = False):
 	print("In makeUpdates")
 
 	# TODO: print message
-
+	pass
 	for constellation in updateDict:
 		# Make API call to check out constellation
+		response = checkOutConstellation()
 
 		# Loop over identifiers to be updated in the constellation
 		for snacID in updateDict[constellation]:
-			editConstellation()
+			updateConstellation(updateDict, 3, 7)
 
 def main():
 	print()
@@ -88,6 +129,8 @@ def main():
 
 	# Make API calls to update constellations in SNAC
 	makeUpdates(updatesToMake, apiKey)
+
+	return None
 
 
 if __name__ == "__main__":
