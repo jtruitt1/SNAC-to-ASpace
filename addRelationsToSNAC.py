@@ -1,59 +1,8 @@
 import requests, json, argparse, secret
-
-from snacUtils import Relationship, loadRelationsFromFile, apiError
-
-def getUserInput():
-	"""
-	Ask the user whether to use the production server or the development server.
-
-	@returns: True if we're using the production server, False otherwise
-	"""
-	# Define valid user responses
-	affirmative = ["y", "yes", "ye", "true"]
-	negative = ["n", "no", "false"]
-
-	# Print a message
-	msg = "\nWhat server do we want to make changes to?\n"
-	msg += "If we're really sure this will work, we can write to the "
-	msg += "production server.\n"
-	msg += "Otherwise, we should write to the development server.\n"
-	print(msg)
-
-	# Loop until we get either an affirmative or a negative answer
-	while True:
-
-		# Get user input
-		answer = input("Write to production server? Y/N\t").lower()
-
-		# If user says they want to write to production server:
-		if answer in affirmative:
-
-			# Double check that they really mean it
-			print("\nChanges to the production server can't be easily undone.")
-			msg = "Are you still sure you want to write to "
-			msg += "the production server?\t"
-			answer = input(msg)
-
-			if answer in affirmative:
-				print("Production server it is then.")
-				return True
-
-			elif answer in negative:
-				print("Change of plans noted.")
-				print("Development server it is then.")
-				return False
-
-			else:
-				msg = "Sorry, not sure what that means. "
-				msg+= "Let's start again from the top.\n"
-				print(msg)
-
-		elif answer in negative:
-			print("Development server it is then.")
-			return False
-
-		else:
-			print("Sorry, not sure what that means. Let's try again.\n")
+from utils import Relationship, loadRelationsFromFile, apiError
+from utils import postToApi, verifyApiSuccess
+from apiEditUtils import checkOutConstellation, publishConstellation
+from apiEditUtils import getUserInput
 
 def convertToJson(relation):
 	"""
@@ -95,44 +44,6 @@ def splitBySource(relationList):
 			sourceList[source].append(link)
 
 	return sourceList
-
-def postToApi(data, baseUrl):
-	"""
-	Make a POST call to a REST API and return the response
-
-	@param: data, dict, JSON data to be passed in the call
-	@param: baseUrl, str, the URL of the API to call
-	@return the API response in dict form
-	"""
-	data = json.dumps(data) # Turn the dictionary into JSON
-	r = requests.put(baseUrl, data = data) # MAKE THE API REQUEST!!!!!
-	response = json.loads(r.text) # Turn the response from JSON into a dict
-	return response
-
-def checkOutConstellation(snacID, apiKey, baseUrl):
-	"""
-	Check a constellation out of SNAC to allow further edits.
-
-	Side effects: Tries to change data on the dev or prod SNAC server
-
-	For more details on the SNAC API and this command, see:
-		https://github.com/snac-cooperative/Rest-API-Examples/blob/master/modification/json_examples/add_resource_and_relation.md
-		https://snac-dev.iath.virginia.edu/api_help#edit
-
-	@param: snacID, int, SNAC ID of the constellation to update
-	@param: apiKey, str, user API key to authenticate the request
-	@param: baseUrl, str, the URL of the SNAC REST API to call (dev vs. prod)
-	@return: response, the server's response to the API call
-	"""
-	req = {
-	    "command": "edit",
-	    "constellationid": snacID,
-	    "apikey": apiKey
-	}
-
-	response = postToApi(req, baseUrl) # MAKE THE API CALL!!!!!!!
-
-	return response
 
 def buildMinimalConstellation(snacID, version, ark, relationships):
 	"""
@@ -186,42 +97,6 @@ def pushChangesToSnac(miniConst, apiKey, baseUrl):
 	response = postToApi(req, baseUrl)
 
 	return response
-
-def publish_constellation(miniConst, apiKey, baseUrl):
-	"""
-	Publish a constellation checked out to a user
-
-	Side effects: Tries to change data on the dev or prod SNAC server
-
-	For more details on the SNAC API and this command, see:
-		https://github.com/snac-cooperative/Rest-API-Examples/blob/master/modification/json_examples/add_resource_and_relation.md
-		https://snac-dev.iath.virginia.edu/api_help#publish_constellation
-
-	@param: miniConst, the constellatn returned by pushing changes, in dict form
-	@param: apiKey, str, user API key to authenticate the request
-	@param: baseUrl, str, the URL of the SNAC REST API to call (dev vs. prod)
-	@return: response, the server's response to the API call
-	"""
-	req = {
-	"command": "publish_constellation",
-	"constellation": miniConst,
-	"apikey": apiKey
-	}
-
-	response = postToApi(req, baseUrl)
-
-	return response
-
-def verifyApiSuccess(response):
-	"""Raise an apiError if the API response passed as a param is an error"""
-	if "error" in response:
-		try:
-			type = response["error"]["type"]
-			message = response["error"]["message"]
-			raise apiError(type + ": " + message)
-		except TypeError:
-			print(response)
-			raise apiError("Seems like one of the weird ones")
 
 def insertRelations(snacID, apiKey, relationships, production = False):
 	"""
@@ -318,7 +193,7 @@ def insertRelations(snacID, apiKey, relationships, production = False):
 	miniConst = response["constellation"]
 
 	# Make API call to publish constellation using "publish_constellation" command
-	response = publish_constellation(miniConst, apiKey, baseUrl)
+	response = publishConstellation(miniConst, apiKey, baseUrl)
 
 	# Check to see if command succeeded
 	try:
@@ -394,4 +269,7 @@ def main():
 
 	print("")
 
-main()
+if __name__ == "__main__":
+	main()
+else:
+	quit()

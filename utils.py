@@ -205,33 +205,46 @@ def loadSnacData():
 	print("\nJSON files read successfully.\n")
 	return constellations
 
-def postToApi(data, baseUrl):
+def loadRelationsFromFile(filename):
 	"""
-	Make a POST call to a REST API and return the response
+	Loads data from an external TSV & turns it into Relationship objects.
 
-	@param: data, dict, JSON data to be passed in the call
-	@param: baseUrl, str, the URL of the API to call
-	@return the API response in dict form
+	@param: filename, the name of a TSV file w/ a header row
+			rows should be formatted source, relationship type, target
+	@return: a list of Relationship objects
 	"""
-	data = json.dumps(data) # Turn the dictionary into JSON
-	r = requests.put(baseUrl, data = data) # MAKE THE API REQUEST!!!!!
-	response = json.loads(r.text) # Turn the response from JSON into a dict
-	return response
+	# Initialize the list we'll return
+	relationList = []
 
-def verifyApiSuccess(response):
-	"""
-	Raise an apiError if the API response passed as a param is an error
+	# Print status message
+	print("Loading relationship data from", filename + "...")
 
-	@param: response, dict, a JSON response from a REST API
-	"""
-	if "error" in response:
-		try:
-			type = response["error"]["type"]
-			message = response["error"]["message"]
-			raise apiError(type + ": " + message)
-		except TypeError:
-			print(response)
-			raise apiError("Seems like one of the weird ones")
+	# Open the file, read into a list of lines
+	with open(filename) as f:
+		data = f.read().split("\n")
+
+	del data[0] # Delete header row
+
+	# Loop over the lines,
+	for line in data:
+
+		# (skipping empty lines)
+		if line == "":
+			continue
+
+		# splitting each line by tabs,
+		args = line.split("\t")
+
+		# feeding the data into a Relationship object,
+		relation = Relationship(args[0], args[2], args[1])
+
+		# and appending that obj to the list that will be returned
+		relationList.append(relation)
+
+	# Print status message
+	print("Relationship data successfully loaded.")
+
+	return relationList
 
 def loadIdsToUpdate():
 	"""
@@ -260,3 +273,31 @@ def loadIdsToUpdate():
 
 	print("Data successfully read.\n")
 	return identifiers
+
+def postToApi(data, baseUrl):
+	"""
+	Make a POST call to a REST API and return the response
+
+	@param: data, dict, JSON data to be passed in the call
+	@param: baseUrl, str, the URL of the API to call
+	@return the API response in dict form
+	"""
+	data = json.dumps(data) # Turn the dictionary into JSON
+	r = requests.put(baseUrl, data = data) # MAKE THE API REQUEST!!!!!
+	response = json.loads(r.text) # Turn the response from JSON into a dict
+	return response
+
+def verifyApiSuccess(response):
+	"""
+	Raise an apiError if the API response passed as a param is an error
+
+	@param: response, dict, a JSON response from a REST API
+	"""
+	if "error" in response:
+		try:
+			type = response["error"]["type"]
+			message = response["error"]["message"]
+			raise apiError(type + ": " + message)
+		except TypeError:
+			print(response)
+			raise apiError("Seems like one of the weird ones")
