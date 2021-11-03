@@ -42,8 +42,7 @@ def compileEditList(idsToUpdate):
 		constellationToBeUpdatedID: {
 			outdatedId1: {"newId":newId1, "newArk":newArk1},
 			...
-			outdatedIdN: {"newId":newIdN, "newArk":newArkN}
-		}
+			outdatedIdN: {"newId":newIdN, "newArk":newArkN}}
 	"""
 
 	# Get list of filenames to read
@@ -91,6 +90,41 @@ def compileEditList(idsToUpdate):
 
 	print("\nSuccessfully updated files.\n")
 
+def validateIdentifiers(updateDict):
+	"""Ensures all SNAC IDs and Arks in the dictionary are well-formed"""
+	# Check snac IDs
+	allSnacIds = []
+	for snacID in updateDict:
+		allSnacIds.append(snacID)
+		for oldId in updateDict[snacID]:
+			allSnacIds.append(oldId)
+			allSnacIds.append(updateDict[snacID][oldID]["newId"])
+	for snacID in allSnacIds:
+			if isinstance(snacID, str):
+				try:
+					snacID = int(snacID)
+				except ValueError:
+					print("Error with the following Constellation ID:", snacID)
+					print("Constellation ID must be a positive integer")
+					return None
+
+			if isinstance(snacID, int):
+				if snacID <= 1:
+					print("Error with the following Constellation ID:", snacID)
+					print("Constellation ID must be a positive integer")
+					return None
+			else:
+				print("Error with the following Constellation ID:", snacID)
+				print("Constellation ID must be a positive integer")
+				return None
+
+	# Check all Arks
+	for record in updateDict:
+		for entry in record:
+			newArk = updateDict[record][entry]["newArk"]
+			if newArk[:-8] != "https://snaccooperative.org/ark:/99166/":
+				raise Exception("Error: invalid ark: " + newArk)
+
 def updateConstellation(updateDict):
 	"""
 	# TODO: Add doc string
@@ -99,19 +133,59 @@ def updateConstellation(updateDict):
 
 def makeUpdates(updateDict, apiKey, production = False):
 	"""
-	# TODO: add docstring
+	Update outdated target IDs in constellation relationships on SNAC.
+
+	Make several API calls per constellation that needs to be updated.
+	Accesses SNAC's development server by default.
+
+
+	See here for walk-through example of how API calls work:
+	https://github.com/snac-cooperative/Rest-API-Examples/blob/master/modification/json_examples/add_resource_and_relation.md
+
+	@param: updateDict, dict, data to update (see compileEditList for format)
+	@param: apiKey, str, user API key to authenticate the modifications
+	@param: production, bool, whether to use production or development server
 	"""
-	print("In makeUpdates")
+	print("Making changes to", len(updateDict), "constellations...")
+	return None
 
-	# TODO: print message
-	pass
-	for constellation in updateDict:
+	# Validate arguments
+	validateIdentifiers(updateDict)
+	if not isinstance(apiKey, str):
+		raise Exception("Error: API key must be a string.")
+
+	# Set appropriate URL
+	if production == True:
+		baseUrl = "https://api.snaccooperative.org"
+	else:
+		baseUrl = "http://snac-dev.iath.virginia.edu/api/"
+
+	return None
+
+	# Loop over constellations to modify, making those API calls
+	for snacID in updateDict:
+
 		# Make API call to check out constellation
-		response = checkOutConstellation()
+		response = checkOutConstellation(snacID, apiKey, baseUrl)
 
-		# Loop over identifiers to be updated in the constellation
-		for snacID in updateDict[constellation]:
-			updateConstellation(updateDict, 3, 7)
+		# Verify that API call worked; raise an apiError if API call failed
+		try:
+			verifyApiSuccess(response)
+		except apiError as e:
+			msg = "\nCould not check out " + str(snacID)
+			msg += " due to the following error:\n" + e.message
+			raise apiError(msg)
+
+		# Make needed changes to constellation returned by API
+		constellation = response["constellation"]
+
+		# Make API call to push those changes to SNAC
+
+		# Verify that API call worked; raise and apiError if it failed
+
+		# Make API call to publish constellation, using "publish_constellation"
+
+
 
 def main():
 	print()
@@ -131,8 +205,6 @@ def main():
 
 	# Make API calls to update constellations in SNAC
 	makeUpdates(updatesToMake, apiKey)
-
-	return None
 
 
 if __name__ == "__main__":
