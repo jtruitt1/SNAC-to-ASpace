@@ -9,6 +9,13 @@ from utils import loadIdsToUpdate, apiError, postToApi, verifyApiSuccess
 
 import re, json, requests, secret
 
+def makeDict(listOfLists):
+	"""
+	# TODO: add docstring
+	"""
+	print("In makeDict")
+	return {"1234":["this","isn't","done"], "5678":["still","not","done"]}
+
 def compileEditList(idsToUpdate):
 	"""
 	# TODO: Add doc string
@@ -32,11 +39,10 @@ def compileEditList(idsToUpdate):
 		snacId = json.loads(filedata)["id"]
 
 		# Loop over the outdated IDs, seeing if any are in this record
-		for list in idsToUpdate:
-			outdatedId = list[0]
+		for outdatedId in idsToUpdate:
 
 			# If one of the outdated IDs is in this record,
-			if outdatedId in filedata:
+			if "\"" + outdatedId + "\"" in filedata:
 
 				# Add record's ID (if needed) to the dict we're compiling
 				if snacId not in recordsToUpdate:
@@ -45,20 +51,40 @@ def compileEditList(idsToUpdate):
 				# Append the outdated ID to this record's dict entry
 				recordsToUpdate[snacId].append(outdatedId)
 
-	print(recordsToUpdate)
 	return recordsToUpdate
 
 	print("\nSuccessfully updated files.\n")
 
+def makeUpdates(updateDict, apiKey, production = False):
+	"""
+	# TODO: add docstring
+	"""
+	print("In makeUpdates")
+
+	# TODO: print message
+
+	for snacID in updateDict:
+		# Make API call to check out constellation
+
+
 def main():
 	print()
+
+	# Get user input about which server to use
+	# TODO: borrow code from addRelations (or better, add util)
+	apiKey = secret.devKey
 
 	# Load identifier data from tsv file
 	idsToUpdate = loadIdsToUpdate()
 
+	# Reformat identifier data into a dict
+	idsToUpdate = makeDict(idsToUpdate)
+
 	# Get list of which constellations to edit & which changes to make
 	updatesToMake = compileEditList(idsToUpdate)
 
+	# Make API calls to update constellations in SNAC
+	makeUpdates(updatesToMake, apiKey)
 
 
 if __name__ == "__main__":
