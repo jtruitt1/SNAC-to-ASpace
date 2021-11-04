@@ -98,7 +98,7 @@ def validateIdentifiers(updateDict):
 		allSnacIds.append(snacID)
 		for oldId in updateDict[snacID]:
 			allSnacIds.append(oldId)
-			allSnacIds.append(updateDict[snacID][oldID]["newId"])
+			allSnacIds.append(updateDict[snacID][oldId]["newId"])
 	for snacID in allSnacIds:
 			if isinstance(snacID, str):
 				try:
@@ -120,9 +120,10 @@ def validateIdentifiers(updateDict):
 
 	# Check all Arks
 	for record in updateDict:
-		for entry in record:
+		for entry in updateDict[record]:
 			newArk = updateDict[record][entry]["newArk"]
-			if newArk[:-8] != "https://snaccooperative.org/ark:/99166/":
+			if newArk[:-8] != "http://n2t.net/ark:/99166/":
+				print(newArk[:-8])
 				raise Exception("Error: invalid ark: " + newArk)
 
 def buildMinimalUpdateConstellation(constellation, updateDict):
@@ -171,14 +172,8 @@ def buildMinimalUpdateConstellation(constellation, updateDict):
 				# Move on to the next relationship in the constellation
 				break
 
-	print(miniConst)
+	print("\n", miniConst)
 	return miniConst
-
-def updateConstellation(updateDict):
-	"""
-	# TODO: Add doc string
-	"""
-	pass
 
 def makeUpdates(updateDict, apiKey, production = False):
 	"""
@@ -196,12 +191,12 @@ def makeUpdates(updateDict, apiKey, production = False):
 	@param: production, bool, whether to use production or development server
 	"""
 	print("Making changes to", len(updateDict), "constellations...")
-	return None
-
 	# Validate arguments
 	validateIdentifiers(updateDict)
 	if not isinstance(apiKey, str):
 		raise Exception("Error: API key must be a string.")
+
+		return None
 
 	# Set appropriate URL
 	if production == True:
@@ -209,10 +204,17 @@ def makeUpdates(updateDict, apiKey, production = False):
 	else:
 		baseUrl = "http://snac-dev.iath.virginia.edu/api/"
 
-	return None
+	# return None
 
 	# Loop over constellations to modify, making those API calls
+	counter = 0
 	for snacID in updateDict:
+		counter += 1
+		if counter > 9:
+			return None
+
+		# Print status message
+		print("Updating constellation", counter, "...")
 
 		# Get list of updates to be made
 		updates = updateDict[snacID]
@@ -237,7 +239,6 @@ def makeUpdates(updateDict, apiKey, production = False):
 		# Verify that API call worked; raise and apiError if it failed
 
 		# Make API call to publish constellation, using "publish_constellation"
-
 
 
 def main():
