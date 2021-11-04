@@ -125,6 +125,55 @@ def validateIdentifiers(updateDict):
 			if newArk[:-8] != "https://snaccooperative.org/ark:/99166/":
 				raise Exception("Error: invalid ark: " + newArk)
 
+def buildMinimalUpdateConstellation(constellation, updateDict):
+	"""
+	Build a minimal constellation suitable for uploading modifications to SNAC
+
+	This function takes a full constellation and a list of changes, and returns
+	a barebones constellation containing the relations to be updated with the
+	"operation" key set to "update".
+
+	@param: constellation, dict, a SNAC constellation JSON
+	@param: updateDict, dict w/ entries oldID: {"newId":newId, "newArk":newArk}
+	@return: a SNAC constellation JSON object in dict form
+	"""
+	# Create constellation with basic data
+	miniConst = {
+		"dataType": "Constellation",
+        "ark": constellation["ark"],
+        "id": constellation["id"],
+        "version": constellation["version"],
+		"relations": []
+	}
+
+	# Add relationships that need to be updated:
+
+	# Loop over relationships in the full constellation,
+	for relation in constellation["relations"]:
+
+		# checking their targets against the list of outdated identifiers
+		for outdatedId in updateDict:
+			if outdatedId == relation["targetConstellation"]:
+				# On a match,
+
+				# Update the relationship's target SNAC ID & Ark ID
+				newId = updateDict[outdatedId]["newId"]
+				newArk = updateDict[outdatedId]["newArk"]
+				relation["targetConstellation"] = newId
+				relation["targetArkI"] = newArk
+
+				# Add "operation": "update" to the relationship
+				relation["operation"] = "update"
+
+				# Add the relation to the miniConst
+				miniConst["relations"].append(relation)
+
+				# Move on to the next relationship in the constellation
+				break
+
+	print(miniConst)
+	return miniConst
+
 def updateConstellation(updateDict):
 	"""
 	# TODO: Add doc string
@@ -165,6 +214,9 @@ def makeUpdates(updateDict, apiKey, production = False):
 	# Loop over constellations to modify, making those API calls
 	for snacID in updateDict:
 
+		# Get list of updates to be made
+		updates = updateDict[snacID]
+
 		# Make API call to check out constellation
 		response = checkOutConstellation(snacID, apiKey, baseUrl)
 
@@ -178,6 +230,7 @@ def makeUpdates(updateDict, apiKey, production = False):
 
 		# Make needed changes to constellation returned by API
 		constellation = response["constellation"]
+		miniConst = buildMinimalUpdateConstellation(constellation, updates)
 
 		# Make API call to push those changes to SNAC
 
