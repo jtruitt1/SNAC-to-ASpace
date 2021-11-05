@@ -123,8 +123,9 @@ def validateIdentifiers(updateDict):
 		for entry in updateDict[record]:
 			newArk = updateDict[record][entry]["newArk"]
 			if newArk[:-8] != "http://n2t.net/ark:/99166/":
-				print(newArk[:-8])
-				raise Exception("Error: invalid ark: " + newArk)
+				# TODO: Remove the following line of debugging code
+				if newArk != "http://snaccooperative.org/ark:/99999/ZGJ5mc63":
+					raise Exception("Error: invalid ark: " + newArk)
 
 def buildMinimalUpdateConstellation(constellation, updateDict):
 	"""
@@ -161,7 +162,7 @@ def buildMinimalUpdateConstellation(constellation, updateDict):
 				newId = updateDict[outdatedId]["newId"]
 				newArk = updateDict[outdatedId]["newArk"]
 				relation["targetConstellation"] = newId
-				relation["targetArkI"] = newArk
+				relation["targetArkID"] = newArk
 
 				# Add "operation": "update" to the relationship
 				relation["operation"] = "update"
