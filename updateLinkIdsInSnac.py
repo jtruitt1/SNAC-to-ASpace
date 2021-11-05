@@ -173,7 +173,6 @@ def buildMinimalUpdateConstellation(constellation, updateDict):
 				# Move on to the next relationship in the constellation
 				break
 
-	print("\n", miniConst)
 	return miniConst
 
 def makeUpdates(updateDict, apiKey, production = False):
@@ -215,7 +214,7 @@ def makeUpdates(updateDict, apiKey, production = False):
 			return None
 
 		# Print status message
-		print("Updating constellation", counter, "...")
+		print("Updating constellation", counter, "...", end="\r")
 
 		# Get list of updates to be made
 		updates = updateDict[snacID]
@@ -235,12 +234,33 @@ def makeUpdates(updateDict, apiKey, production = False):
 		constellation = response["constellation"]
 		miniConst = buildMinimalUpdateConstellation(constellation, updates)
 
-		# Make API call to push those changes to SNAC
+		# Make API call to push changes to SNAC using "update_constellation"
+		response = pushChangesToSnac(miniConst, apiKey, baseUrl)
 
 		# Verify that API call worked; raise and apiError if it failed
+		try:
+			verifyApiSuccess(response)
+		except apiError as e:
+			msg = "\nCould not update " + str(snacID)
+			msg += " due to the following error:\n" + e.message
+			raise apiError(msg)
+
+		# Get miniConst from response to update command
+		miniConst = response["constellation"]
 
 		# Make API call to publish constellation, using "publish_constellation"
+		response = publishConstellation(miniConst, apiKey, baseUrl)
 
+		# Verify that API call worked; raise and apiError if it failed
+		try:
+			verifyApiSuccess(response)
+		except apiError as e:
+			msg = "\nCould not update " + str(snacID)
+			msg += " due to the following error:\n" + e.message
+			raise apiError(msg)
+
+	print("Successfully updated constellations.")
+	# TODO: Error handling
 
 def main():
 	print()
