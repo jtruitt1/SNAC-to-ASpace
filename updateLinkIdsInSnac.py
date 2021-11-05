@@ -9,7 +9,7 @@ import json, requests, secret
 from glob import glob
 from utils import loadIdsToUpdate, apiError, postToApi, verifyApiSuccess
 from apiEditUtils import checkOutConstellation, publishConstellation
-from apiEditUtils import getUserInput
+from apiEditUtils import getUserInput, pushChangesToSnac
 
 def makeDict(listOfLists):
 	"""

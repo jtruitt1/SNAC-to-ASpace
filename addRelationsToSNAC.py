@@ -9,7 +9,7 @@ import requests, json, argparse, secret
 from utils import Relationship, loadRelationsFromFile, apiError
 from utils import postToApi, verifyApiSuccess
 from apiEditUtils import checkOutConstellation, publishConstellation
-from apiEditUtils import getUserInput
+from apiEditUtils import getUserInput, pushChangesToSnac
 
 def convertToJson(relation):
 	"""
@@ -71,39 +71,6 @@ def buildMinimalConstellation(snacID, version, ark, relationships):
 	}
 
 	return constellation
-
-def pushChangesToSnac(miniConst, apiKey, baseUrl):
-	"""
-	Make changes to a SNAC constellation that a user has already checked out
-
-	Side effects: Tries to change data on the dev or prod SNAC server
-
-	For more details on the SNAC API and this command, see:
-		https://github.com/snac-cooperative/Rest-API-Examples/blob/master/modification/json_examples/add_resource_and_relation.md
-		https://snac-dev.iath.virginia.edu/api_help#update_constellation
-
-	@param: miniConst, a barebones constellation in dict form
-		Ex of barebones requirements: {
-			"dataType": "Constellation",
-			"ark": "http://n2t.net/ark:/99166/[…]",
-			"id": […],
-			"version": "[…]",
-			[material to insert, tagged w/ "operation": "insert"]
-			}
-	@param: apiKey, str, user API key to authenticate the request
-	@param: baseUrl, str, the URL of the SNAC REST API to call (dev vs. prod)
-	@return: response, the server's response to the API call
-	"""
-
-	req = {
-	"command": "update_constellation",
-	"constellation": miniConst,
-	"apikey": apiKey
-	}
-
-	response = postToApi(req, baseUrl)
-
-	return response
 
 def insertRelations(snacID, apiKey, relationships, production = False):
 	"""
