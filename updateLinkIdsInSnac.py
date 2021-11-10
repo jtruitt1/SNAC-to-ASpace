@@ -206,61 +206,89 @@ def makeUpdates(updateDict, apiKey, production = False):
 
 	# return None
 
+	# Declare variables to track successes & failures of API calls
+	successCount = 0
+	errors = []
+
 	# Loop over constellations to modify, making those API calls
 	counter = 0
 	for snacID in updateDict:
 		counter += 1
-		if counter > 9:
-			return None
+		# if counter > 9:
+		# 	break
 
-		# Print status message
-		print("Updating constellation", counter, "...", end="\r")
-
-		# Get list of updates to be made
-		updates = updateDict[snacID]
-
-		# Make API call to check out constellation
-		response = checkOutConstellation(snacID, apiKey, baseUrl)
-
-		# Verify that API call worked; raise an apiError if API call failed
 		try:
-			verifyApiSuccess(response)
+			# Print status message
+			print("Updating constellation", counter, "...", end="\r")
+
+			# Get list of updates to be made
+			updates = updateDict[snacID]
+
+			# Make API call to check out constellation
+			response = checkOutConstellation(snacID, apiKey, baseUrl)
+
+			# Verify that API call worked; raise an apiError if API call failed
+			try:
+				verifyApiSuccess(response)
+			except apiError as e:
+				msg = "\nCould not check out " + str(snacID)
+				msg += " due to the following error:\n" + e.message
+				raise apiError(msg)
+
+			# Make needed changes to constellation returned by API
+			constellation = response["constellation"]
+			miniConst = buildMinimalUpdateConstellation(constellation, updates)
+
+			# Make API call to push changes to SNAC using "update_constellation"
+			response = pushChangesToSnac(miniConst, apiKey, baseUrl)
+
+			# Verify that API call worked; raise and apiError if it failed
+			try:
+				verifyApiSuccess(response)
+			except apiError as e:
+				msg = "\nCould not update " + str(snacID)
+				msg += " due to the following error:\n" + e.message
+				raise apiError(msg)
+
+			# Get miniConst from response to update command
+			miniConst = response["constellation"]
+
+			# Make API call to publish constellation, using "publish_constellation"
+			response = publishConstellation(miniConst, apiKey, baseUrl)
+
+			# Verify that API call worked; raise and apiError if it failed
+			try:
+				verifyApiSuccess(response)
+			except apiError as e:
+				msg = "\nCould not update " + str(snacID)
+				msg += " due to the following error:\n" + e.message
+				raise apiError(msg)
+
+			# Note that modifications to this constellation have succeeded.
+			successCount += 1
+
+		# If there's an API error, log it and move on to next constellation
 		except apiError as e:
-			msg = "\nCould not check out " + str(snacID)
-			msg += " due to the following error:\n" + e.message
-			raise apiError(msg)
+			errors.append(e)
+			continue
+		except Exception as e:
+			print("\nFatal error encountered on constellation", snacID)
+			raise e
 
-		# Make needed changes to constellation returned by API
-		constellation = response["constellation"]
-		miniConst = buildMinimalUpdateConstellation(constellation, updates)
+	# Print message
+	print("Successfully updated", successCount, "constellations.")
 
-		# Make API call to push changes to SNAC using "update_constellation"
-		response = pushChangesToSnac(miniConst, apiKey, baseUrl)
+	# Print list of API errors encountered
+	numErrors = len(errors)
+	if numErrors > 0:
+		if numErrors == 1:
+			print("Encountered 1 error:")
+		else:
+			print("Encountered", numErrors, "errors:")
+		for error in errors:
+			print(error)
 
-		# Verify that API call worked; raise and apiError if it failed
-		try:
-			verifyApiSuccess(response)
-		except apiError as e:
-			msg = "\nCould not update " + str(snacID)
-			msg += " due to the following error:\n" + e.message
-			raise apiError(msg)
-
-		# Get miniConst from response to update command
-		miniConst = response["constellation"]
-
-		# Make API call to publish constellation, using "publish_constellation"
-		response = publishConstellation(miniConst, apiKey, baseUrl)
-
-		# Verify that API call worked; raise and apiError if it failed
-		try:
-			verifyApiSuccess(response)
-		except apiError as e:
-			msg = "\nCould not update " + str(snacID)
-			msg += " due to the following error:\n" + e.message
-			raise apiError(msg)
-
-	print("Successfully updated constellations.")
-	# TODO: Error handling
+	print("")
 
 def main():
 	print()
