@@ -204,8 +204,6 @@ def makeUpdates(updateDict, apiKey, production = False):
 	else:
 		baseUrl = "http://snac-dev.iath.virginia.edu/api/"
 
-	# return None
-
 	# Declare variables to track successes & failures of API calls
 	successCount = 0
 	errors = []
@@ -214,7 +212,9 @@ def makeUpdates(updateDict, apiKey, production = False):
 	counter = 0
 	for snacID in updateDict:
 		counter += 1
-		# if counter > 9:
+
+		# For limiting scope of test runs
+		# if counter > 3:
 		# 	break
 
 		try:
@@ -293,9 +293,15 @@ def makeUpdates(updateDict, apiKey, production = False):
 def main():
 	print()
 
+
 	# Get user input about which server to use
-	# TODO: borrow code from addRelations (or better, add util)
-	apiKey = secret.devKey
+	production = getUserInput()
+
+	# Set API Key, based on which server we're uploading to
+	if production:
+		apiKey = secret.prodKey
+	else:
+		apiKey = secret.devKey
 
 	# Load identifier data from tsv file
 	idsToUpdate = loadIdsToUpdate()
@@ -307,7 +313,7 @@ def main():
 	updatesToMake = compileEditList(idsToUpdate)
 
 	# Make API calls to update constellations in SNAC
-	makeUpdates(updatesToMake, apiKey)
+	makeUpdates(updatesToMake, apiKey, production = production)
 
 
 if __name__ == "__main__":
