@@ -15,12 +15,18 @@ def extractRelations(constellation):
 
 		if "relations" in constellation.keys():
 			for relationship in constellation["relations"]:
-				triple = [
-					relationship["sourceConstellation"], # SNAC ID
-					relationship["type"]["term"], # Relationship type
-					relationship["targetConstellation"] # SNAC ID
-				]
-				data.append(triple)
+				try:
+					triple = [
+						relationship["sourceConstellation"], # SNAC ID
+						relationship["type"]["term"], # Relationship type
+						relationship["targetConstellation"] # SNAC ID
+					]
+					data.append(triple)
+				except Exception as e:
+					ark = constellation["ark"][-8:]
+					print("Error encountered with constellation", ark)
+					raise e
+
 
 		return data
 
