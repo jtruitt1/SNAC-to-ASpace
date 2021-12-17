@@ -6,6 +6,7 @@ def validateBiogHist(constellations):
 		try:
 			dummy = item["biogHists"][0]
 			root = ET.fromstring("<bio>"+dummy["text"]+"</bio>")
+			# print first child of <bio>
 			del dummy
 		except LookupError:
 			print("No biogHist for\t\t\t"+item["ark"])
