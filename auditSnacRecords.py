@@ -35,12 +35,24 @@ def checkForRelationships(constellations):
 			print("Has no relationships:\t" + constellation["ark"])
 
 
+def checkForPaChester(constellations):
+	chesterString = "Chester Monthly Meeting (Society of Friends : 1681-1827)"
+	for constellation in constellations:
+		if "relations" in constellation:
+			for relation in constellation["relations"]:
+				target = relation["targetConstellation"]
+				content = relation["content"]
+				if target == "61920242" or content == chesterString:
+					print(constellation["ark"], "is linked to Chester MM in PA")
+
 def main():
 	constellations = loadSnacData()
 
 	validateBiogHist(constellations)
 	checkForGender(constellations)
 	checkForRelationships(constellations)
+	checkForPaChester(constellations)
+
 
 
 main()
