@@ -46,6 +46,35 @@ def checkForPaChester(constellations):
 				if target == "61920242" or content == chesterString:
 					print(constellation["ark"], "is linked to Chester MM in PA")
 
+def checkForMultipleDates(constellations):
+	for constellation in constellations:
+		if "dates" in constellation:
+			if len(constellation["dates"]) > 1:
+				print(constellation["ark"], "has multiple date entries")
+			elif len(constellation["dates"]) == 0:
+				print(constellation["ark"], "has no date entries")
+		else:
+			print(constellation["ark"], "has no date entries")
+
+def checkForMultiplePlaces(constellations):
+	"""Check for multiple places listed as birth or as death"""
+	for constellation in constellations:
+		hasBirthPlace, hasDeathPlace = False, False
+		if "places" in constellation:
+			for place in constellation["places"]:
+				if "role" in place:
+					if place["role"]["term"] == "Birth":
+						if hasBirthPlace:
+							print(constellation["ark"], "has multiple birthplaces")
+						else:
+							hasBirthPlace = True
+					if place["role"]["term"] == "Death":
+						if hasDeathPlace:
+							print(constellation["ark"], "has multiple deathplaces")
+						else:
+							hasDeathPlace = True
+
+
 def main():
 	constellations = loadSnacData()
 
@@ -53,6 +82,8 @@ def main():
 	checkForGender(constellations)
 	checkForRelationships(constellations)
 	checkForPaChester(constellations)
+	checkForMultipleDates(constellations)
+	checkForMultiplePlaces(constellations)
 
 
 
