@@ -12,11 +12,11 @@ def retrieveSnacAgent(snacID):
 	This function retrieves a JSON record from the SNAC Cooperative database.
 	To do so it uses the "download_constellation" API command and then
 	converts the 64-bit encoded file into a string.
-	("download_constellation" is used because the API command "read" does not
-	return maintenance info	and the API command "constellation_history" does
-	not reliably return records with fields like "maintenanceAgent".
-	"download_constellation", on the other hand, returns all of the data
-	needed to make an EAC file, neatly wrapped up in JSON format)
+		("download_constellation" is used because the API command "read" doesn't
+		return maintenance info	and the API command "constellation_history" does
+		not reliably return records with fields like "maintenanceAgent".
+		"download_constellation", on the other hand, returns all of the data
+		needed to make an EAC file, neatly wrapped up in JSON format)
 	Param: @snacID, the SNAC ID of the agent in question
 	Returns: snacConstellation, a SNAC agent JSON in dict form
 	"""
@@ -85,7 +85,7 @@ def getIdList(url):
 	# Split file contents into rows
 	rows = file.split("\n")
 
-	# Discard the first row, labels, and the last row, which is blank
+	# Discard the first row, which is labels, and the last row, which is blank
 	del rows[0], rows[-1]
 
 	# Initialize list to return
@@ -247,7 +247,7 @@ def extractName(eac):
 def main():
 	huntID = 85290808
 	base = "https://raw.githubusercontent.com/swat-ds/obf-site/main"
-	url = base + "/src/assets/data/constellationsForInclusion.tsv"
+	url = base + "/content/constellationsForInclusion.tsv"
 
 	# Get data on agents from SNAC in JSON form
 	idList = getIdList(url)
