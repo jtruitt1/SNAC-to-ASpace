@@ -42,7 +42,8 @@ def compileEditList(idsToUpdate):
 		constellationToBeUpdatedID: {
 			outdatedId1: {"newId":newId1, "newArk":newArk1},
 			...
-			outdatedIdN: {"newId":newIdN, "newArk":newArkN}}
+			outdatedIdN: {"newId":newIdN, "newArk":newArkN}
+		}
 	"""
 
 	# Get list of filenames to read
@@ -224,6 +225,8 @@ def makeUpdates(updateDict, apiKey, production = False):
 			# Get list of updates to be made
 			updates = updateDict[snacID]
 
+			##### CHECK OUT CONSTELLATIONS #####
+
 			# Make API call to check out constellation
 			response = checkOutConstellation(snacID, apiKey, baseUrl)
 
@@ -235,9 +238,11 @@ def makeUpdates(updateDict, apiKey, production = False):
 				msg += " due to the following error:\n" + e.message
 				raise apiError(msg)
 
-			# Make needed changes to constellation returned by API
+			##### Make needed changes to constellation returned by API #####
 			constellation = response["constellation"]
 			miniConst = buildMinimalUpdateConstellation(constellation, updates)
+
+			##### PUSH CHANGES TO API #####
 
 			# Make API call to push changes to SNAC using "update_constellation"
 			response = pushChangesToSnac(miniConst, apiKey, baseUrl)
@@ -250,10 +255,13 @@ def makeUpdates(updateDict, apiKey, production = False):
 				msg += " due to the following error:\n" + e.message
 				raise apiError(msg)
 
-			# Get miniConst from response to update command
+			##### PUBLISH CHANGED CONSTELLATION ON SNAC #####
+
+			# Get miniConst from the response to the update command
 			miniConst = response["constellation"]
 
-			# Make API call to publish constellation, using "publish_constellation"
+
+			# Make API call to publish, using "publish_constellation"
 			response = publishConstellation(miniConst, apiKey, baseUrl)
 
 			# Verify that API call worked; raise and apiError if it failed
