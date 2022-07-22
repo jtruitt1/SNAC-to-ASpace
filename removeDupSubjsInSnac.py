@@ -14,15 +14,45 @@ def compileEditList(constellations):
 	"""
 	Find out what SNAC constellations need to be updated & what edits they need.
 
-	Check JSON files containing constellation data for duplicate subjects
+	Check JSON files containing constellation data for duplicate subjects and
+	record the IDs of those subjects
 
 	@param: constellations, a set of JSON-dicts containing SNAC data
-	@return: a list of ids of constellations with duplicate subjects
+	@return: a dict with constellation IDs as keys
+		& lists of duplicate subject instance IDs as values
 	"""
 
-	pass
+	# Initialize dict of constellation IDs for consts that need to be edited
+	editList = {}
 
-def buildMinimalUpdateConstellation(constellation):
+	# Loop over constellations
+	for constellation in constellations:
+		# Skip the constellation if it has no subjects
+		if "subjects" not in constellation:
+			continue
+
+		# Initialize list of subject term IDs seen in the constellation
+		encounteredSubjIds = []
+
+		# Loop over the constellation's subjects,
+		for subject in constellation["subjects"]:
+			#Checking them vs the list of already encountered ones. On a match,
+			if subject["term"]["id"] in encounteredSubjIds:
+
+				# Add the constellation's ID to the edit list if not yet there
+				if constellation["id"] not in editList:
+					editList[constellation["id"]] = []
+
+				# And append the subject instance's ID to the const's entry
+				editList[constellation["id"]].append(subject["id"])
+
+			else:
+				# If the subject is new, add it to the encountered list
+				encounteredSubjIds.append(subject["term"]["id"])
+
+	return editList
+
+def buildMinimalUpdateConstellation(constellation, subjIds):
 	"""
 	Build a minimal constellation suitable for uploading modifications to SNAC
 
@@ -31,6 +61,7 @@ def buildMinimalUpdateConstellation(constellation):
 	with the "operation" key set to "delete".
 
 	@param: constellation, dict, a SNAC constellation JSON
+	@param: subjIds, list of strs, ids of subject instances to be removed
 	@return: a SNAC constellation JSON object in dict form
 	"""
 	# Create constellation with basic data
@@ -47,11 +78,16 @@ def buildMinimalUpdateConstellation(constellation):
 	# Loop over subjects in the full constellation,
 	for subject in constellation["subjects"]:
 
-		pass
+		# Checking their instance ID against the list of ones to delete
+		if subject["id"] in subjIds:
+
+			# And adding the matches to miniconst, w/ a delete command embedded
+			subject["operation"] = "delete"
+			miniConst["subjects"].append(subject)
 
 	return miniConst
 
-def makeUpdates(idList, apiKey, production = False):
+def makeUpdates(updateDict, apiKey, production = False):
 	"""
 	Remove duplicate subjects in constellations on SNAC.
 
@@ -61,11 +97,11 @@ def makeUpdates(idList, apiKey, production = False):
 	See here for walk-through example of how API calls work:
 	https://github.com/snac-cooperative/Rest-API-Examples/blob/master/modification/json_examples/add_resource_and_relation.md
 
-	@param: idList, list, ids of constellations with dup subjs to remove
+	@param: updateDict, dict, keys: strs, values: lists of strs
 	@param: apiKey, str, user API key to authenticate the modifications
 	@param: production, bool, whether to use production or development server
 	"""
-	print("Making changes to", len(idList), "constellations...")
+	print("Making changes to", len(updateDict), "constellations...")
 	# Validate arguments
 	if not isinstance(apiKey, str):
 		raise Exception("Error: API key must be a string.")
@@ -84,7 +120,7 @@ def makeUpdates(idList, apiKey, production = False):
 
 	# Loop over constellations to modify, making those API calls
 	counter = 0
-	for snacID in idList:
+	for snacID in updateDict:
 		counter += 1
 
 		# For limiting scope of test runs
@@ -94,6 +130,10 @@ def makeUpdates(idList, apiKey, production = False):
 		try:
 			# Print status message
 			print("Updating constellation", counter, "...", end="\r")
+
+			# Get list of instance ids of dup subject to remove
+			subjIds = updateDict[snacID]
+
 
 			##### CHECK OUT CONSTELLATIONS #####
 
@@ -110,7 +150,7 @@ def makeUpdates(idList, apiKey, production = False):
 
 			##### Make needed changes to constellation returned by API #####
 			constellation = response["constellation"]
-			miniConst = buildMinimalUpdateConstellation(constellation)
+			miniConst = buildMinimalUpdateConstellation(constellation, subjIds)
 
 			##### PUSH CHANGES TO API #####
 
@@ -173,10 +213,10 @@ def main():
 
 
 	# Get user input about which server to use
-	devOrProd = getUserInput()
+	useProduction = getUserInput()
 
 	# Set API Key, based on which server we're uploading to
-	if production:
+	if useProduction:
 		apiKey = secret.prodKey
 	else:
 		apiKey = secret.devKey
@@ -184,11 +224,11 @@ def main():
 	# Load constellation data
 	constellations = loadSnacData()
 
-	# Get list of which constellations to edit
-	idsToEdit = compileEditList(constellations)
+	# Get dict of which constellations to edit and how
+	updatesToMake = compileEditList(constellations)
 
 	# Make API calls to update constellations in SNAC
-	makeUpdates(idsToEdit, apiKey, production = devOrProd)
+	makeUpdates(updatesToMake, apiKey, production = useProduction)
 
 
 if __name__ == "__main__":
