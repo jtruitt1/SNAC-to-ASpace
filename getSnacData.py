@@ -1,6 +1,10 @@
 """
 Gets data from SNAC and writes it to a file w/ JSON data and a file w/ a list
 of SNAC IDs
+
+This script pulls in the list of constellations to include in the obf-site 
+GitHub repo, extracts the SNAC IDs from that list, makes API calls to each of them,
+and writes the resulting JSONs to the `snac_jsons` folder.
 """
 import json, requests
 from sys import exc_info
@@ -85,8 +89,10 @@ def getIdList(url):
 	# Split file contents into rows
 	rows = file.split("\n")
 
-	# Discard the first row, which is labels, and the last row, which is blank
-	del rows[0], rows[-1]
+	# Discard the first row, which is labels
+	del rows[0]
+	# Discard the last row if it's blank
+	if rows[-1] == "": del rows[-1]
 
 	# Initialize list to return
 	ids = []

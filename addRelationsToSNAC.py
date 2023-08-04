@@ -1,6 +1,9 @@
 """
 Adds a set of relationships to constellations in SNAC.
 
+This script loads relationship data from a TSV in the format `source\tlabel\ttarget`
+and makes a series of API calls to add those relationships to SNAC constellations.
+
 Written by James Truitt of Swarthmore College's Friends Historical Library,
 November 2021
 """
@@ -77,7 +80,8 @@ def insertRelations(snacID, apiKey, relationships, production = False):
 	Add CPF relationships to a SNAC constellation by making several API calls.
 
 	See here for walk-through example of how API calls work:
-	https://github.com/snac-cooperative/Rest-API-Examples/blob/master/modification/json_examples/add_resource_and_relation.md
+	https://github.com/snac-cooperative/Rest-API-Examples/blob/
+		master/modification/json_examples/add_resource_and_relation.md
 
 	Accesses the Development server by default.
 

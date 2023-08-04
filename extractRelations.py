@@ -1,3 +1,9 @@
+"""
+This script reads in the data from a group of JSON files representing SNAC
+constellations and writes the relationship data they contain to 
+relationshipTable.tsv. The TSV is in the format `source\tlabel\ttarget`
+"""
+
 from glob import glob
 import json
 from utils import loadSnacData
