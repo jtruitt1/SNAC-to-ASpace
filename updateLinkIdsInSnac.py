@@ -1,5 +1,6 @@
 """
-Update outdated target IDs in constellation relationships on SNAC.
+Update outdated target IDs in constellation relationships on SNAC, based on
+the data in "idsToUpdate.tsv".
 
 Written by James Truitt of Swarthmore College's Friends Historical Library,
 November 2021.
@@ -185,7 +186,8 @@ def makeUpdates(updateDict, apiKey, production = False):
 
 
 	See here for walk-through example of how API calls work:
-	https://github.com/snac-cooperative/Rest-API-Examples/blob/master/modification/json_examples/add_resource_and_relation.md
+	https://github.com/snac-cooperative/Rest-API-Examples/blob/master
+		/modification/json_examples/add_resource_and_relation.md
 
 	@param: updateDict, dict, data to update (see compileEditList for format)
 	@param: apiKey, str, user API key to authenticate the modifications
