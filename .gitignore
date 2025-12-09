@@ -147,3 +147,4 @@ __pycache__/JSONtoEACCPF.cpython-38.pyc
 relationshipTable.tsv
 *.tsv
 SNAC API Practice.ipynb
+.DS_Store
